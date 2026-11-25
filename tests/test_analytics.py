@@ -2,7 +2,7 @@ import tempfile
 import unittest
 from pathlib import Path
 import pandas as pd
-from analytics import build
+from analytics import build, resolve_caseloads
 
 class AnalyticsTest(unittest.TestCase):
     def test_protection_scopes(self):
@@ -34,3 +34,14 @@ class AnalyticsTest(unittest.TestCase):
             self.assertEqual(lookup['PRO']['pin'],5076852)
             self.assertEqual(lookup['PRO-OVE']['pin'],6355420)
             self.assertEqual(lookup['PRO-OVE']['requirements_usd'],114571455)
+
+    def test_recover_only_supported_mappings(self):
+        g=[{'globalClusterCode':'PRO-CPN','planClusters':'[1, 2]'},{'globalClusterCode':'PRO','planClusters':'[1]'},{'globalClusterCode':'NUT','planClusters':'[3, 4]'}]
+        r=[{'caseloadType':'cluster','entityId':1,'availableGlobalClusterCode':'n/a','caseloadCustomRef':'CLPRO/BF2-PRO -CPN'},
+           {'caseloadType':'cluster','entityId':1,'caseloadCustomRef':'CLPRO/BF1-PRO-OVE'},
+           {'caseloadType':'cluster','entityId':2,'caseloadCustomRef':'CLCP/BF1'},
+           {'caseloadType':'cluster','entityId':3,'caseloadCustomRef':'CLNUT/BF1'},
+           {'caseloadType':'cluster','entityId':3,'caseloadCustomRef':'CLNUT/BF2'},
+           {'caseloadType':'cluster','entityId':4,'caseloadCustomRef':'CLNUT/BF1'}]
+        result=resolve_caseloads(r,g)
+        self.assertEqual([x[1] for x in result],['PRO-CPN','PRO-OVE','PRO-CPN',None,None,'NUT'])
