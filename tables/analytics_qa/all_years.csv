@@ -1,164 +1,385 @@
-year,plan_id,iso3,country_count,plan_name,plan_type,included_gho,last_published_date,global_cluster_id,issue,count
-2020,830,UKR,1,Ukraine Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,3,ambiguous_caseload,2
-2020,830,UKR,1,Ukraine Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,4,ambiguous_caseload,2
-2020,830,UKR,1,Ukraine Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,6,ambiguous_caseload,2
-2020,830,UKR,1,Ukraine Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,7,ambiguous_caseload,2
-2020,830,UKR,1,Ukraine Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,10,ambiguous_caseload,2
-2020,830,UKR,1,Ukraine Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,11,ambiguous_caseload,2
-2020,831,SOM,1,Somalia Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,1,ambiguous_caseload,2
-2020,831,SOM,1,Somalia Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,3,ambiguous_caseload,2
-2020,831,SOM,1,Somalia Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,4,ambiguous_caseload,2
-2020,831,SOM,1,Somalia Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,6,ambiguous_caseload,2
-2020,831,SOM,1,Somalia Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,7,ambiguous_caseload,2
-2020,831,SOM,1,Somalia Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,9,ambiguous_caseload,2
-2020,831,SOM,1,Somalia Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,10,ambiguous_caseload,2
-2020,831,SOM,1,Somalia Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,11,ambiguous_caseload,2
-2020,831,SOM,1,Somalia Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,26480,ambiguous_caseload,2
-2020,832,PSE,1,Occupied Palestinian Territory Humanitarian Response Plan 2020,Humanitarian response plan,True,17/07/2024,3,ambiguous_caseload,2
-2020,832,PSE,1,Occupied Palestinian Territory Humanitarian Response Plan 2020,Humanitarian response plan,True,17/07/2024,4,ambiguous_caseload,2
-2020,832,PSE,1,Occupied Palestinian Territory Humanitarian Response Plan 2020,Humanitarian response plan,True,17/07/2024,6,ambiguous_caseload,2
-2020,832,PSE,1,Occupied Palestinian Territory Humanitarian Response Plan 2020,Humanitarian response plan,True,17/07/2024,10,ambiguous_caseload,2
-2020,832,PSE,1,Occupied Palestinian Territory Humanitarian Response Plan 2020,Humanitarian response plan,True,17/07/2024,11,ambiguous_caseload,2
-2020,913,MLI,1,Mali Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,13/08/2024,3,ambiguous_caseload,2
-2020,913,MLI,1,Mali Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,13/08/2024,4,ambiguous_caseload,2
-2020,913,MLI,1,Mali Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,13/08/2024,6,ambiguous_caseload,2
-2020,913,MLI,1,Mali Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,13/08/2024,7,ambiguous_caseload,2
-2020,913,MLI,1,Mali Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,13/08/2024,9,ambiguous_caseload,2
-2020,913,MLI,1,Mali Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,13/08/2024,10,ambiguous_caseload,2
-2020,913,MLI,1,Mali Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,13/08/2024,11,ambiguous_caseload,2
-2020,922,BDI,1,Burundi Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,15/08/2024,3,ambiguous_caseload,2
-2020,922,BDI,1,Burundi Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,15/08/2024,6,ambiguous_caseload,2
-2020,922,BDI,1,Burundi Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,15/08/2024,9,ambiguous_caseload,2
-2020,922,BDI,1,Burundi Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,15/08/2024,10,ambiguous_caseload,2
-2020,922,BDI,1,Burundi Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,15/08/2024,26479,ambiguous_caseload,2
-2020,928,VEN,1,Venezuela Plan de Respuesta Humanitaria con Panorama de Necesidades 2020,Humanitarian response plan,True,17/07/2024,4,ambiguous_caseload,2
-2020,928,VEN,1,Venezuela Plan de Respuesta Humanitaria con Panorama de Necesidades 2020,Humanitarian response plan,True,17/07/2024,6,ambiguous_caseload,2
-2020,928,VEN,1,Venezuela Plan de Respuesta Humanitaria con Panorama de Necesidades 2020,Humanitarian response plan,True,17/07/2024,7,ambiguous_caseload,2
-2020,928,VEN,1,Venezuela Plan de Respuesta Humanitaria con Panorama de Necesidades 2020,Humanitarian response plan,True,17/07/2024,10,ambiguous_caseload,2
-2020,928,VEN,1,Venezuela Plan de Respuesta Humanitaria con Panorama de Necesidades 2020,Humanitarian response plan,True,17/07/2024,11,ambiguous_caseload,2
-2020,929,AFG,1,Afghanistan Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,3,ambiguous_caseload,2
-2020,929,AFG,1,Afghanistan Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,4,ambiguous_caseload,2
-2020,929,AFG,1,Afghanistan Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,6,ambiguous_caseload,2
-2020,929,AFG,1,Afghanistan Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,7,ambiguous_caseload,2
-2020,929,AFG,1,Afghanistan Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,8,ambiguous_caseload,2
-2020,929,AFG,1,Afghanistan Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,9,ambiguous_caseload,2
-2020,929,AFG,1,Afghanistan Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,10,ambiguous_caseload,2
-2020,929,AFG,1,Afghanistan Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,11,ambiguous_caseload,2
-2020,929,AFG,1,Afghanistan Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,26480,ambiguous_caseload,2
-2020,869,NGA,1,Nigeria Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,1,ambiguous_caseload,2
-2020,869,NGA,1,Nigeria Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,2,ambiguous_caseload,2
-2020,869,NGA,1,Nigeria Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,3,ambiguous_caseload,2
-2020,869,NGA,1,Nigeria Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,4,ambiguous_caseload,2
-2020,869,NGA,1,Nigeria Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,6,ambiguous_caseload,2
-2020,869,NGA,1,Nigeria Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,7,ambiguous_caseload,2
-2020,869,NGA,1,Nigeria Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,9,ambiguous_caseload,2
-2020,869,NGA,1,Nigeria Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,10,ambiguous_caseload,2
-2020,869,NGA,1,Nigeria Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,11,ambiguous_caseload,2
-2020,869,NGA,1,Nigeria Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,26480,ambiguous_caseload,2
-2020,936,ETH,1,Ethiopia Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,3,ambiguous_caseload,2
-2020,936,ETH,1,Ethiopia Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,4,ambiguous_caseload,2
-2020,936,ETH,1,Ethiopia Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,6,ambiguous_caseload,2
-2020,936,ETH,1,Ethiopia Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,7,ambiguous_caseload,2
-2020,936,ETH,1,Ethiopia Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,9,ambiguous_caseload,2
-2020,936,ETH,1,Ethiopia Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,10,ambiguous_caseload,2
-2020,936,ETH,1,Ethiopia Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,11,ambiguous_caseload,2
-2020,936,ETH,1,Ethiopia Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,26512,ambiguous_caseload,2
-2020,939,DJI,1,Djibouti Flash Appeal 2020,Flash appeal,True,12/08/2024,4,ambiguous_caseload,2
-2020,921,ZWE,1,Zimbabwe Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,3,ambiguous_caseload,2
-2020,921,ZWE,1,Zimbabwe Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,4,ambiguous_caseload,2
-2020,921,ZWE,1,Zimbabwe Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,6,ambiguous_caseload,2
-2020,921,ZWE,1,Zimbabwe Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,7,ambiguous_caseload,2
-2020,921,ZWE,1,Zimbabwe Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,9,ambiguous_caseload,2
-2020,921,ZWE,1,Zimbabwe Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,10,ambiguous_caseload,2
-2020,921,ZWE,1,Zimbabwe Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,11,ambiguous_caseload,2
-2020,931,LBY,1,Libya Humanitarian Response Plan 2020,Humanitarian response plan,True,24/12/2024,4,ambiguous_caseload,2
-2020,931,LBY,1,Libya Humanitarian Response Plan 2020,Humanitarian response plan,True,24/12/2024,5,ambiguous_caseload,2
-2020,931,LBY,1,Libya Humanitarian Response Plan 2020,Humanitarian response plan,True,24/12/2024,7,ambiguous_caseload,2
-2020,931,LBY,1,Libya Humanitarian Response Plan 2020,Humanitarian response plan,True,24/12/2024,10,ambiguous_caseload,3
-2020,931,LBY,1,Libya Humanitarian Response Plan 2020,Humanitarian response plan,True,24/12/2024,11,ambiguous_caseload,2
-2020,931,LBY,1,Libya Humanitarian Response Plan 2020,Humanitarian response plan,True,24/12/2024,26480,ambiguous_caseload,2
-2020,906,BGD,1,Rohingya Humanitarian Crisis Joint Response Plan 2020,Regional response plan,True,12/08/2024,1,ambiguous_caseload,2
-2020,906,BGD,1,Rohingya Humanitarian Crisis Joint Response Plan 2020,Regional response plan,True,12/08/2024,3,ambiguous_caseload,2
-2020,906,BGD,1,Rohingya Humanitarian Crisis Joint Response Plan 2020,Regional response plan,True,12/08/2024,4,ambiguous_caseload,2
-2020,906,BGD,1,Rohingya Humanitarian Crisis Joint Response Plan 2020,Regional response plan,True,12/08/2024,5,ambiguous_caseload,2
-2020,906,BGD,1,Rohingya Humanitarian Crisis Joint Response Plan 2020,Regional response plan,True,12/08/2024,6,ambiguous_caseload,2
-2020,906,BGD,1,Rohingya Humanitarian Crisis Joint Response Plan 2020,Regional response plan,True,12/08/2024,7,ambiguous_caseload,2
-2020,906,BGD,1,Rohingya Humanitarian Crisis Joint Response Plan 2020,Regional response plan,True,12/08/2024,8,ambiguous_caseload,2
-2020,906,BGD,1,Rohingya Humanitarian Crisis Joint Response Plan 2020,Regional response plan,True,12/08/2024,11,ambiguous_caseload,2
-2020,906,BGD,1,Rohingya Humanitarian Crisis Joint Response Plan 2020,Regional response plan,True,12/08/2024,26480,ambiguous_caseload,4
-2020,908,NER,1,Niger Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,3,ambiguous_caseload,2
-2020,908,NER,1,Niger Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,4,ambiguous_caseload,2
-2020,908,NER,1,Niger Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,6,ambiguous_caseload,2
-2020,908,NER,1,Niger Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,7,ambiguous_caseload,2
-2020,908,NER,1,Niger Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,9,ambiguous_caseload,2
-2020,908,NER,1,Niger Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,10,ambiguous_caseload,2
-2020,908,NER,1,Niger Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,11,ambiguous_caseload,2
-2020,908,NER,1,Niger Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,26480,ambiguous_caseload,2
-2020,927,CMR,1,Cameroon Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,2,ambiguous_caseload,2
-2020,927,CMR,1,Cameroon Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,3,ambiguous_caseload,2
-2020,927,CMR,1,Cameroon Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,4,ambiguous_caseload,2
-2020,927,CMR,1,Cameroon Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,6,ambiguous_caseload,2
-2020,927,CMR,1,Cameroon Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,7,ambiguous_caseload,2
-2020,927,CMR,1,Cameroon Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,9,ambiguous_caseload,2
-2020,927,CMR,1,Cameroon Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,10,ambiguous_caseload,2
-2020,927,CMR,1,Cameroon Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,11,ambiguous_caseload,2
-2020,927,CMR,1,Cameroon Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,26480,ambiguous_caseload,2
-2020,907,TCD,1,Tchad Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,1,ambiguous_caseload,2
-2020,907,TCD,1,Tchad Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,3,ambiguous_caseload,2
-2020,907,TCD,1,Tchad Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,4,ambiguous_caseload,2
-2020,907,TCD,1,Tchad Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,6,ambiguous_caseload,2
-2020,907,TCD,1,Tchad Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,7,ambiguous_caseload,2
-2020,907,TCD,1,Tchad Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,9,ambiguous_caseload,2
-2020,907,TCD,1,Tchad Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,10,ambiguous_caseload,2
-2020,907,TCD,1,Tchad Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,11,ambiguous_caseload,2
-2020,907,TCD,1,Tchad Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,26480,ambiguous_caseload,2
-2020,865,SSD,1,South Sudan Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,1,ambiguous_caseload,2
-2020,865,SSD,1,South Sudan Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,3,ambiguous_caseload,2
-2020,865,SSD,1,South Sudan Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,4,ambiguous_caseload,2
-2020,865,SSD,1,South Sudan Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,6,ambiguous_caseload,2
-2020,865,SSD,1,South Sudan Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,7,ambiguous_caseload,2
-2020,865,SSD,1,South Sudan Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,8,ambiguous_caseload,2
-2020,865,SSD,1,South Sudan Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,9,ambiguous_caseload,2
-2020,865,SSD,1,South Sudan Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,10,ambiguous_caseload,2
-2020,865,SSD,1,South Sudan Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,11,ambiguous_caseload,2
-2020,865,SSD,1,South Sudan Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,26480,ambiguous_caseload,2
-2020,870,SDN,1,Sudan Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,3,ambiguous_caseload,2
-2020,870,SDN,1,Sudan Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,4,ambiguous_caseload,2
-2020,870,SDN,1,Sudan Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,6,ambiguous_caseload,2
-2020,870,SDN,1,Sudan Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,7,ambiguous_caseload,2
-2020,870,SDN,1,Sudan Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,8,ambiguous_caseload,2
-2020,870,SDN,1,Sudan Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,9,ambiguous_caseload,2
-2020,870,SDN,1,Sudan Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,10,ambiguous_caseload,2
-2020,870,SDN,1,Sudan Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,11,ambiguous_caseload,2
-2020,919,COD,1,République Démocratique du Congo Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,4,ambiguous_caseload,2
-2020,930,BFA,1,Burkina Faso Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,3,ambiguous_caseload,2
-2020,930,BFA,1,Burkina Faso Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,6,ambiguous_caseload,2
-2020,930,BFA,1,Burkina Faso Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,7,ambiguous_caseload,2
-2020,930,BFA,1,Burkina Faso Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,9,ambiguous_caseload,2
-2020,930,BFA,1,Burkina Faso Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,10,ambiguous_caseload,2
-2020,930,BFA,1,Burkina Faso Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,11,ambiguous_caseload,2
-2020,930,BFA,1,Burkina Faso Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,26480,ambiguous_caseload,2
-2020,943,,5,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2020,Regional response plan,True,27/10/2025,6,ambiguous_caseload,2
-2020,943,,5,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2020,Regional response plan,True,27/10/2025,26479,ambiguous_caseload,2
-2020,920,HTI,1,Haïti Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,3,ambiguous_caseload,2
-2020,920,HTI,1,Haïti Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,4,ambiguous_caseload,2
-2020,920,HTI,1,Haïti Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,7,ambiguous_caseload,3
-2020,920,HTI,1,Haïti Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,8,ambiguous_caseload,2
-2020,920,HTI,1,Haïti Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,9,ambiguous_caseload,2
-2020,920,HTI,1,Haïti Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,10,ambiguous_caseload,2
-2020,920,HTI,1,Haïti Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,11,ambiguous_caseload,2
-2021,1023,BGD,1,Rohingya Humanitarian Crisis Joint Response Plan 2021,Regional response plan,True,03/12/2024,26480,ambiguous_caseload,2
-2021,1020,,5,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2021,Regional response plan,True,10/10/2024,26481,ambiguous_caseload,2
-2022,1072,,5,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2022,Regional response plan,True,10/10/2024,6,ambiguous_caseload,2
-2022,1072,,5,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2022,Regional response plan,True,10/10/2024,26479,ambiguous_caseload,2
-2023,1154,,2,Sudan Emergency: Regional Refugee Response Plan 2023,Regional response plan,True,22/11/2023,2,ambiguous_caseload,2
-2023,1126,,5,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2023,Regional response plan,True,11/10/2024,2,ambiguous_caseload,3
-2023,1126,,5,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2023,Regional response plan,True,11/10/2024,6,ambiguous_caseload,2
-2023,1114,SYR,1,Syrian Arab Republic Humanitarian Response Plan 2023,Humanitarian response plan,True,21/07/2026,4,ambiguous_caseload,2
-2024,1169,,3,South Sudan Regional Refugee Response Plan 2024,Regional response plan,True,24/11/2024,2,ambiguous_caseload,2
-2024,1164,,7,Democratic Republic of the Congo Regional Refugee Response Plan 2024,Regional response plan,True,09/10/2024,2,ambiguous_caseload,2
-2024,1168,,5,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2024,Regional response plan,True,24/11/2024,2,ambiguous_caseload,2
-2024,1175,SYR,1,Syrian Arab Republic Humanitarian Response Plan 2024,Humanitarian response plan,True,21/07/2026,4,ambiguous_caseload,2
-2025,1276,SYR,1,Syrian Arab Republic Humanitarian Response Priorities – January-December 2025,Flash appeal,True,25/11/2025,4,ambiguous_caseload,2
-2026,1518,SYR,1,Syrian Arab Republic Humanitarian Needs and Response Plan 2026,Humanitarian needs and response plan,True,03/08/2026,4,ambiguous_caseload,2
-2026,1568,LBN,1,Lebanon Flash Appeal 2026,Flash appeal,True,05/06/2026,6,ambiguous_caseload,2
+year,plan_id,iso3,country_count,plan_name,plan_type,included_gho,last_published_date,issue,caseload_id,caseload_ref,count,global_cluster_id
+2018,643,NER,1,Niger Plan de Réponse Humanitaire 2018,Humanitarian response plan,True,16/10/2025,unmapped_caseload,2875,CLNUT/BF5,1,
+2018,643,NER,1,Niger Plan de Réponse Humanitaire 2018,Humanitarian response plan,True,16/10/2025,unmapped_caseload,2876,CLNUT/BF6,1,
+2018,640,CMR,1,Cameroun Plan de Réponse Humanitaire 2018,Humanitarian response plan,True,17/02/2025,ambiguous_caseload,,,2,26479
+2018,641,UKR,1,Ukraine Humanitarian Response Plan 2018,Humanitarian response plan,True,16/10/2025,unmapped_caseload,9669,CLEDU/BF2,1,
+2019,677,ETH,1,Ethiopia Humanitarian Response Plan 2019,Humanitarian response plan,True,03/01/2025,unmapped_caseload,14152,CLAGR/BF2,1,
+2019,720,PAK,1,Pakistan Response Plan 2019,Other (not included in GHO),False,20/11/2024,unmapped_caseload,9133,CLCSS/BF3,1,
+2019,720,PAK,1,Pakistan Response Plan 2019,Other (not included in GHO),False,20/11/2024,unmapped_caseload,9074,CLEDU/BF4,1,
+2019,720,PAK,1,Pakistan Response Plan 2019,Other (not included in GHO),False,20/11/2024,unmapped_caseload,7491,CLFSC/BF1,1,
+2019,720,PAK,1,Pakistan Response Plan 2019,Other (not included in GHO),False,20/11/2024,unmapped_caseload,7498,CLHEA/BF8,1,
+2019,720,PAK,1,Pakistan Response Plan 2019,Other (not included in GHO),False,20/11/2024,unmapped_caseload,7525,CLNUT/BF5,1,
+2019,720,PAK,1,Pakistan Response Plan 2019,Other (not included in GHO),False,20/11/2024,unmapped_caseload,9332,CLPRO-CPN/BF2,1,
+2019,720,PAK,1,Pakistan Response Plan 2019,Other (not included in GHO),False,20/11/2024,unmapped_caseload,7527,CLPRO-GBV/BF7,1,
+2019,720,PAK,1,Pakistan Response Plan 2019,Other (not included in GHO),False,20/11/2024,unmapped_caseload,7530,CLWSH/BF0,1,
+2019,721,BDI,1,Burundi Plan de Réponse Humanitaire 2019,Humanitarian response plan,True,20/12/2024,unmapped_caseload,8204,CLRET/BF1,1,
+2019,713,SSD,1,South Sudan Humanitarian Response Plan 2019,Humanitarian response plan,True,24/01/2025,unmapped_caseload,5818,CLRR/BF1-RR,1,
+2019,722,ZWE,1,Zimbabwe Flash Appeal 2019,Flash appeal,True,16/10/2025,unmapped_caseload,7376,CLAGR/BF6,1,
+2019,722,ZWE,1,Zimbabwe Flash Appeal 2019,Flash appeal,True,16/10/2025,unmapped_caseload,9607,CLAGR/BF7,1,
+2019,722,ZWE,1,Zimbabwe Flash Appeal 2019,Flash appeal,True,16/10/2025,unmapped_caseload,7303,CLEDU/BF3,1,
+2019,722,ZWE,1,Zimbabwe Flash Appeal 2019,Flash appeal,True,16/10/2025,unmapped_caseload,7302,CLERY/BF2,1,
+2019,722,ZWE,1,Zimbabwe Flash Appeal 2019,Flash appeal,True,16/10/2025,unmapped_caseload,9608,CLERY/BF8,1,
+2019,722,ZWE,1,Zimbabwe Flash Appeal 2019,Flash appeal,True,16/10/2025,unmapped_caseload,7296,CLFSC/BF6,1,
+2019,722,ZWE,1,Zimbabwe Flash Appeal 2019,Flash appeal,True,16/10/2025,unmapped_caseload,7298,CLHEA/BF8,1,
+2019,722,ZWE,1,Zimbabwe Flash Appeal 2019,Flash appeal,True,16/10/2025,unmapped_caseload,9612,CLNUT/BF2,1,
+2019,722,ZWE,1,Zimbabwe Flash Appeal 2019,Flash appeal,True,16/10/2025,unmapped_caseload,7301,CLPRO-CPN/BF1,1,
+2019,722,ZWE,1,Zimbabwe Flash Appeal 2019,Flash appeal,True,16/10/2025,unmapped_caseload,7300,CLPRO-GBV/BF0,1,
+2019,722,ZWE,1,Zimbabwe Flash Appeal 2019,Flash appeal,True,16/10/2025,unmapped_caseload,9617,CLPRO-GBV/BF7,1,
+2019,722,ZWE,1,Zimbabwe Flash Appeal 2019,Flash appeal,True,16/10/2025,unmapped_caseload,9613,CLPRO/BF2,1,
+2019,722,ZWE,1,Zimbabwe Flash Appeal 2019,Flash appeal,True,16/10/2025,unmapped_caseload,9618,CLSHL/BF8,1,
+2019,722,ZWE,1,Zimbabwe Flash Appeal 2019,Flash appeal,True,16/10/2025,unmapped_caseload,7299,CLWSH/BF9,1,
+2019,679,HTI,1,Haïti Plan de Réponse Humanitaire 2019,Humanitarian response plan,True,01/05/2025,ambiguous_caseload,,,2,7
+2019,718,CMR,1,Cameroun Plan de Réponse Humanitaire 2019,Humanitarian response plan,True,24/01/2025,unmapped_caseload,7463,CLRR/BF1-RR,1,
+2019,668,TCD,1,Tchad Plan de Réponse Humanitaire 2019,Humanitarian response plan,True,03/01/2025,unmapped_caseload,6161,CLRR/BF2-RR,1,
+2019,663,SYR,1,Syrian Arab Republic Humanitarian Response Plan 2019,Humanitarian response plan,True,27/01/2025,unmapped_caseload,8757,CLSHL/BF7,1,
+2019,670,SDN,1,Sudan Humanitarian Response Plan 2019,Humanitarian response plan,True,07/06/2024,unmapped_caseload,8070,CLRR/BF2-RR,1,
+2019,675,YEM,1,Yemen Humanitarian Response Plan 2019,Humanitarian response plan,True,13/01/2025,ambiguous_caseload,,,2,26479
+2019,676,NER,1,Niger Plan de Réponse Humanitaire 2019,Humanitarian response plan,True,24/01/2025,unmapped_caseload,6597,CLRR/BF2-RR,1,
+2019,667,SOM,1,Somalia Humanitarian Response Plan 2019,Humanitarian response plan,True,27/01/2025,unmapped_caseload,4947,CLRR/BF2-RR,1,
+2019,674,CAF,1,République Centrafricaine Plan de Réponse Humanitaire 2019,Humanitarian response plan,True,11/09/2024,unmapped_caseload,8870,CLRR/BF0-RR,1,
+2019,674,CAF,1,République Centrafricaine Plan de Réponse Humanitaire 2019,Humanitarian response plan,True,11/09/2024,unmapped_caseload,8875,CLRR/BF5,1,
+2020,830,UKR,1,Ukraine Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,3
+2020,830,UKR,1,Ukraine Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,4
+2020,830,UKR,1,Ukraine Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,6
+2020,830,UKR,1,Ukraine Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,7
+2020,830,UKR,1,Ukraine Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,10
+2020,830,UKR,1,Ukraine Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,11
+2020,831,SOM,1,Somalia Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,ambiguous_caseload,,,2,1
+2020,831,SOM,1,Somalia Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,ambiguous_caseload,,,2,3
+2020,831,SOM,1,Somalia Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,ambiguous_caseload,,,2,4
+2020,831,SOM,1,Somalia Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,ambiguous_caseload,,,2,6
+2020,831,SOM,1,Somalia Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,ambiguous_caseload,,,2,7
+2020,831,SOM,1,Somalia Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,ambiguous_caseload,,,2,9
+2020,831,SOM,1,Somalia Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,ambiguous_caseload,,,2,10
+2020,831,SOM,1,Somalia Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,ambiguous_caseload,,,2,11
+2020,831,SOM,1,Somalia Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,ambiguous_caseload,,,2,26479
+2020,831,SOM,1,Somalia Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,ambiguous_caseload,,,2,26480
+2020,832,PSE,1,Occupied Palestinian Territory Humanitarian Response Plan 2020,Humanitarian response plan,True,17/07/2024,ambiguous_caseload,,,2,3
+2020,832,PSE,1,Occupied Palestinian Territory Humanitarian Response Plan 2020,Humanitarian response plan,True,17/07/2024,ambiguous_caseload,,,2,4
+2020,832,PSE,1,Occupied Palestinian Territory Humanitarian Response Plan 2020,Humanitarian response plan,True,17/07/2024,ambiguous_caseload,,,2,6
+2020,832,PSE,1,Occupied Palestinian Territory Humanitarian Response Plan 2020,Humanitarian response plan,True,17/07/2024,ambiguous_caseload,,,2,7
+2020,832,PSE,1,Occupied Palestinian Territory Humanitarian Response Plan 2020,Humanitarian response plan,True,17/07/2024,ambiguous_caseload,,,2,10
+2020,832,PSE,1,Occupied Palestinian Territory Humanitarian Response Plan 2020,Humanitarian response plan,True,17/07/2024,ambiguous_caseload,,,2,11
+2020,913,MLI,1,Mali Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,13/08/2024,ambiguous_caseload,,,2,3
+2020,913,MLI,1,Mali Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,13/08/2024,ambiguous_caseload,,,2,4
+2020,913,MLI,1,Mali Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,13/08/2024,ambiguous_caseload,,,2,6
+2020,913,MLI,1,Mali Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,13/08/2024,ambiguous_caseload,,,2,7
+2020,913,MLI,1,Mali Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,13/08/2024,ambiguous_caseload,,,2,9
+2020,913,MLI,1,Mali Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,13/08/2024,ambiguous_caseload,,,2,10
+2020,913,MLI,1,Mali Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,13/08/2024,ambiguous_caseload,,,2,11
+2020,913,MLI,1,Mali Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,13/08/2024,ambiguous_caseload,,,2,12
+2020,913,MLI,1,Mali Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,13/08/2024,ambiguous_caseload,,,2,13
+2020,922,BDI,1,Burundi Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,15/08/2024,ambiguous_caseload,,,2,3
+2020,922,BDI,1,Burundi Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,15/08/2024,ambiguous_caseload,,,2,6
+2020,922,BDI,1,Burundi Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,15/08/2024,ambiguous_caseload,,,2,9
+2020,922,BDI,1,Burundi Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,15/08/2024,ambiguous_caseload,,,2,10
+2020,922,BDI,1,Burundi Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,15/08/2024,ambiguous_caseload,,,3,26479
+2020,928,VEN,1,Venezuela Plan de Respuesta Humanitaria con Panorama de Necesidades 2020,Humanitarian response plan,True,17/07/2024,ambiguous_caseload,,,2,4
+2020,928,VEN,1,Venezuela Plan de Respuesta Humanitaria con Panorama de Necesidades 2020,Humanitarian response plan,True,17/07/2024,ambiguous_caseload,,,2,6
+2020,928,VEN,1,Venezuela Plan de Respuesta Humanitaria con Panorama de Necesidades 2020,Humanitarian response plan,True,17/07/2024,ambiguous_caseload,,,2,7
+2020,928,VEN,1,Venezuela Plan de Respuesta Humanitaria con Panorama de Necesidades 2020,Humanitarian response plan,True,17/07/2024,ambiguous_caseload,,,2,10
+2020,928,VEN,1,Venezuela Plan de Respuesta Humanitaria con Panorama de Necesidades 2020,Humanitarian response plan,True,17/07/2024,ambiguous_caseload,,,2,11
+2020,929,AFG,1,Afghanistan Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,unmapped_caseload,17340,CLEDU/BF0,1,
+2020,929,AFG,1,Afghanistan Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,unmapped_caseload,17339,CLEDU/BF9,1,
+2020,929,AFG,1,Afghanistan Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,unmapped_caseload,17335,CLFSC/BF5,1,
+2020,929,AFG,1,Afghanistan Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,unmapped_caseload,17336,CLFSC/BF6,1,
+2020,929,AFG,1,Afghanistan Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,unmapped_caseload,17341,CLHEA/BF1,1,
+2020,929,AFG,1,Afghanistan Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,unmapped_caseload,17342,CLHEA/BF2,1,
+2020,929,AFG,1,Afghanistan Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,unmapped_caseload,17343,CLNUT/BF3,1,
+2020,929,AFG,1,Afghanistan Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,unmapped_caseload,17344,CLNUT/BF4,1,
+2020,929,AFG,1,Afghanistan Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,unmapped_caseload,17345,CLPRO/BF5,1,
+2020,929,AFG,1,Afghanistan Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,unmapped_caseload,17346,CLPRO/BF6,1,
+2020,929,AFG,1,Afghanistan Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,unmapped_caseload,17337,CLSHL/BF7,1,
+2020,929,AFG,1,Afghanistan Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,unmapped_caseload,17338,CLSHL/BF8,1,
+2020,929,AFG,1,Afghanistan Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,unmapped_caseload,17347,CLWSH/BF7,1,
+2020,929,AFG,1,Afghanistan Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,unmapped_caseload,17348,CLWSH/BF8,1,
+2020,929,AFG,1,Afghanistan Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,ambiguous_caseload,,,2,3
+2020,929,AFG,1,Afghanistan Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,ambiguous_caseload,,,2,4
+2020,929,AFG,1,Afghanistan Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,ambiguous_caseload,,,2,6
+2020,929,AFG,1,Afghanistan Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,ambiguous_caseload,,,2,7
+2020,929,AFG,1,Afghanistan Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,ambiguous_caseload,,,2,8
+2020,929,AFG,1,Afghanistan Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,ambiguous_caseload,,,2,9
+2020,929,AFG,1,Afghanistan Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,ambiguous_caseload,,,2,10
+2020,929,AFG,1,Afghanistan Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,ambiguous_caseload,,,2,11
+2020,929,AFG,1,Afghanistan Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,ambiguous_caseload,,,2,26480
+2020,869,NGA,1,Nigeria Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,1
+2020,869,NGA,1,Nigeria Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,2
+2020,869,NGA,1,Nigeria Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,3
+2020,869,NGA,1,Nigeria Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,4
+2020,869,NGA,1,Nigeria Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,6
+2020,869,NGA,1,Nigeria Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,7
+2020,869,NGA,1,Nigeria Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,9
+2020,869,NGA,1,Nigeria Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,10
+2020,869,NGA,1,Nigeria Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,11
+2020,869,NGA,1,Nigeria Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,12
+2020,869,NGA,1,Nigeria Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,13
+2020,869,NGA,1,Nigeria Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,14
+2020,869,NGA,1,Nigeria Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,15
+2020,869,NGA,1,Nigeria Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,26480
+2020,936,ETH,1,Ethiopia Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,ambiguous_caseload,,,2,3
+2020,936,ETH,1,Ethiopia Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,ambiguous_caseload,,,2,4
+2020,936,ETH,1,Ethiopia Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,ambiguous_caseload,,,2,6
+2020,936,ETH,1,Ethiopia Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,ambiguous_caseload,,,2,7
+2020,936,ETH,1,Ethiopia Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,ambiguous_caseload,,,2,9
+2020,936,ETH,1,Ethiopia Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,ambiguous_caseload,,,2,10
+2020,936,ETH,1,Ethiopia Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,ambiguous_caseload,,,2,11
+2020,936,ETH,1,Ethiopia Humanitarian Response Plan 2020,Humanitarian response plan,True,15/08/2024,ambiguous_caseload,,,2,26512
+2020,939,DJI,1,Djibouti Flash Appeal 2020,Flash appeal,True,12/08/2024,ambiguous_caseload,,,2,4
+2020,921,ZWE,1,Zimbabwe Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,unmapped_caseload,13670,CLRR/BF2-RR,1,
+2020,921,ZWE,1,Zimbabwe Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,unmapped_caseload,16386,CLRRC19/BF2-RR,1,
+2020,921,ZWE,1,Zimbabwe Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,3
+2020,921,ZWE,1,Zimbabwe Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,4
+2020,921,ZWE,1,Zimbabwe Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,6
+2020,921,ZWE,1,Zimbabwe Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,7
+2020,921,ZWE,1,Zimbabwe Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,9
+2020,921,ZWE,1,Zimbabwe Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,10
+2020,921,ZWE,1,Zimbabwe Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,11
+2020,921,ZWE,1,Zimbabwe Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,12
+2020,991,PAK,1,Pakistan Intersectoral COVID-19 Response Plan 2020,Other (included in GHO),True,20/11/2024,unmapped_caseload,17447,CLEDUC19/BF7,1,
+2020,991,PAK,1,Pakistan Intersectoral COVID-19 Response Plan 2020,Other (included in GHO),True,20/11/2024,unmapped_caseload,17449,CLHEAC19/BF9,1,
+2020,991,PAK,1,Pakistan Intersectoral COVID-19 Response Plan 2020,Other (included in GHO),True,20/11/2024,unmapped_caseload,17450,CLLOGC19/BF0,1,
+2020,991,PAK,1,Pakistan Intersectoral COVID-19 Response Plan 2020,Other (included in GHO),True,20/11/2024,unmapped_caseload,17451,CLNUTC19/BF1,1,
+2020,991,PAK,1,Pakistan Intersectoral COVID-19 Response Plan 2020,Other (included in GHO),True,20/11/2024,unmapped_caseload,17452,CLPROC19/BF2,1,
+2020,991,PAK,1,Pakistan Intersectoral COVID-19 Response Plan 2020,Other (included in GHO),True,20/11/2024,unmapped_caseload,17453,CLWSHC19/BF3,1,
+2020,931,LBY,1,Libya Humanitarian Response Plan 2020,Humanitarian response plan,True,24/12/2024,ambiguous_caseload,,,2,4
+2020,931,LBY,1,Libya Humanitarian Response Plan 2020,Humanitarian response plan,True,24/12/2024,ambiguous_caseload,,,2,5
+2020,931,LBY,1,Libya Humanitarian Response Plan 2020,Humanitarian response plan,True,24/12/2024,ambiguous_caseload,,,2,7
+2020,931,LBY,1,Libya Humanitarian Response Plan 2020,Humanitarian response plan,True,24/12/2024,ambiguous_caseload,,,3,10
+2020,931,LBY,1,Libya Humanitarian Response Plan 2020,Humanitarian response plan,True,24/12/2024,ambiguous_caseload,,,2,11
+2020,931,LBY,1,Libya Humanitarian Response Plan 2020,Humanitarian response plan,True,24/12/2024,ambiguous_caseload,,,2,12
+2020,931,LBY,1,Libya Humanitarian Response Plan 2020,Humanitarian response plan,True,24/12/2024,ambiguous_caseload,,,2,15
+2020,931,LBY,1,Libya Humanitarian Response Plan 2020,Humanitarian response plan,True,24/12/2024,ambiguous_caseload,,,2,26480
+2020,906,BGD,1,Rohingya Humanitarian Crisis Joint Response Plan 2020,Regional response plan,True,12/08/2024,ambiguous_caseload,,,2,1
+2020,906,BGD,1,Rohingya Humanitarian Crisis Joint Response Plan 2020,Regional response plan,True,12/08/2024,ambiguous_caseload,,,2,3
+2020,906,BGD,1,Rohingya Humanitarian Crisis Joint Response Plan 2020,Regional response plan,True,12/08/2024,ambiguous_caseload,,,2,4
+2020,906,BGD,1,Rohingya Humanitarian Crisis Joint Response Plan 2020,Regional response plan,True,12/08/2024,ambiguous_caseload,,,2,5
+2020,906,BGD,1,Rohingya Humanitarian Crisis Joint Response Plan 2020,Regional response plan,True,12/08/2024,ambiguous_caseload,,,2,6
+2020,906,BGD,1,Rohingya Humanitarian Crisis Joint Response Plan 2020,Regional response plan,True,12/08/2024,ambiguous_caseload,,,2,7
+2020,906,BGD,1,Rohingya Humanitarian Crisis Joint Response Plan 2020,Regional response plan,True,12/08/2024,ambiguous_caseload,,,2,8
+2020,906,BGD,1,Rohingya Humanitarian Crisis Joint Response Plan 2020,Regional response plan,True,12/08/2024,ambiguous_caseload,,,2,11
+2020,906,BGD,1,Rohingya Humanitarian Crisis Joint Response Plan 2020,Regional response plan,True,12/08/2024,ambiguous_caseload,,,4,26480
+2020,1004,UGA,1,Uganda Intersectoral COVID-19 Response Plan 2020,Other (included in GHO),True,20/11/2024,ambiguous_caseload,,,2,26479
+2020,908,NER,1,Niger Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,unmapped_caseload,15498,CLRR/BF2-RR,1,
+2020,908,NER,1,Niger Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,unmapped_caseload,16281,CLRRC19/BF2-RR,1,
+2020,908,NER,1,Niger Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,3
+2020,908,NER,1,Niger Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,4
+2020,908,NER,1,Niger Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,6
+2020,908,NER,1,Niger Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,7
+2020,908,NER,1,Niger Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,9
+2020,908,NER,1,Niger Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,10
+2020,908,NER,1,Niger Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,11
+2020,908,NER,1,Niger Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,12
+2020,908,NER,1,Niger Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,13
+2020,908,NER,1,Niger Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,26480
+2020,998,BGD,1,Bangladesh Intersectoral COVID-19 Response Plan 2020,Other (included in GHO),True,20/11/2024,unmapped_caseload,22052,CLCSSC19/BF2,1,
+2020,998,BGD,1,Bangladesh Intersectoral COVID-19 Response Plan 2020,Other (included in GHO),True,20/11/2024,unmapped_caseload,22043,CLFSCC19/BF3,1,
+2020,998,BGD,1,Bangladesh Intersectoral COVID-19 Response Plan 2020,Other (included in GHO),True,20/11/2024,unmapped_caseload,22040,CLPRO-CPNC19/BF0,1,
+2020,998,BGD,1,Bangladesh Intersectoral COVID-19 Response Plan 2020,Other (included in GHO),True,20/11/2024,unmapped_caseload,22045,CLPROC19/BF5,1,
+2020,998,BGD,1,Bangladesh Intersectoral COVID-19 Response Plan 2020,Other (included in GHO),True,20/11/2024,unmapped_caseload,22049,CLSHLC19/BF9,1,
+2020,998,BGD,1,Bangladesh Intersectoral COVID-19 Response Plan 2020,Other (included in GHO),True,20/11/2024,unmapped_caseload,22050,CLWSHC19/BF0,1,
+2020,927,CMR,1,Cameroon Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,unmapped_caseload,15468,CLRR/BF1-RR,1,
+2020,927,CMR,1,Cameroon Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,unmapped_caseload,16230,CLRRC19/BF2-RR,1,
+2020,927,CMR,1,Cameroon Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,2
+2020,927,CMR,1,Cameroon Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,3
+2020,927,CMR,1,Cameroon Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,4
+2020,927,CMR,1,Cameroon Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,6
+2020,927,CMR,1,Cameroon Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,7
+2020,927,CMR,1,Cameroon Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,9
+2020,927,CMR,1,Cameroon Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,10
+2020,927,CMR,1,Cameroon Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,11
+2020,927,CMR,1,Cameroon Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,12
+2020,927,CMR,1,Cameroon Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,13
+2020,927,CMR,1,Cameroon Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,26480
+2020,907,TCD,1,Tchad Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,unmapped_caseload,15563,CLRR/BF3-RR,1,
+2020,907,TCD,1,Tchad Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,unmapped_caseload,16241,CLRRC19/BF2-RR,1,
+2020,907,TCD,1,Tchad Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,1
+2020,907,TCD,1,Tchad Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,3
+2020,907,TCD,1,Tchad Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,4
+2020,907,TCD,1,Tchad Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,6
+2020,907,TCD,1,Tchad Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,7
+2020,907,TCD,1,Tchad Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,9
+2020,907,TCD,1,Tchad Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,10
+2020,907,TCD,1,Tchad Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,11
+2020,907,TCD,1,Tchad Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,26480
+2020,865,SSD,1,South Sudan Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,unmapped_caseload,16322,CLRR/BF2-RR,1,
+2020,865,SSD,1,South Sudan Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,unmapped_caseload,16323,CLRRC19/BF2-RR,1,
+2020,865,SSD,1,South Sudan Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,1
+2020,865,SSD,1,South Sudan Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,3
+2020,865,SSD,1,South Sudan Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,4
+2020,865,SSD,1,South Sudan Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,6
+2020,865,SSD,1,South Sudan Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,7
+2020,865,SSD,1,South Sudan Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,8
+2020,865,SSD,1,South Sudan Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,9
+2020,865,SSD,1,South Sudan Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,10
+2020,865,SSD,1,South Sudan Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,11
+2020,865,SSD,1,South Sudan Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,12
+2020,865,SSD,1,South Sudan Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,13
+2020,865,SSD,1,South Sudan Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,15
+2020,865,SSD,1,South Sudan Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,26480
+2020,870,SDN,1,Sudan Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,unmapped_caseload,12469,CLRR/BF2-RR,1,
+2020,870,SDN,1,Sudan Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,unmapped_caseload,16654,CLRRC19/BF1-RR,1,
+2020,870,SDN,1,Sudan Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,3
+2020,870,SDN,1,Sudan Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,4
+2020,870,SDN,1,Sudan Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,6
+2020,870,SDN,1,Sudan Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,7
+2020,870,SDN,1,Sudan Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,8
+2020,870,SDN,1,Sudan Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,9
+2020,870,SDN,1,Sudan Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,10
+2020,870,SDN,1,Sudan Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,11
+2020,870,SDN,1,Sudan Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,12
+2020,870,SDN,1,Sudan Humanitarian Response Plan 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,13
+2020,919,COD,1,République Démocratique du Congo Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,4
+2020,919,COD,1,République Démocratique du Congo Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,12
+2020,930,BFA,1,Burkina Faso Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,unmapped_caseload,12666,CLRR/BF1-RR,1,
+2020,930,BFA,1,Burkina Faso Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,3
+2020,930,BFA,1,Burkina Faso Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,6
+2020,930,BFA,1,Burkina Faso Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,7
+2020,930,BFA,1,Burkina Faso Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,9
+2020,930,BFA,1,Burkina Faso Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,10
+2020,930,BFA,1,Burkina Faso Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,11
+2020,930,BFA,1,Burkina Faso Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,26480
+2020,943,,5,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2020,Regional response plan,True,27/10/2025,ambiguous_caseload,,,2,6
+2020,943,,5,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2020,Regional response plan,True,27/10/2025,ambiguous_caseload,,,2,26479
+2020,920,HTI,1,Haïti Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,3
+2020,920,HTI,1,Haïti Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,4
+2020,920,HTI,1,Haïti Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,3,7
+2020,920,HTI,1,Haïti Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,8
+2020,920,HTI,1,Haïti Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,9
+2020,920,HTI,1,Haïti Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,10
+2020,920,HTI,1,Haïti Plan de Réponse Humanitaire 2020,Humanitarian response plan,True,20/11/2024,ambiguous_caseload,,,2,11
+2021,1042,ZWE,1,Zimbabwe Humanitarian Response Plan 2021,Humanitarian response plan,True,05/12/2024,unmapped_caseload,19969,CLRR/BF1-RR,1,
+2021,1023,BGD,1,Rohingya Humanitarian Crisis Joint Response Plan 2021,Regional response plan,True,03/12/2024,ambiguous_caseload,,,2,26480
+2021,1013,SSD,1,South Sudan Humanitarian Response Plan 2021,Humanitarian response plan,True,26/01/2023,unmapped_caseload,24303,CLRR/BF1-RR,1,
+2021,1014,SDN,1,Sudan Humanitarian Response Plan 2021,Humanitarian response plan,True,26/01/2023,unmapped_caseload,20506,CLLOG-TEL/BF1,1,
+2021,1028,TCD,1,Tchad Plan de Réponse Humanitaire 2021,Humanitarian response plan,True,15/08/2024,unmapped_caseload,24582,CLRR/BF1-RR,1,
+2021,1033,NER,1,Niger Plan de Réponse Humanitaire 2021,Humanitarian response plan,True,26/01/2023,unmapped_caseload,24010,CLRR/BF1-RR,1,
+2021,1034,PAK,1,Pakistan Humanitarian Response Plan 2021,Humanitarian response plan,True,26/01/2023,unmapped_caseload,23375,CLRR/BF1-RR,1,
+2021,1036,MLI,1,Mali Plan de Réponse Humanitaire 2021,Humanitarian response plan,True,15/08/2024,unmapped_caseload,22597,CLRR/BF1-RR,1,
+2021,1037,BFA,1,Burkina Faso Plan de Réponse Humanitaire 2021,Humanitarian response plan,True,26/01/2023,unmapped_caseload,20434,CLRR/BF1-RR,1,
+2021,1039,BDI,1,Burundi Plan de Réponse Humanitaire 2021,Humanitarian response plan,True,05/09/2023,ambiguous_caseload,,,2,26479
+2021,1040,MOZ,1,Mozambique Humanitarian Response Plan 2021,Humanitarian response plan,True,26/01/2023,unmapped_caseload,20619,CLRR/BF1-RR,1,
+2021,1011,SOM,1,Somalia Humanitarian Response Plan 2021,Humanitarian response plan,True,05/12/2024,unmapped_caseload,18297,CLRR/BF1-RR,1,
+2021,1050,LBN,1,Lebanon Emergency Response Plan 2021,Other (not included in GHO),False,20/11/2024,unmapped_caseload,26517,CLRR/BF1-RR,1,
+2021,1026,COD,1,République Démocratique du Congo Plan de Réponse Humanitaire 2021,Humanitarian response plan,True,26/01/2023,ambiguous_caseload,,,2,4
+2021,1020,,5,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2021,Regional response plan,True,10/10/2024,ambiguous_caseload,,,2,6
+2021,1020,,5,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2021,Regional response plan,True,10/10/2024,ambiguous_caseload,,,2,26481
+2021,1044,SYR,1,Syrian Arab Republic Humanitarian Response Plan 2021,Humanitarian response plan,True,05/12/2024,unmapped_caseload,20220,CLSHL/BF0,1,
+2022,1063,SOM,1,Somalia Humanitarian Response Plan 2022,Humanitarian response plan,True,25/01/2023,unmapped_caseload,28456,CLRR/BF1-RR,1,
+2022,1064,CAF,1,République Centrafricaine Plan de Réponse Humanitaire 2022,Humanitarian response plan,True,19/08/2024,unmapped_caseload,32201,CLRR/BF1-RR,1,
+2022,1068,SDN,1,Sudan Humanitarian Response Plan 2022,Humanitarian response plan,True,16/03/2023,unmapped_caseload,31313,CLRR/BF1-RR,1,
+2022,1075,BDI,1,Burundi Plan de Réponse Humanitaire 2022,Humanitarian response plan,True,19/09/2023,unmapped_caseload,31259,CLRET/BF1,1,
+2022,1075,BDI,1,Burundi Plan de Réponse Humanitaire 2022,Humanitarian response plan,True,19/09/2023,unmapped_caseload,31258,CLRR/BF1-RR,1,
+2022,1076,MLI,1,Mali Plan de Réponse Humanitaire 2022,Humanitarian response plan,True,02/05/2023,unmapped_caseload,28816,CLRR/BF1-RR,1,
+2022,1078,NER,1,Niger Plan de Réponse Humanitaire 2022,Humanitarian response plan,True,14/04/2023,unmapped_caseload,32187,CLRR/BF1-RR,1,
+2022,1080,CMR,1,Cameroon Humanitarian Response Plan 2022,Humanitarian response plan,True,23/03/2023,unmapped_caseload,29230,CLRR/BF1-RR,1,
+2022,1077,YEM,1,Yemen Humanitarian Response Plan 2022,Humanitarian response plan,True,15/08/2025,unmapped_caseload,34499,CLRR/BF1-RR,1,
+2022,1072,,5,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2022,Regional response plan,True,10/10/2024,ambiguous_caseload,,,2,6
+2022,1072,,5,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2022,Regional response plan,True,10/10/2024,ambiguous_caseload,,,2,26479
+2022,1088,SYR,1,Syrian Arab Republic Humanitarian Response Plan 2022 - 2023,Humanitarian response plan,True,20/09/2024,unmapped_caseload,31712,CLSHL/BF2,1,
+2022,1093,COD,1,République Démocratique du Congo Plan de Réponse Humanitaire 2022,Humanitarian response plan,True,24/11/2023,ambiguous_caseload,,,2,4
+2022,1087,BFA,1,Burkina Faso Plan de Réponse Humanitaire 2022,Humanitarian response plan,True,06/04/2023,unmapped_caseload,34230,CLRR/BF1-RR,1,
+2022,1091,TCD,1,Tchad Plan de Réponse Humanitaire 2022,Humanitarian response plan,True,15/08/2024,unmapped_caseload,31040,CLRR/BF1-RR,1,
+2022,1094,MOZ,1,Mozambique Humanitarian Response Plan 2022,Humanitarian response plan,True,13/03/2023,unmapped_caseload,34651,CLRR/BF1-RR,1,
+2022,1098,SSD,1,South Sudan Humanitarian Response Plan 2022,Humanitarian response plan,True,06/03/2023,unmapped_caseload,33561,CLRR/BF1-RR,1,
+2022,1099,LBN,1,Lebanon Emergency Response Plan 2022,Other (included in GHO),True,07/11/2022,unmapped_caseload,34388,CLRR/BF1-RR,1,
+2023,1137,KEN,1,Kenya Drought Response Plan 2023,Flash appeal,True,07/06/2024,unmapped_caseload,40125,CLRR/BF1-RR,1,
+2023,1141,TCD,1,Tchad Plan de Réponse Humanitaire 2023,Humanitarian response plan,True,08/08/2024,unmapped_caseload,42474,CLRR/BF1-RR,1,
+2023,1145,NER,1,Niger Plan de Réponse Humanitaire 2023,Humanitarian response plan,True,02/05/2024,unmapped_caseload,38569,CLRR/BF1-RR,1,
+2023,1151,MWI,1,Malawi Cholera and Floods Flash Appeal 2023,Flash appeal,True,25/01/2024,unmapped_caseload,41524,CLRR/BF1-RR,1,
+2023,1154,,2,Sudan Emergency: Regional Refugee Response Plan 2023,Regional response plan,True,22/11/2023,ambiguous_caseload,,,2,2
+2023,1148,BDI,1,Burundi Plan de Réponse Humanitaire 2023,Humanitarian response plan,True,25/11/2024,ambiguous_caseload,,,2,26479
+2023,1126,,5,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2023,Regional response plan,True,11/10/2024,ambiguous_caseload,,,3,2
+2023,1126,,5,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2023,Regional response plan,True,11/10/2024,ambiguous_caseload,,,2,6
+2023,1115,CMR,1,Cameroon Humanitarian Response Plan 2023,Humanitarian response plan,True,30/05/2024,unmapped_caseload,39763,CLRR/BF1-RR,1,
+2023,1111,SSD,1,South Sudan Humanitarian Response Plan 2023,Humanitarian response plan,True,22/05/2024,unmapped_caseload,37582,CLRR/BF1-RR,1,
+2023,1114,SYR,1,Syrian Arab Republic Humanitarian Response Plan 2023,Humanitarian response plan,True,21/07/2026,ambiguous_caseload,,,2,4
+2023,1131,MOZ,1,Mozambique Humanitarian Response Plan 2023,Humanitarian response plan,True,26/04/2024,unmapped_caseload,38145,CLRR/BF1-RR,1,
+2023,1134,LBN,1,Lebanon Emergency Response Plan 2023,Other (included in GHO),True,24/11/2023,unmapped_caseload,39800,CLRR/BF1-RR,1,
+2023,1113,COD,1,République Démocratique du Congo Plan de Réponse Humanitaire 2023,Humanitarian response plan,True,07/03/2024,ambiguous_caseload,,,2,4
+2024,1188,SDN,1,Sudan Humanitarian Needs and Response Plan 2024,Humanitarian needs and response plan,True,24/03/2025,unmapped_caseload,44657,CLRR/BF1-RR,1,
+2024,1174,HND,1,Honduras Necesidades Humanitarias y Plan de Respuesta 2024,Humanitarian needs and response plan,True,24/03/2025,unmapped_caseload,46737,CLHEA/BF7,1,
+2024,1169,,3,South Sudan Regional Refugee Response Plan 2024,Regional response plan,True,24/11/2024,ambiguous_caseload,,,2,2
+2024,1192,TCD,1,Tchad Besoins Humanitaires et Plan de Réponse 2024,Humanitarian needs and response plan,True,08/04/2025,unmapped_caseload,44473,CLRR/BF1-RR,1,
+2024,1159,CMR,1,Cameroon Humanitarian Response Plan 2024,Humanitarian response plan,True,02/05/2025,unmapped_caseload,45661,CLRR/BF1-RR,1,
+2024,1201,BGD,1,Bangladesh Cyclone Remal and Monsoon Floods Response Plan 2024,Other (included in GHO),True,21/08/2025,unmapped_caseload,51615,CLCCM/BF2,1,
+2024,1201,BGD,1,Bangladesh Cyclone Remal and Monsoon Floods Response Plan 2024,Other (included in GHO),True,21/08/2025,unmapped_caseload,51616,CLCCM/BF3,1,
+2024,1201,BGD,1,Bangladesh Cyclone Remal and Monsoon Floods Response Plan 2024,Other (included in GHO),True,21/08/2025,unmapped_caseload,51617,CLEDU/BF2,1,
+2024,1201,BGD,1,Bangladesh Cyclone Remal and Monsoon Floods Response Plan 2024,Other (included in GHO),True,21/08/2025,unmapped_caseload,51618,CLEDU/BF3,1,
+2024,1201,BGD,1,Bangladesh Cyclone Remal and Monsoon Floods Response Plan 2024,Other (included in GHO),True,21/08/2025,unmapped_caseload,51619,CLFSC/BF2,1,
+2024,1201,BGD,1,Bangladesh Cyclone Remal and Monsoon Floods Response Plan 2024,Other (included in GHO),True,21/08/2025,unmapped_caseload,51620,CLFSC/BF3,1,
+2024,1201,BGD,1,Bangladesh Cyclone Remal and Monsoon Floods Response Plan 2024,Other (included in GHO),True,21/08/2025,unmapped_caseload,51621,CLHEA/BF2,1,
+2024,1201,BGD,1,Bangladesh Cyclone Remal and Monsoon Floods Response Plan 2024,Other (included in GHO),True,21/08/2025,unmapped_caseload,51622,CLHEA/BF3,1,
+2024,1201,BGD,1,Bangladesh Cyclone Remal and Monsoon Floods Response Plan 2024,Other (included in GHO),True,21/08/2025,unmapped_caseload,51623,CLNUT/BF2,1,
+2024,1201,BGD,1,Bangladesh Cyclone Remal and Monsoon Floods Response Plan 2024,Other (included in GHO),True,21/08/2025,unmapped_caseload,51624,CLNUT/BF3,1,
+2024,1201,BGD,1,Bangladesh Cyclone Remal and Monsoon Floods Response Plan 2024,Other (included in GHO),True,21/08/2025,unmapped_caseload,51609,CLPRO/BF3,1,
+2024,1201,BGD,1,Bangladesh Cyclone Remal and Monsoon Floods Response Plan 2024,Other (included in GHO),True,21/08/2025,unmapped_caseload,51610,CLPRO/BF4,1,
+2024,1201,BGD,1,Bangladesh Cyclone Remal and Monsoon Floods Response Plan 2024,Other (included in GHO),True,21/08/2025,unmapped_caseload,51611,CLPRO/BF5,1,
+2024,1201,BGD,1,Bangladesh Cyclone Remal and Monsoon Floods Response Plan 2024,Other (included in GHO),True,21/08/2025,unmapped_caseload,51612,CLPRO/BF6,1,
+2024,1201,BGD,1,Bangladesh Cyclone Remal and Monsoon Floods Response Plan 2024,Other (included in GHO),True,21/08/2025,unmapped_caseload,51625,CLSHL/BF2,1,
+2024,1201,BGD,1,Bangladesh Cyclone Remal and Monsoon Floods Response Plan 2024,Other (included in GHO),True,21/08/2025,unmapped_caseload,51626,CLSHL/BF3,1,
+2024,1201,BGD,1,Bangladesh Cyclone Remal and Monsoon Floods Response Plan 2024,Other (included in GHO),True,21/08/2025,unmapped_caseload,51613,CLWSH/BF2,1,
+2024,1201,BGD,1,Bangladesh Cyclone Remal and Monsoon Floods Response Plan 2024,Other (included in GHO),True,21/08/2025,unmapped_caseload,51614,CLWSH/BF3,1,
+2024,1183,MOZ,1,Mozambique Humanitarian Needs and Response Plan 2024,Humanitarian needs and response plan,True,22/08/2025,unmapped_caseload,45857,CLCCM/BF7,1,
+2024,1183,MOZ,1,Mozambique Humanitarian Needs and Response Plan 2024,Humanitarian needs and response plan,True,22/08/2025,unmapped_caseload,44931,CLEDU/BF1,1,
+2024,1183,MOZ,1,Mozambique Humanitarian Needs and Response Plan 2024,Humanitarian needs and response plan,True,22/08/2025,unmapped_caseload,44956,CLFSC/BF6,1,
+2024,1183,MOZ,1,Mozambique Humanitarian Needs and Response Plan 2024,Humanitarian needs and response plan,True,22/08/2025,unmapped_caseload,45859,CLHEA/BF9,1,
+2024,1183,MOZ,1,Mozambique Humanitarian Needs and Response Plan 2024,Humanitarian needs and response plan,True,22/08/2025,unmapped_caseload,44265,CLNUT/BF5,1,
+2024,1183,MOZ,1,Mozambique Humanitarian Needs and Response Plan 2024,Humanitarian needs and response plan,True,22/08/2025,unmapped_caseload,44726,CLPRO/BF2,1,
+2024,1183,MOZ,1,Mozambique Humanitarian Needs and Response Plan 2024,Humanitarian needs and response plan,True,22/08/2025,unmapped_caseload,46937,CLPRO/BF4,1,
+2024,1183,MOZ,1,Mozambique Humanitarian Needs and Response Plan 2024,Humanitarian needs and response plan,True,22/08/2025,unmapped_caseload,46940,CLPRO/BF5,1,
+2024,1183,MOZ,1,Mozambique Humanitarian Needs and Response Plan 2024,Humanitarian needs and response plan,True,22/08/2025,unmapped_caseload,46938,CLPRO/BF8,1,
+2024,1183,MOZ,1,Mozambique Humanitarian Needs and Response Plan 2024,Humanitarian needs and response plan,True,22/08/2025,unmapped_caseload,45914,CLRR/BF1-RR,1,
+2024,1183,MOZ,1,Mozambique Humanitarian Needs and Response Plan 2024,Humanitarian needs and response plan,True,22/08/2025,unmapped_caseload,45862,CLSHL/BF2,1,
+2024,1183,MOZ,1,Mozambique Humanitarian Needs and Response Plan 2024,Humanitarian needs and response plan,True,22/08/2025,unmapped_caseload,44481,CLWSH/BF1,1,
+2024,1190,NGA,1,Nigeria Humanitarian Response Plan 2024,Humanitarian response plan,True,26/08/2025,unmapped_caseload,46378,CLCCM/BF8,1,
+2024,1190,NGA,1,Nigeria Humanitarian Response Plan 2024,Humanitarian response plan,True,26/08/2025,unmapped_caseload,46379,CLCCM/BF9,1,
+2024,1190,NGA,1,Nigeria Humanitarian Response Plan 2024,Humanitarian response plan,True,26/08/2025,unmapped_caseload,46381,CLEDU/BF1,1,
+2024,1190,NGA,1,Nigeria Humanitarian Response Plan 2024,Humanitarian response plan,True,26/08/2025,unmapped_caseload,46382,CLEDU/BF2,1,
+2024,1190,NGA,1,Nigeria Humanitarian Response Plan 2024,Humanitarian response plan,True,26/08/2025,unmapped_caseload,46380,CLERY/BF10,1,
+2024,1190,NGA,1,Nigeria Humanitarian Response Plan 2024,Humanitarian response plan,True,26/08/2025,unmapped_caseload,46385,CLFSC/BF5,1,
+2024,1190,NGA,1,Nigeria Humanitarian Response Plan 2024,Humanitarian response plan,True,26/08/2025,unmapped_caseload,46386,CLFSC/BF6,1,
+2024,1190,NGA,1,Nigeria Humanitarian Response Plan 2024,Humanitarian response plan,True,26/08/2025,unmapped_caseload,46387,CLHEA/BF7,1,
+2024,1190,NGA,1,Nigeria Humanitarian Response Plan 2024,Humanitarian response plan,True,26/08/2025,unmapped_caseload,46388,CLHEA/BF8,1,
+2024,1190,NGA,1,Nigeria Humanitarian Response Plan 2024,Humanitarian response plan,True,26/08/2025,unmapped_caseload,46390,CLNUT/BF0,1,
+2024,1190,NGA,1,Nigeria Humanitarian Response Plan 2024,Humanitarian response plan,True,26/08/2025,unmapped_caseload,46389,CLNUT/BF9,1,
+2024,1190,NGA,1,Nigeria Humanitarian Response Plan 2024,Humanitarian response plan,True,26/08/2025,unmapped_caseload,46789,CLPRO/BF6,1,
+2024,1190,NGA,1,Nigeria Humanitarian Response Plan 2024,Humanitarian response plan,True,26/08/2025,unmapped_caseload,46383,CLSHL/BF3,1,
+2024,1190,NGA,1,Nigeria Humanitarian Response Plan 2024,Humanitarian response plan,True,26/08/2025,unmapped_caseload,46384,CLSHL/BF4,1,
+2024,1190,NGA,1,Nigeria Humanitarian Response Plan 2024,Humanitarian response plan,True,26/08/2025,unmapped_caseload,46391,CLWSH/BF1,1,
+2024,1190,NGA,1,Nigeria Humanitarian Response Plan 2024,Humanitarian response plan,True,26/08/2025,unmapped_caseload,46392,CLWSH/BF2,1,
+2024,1189,NER,1,Niger Besoins Humanitaires et Plan de Réponse 2024,Humanitarian needs and response plan,True,12/02/2025,unmapped_caseload,45989,CLRR/BF1-RR,1,
+2024,1164,,7,Democratic Republic of the Congo Regional Refugee Response Plan 2024,Regional response plan,True,09/10/2024,ambiguous_caseload,,,2,2
+2024,1171,CAF,1,République Centrafricaine Plan de Réponse Humanitaire 2024,Humanitarian response plan,True,02/05/2025,unmapped_caseload,45675,CLRR/BF1-RR,1,
+2024,1178,HTI,1,Haïti Besoins Humanitaires et Plan de Réponse 2024,Humanitarian needs and response plan,True,10/04/2025,unmapped_caseload,48352,CLPRO/BF5-HTS,1,
+2024,1187,COD,1,République Démocratique du Congo Plan de Réponse Humanitaire 2024,Humanitarian response plan,True,02/05/2025,ambiguous_caseload,,,2,4
+2024,1194,MLI,1,Mali Besoins Humanitaires et Plan de Réponse 2024,Humanitarian needs and response plan,True,02/05/2025,unmapped_caseload,45964,CLRR/BF1-RR,1,
+2024,1168,,5,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2024,Regional response plan,True,24/11/2024,ambiguous_caseload,,,2,2
+2024,1168,,5,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2024,Regional response plan,True,24/11/2024,ambiguous_caseload,,,2,6
+2024,1157,SSD,1,South Sudan Humanitarian Needs and Response Plan 2024,Humanitarian needs and response plan,True,24/03/2025,unmapped_caseload,46529,CLRR/BF1-RR,1,
+2024,1180,SOM,1,Somalia Humanitarian Needs and Response Plan 2024,Humanitarian needs and response plan,True,03/06/2025,unmapped_caseload,49357,CLRR/BF1-RR,1,
+2024,1175,SYR,1,Syrian Arab Republic Humanitarian Response Plan 2024,Humanitarian response plan,True,21/07/2026,ambiguous_caseload,,,2,4
+2025,1262,YEM,1,Yemen Humanitarian Needs and Response Plan 2025,Humanitarian needs and response plan,True,25/11/2025,ambiguous_caseload,,,2,26480
+2025,1270,HND,1,Honduras Necesidades Humanitarias y Plan de Respuesta 2025,Humanitarian needs and response plan,True,10/02/2026,unmapped_caseload,56768,CLHEA/BF2,1,
+2025,1267,MOZ,1,Mozambique Humanitarian Needs and Response Plan 2025,Humanitarian needs and response plan,True,25/11/2025,unmapped_caseload,53914,CLCCM/BF2,1,
+2025,1267,MOZ,1,Mozambique Humanitarian Needs and Response Plan 2025,Humanitarian needs and response plan,True,25/11/2025,unmapped_caseload,54296,CLEDU/BF2,1,
+2025,1267,MOZ,1,Mozambique Humanitarian Needs and Response Plan 2025,Humanitarian needs and response plan,True,25/11/2025,unmapped_caseload,53773,CLFSC/BF2,1,
+2025,1267,MOZ,1,Mozambique Humanitarian Needs and Response Plan 2025,Humanitarian needs and response plan,True,25/11/2025,unmapped_caseload,53569,CLHEA/BF2,1,
+2025,1267,MOZ,1,Mozambique Humanitarian Needs and Response Plan 2025,Humanitarian needs and response plan,True,25/11/2025,unmapped_caseload,53980,CLNUT/BF2,1,
+2025,1267,MOZ,1,Mozambique Humanitarian Needs and Response Plan 2025,Humanitarian needs and response plan,True,25/11/2025,unmapped_caseload,53695,CLPRO/BF3,1,
+2025,1267,MOZ,1,Mozambique Humanitarian Needs and Response Plan 2025,Humanitarian needs and response plan,True,25/11/2025,unmapped_caseload,53850,CLPRO/BF5,1,
+2025,1267,MOZ,1,Mozambique Humanitarian Needs and Response Plan 2025,Humanitarian needs and response plan,True,25/11/2025,unmapped_caseload,54306,CLPRO/BF7,1,
+2025,1267,MOZ,1,Mozambique Humanitarian Needs and Response Plan 2025,Humanitarian needs and response plan,True,25/11/2025,unmapped_caseload,52289,CLRR/BF1-RR,1,
+2025,1267,MOZ,1,Mozambique Humanitarian Needs and Response Plan 2025,Humanitarian needs and response plan,True,25/11/2025,unmapped_caseload,53910,CLSHL/BF2,1,
+2025,1267,MOZ,1,Mozambique Humanitarian Needs and Response Plan 2025,Humanitarian needs and response plan,True,25/11/2025,unmapped_caseload,53594,CLWSH/BF2,1,
+2025,1264,NER,1,Niger Besoins Humanitaires et Plan de Réponse 2025,Humanitarian needs and response plan,True,02/06/2026,unmapped_caseload,52456,CLRR/BF1-RR,1,
+2025,1276,SYR,1,Syrian Arab Republic Humanitarian Response Priorities – January-December 2025,Flash appeal,True,25/11/2025,ambiguous_caseload,,,2,4
+2025,1217,,4,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2025,Regional response plan,True,19/11/2025,ambiguous_caseload,,,3,2
+2025,1215,,3,South Sudan Regional Refugee Response Plan 2025,Regional response plan,True,23/09/2025,ambiguous_caseload,,,2,2
+2025,1223,SSD,1,South Sudan Humanitarian Needs and Response Plan 2025,Humanitarian needs and response plan,True,17/02/2026,unmapped_caseload,54293,CLLOG/BF2,1,
+2025,1223,SSD,1,South Sudan Humanitarian Needs and Response Plan 2025,Humanitarian needs and response plan,True,17/02/2026,unmapped_caseload,54294,CLLOG/BF3,1,
+2025,1223,SSD,1,South Sudan Humanitarian Needs and Response Plan 2025,Humanitarian needs and response plan,True,17/02/2026,unmapped_caseload,54295,CLLOG/BF4,1,
+2025,1281,MWI,1,Malawi Drought Response Flash Appeal 2025,Flash appeal,True,24/11/2025,unmapped_caseload,52472,CLPRO/BF2-PRO-GEN,1,
+2026,1565,LKA,1,Sri Lanka Humanitarian Priorities Plan Cyclone Ditwa 2026,Other (included in GHO),True,28/01/2026,unmapped_caseload,60898,CLFSC|AGR|NUT/BF4,1,
+2026,1518,SYR,1,Syrian Arab Republic Humanitarian Needs and Response Plan 2026,Humanitarian needs and response plan,True,03/08/2026,ambiguous_caseload,,,2,4
+2026,1520,YEM,1,Yemen Humanitarian Needs and Response Plan 2026,Humanitarian needs and response plan,True,13/11/2026,ambiguous_caseload,,,2,26479
+2026,1568,LBN,1,Lebanon Flash Appeal 2026,Flash appeal,True,05/06/2026,ambiguous_caseload,,,2,6

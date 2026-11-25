@@ -2,51 +2,51 @@
   {
     "file": "summary_2018",
     "url": "https://api.hpc.tools/v2/public/planSummary?year=2018&includeCaseloads=true&includeIndicators=true&includeFinancials=true",
-    "extracted_at": "2026-11-25T11:46:19.079528+00:00"
+    "extracted_at": "2026-11-25T12:55:47.386067+00:00"
   },
   {
     "file": "summary_2019",
     "url": "https://api.hpc.tools/v2/public/planSummary?year=2019&includeCaseloads=true&includeIndicators=true&includeFinancials=true",
-    "extracted_at": "2026-11-25T11:46:20.279039+00:00"
+    "extracted_at": "2026-11-25T12:55:57.008660+00:00"
   },
   {
     "file": "summary_2020",
     "url": "https://api.hpc.tools/v2/public/planSummary?year=2020&includeCaseloads=true&includeIndicators=true&includeFinancials=true",
-    "extracted_at": "2026-11-25T11:46:21.680934+00:00"
+    "extracted_at": "2026-11-25T12:56:15.050440+00:00"
   },
   {
     "file": "summary_2021",
     "url": "https://api.hpc.tools/v2/public/planSummary?year=2021&includeCaseloads=true&includeIndicators=true&includeFinancials=true",
-    "extracted_at": "2026-11-25T11:46:23.284660+00:00"
+    "extracted_at": "2026-11-25T12:56:29.907170+00:00"
   },
   {
     "file": "summary_2022",
     "url": "https://api.hpc.tools/v2/public/planSummary?year=2022&includeCaseloads=true&includeIndicators=true&includeFinancials=true",
-    "extracted_at": "2026-11-25T11:46:24.922494+00:00"
+    "extracted_at": "2026-11-25T12:56:31.287322+00:00"
   },
   {
     "file": "summary_2023",
     "url": "https://api.hpc.tools/v2/public/planSummary?year=2023&includeCaseloads=true&includeIndicators=true&includeFinancials=true",
-    "extracted_at": "2026-11-25T11:46:26.533507+00:00"
+    "extracted_at": "2026-11-25T12:56:54.971772+00:00"
   },
   {
     "file": "summary_2024",
     "url": "https://api.hpc.tools/v2/public/planSummary?year=2024&includeCaseloads=true&includeIndicators=true&includeFinancials=true",
-    "extracted_at": "2026-11-25T11:46:28.359665+00:00"
+    "extracted_at": "2026-11-25T12:56:56.409226+00:00"
   },
   {
     "file": "summary_2025",
     "url": "https://api.hpc.tools/v2/public/planSummary?year=2025&includeCaseloads=true&includeIndicators=true&includeFinancials=true",
-    "extracted_at": "2026-11-25T11:46:29.992280+00:00"
+    "extracted_at": "2026-11-25T12:57:19.874039+00:00"
   },
   {
     "file": "summary_2026",
     "url": "https://api.hpc.tools/v2/public/planSummary?year=2026&includeCaseloads=true&includeIndicators=true&includeFinancials=true",
-    "extracted_at": "2026-11-25T11:46:31.127887+00:00"
+    "extracted_at": "2026-11-25T12:57:26.307591+00:00"
   },
   {
     "file": "summary_2027",
     "url": "https://api.hpc.tools/v2/public/planSummary?year=2027&includeCaseloads=true&includeIndicators=true&includeFinancials=true",
-    "extracted_at": "2026-11-25T11:46:31.817280+00:00"
+    "extracted_at": "2026-11-25T12:57:26.959962+00:00"
   }
 ]
