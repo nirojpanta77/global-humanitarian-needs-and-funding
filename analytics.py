@@ -1,0 +1,79 @@
+"""Build analysis-ready tables from native HPC annual CSVs."""
+import argparse
+from pathlib import Path
+import pandas as pd
+
+def read(root, name, year):
+    return pd.read_csv(root/'tables'/name/f'{year}.csv',dtype='string',keep_default_na=False).replace('',pd.NA)
+
+def key(v):
+    if pd.isna(v): return None
+    s=str(v)
+    return s[:-2] if s.endswith('.0') and s[:-2].isdigit() else s
+
+def num(v):
+    return pd.to_numeric(v,errors='coerce')
+
+def unique_value(rows, field):
+    if len(rows)!=1 or field not in rows[0]: return None
+    v=num(rows[0][field])
+    return None if pd.isna(v) else v
+
+def build(root,year):
+    plans=read(root,'plans',year); cs=read(root,'caseloads',year); gs=read(root,'global_clusters',year); fs=read(root,'financial_breakdowns',year); totals=read(root,'financial_totals',year)
+    out=[]; planout=[]; qa=[]
+    def group(df,field):
+        return {key(k):g.to_dict('records') for k,g in df.groupby(field)} if field in df else {}
+    cg=group(cs,'plan_id'); gg=group(gs,'plan_id'); fg=group(fs,'plan_id'); tg=group(totals,'plan_id')
+    for p in plans.to_dict('records'):
+        pid=key(p.get('plan_id'))
+        base={'year':year,'plan_id':pid,'iso3':p.get('iso3'),'country_count':p.get('country_count'),'plan_name':p.get('name'),'plan_type':p.get('planType'),'included_gho':p.get('includedGHO'),'last_published_date':p.get('lastPublishedDate')}
+        cas=cg.get(pid,[]); finances=fg.get(pid,[]); total=tg.get(pid,[])
+        def financial(rows,kind,field): return unique_value([r for r in rows if r.get('kind')==kind],field)
+        def metrics(row,candidates):
+            row['caseload_count']=len(candidates)
+            row['caseload_id']=candidates[0].get('caseloadId') if len(candidates)==1 else None
+            for dest,src in [('population','totalPopulation'),('affected','affected'),('pin','inNeed'),('target','target'),('expected_reach','expectedReach')]: row[dest]=unique_value(candidates,src)
+        def coverage(row):
+            a,b=row.get('requirements_usd'),row.get('funding_usd')
+            row['funding_pct']=100*b/a if a is not None and b is not None and a>0 else None
+        overall={**base,'requirements_usd':financial(total,'requirements','totalRequirements'),'funding_usd':financial(total,'funding','totalFundingInsidePlan'),'outside_plan_funding_usd':financial(total,'funding','totalFundingOutsidePlan'),'pledges_usd':financial(total,'funding','totalPledges')}
+        metrics(overall,[r for r in cas if r.get('caseloadType')=='plan']); coverage(overall); planout.append(overall)
+        # Only official global codes and direct global financial breakdowns.
+        # PRO represents general protection, not the overall Protection envelope.
+        sector={}
+        for g in gg.get(pid,[]):
+            gid=key(g.get('globalClusterId'))
+            if gid: sector[gid]=g
+        global_fin=[r for r in finances if r.get('dimension')=='byGlobalCluster']
+        for f in global_fin:
+            gid=key(f.get('globalClusterId'))
+            if gid and gid not in sector: sector[gid]={'globalClusterId':gid,'globalClusterName':gid if not gid.isdigit() else None}
+        for gid,g in sector.items():
+            code=g.get('globalClusterCode')
+            candidates=[r for r in cas if r.get('caseloadType')=='cluster' and pd.notna(code) and r.get('availableGlobalClusterCode')==code]
+            financial_rows=[r for r in global_fin if key(r.get('globalClusterId'))==gid]
+            row={**base,'global_cluster_id':gid,'global_cluster_code':code,'global_cluster_name':g.get('globalClusterName'),'global_cluster_type':g.get('globalClusterType'),'scope':'general_protection' if pd.notna(code) and code=='PRO' else 'global_sector','requirements_usd':financial(financial_rows,'requirements','requirements'),'funding_usd':financial(financial_rows,'funding','funding')}
+            metrics(row,candidates); coverage(row); out.append(row)
+            if len(candidates)>1: qa.append({**base,'global_cluster_id':gid,'issue':'ambiguous_caseload','count':len(candidates)})
+    return planout,out,qa
+
+def main():
+    ap=argparse.ArgumentParser();ap.add_argument('--output',default='output');args=ap.parse_args();root=Path(args.output)
+    allrows={'plan_analytics':[],'global_sector_analytics':[],'analytics_qa':[]}
+    for path in sorted((root/'tables'/'plans').glob('*.csv')):
+        year=int(path.stem)
+        for name,rows in zip(allrows,build(root,year)):
+            allrows[name].extend(rows)
+    for name,rows in allrows.items():
+        folder=root/'tables'/name;folder.mkdir(parents=True,exist_ok=True)
+        frame=pd.DataFrame(rows)
+        if frame.empty: frame=pd.DataFrame(columns=['year','plan_id'])
+        if name!='analytics_qa' and frame.duplicated(['year','plan_id']+(['global_cluster_id'] if name=='global_sector_analytics' else [])).any(): raise ValueError('Duplicate analytical grain: '+name)
+        # Keys and metadata are text; metrics are numeric.
+        for col in frame:
+            if col not in ('year','country_count','caseload_count','count','population','affected','pin','target','expected_reach','requirements_usd','funding_usd','outside_plan_funding_usd','pledges_usd','funding_pct'):
+                frame[col]=frame[col].astype('string')
+        frame.to_csv(folder/'all_years.csv',index=False);frame.to_parquet(folder/'all_years.parquet',index=False)
+        print(name,len(frame),flush=True)
+if __name__=='__main__':main()
