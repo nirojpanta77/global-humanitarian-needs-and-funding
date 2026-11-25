@@ -1,5 +1,5 @@
 """Build analysis-ready tables from native HPC annual CSVs."""
-import argparse
+import argparse, json, re
 from pathlib import Path
 import pandas as pd
 
@@ -18,6 +18,42 @@ def unique_value(rows, field):
     if len(rows)!=1 or field not in rows[0]: return None
     v=num(rows[0][field])
     return None if pd.isna(v) else v
+
+def resolve_caseloads(cas, globals_):
+    """Return source rows with explicit or narrowly supported sector mappings."""
+    by_entity={}
+    codes=set()
+    for g in globals_:
+        code=key(g.get('globalClusterCode'))
+        if not code: continue
+        codes.add(code)
+        ids=json.loads(key(g.get('planClusters')) or '[]')
+        for entity in ids: by_entity.setdefault(key(entity),set()).add(code)
+    rows=[r for r in cas if key(r.get('caseloadType'))=='cluster']
+    counts={}
+    for r in rows:
+        entity=key(r.get('entityId'))
+        counts[entity]=counts.get(entity,0)+1
+    resolved=[]
+    for r in rows:
+        explicit=key(r.get('availableGlobalClusterCode'))
+        ref=re.sub(r'\s+','',key(r.get('caseloadCustomRef')) or '').upper()
+        entity=key(r.get('entityId')); linked=by_entity.get(entity,set())
+        if ref.endswith('-PRO-OVE'):
+            code,method='PRO-OVE','explicit_protection_envelope'
+        elif explicit and explicit.lower() not in ('n/a','na'):
+            code,method=explicit,'source_global_code'
+        else:
+            suffix=[c for c in linked if ref.endswith('-'+c)]
+            # Prefer the longest exact suffix, e.g. PRO-CPN over a shorter code.
+            if suffix:
+                code,method=max(suffix,key=len),'reference_suffix_and_entity'
+            elif len(linked)==1 and entity is not None and counts[entity]==1:
+                code,method=next(iter(linked)),'unique_entity_mapping'
+            else:
+                code,method=None,'unresolved'
+        resolved.append((r,code,method))
+    return resolved
 
 def build(root,year):
     plans=read(root,'plans',year); cs=read(root,'caseloads',year); gs=read(root,'global_clusters',year); fs=read(root,'financial_breakdowns',year); totals=read(root,'financial_totals',year)
@@ -49,12 +85,16 @@ def build(root,year):
         for f in global_fin:
             gid=key(f.get('globalClusterId'))
             if gid and gid not in sector: sector[gid]={'globalClusterId':gid,'globalClusterName':gid if not gid.isdigit() else None}
+        resolved=resolve_caseloads(cas,gg.get(pid,[]))
+        for r,code,method in resolved:
+            if code is None: qa.append({**base,'issue':'unmapped_caseload','caseload_id':r.get('caseloadId'),'caseload_ref':r.get('caseloadCustomRef'),'count':1})
         for gid,g in sector.items():
             code=g.get('globalClusterCode')
-            candidates=[r for r in cas if key(r.get('caseloadType'))=='cluster' and pd.notna(code) and key(r.get('availableGlobalClusterCode'))==key(code)]
+            matched=[(r,method) for r,mapped,method in resolved if pd.notna(code) and mapped==key(code)]
+            candidates=[r for r,method in matched]
             financial_rows=[r for r in global_fin if key(r.get('globalClusterId'))==gid]
             row={**base,'global_cluster_id':gid,'global_cluster_code':code,'global_cluster_name':g.get('globalClusterName'),'global_cluster_type':g.get('globalClusterType'),'scope':'general_protection' if pd.notna(code) and code=='PRO' else 'global_sector','requirements_usd':financial(financial_rows,'requirements','requirements'),'funding_usd':financial(financial_rows,'funding','funding')}
-            metrics(row,candidates); coverage(row); out.append(row)
+            metrics(row,candidates); row['caseload_mapping_method']=matched[0][1] if len(matched)==1 else None; coverage(row); out.append(row)
             if len(candidates)>1: qa.append({**base,'global_cluster_id':gid,'issue':'ambiguous_caseload','count':len(candidates)})
         # Explicit overall Protection caseloads are retained separately from the
         # general Protection and AoR financial allocations. Do not sum scopes.
@@ -63,7 +103,7 @@ def build(root,year):
             parent=key(envelopes[0].get('entityId')) if len(envelopes)==1 else None
             linked=[r for r in finances if parent and key(r.get('dimension'))=='byCluster' and key(r.get('clusterId'))==parent]
             row={**base,'global_cluster_id':'PRO-OVE','global_cluster_code':'PRO-OVE','global_cluster_name':'Protection (overall)','global_cluster_type':'aggregate','scope':'protection_envelope','requirements_usd':financial(linked,'requirements','requirements'),'funding_usd':financial(linked,'funding','funding')}
-            metrics(row,envelopes); coverage(row); out.append(row)
+            metrics(row,envelopes); row['caseload_mapping_method']='explicit_protection_envelope' if len(envelopes)==1 else None; coverage(row); out.append(row)
             if len(envelopes)>1: qa.append({**base,'global_cluster_id':'PRO-OVE','issue':'ambiguous_protection_envelope','count':len(envelopes)})
     return planout,out,qa
 
