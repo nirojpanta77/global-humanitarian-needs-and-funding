@@ -5,7 +5,7 @@ import pandas as pd
 import requests
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
-URL='https://api.hpc.tools/v1/fts/flow/custom-search'
+URL='https://api.hpc.tools/v1/public/fts/flow'
 
 def parse(payload):
     if payload.get('status')!='ok': raise ValueError('FTS status not ok')
@@ -37,7 +37,7 @@ def get(pid,raw):
     s.mount('https://',HTTPAdapter(max_retries=Retry(total=3,backoff_factor=2,status_forcelist=[429,500,502,503,504],respect_retry_after_header=True)))
     try:
         time.sleep(0.5)
-        response=s.get(URL,params={'planid':pid,'groupby':'globalcluster'},timeout=(15,120))
+        response=s.get(URL,params={'planid':pid,'groupby':'globalcluster','report':3,'format':'json','limit':1},timeout=(15,120))
         response.raise_for_status(); payload=response.json()
         with gzip.open(raw/f'fts_plan_{pid}.json.gz','wt',encoding='utf-8') as f: json.dump(payload,f)
         total,rows=parse(payload)
@@ -57,7 +57,7 @@ def main():
     stamp=dt.datetime.now(dt.timezone.utc).isoformat()
     with concurrent.futures.ThreadPoolExecutor(max_workers=3) as pool:
         for pid,total,rows,error in pool.map(lambda p:get(p,raw),pids):
-            print('FTS',pid,'error' if error else 'ok',flush=True)
+            print('FTS',pid,error if error else 'ok',flush=True)
             status.append({'plan_id':pid,'fts_status':'unavailable' if error else 'ok','fts_error':error,'fts_extracted_at':stamp})
             if not error:
                 totals.append({'plan_id':pid,**total})
