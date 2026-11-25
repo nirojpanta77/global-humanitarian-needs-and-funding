@@ -2,14 +2,14 @@ name: Refresh humanitarian data
 on:
   push:
     branches: [main]
-    paths: [pipeline.py, analytics.py, requirements.txt, 'tests/**', '.github/workflows/refresh.yml']
+    paths: [pipeline.py, analytics.py, fts.py, requirements.txt, 'tests/**', '.github/workflows/refresh.yml']
   schedule:
     - cron: '37 4 * * *'
     - cron: '17 2 * * 0'
   workflow_dispatch:
     inputs:
       deep:
-        description: Download detailed plans and country FTS reports
+        description: Download detailed plans in addition to plan-scoped FTS
         type: boolean
         default: false
 permissions:
@@ -36,6 +36,8 @@ jobs:
           if [ "$DEEP" = true ]; then python pipeline.py --deep; else python pipeline.py; fi
       - name: Build consolidated analytics
         run: python analytics.py
+      - name: Reconcile plan-scoped FTS data
+        run: python fts.py
       - uses: actions/upload-artifact@v4
         with:
           name: hpc-${{ github.run_id }}
