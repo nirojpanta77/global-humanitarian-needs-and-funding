@@ -1,0 +1,81 @@
+import argparse, datetime as dt, gzip, json, pathlib, time
+from collections import defaultdict
+import pandas as pd
+import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
+BASE='https://api.hpc.tools'
+TABLES='plans countries plan_countries clusters global_clusters cluster_mapping entities monitoring_periods organizations caseloads caseload_measurements indicators indicator_measurements financial_totals financial_breakdowns master_candidates qa fts_country_reports'.split()
+
+def scalar(row):
+    return {k:json.dumps(v,ensure_ascii=False,sort_keys=True) if isinstance(v,(dict,list)) else v for k,v in row.items()}
+
+def normalize(payload,year):
+    plans=payload['data']['planData']
+    if not isinstance(plans,list): raise ValueError('Unexpected planData schema')
+    t=defaultdict(list); seen=set(); countries={}
+    for p in plans:
+        pid=p['planId']
+        if pid in seen: raise ValueError(f'Duplicate plan {pid}')
+        seen.add(pid)
+        def add(table,row): t[table].append({**scalar(row),'year':year,'plan_id':pid})
+        pc=p.get('planCountries') or []; iso=pc[0].get('iso3') if len(pc)==1 else None
+        add('plans',{**{k:v for k,v in p.items() if not isinstance(v,(list,dict))},'iso3':iso,'country_count':len(pc)})
+        for c in pc:
+            add('plan_countries',c); countries[c['id']]=scalar(c)
+        for field,table in [('planClusters','clusters'),('planGlobalClusters','global_clusters'),('planEntities','entities'),('monitoringPeriods','monitoring_periods'),('organizations','organizations')]:
+            for r in p.get(field) or []: add(table,r)
+        mapping=defaultdict(set)
+        for g in p.get('planGlobalClusters') or []:
+            for cid in g.get('planClusters') or []:
+                mapping[cid].add(g['globalClusterId']); add('cluster_mapping',{'cluster_id':cid,'global_cluster_id':g['globalClusterId']})
+        for field,ident in [('caseloads','caseloadId'),('indicators','indicatorId')]:
+            for r in p.get(field) or []:
+                add(field,{k:v for k,v in r.items() if k!='measurements'})
+                for m in r.get('measurements') or []: add(field.rstrip('s')+'_measurements',{**m,ident:r[ident]})
+        indexed=defaultdict(list)
+        for kind in ('requirements','funding'):
+            block=(p.get('financialData') or {}).get(kind) or {}
+            add('financial_totals',{'kind':kind,**{k:v for k,v in block.items() if k!='breakdown'}})
+            for dim,rows in (block.get('breakdown') or {}).items():
+                if isinstance(rows,dict): rows=[{**r,'organizationId':org} for org,rr in rows.items() for r in rr]
+                for r in rows or []:
+                    add('financial_breakdowns',{'kind':kind,'dimension':dim,**r})
+                    if dim=='byCluster': indexed[kind,r.get('clusterId')].append(r.get(kind))
+        for c in p.get('planClusters') or []:
+            cid=c['clusterId']; req=indexed['requirements',cid]; fund=indexed['funding',cid]
+            matches=[r for r in p.get('caseloads') or [] if r.get('clusterId')==cid or (r.get('caseloadType')=='cluster' and r.get('entityId')==cid)]
+            if len(matches)!=1 or len(req)>1 or len(fund)>1: add('qa',{'cluster_id':cid,'caseload_count':len(matches),'requirement_count':len(req),'funding_count':len(fund)})
+            r=matches[0] if len(matches)==1 else {}; a=req[0] if len(req)==1 else None; b=fund[0] if len(fund)==1 else None
+            add('master_candidates',{'iso3':iso,'cluster_id':cid,'cluster_name':c.get('clusterName'),'global_cluster_id':next(iter(mapping[cid])) if len(mapping[cid])==1 else None,'pin':r.get('inNeed'),'target':r.get('target'),'affected':r.get('affected'),'population':r.get('totalPopulation'),'requirements_usd':a,'funding_usd':b,'funding_pct':100*b/a if isinstance(a,(int,float)) and a>0 and isinstance(b,(int,float)) else None})
+    t['countries']=list(countries.values()); return t
+
+def main():
+    ap=argparse.ArgumentParser(); ap.add_argument('--start',type=int,default=2018); ap.add_argument('--end',type=int,default=dt.date.today().year+1); ap.add_argument('--deep',action='store_true'); ap.add_argument('--output',default='output'); args=ap.parse_args()
+    if args.start>args.end: ap.error('Invalid years')
+    root=pathlib.Path(args.output); raw=root/'raw'; raw.mkdir(parents=True,exist_ok=True)
+    s=requests.Session(); s.headers['User-Agent']='GlobalHumanitarianNeedsFunding/1.0'; s.mount('https://',HTTPAdapter(max_retries=Retry(total=5,backoff_factor=2,status_forcelist=[429,500,502,503,504])))
+    manifest=[]
+    def get(path,params,name):
+        time.sleep(.5); response=s.get(BASE+path,params=params,timeout=(20,180)); response.raise_for_status(); data=response.json()
+        if not isinstance(data,dict) or data.get('status') not in (None,'ok'): raise ValueError(f'API error {name}')
+        with gzip.open(raw/(name+'.json.gz'),'wt',encoding='utf-8') as f: json.dump(data,f,ensure_ascii=False)
+        manifest.append({'file':name,'url':response.url,'extracted_at':dt.datetime.now(dt.timezone.utc).isoformat()}); return data
+    for year in range(args.start,args.end+1):
+        data=get('/v2/public/planSummary',{'year':year,'includeCaseloads':'true','includeIndicators':'true','includeFinancials':'true'},f'summary_{year}')
+        tables=normalize(data,year)
+        if not tables['plans'] and year<=dt.date.today().year: raise ValueError(f'Empty historical/current year {year}')
+        if args.deep:
+            for p in tables['plans']:
+                pid=p['plan_id']; get(f'/v2/public/plan/{pid}',{'content':'entities','disaggregation':'true'},f'plan_{year}_{pid}')
+            for c in tables['countries']:
+                iso=c.get('iso3')
+                if not iso: continue
+                name=f'fts_{year}_{iso}'
+                report=get('/v1/public/fts/flow',{'countryISO3':iso,'year':year,'groupBy':'globalCluster','report':3,'format':'json','limit':1000},name)
+                tables['fts_country_reports'].append({'year':year,'iso3':iso,'raw_file':name+'.json.gz','report_json':json.dumps(report),'qa':'raw; pagination not certified'})
+        for name in TABLES:
+            frame=pd.DataFrame(tables.get(name,[])); folder=root/'tables'/name; folder.mkdir(parents=True,exist_ok=True)
+            frame.to_csv(folder/f'{year}.csv',index=False); frame.to_parquet(folder/f'{year}.parquet',index=False)
+    (root/'manifest.json').write_text(json.dumps(manifest,indent=2),encoding='utf-8')
+if __name__=='__main__': main()
