@@ -56,6 +56,15 @@ def build(root,year):
             row={**base,'global_cluster_id':gid,'global_cluster_code':code,'global_cluster_name':g.get('globalClusterName'),'global_cluster_type':g.get('globalClusterType'),'scope':'general_protection' if pd.notna(code) and code=='PRO' else 'global_sector','requirements_usd':financial(financial_rows,'requirements','requirements'),'funding_usd':financial(financial_rows,'funding','funding')}
             metrics(row,candidates); coverage(row); out.append(row)
             if len(candidates)>1: qa.append({**base,'global_cluster_id':gid,'issue':'ambiguous_caseload','count':len(candidates)})
+        # Explicit overall Protection caseloads are retained separately from the
+        # general Protection and AoR financial allocations. Do not sum scopes.
+        envelopes=[r for r in cas if key(r.get('caseloadType'))=='cluster' and str(r.get('caseloadCustomRef','')).endswith('-PRO-OVE')]
+        if envelopes:
+            parent=key(envelopes[0].get('entityId')) if len(envelopes)==1 else None
+            linked=[r for r in finances if parent and key(r.get('dimension'))=='byCluster' and key(r.get('clusterId'))==parent]
+            row={**base,'global_cluster_id':'PRO-OVE','global_cluster_code':'PRO-OVE','global_cluster_name':'Protection (overall)','global_cluster_type':'aggregate','scope':'protection_envelope','requirements_usd':financial(linked,'requirements','requirements'),'funding_usd':financial(linked,'funding','funding')}
+            metrics(row,envelopes); coverage(row); out.append(row)
+            if len(envelopes)>1: qa.append({**base,'global_cluster_id':'PRO-OVE','issue':'ambiguous_protection_envelope','count':len(envelopes)})
     return planout,out,qa
 
 def main():
