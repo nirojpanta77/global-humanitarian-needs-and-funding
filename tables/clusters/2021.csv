@@ -1,0 +1,452 @@
+clusterId,clusterName,clusterCustomRef,year,plan_id
+5891,Rapid Response Mechanism (RRM),CLCSS1,2021,1024
+5892,Education,CLEDU,2021,1024
+5893,Health,CLHEA,2021,1024
+5894,Nutrition,CLNUT,2021,1024
+5895,Shelter and NFI,CLSHL,2021,1024
+5896,Food Security and Agriculture,CLFSC,2021,1024
+5897,Logistics,CLLOG,2021,1024
+5898,Camp Coordination & Camp Management,CLCCM,2021,1024
+5899,"WASH, Sanitation and Hygiene",CLWSH,2021,1024
+5900,Emergency Telecommunications,CLTEL,2021,1024
+5901,Protection,CLPRO,2021,1024
+5936,Refugees and Migrants Multisector,CLRR,2021,1024
+6168,Coordination,CLCSS,2021,1024
+6073,Education,CLEDU,2021,1042
+6074,Food Security and Livelihoods (FSL),CLFSC,2021,1042
+6075,Health,CLHEA,2021,1042
+6076,Nutrition,CLNUT,2021,1042
+6077,Protection,CLPRO,2021,1042
+6078,"Water, Sanitation and Hygiene (WASH)",CLWSH,2021,1042
+6079,Shelter,CLSHL,2021,1042
+6080,Refugee response,CLRR,2021,1042
+6081,Camp Coordination Camp Management (CCCM),CLCCM,2021,1042
+6082,Coordination and Common Services,CLCSS,2021,1042
+5958,Food Security,CLFSC,2021,1021
+6157,Multipurpose CBI,CLMPC,2021,1021
+6158,WASH,CLWSH,2021,1021
+6159,Common Services,CLCSS,2021,1021
+6160,Health,CLHEA,2021,1021
+6161,Shelter and NFIs,CLSHL,2021,1021
+6162,Education,CLEDU,2021,1021
+6163,Protection,CLPRO,2021,1021
+6164,Humanitarian Transportation,CLLOG,2021,1021
+6165,Integration,CLERY,2021,1021
+6166,Nutrition,CLNUT,2021,1021
+5990,Camp Coordination and Camp Management,CLCCM,2021,1032
+5991,Early Recovery and Livelihoods,CLERY,2021,1032
+5992,Education,CLEDU,2021,1032
+5993,Emergency Shelter and NFI,CLSHL,2021,1032
+5994,Food Security,CLFSC,2021,1032
+5995,Health,CLHEA,2021,1032
+5996,Nutrition,CLNUT,2021,1032
+5997,Protection,CLPRO,2021,1032
+5998,Water and Sanitation,CLWSH,2021,1032
+5999,Emergency Telecommunications,CLTEL,2021,1032
+6000,Logistics,CLLOG,2021,1032
+6001,COORDINATION AND SUPPORT SERVICES,CLCSS,2021,1032
+5890,Protection,CLPRO,2021,1023
+5908,Site Management and Site Development,CLCCM,2021,1023
+5909,Food Security,CLFSC,2021,1023
+5910,Education,CLEDU,2021,1023
+5911,Health,CLHEA,2021,1023
+5912,Nutrition,CLNUT,2021,1023
+5913,Shelter/Non-Food Items,CLSHL,2021,1023
+5914,Water Sanitation and Hygiene,CLWSH,2021,1023
+5915,Communication with Communities,CLCSS1,2021,1023
+5916,Logistics,CLLOG,2021,1023
+5917,Emergency Telecommunications,CLTEL,2021,1023
+5918,Coordination and Staff Health,CLCSS,2021,1023
+5854,Protection,CLPRO,2021,1013
+5873,Camp Coordination and Camp Management,CLCCM,2021,1013
+5874,Coordination and Common Services,CLCSS,2021,1013
+5875,Education,CLEDU,2021,1013
+5876,Shelter and Non-Food Items,CLSHL,2021,1013
+5877,Food Security and Livelihoods,CLFSC,2021,1013
+5878,Logistics,CLLOG,2021,1013
+5879,Health,CLHEA,2021,1013
+5880,Nutrition,CLNUT,2021,1013
+5881,Refugee Response,CLRR,2021,1013
+5882,"Water, Sanitation and Hygiene",CLWSH,2021,1013
+5855,Common Services,CLCSS,2021,1014
+5856,Education,CLEDU,2021,1014
+5857,Emergency Shelter and Non-Food Items,CLSHL,2021,1014
+5858,Food Security and Livelihoods,CLFSC,2021,1014
+5859,Health,CLHEA,2021,1014
+5860,Logistics and Emergency Telecommunications,CLLOG-TEL,2021,1014
+5861,Nutrition,CLNUT,2021,1014
+5862,Protection,CLPRO,2021,1014
+5863,"Water, Sanitation and Hygiene",CLWSH,2021,1014
+5864,Refugee Response,CLRR,2021,1014
+5883,Food Security and Livelihoods,CLFSC,2021,1015
+5884,Health,CLHEA,2021,1015
+5885,Protection,CLPRO,2021,1015
+5886,Shelter / Non-Food Items (NFI),CLSHL,2021,1015
+5887,WASH,CLWSH,2021,1015
+5888,Coordination and common services,CLCSS,2021,1015
+5889,Multipurpose cash,CLMPC,2021,1015
+5902,Education,CLEDU,2021,1015
+5866,Protección,CLPRO,2021,1016
+5867,Seguridad Alimentaria y Nutrición,CLFSC,2021,1016
+5868,Salud,CLHEA,2021,1016
+5869,"Agua, Saneamiento e Higiene",CLWSH,2021,1016
+5870,Alojamientos y Asentamientos,CLSHL,2021,1016
+5871,Recuperación Temprana,CLERY,2021,1016
+5872,Educación en Emergencias,CLEDU,2021,1016
+6139,Coordinación,CLCSS,2021,1016
+5904,Protection,CLPRO,2021,1025
+6124,Abris/NFI/CCCM,CLSHL,2021,1025
+6125,Education,CLEDU,2021,1025
+6126,"Eau, hygiène et assainissement",CLWSH,2021,1025
+6127,Logistique,CLLOG,2021,1025
+6128,Nutrition,CLNUT,2021,1025
+6141,Santé,CLHEA,2021,1025
+6142,Sécurité alimentaire,CLFSC,2021,1025
+6143,Coordination,CLCSS,2021,1025
+6144,Réponse aux réfugiés,CLRR,2021,1025
+6145,Télécommunication d'urgence,CLTEL,2021,1025
+5935,"Common Services (Logistics, Coordination)",CLCSS,2021,1027
+5950,Education,CLEDU,2021,1027
+5951,Food Security,CLFSC,2021,1027
+5952,Health,CLHEA,2021,1027
+5953,Protection,CLPRO,2021,1027
+5954,Shelter/NFIs,CLSHL,2021,1027
+5955,WASH,CLWSH,2021,1027
+5956,Emergency Telecommunications,CLTEL,2021,1027
+5957,Multi-Purpose Cash Assistance (MPCA),CLMPC,2021,1027
+5937,Abris/AME,CLSHL,2021,1028
+5938,CCCM,CLCCM,2021,1028
+5939,"Eau, Hygiène et Assainissement",CLWSH,2021,1028
+5940,Education,CLEDU,2021,1028
+5941,Nutrition,CLNUT,2021,1028
+5942,Protection,CLPRO,2021,1028
+5943,Santé,CLHEA,2021,1028
+5944,Sécurité Alimentaire,CLFSC,2021,1028
+5945,Réponse aux Réfugiés,CLRR,2021,1028
+5946,Coordination,CLCSS,2021,1028
+5947,Logistique,CLLOG,2021,1028
+5959,Coordination and Support Services,CLCSS,2021,1030
+5960,Early Recovery,CLERY,2021,1030
+5961,Education,CLEDU,2021,1030
+5962,Food Security,CLFSC,2021,1030
+5963,Health,CLHEA,2021,1030
+5964,Nutrition,CLNUT,2021,1030
+5965,Protection,CLPRO,2021,1030
+5966,Shelter and NFI,CLSHL,2021,1030
+5967,"Water, Sanitation and Hygiene",CLWSH,2021,1030
+5968,Multi-Purpose Cash Assistance,CLMPC,2021,1030
+5969,Refugee Response,CLRR,2021,1030
+5970,Education in Emergencies,CLEDU,2021,1031
+5971,Emergency Shelter and NFI,CLSHL,2021,1031
+5972,Food Security and Agriculture,CLFSC,2021,1031
+5973,Health,CLHEA,2021,1031
+5974,Nutrition,CLNUT,2021,1031
+5975,Protection,CLPRO,2021,1031
+5976,"Water, Sanitation and Hygiene",CLWSH,2021,1031
+5977,Coordination and Common Services,CLCSS,2021,1031
+5978,Aviation,CLLOG,2021,1031
+6002,Abris/NFI,CLSHL,2021,1033
+6003,Coordination,CLCSS,2021,1033
+6004,"Eau, Hygiène et Assainissement",CLWSH,2021,1033
+6005,Education,CLEDU,2021,1033
+6006,Nutrition,CLNUT,2021,1033
+6007,Protection,CLPRO,2021,1033
+6008,Réponse aux Réfugiés,CLRR,2021,1033
+6009,Santé,CLHEA,2021,1033
+6010,Sécurité Alimentaire,CLFSC,2021,1033
+6011,Services humanitaires communs,CLLOG,2021,1033
+6041,Coordination and  Common Services,CLCSS,2021,1034
+6042,Education,CLEDU,2021,1034
+6043,WASH,CLWSH,2021,1034
+6044,Nutrition,CLNUT,2021,1034
+6045,Food Security,CLFSC,2021,1034
+6046,Health,CLHEA,2021,1034
+6047,Shelter,CLSHL,2021,1034
+6048,Protection,CLPRO,2021,1034
+6049,Refugee Response,CLRR,2021,1034
+6012,Coordination and Common Services,CLCSS,2021,1035
+6013,Protection,CLPRO,2021,1035
+6014,Education,CLEDU,2021,1035
+6015,Emergency Livelihoods,CLERY,2021,1035
+6016,Food Security,CLFSC,2021,1035
+6017,Camp Coordination and Camp Management,CLCCM,2021,1035
+6018,Health,CLHEA,2021,1035
+6019,Shelter and Non-Food Items,CLSHL,2021,1035
+6020,"Water, Sanitation and Hygiene",CLWSH,2021,1035
+6021,Multi-Purpose Cash Assistance,CLMPC,2021,1035
+6022,Abris/Biens Non Alimentaires,CLSHL,2021,1036
+6023,Coordination,CLCSS,2021,1036
+6024,Eau Hygiène et Assainissement,CLWSH,2021,1036
+6025,Education,CLEDU,2021,1036
+6026,Nutrition,CLNUT,2021,1036
+6027,Protection,CLPRO,2021,1036
+6028,Santé,CLHEA,2021,1036
+6029,Sécurité alimentaire,CLFSC,2021,1036
+6146,Réponse aux Réfugiés,CLRR,2021,1036
+6030,Abris/AME,CLSHL,2021,1037
+6031,Coordination,CLCSS,2021,1037
+6032,"Eau, Hygiène et Assainissement",CLWSH,2021,1037
+6033,Education,CLEDU,2021,1037
+6034,Gestion des Sites d’Accueil Temporaires,CLCCM,2021,1037
+6035,Logistique,CLLOG,2021,1037
+6036,Nutrition,CLNUT,2021,1037
+6037,Protection,CLPRO,2021,1037
+6038,Réponse aux Réfugiés,CLRR,2021,1037
+6039,Santé,CLHEA,2021,1037
+6040,Sécurité alimentaire,CLFSC,2021,1037
+6112,Abris / Articles Non-Alimentaires,CLSHL,2021,1039
+6129,Coordination,CLCSS,2021,1039
+6130,"Eau, Hygiène et Assainissement",CLWSH,2021,1039
+6131,Education,CLEDU,2021,1039
+6132,Logistique,CLLOG,2021,1039
+6133,Nutrition,CLNUT,2021,1039
+6134,Protection,CLPRO,2021,1039
+6135,Santé,CLHEA,2021,1039
+6136,Sécurité alimentaire,CLFSC,2021,1039
+6137,Réponse aux Réfugiés,CLRR,2021,1039
+6138,Réponse aux Rapatriés,CLMS,2021,1039
+6113,Camp Coordination and Camp Management (CCCM),CLCCM,2021,1040
+6114,Coordination and Common Services,CLCSS,2021,1040
+6115,Education,CLEDU,2021,1040
+6116,Food Security and Livelihood,CLFSC,2021,1040
+6117,Health,CLHEA,2021,1040
+6118,Logistics,CLLOG,2021,1040
+6119,Nutrition,CLNUT,2021,1040
+6120,Protection,CLPRO,2021,1040
+6121,Shelter/NFIs,CLSHL,2021,1040
+6122,"Water, Sanitation and Hygiene (WASH)",CLWSH,2021,1040
+6123,Refugee Response,CLRR,2021,1040
+6054,Agriculture,CLAGR,2021,1041
+6055,Education,CLEDU,2021,1041
+6056,Emergency Shelter and NFIs,CLSHL,2021,1041
+6057,Food,CLFSC,2021,1041
+6058,Health,CLHEA,2021,1041
+6059,Logistics,CLLOG,2021,1041
+6060,Nutrition,CLNUT,2021,1041
+6061,Protection,CLPRO,2021,1041
+6062,"Water, Sanitation and Hygiene",CLWSH,2021,1041
+6063,Coordination,CLCSS,2021,1041
+6140,Camp Coordination and Camp Management,CLCCM,2021,1041
+6096,Education,CLEDU,2021,1046
+6097,Food Security,CLFSC,2021,1046
+6098,Health,CLHEA,2021,1046
+6099,Nutrition,CLNUT,2021,1046
+6100,Protection,CLPRO,2021,1046
+6101,Shelter / NFI / CCCM,CLSHL,2021,1046
+6102,WASH,CLWSH,2021,1046
+6103,Coordination and Support Services,CLCSS,2021,1046
+6230,Coordination and Support Services,CLCSS,2021,1051
+6231,Education,CLEDU,2021,1051
+6232,Food Security,CLFSC,2021,1051
+6233,Health,CLHEA,2021,1051
+6234,Nutrition,CLNUT,2021,1051
+6235,Protection,CLPRO,2021,1051
+6236,Shelter/NFI/CCCM,CLSHL,2021,1051
+6237,WASH,CLWSH,2021,1051
+6264,Agriculture,CLAGR,2021,1055
+6265,Coordination,CLCSS,2021,1055
+6266,Education,CLEDU,2021,1055
+6267,Emergency Shelter and NFIs,CLSHL,2021,1055
+6268,Food,CLFSC,2021,1055
+6269,Health,CLHEA,2021,1055
+6270,Logistics,CLLOG,2021,1055
+6271,Nutrition,CLNUT,2021,1055
+6272,Water Sanitation and Hygiene,CLWSH,2021,1055
+6273,Camp Coordination and Camp Management,CLCCM,2021,1055
+6274,Protection,CLPRO,2021,1055
+6277,Emergency Telecommunications,CLTEL,2021,1055
+6649,Rapid Response Mechanism  (RRM),CLOTH,2021,1055
+6147,Food Security & Livelihoods,CLFSC,2021,1047
+6148,"Water, Sanitation & Hygiene",CLWSH,2021,1047
+6149,Nutrition,CLNUT,2021,1047
+6150,Health,CLHEA,2021,1047
+6151,Protection,CLPRO,2021,1047
+6152,Education,CLEDU,2021,1047
+6153,Communication and Community Engagement,CLTEL,2021,1047
+6154,Coordination & Common Services,CLCSS,2021,1047
+6293,Emergency Shelter,CLSHL,2021,1047
+6385,Food Security and Livelihoods,CLFSC,2021,1073
+6386,Nutrition,CLNUT,2021,1073
+6387,Water Sanitation and Hygiene (WASH),CLWSH,2021,1073
+6388,Health,CLHEA,2021,1073
+6389,Multisector,CLMS,2021,1073
+6390,Education,CLEDU,2021,1073
+6391,Protection,CLPRO,2021,1073
+6648,Coordination and Common Services,CLCSS,2021,1073
+5836,Camp Coordination and Camp Management,CLCCM,2021,1011
+5837,Education,CLEDU,2021,1011
+5838,Enabling Programmes,CLCSS,2021,1011
+5839,Logistics,CLLOG,2021,1011
+5840,Food Security,CLFSC,2021,1011
+5841,Health,CLHEA,2021,1011
+5842,Nutrition,CLNUT,2021,1011
+5843,Protection,CLPRO,2021,1011
+5844,Refugee Response,CLRR,2021,1011
+5845,Shelter,CLSHL,2021,1011
+5846,"Water, Sanitation and Hygiene",CLWSH,2021,1011
+6203,Health,CLHEA,2021,1050
+6204,Nutrition,CLNUT,2021,1050
+6205,Food Security,CLFSC,2021,1050
+6206,Education,CLEDU,2021,1050
+6207,WASH,CLWSH,2021,1050
+6278,CP & GBV,CLPRO,2021,1050
+6279,Migrants,CLRR,2021,1050
+6292,Logistics,CLLOG,2021,1050
+6186,Food Security,CLFSC,2021,1048
+6187,Health,CLHEA,2021,1048
+6188,CCCM / Shelter,CLCCM,2021,1048
+6189,WASH,CLWSH,2021,1048
+6190,Protection,CLPRO,2021,1048
+6191,Nutrition,CLNUT,2021,1048
+6192,Education,CLEDU,2021,1048
+6193,Logistics,CLLOG,2021,1048
+6194,Risk Communication - Community Engagement,CLOTH,2021,1048
+6195,Early Recovery,CLERY,2021,1048
+6281,Health,CLHEA,2021,1056
+6282,Food Security,CLFSC-AGR,2021,1056
+6283,Protection,CLPRO,2021,1056
+6284,WASH,CLWSH,2021,1056
+6285,Shelter/NFI,CLSHL,2021,1056
+6286,Education,CLEDU,2021,1056
+6287,Early Recovery,CLERY,2021,1056
+6288,Logistics,CLLOG,2021,1056
+6289,Emergency Telecommunications,CLTEL,2021,1056
+6290,Nutrition,CLNUT,2021,1056
+6291,"Coordination and Sector Services, AAP/CwC",CLCSS,2021,1056
+5847,Education,CLEDU,2021,1012
+5848,Food Security,CLFSC,2021,1012
+5849,Health,CLHEA,2021,1012
+5850,WASH,CLWSH,2021,1012
+5851,Shelter and NFI Cluster,CLSHL,2021,1012
+5852,Coordination and Support Services,CLCSS,2021,1012
+5853,Protection,CLPRO,2021,1012
+6196,Food Security,CLFSC,2021,1049
+6197,Shelter and NFI,CLSHL,2021,1049
+6198,Health and  Nutrition,CLHEA,2021,1049
+6199,Protection,CLPRO,2021,1049
+6200,Education,CLEDU,2021,1049
+6201,WASH,CLWSH,2021,1049
+6202,Coordination and Support Services,CLCSS,2021,1049
+6095,Food security,CLFSC,2021,1045
+6104,WASH,CLWSH,2021,1045
+6105,Protection,CLPRO,2021,1045
+6106,CCCM,CLCCM,2021,1045
+6107,Health,CLHEA,2021,1045
+6108,Education,CLEDU,2021,1045
+6109,Coordination,CLCSS,2021,1045
+6110,Gender Based Violence,CLPRO-GBV,2021,1045
+6111,Child Protection,CLPRO-CPN,2021,1045
+6156,Shelter,CLSHL,2021,1045
+5903,Protection,CLPRO,2021,1018
+6209,Education,CLEDU,2021,1018
+6210,Health and Nutrition,CLHEA,2021,1018
+6211,Food Security,CLFSC,2021,1018
+6212,Livelihoods and resilience,CLERY,2021,1018
+6213,Energy and Environment,CLOTH,2021,1018
+6214,WASH,CLWSH,2021,1018
+6215,Shelter and NFIs,CLSHL,2021,1018
+5920,Protection,CLPRO,2021,1019
+6223,Education,CLEDU,2021,1019
+6224,Health and Nutrition,CLHEA,2021,1019
+6225,Food Security,CLFSC,2021,1019
+6226,Livelihoods and resilience,CLERY,2021,1019
+6227,Energy and Environment,CLOTH,2021,1019
+6228,WASH,CLWSH,2021,1019
+6229,Shelter and NFIs,CLSHL,2021,1019
+5919,Abris,CLSHL,2021,1026
+5921,Cash à usage multiple,CLMPC,2021,1026
+5922,Coordination,CLCSS,2021,1026
+5923,Education,CLEDU,2021,1026
+5924,"Eau, hygiène & assainissement",CLWSH,2021,1026
+5925,Logistique,CLLOG,2021,1026
+5926,Nutrition,CLNUT,2021,1026
+5927,Protection,CLPRO,2021,1026
+5928,Santé,CLHEA,2021,1026
+5929,Sécurité alimentaire,CLFSC,2021,1026
+5930,Réponse multisectorielle aux réfugiés,CLRR,2021,1026
+6155,Articles ménagers essentiels,CLSHL1,2021,1026
+6295,Education in Emergencies,CLEDU,2021,1057
+6296,Emergency Shelter and NFI,CLSHL,2021,1057
+6297,Food Security and Agriculture,CLFSC,2021,1057
+6298,Health,CLHEA,2021,1057
+6299,Nutrition,CLNUT,2021,1057
+6300,Protection,CLPRO,2021,1057
+6301,"Water, Sanitation and Hygiene",CLWSH,2021,1057
+6302,Coordination and Support Services,CLCSS,2021,1057
+6303,Aviation,CLOTH,2021,1057
+6051,Livelihoods and resilience,CLERY,2021,1020
+6169,Education,CLEDU,2021,1020
+6170,Shelter and NFIs,CLSHL,2021,1020
+6171,Basic Needs,CLFSC1,2021,1020
+6172,Food Security,CLFSC,2021,1020
+6173,Health and Nutrition,CLHEA,2021,1020
+6174,Protection,CLPRO,2021,1020
+6175,WASH,CLWSH,2021,1020
+6176,Multi-sector,CLMS,2021,1020
+6177,Energy and Environment,CLOTH2,2021,1020
+6178,Social Stability,CLOTH1,2021,1020
+5949,Protección,CLPRO,2021,1029
+5979,Salud,CLHEA,2021,1029
+5980,Educación,CLEDU,2021,1029
+5981,Nutrición,CLNUT,2021,1029
+5982,Seguridad alimentaria,CLFSC,2021,1029
+5983,"Agua, saneamiento e higiene",CLWSH,2021,1029
+5984,"Alojamiento, energía y enseres",CLSHL,2021,1029
+5985,Coordinación,CLCSS,2021,1029
+6050,Multi-sector,CLMS,2021,1038
+6052,Protection,CLPRO,2021,1017
+6216,Education,CLEDU,2021,1017
+6217,Health and Nutrition,CLHEA,2021,1017
+6218,Food Security,CLFSC,2021,1017
+6219,Livelihoods and resilience,CLERY,2021,1017
+6220,Energy and Environment,CLOTH,2021,1017
+6221,WASH,CLWSH,2021,1017
+6222,Shelter and NFIs,CLSHL,2021,1017
+6064,Abris et ANA,CLSHL,2021,1043
+6065,Éducation,CLEDU,2021,1043
+6066,Logistique,CLLOG,2021,1043
+6067,Nutrition,CLNUT,2021,1043
+6068,Protection,CLPRO,2021,1043
+6069,Santé,CLHEA,2021,1043
+6070,Sécurité alimentaire,CLFSC,2021,1043
+6071,Coordination,CLCSS,2021,1043
+6072,"Eau Potable, Assainissement et Hygiène",CLWSH,2021,1043
+6238,Seguridad Alimentaria,CLFSC,2021,1052
+6239,Proteccion,CLPRO,2021,1052
+6240,WASH,CLWSH,2021,1052
+6241,Salud y SSR,CLHEA,2021,1052
+6242,Nutricion,CLNUT,2021,1052
+6243,Educacion,CLEDU,2021,1052
+6244,Recuperacion temprana,CLERY,2021,1052
+6276,Coordinación,CLCSS,2021,1052
+6245,Seguridad Alimentaria y Nutricional,CLFSC-NUT,2021,1053
+6246,Proteccion,CLPRO,2021,1053
+6247,WASH,CLWSH,2021,1053
+6248,Salud y SSR,CLHEA-OTH,2021,1053
+6250,CCCM,CLCCM,2021,1053
+6251,Educacion,CLEDU,2021,1053
+6252,Alojamiento de Emergencia,CLSHL,2021,1053
+6254,Recuperacion temprana,CLERY,2021,1053
+6255,Coordinación,CLCSS,2021,1053
+6253,Seguridad Alimentaria,CLFSC,2021,1054
+6256,Recuperacion Temprana,CLERY,2021,1054
+6257,Protección,CLPRO,2021,1054
+6258,WASH,CLWSH,2021,1054
+6259,Salud,CLHEA,2021,1054
+6260,Nutricion,CLNUT,2021,1054
+6261,CCCM,CLCCM,2021,1054
+6262,Educación,CLEDU,2021,1054
+6263,Logistica y Telecomunicaciones,CLTEL,2021,1054
+6275,Coordinación,CLCSS,2021,1054
+6083,Protection,CLPRO,2021,1044
+6084,Camp Coordination and Camp Management,CLCCM,2021,1044
+6085,Early Recovery and Livelihoods,CLERY,2021,1044
+6086,Education,CLEDU,2021,1044
+6087,Food Security and Agriculture,CLFSC,2021,1044
+6088,Health,CLHEA,2021,1044
+6089,Nutrition,CLNUT,2021,1044
+6090,Shelter and Non-Food Items,CLSHL,2021,1044
+6091,"Water, Sanitation and Hygiene",CLWSH,2021,1044
+6092,Logistics,CLLOG,2021,1044
+6093,Emergency Telecommunications,CLTEL,2021,1044
+6094,Coordination and Common Services,CLCSS,2021,1044

@@ -1,0 +1,456 @@
+clusterId,clusterName,clusterCustomRef,year,plan_id
+7934,Coordination and Support Services,CLCSS,2025,1266
+7935,Education,CLEDU,2025,1266
+7936,Food Security,CLFSC,2025,1266
+7937,Health,CLHEA,2025,1266
+7938,Nutrition,CLNUT,2025,1266
+7939,Protection,CLPRO,2025,1266
+7940,Refugee Response,CLRR,2025,1266
+7941,Shelter and NFI,CLSHL,2025,1266
+7942,"Water, Sanitation and Hygiene",CLWSH,2025,1266
+7943,Multipurpose Cash,CLMPC,2025,1266
+8564,Education,CLEDU,2025,1465
+8565,"Food Security, Agriculture and Livelihoods",CLFSC,2025,1465
+8566,Health,CLHEA,2025,1465
+8567,Nutrition,CLNUT,2025,1465
+8568,Protection,CLPRO,2025,1465
+8569,Shelter/NFI,CLSHL,2025,1465
+8570,"Water, Sanitation and Hygiene",CLWSH,2025,1465
+8571,Recovery,CLERY,2025,1465
+8962,Seguridad Alimentaria y Nutrición,CLFSC,2025,1602
+8963,Albergues y Vivienda,CLSHL,2025,1602
+8964,"Agua, Saneamiento e Higiene",CLWSH,2025,1602
+8965,Salud,CLHEA,2025,1602
+8966,Logística,CLLOG,2025,1602
+8967,Educación,CLEDU,2025,1602
+8968,Coordinación,CLCSS,2025,1602
+8264,Camp Coordination / Management (CCCM),CLCCM,2025,1364
+8265,Food Security and Livelihood,CLFSC,2025,1364
+8266,Health,CLHEA,2025,1364
+8267,Nutrition,CLNUT,2025,1364
+8268,Protection,CLPRO,2025,1364
+8269,Shelter/ NFIs,CLSHL,2025,1364
+8270,WASH,CLWSH,2025,1364
+8271,Logistics,CLLOG,2025,1364
+8273,Education,CLEDU,2025,1364
+8434,Food Security and Livelihoods,CLFSC,2025,1431
+8435,Health,CLHEA,2025,1431
+8436,Nutrition,CLNUT,2025,1431
+8437,WASH,CLWSH,2025,1431
+8438,Shelter & NFI,CLSHL,2025,1431
+8439,Protection,CLPRO,2025,1431
+8440,Education,CLEDU,2025,1431
+8475,Multi-Purpose Cash,CLMPC,2025,1431
+8562,Coordination and common services,CLCSS,2025,1431
+7854,"Eau, hygiène et assainissement",CLWSH,2025,1256
+7855,Protection,CLPRO,2025,1256
+7856,Santé,CLHEA,2025,1256
+7857,Sécurité alimentaire,CLFSC,2025,1256
+7858,Education,CLEDU,2025,1256
+7859,Nutrition,CLNUT,2025,1256
+7860,ABRIS&NFI,CLSHL,2025,1256
+7861,CCCM,CLCCM,2025,1256
+7862,Réponse aux réfugiés,CLRR,2025,1256
+7863,Logistique,CLLOG,2025,1256
+7864,Coordination,CLCSS,2025,1256
+7866,Transfert d’espèces à usages multiples,CLMPC,2025,1256
+7865,Abris et BNA,CLSHL,2025,1257
+8107,CCCM,CLCCM,2025,1257
+8108,Coordination,CLCSS,2025,1257
+8109,"Eau Potable, Assainissement et Hygiène",CLWSH,2025,1257
+8110,Éducation,CLEDU,2025,1257
+8111,Logistique,CLLOG,2025,1257
+8112,Nutrition,CLNUT,2025,1257
+8113,Protection,CLPRO,2025,1257
+8114,Santé,CLHEA,2025,1257
+8115,Sécurité alimentaire,CLFSC,2025,1257
+8116,Cash à Usage Multiple,CLMPC,2025,1257
+7867,Réponse aux Réfugiés,CLRR,2025,1259
+7899,Abris/AME,CLSHL,2025,1259
+7900,Coordination,CLCSS,2025,1259
+7901,"Eau, Hygiène et Assainissement",CLWSH,2025,1259
+7902,Education,CLEDU,2025,1259
+7903,Gestion des Sites d’Accueil Temporaires,CLCCM,2025,1259
+7904,Logistique,CLLOG,2025,1259
+7905,Nutrition,CLNUT,2025,1259
+7906,Protection,CLPRO,2025,1259
+7907,Santé,CLHEA,2025,1259
+7908,Sécurité alimentaire,CLFSC,2025,1259
+7991,Réponse multisectorielle aux réfugiés,CLRR,2025,1261
+7992,Abris et AME,CLSHL,2025,1261
+7993,Coordination,CLCSS,2025,1261
+7994,"Eau, hygiène & assainissement",CLWSH,2025,1261
+7995,Education,CLEDU,2025,1261
+7996,Logistique,CLLOG,2025,1261
+7997,Nutrition,CLNUT,2025,1261
+7998,Protection,CLPRO,2025,1261
+7999,Santé,CLHEA,2025,1261
+8000,Sécurité alimentaire,CLFSC,2025,1261
+8001,Coordination et gestion des camps,CLCCM,2025,1261
+8002,Transfert d’espèces à usages multiples,CLMPC,2025,1261
+8028,Food Security and Livelihoods,CLFSC,2025,1278
+8029,Agriculture,CLAGR,2025,1278
+8030,"Water, Sanitation and Hygiene",CLWSH,2025,1278
+8031,Nutrition,CLNUT,2025,1278
+8032,Education,CLEDU,2025,1278
+8033,Protection,CLPRO,2025,1278
+8034,Health,CLHEA,2025,1278
+8035,Coordination and Common Services,CLCSS,2025,1278
+8091,Education,CLEDU,2025,1283
+8092,"Food Security, Agriculture and Livelihoods",CLFSC,2025,1283
+8093,Health,CLHEA,2025,1283
+8094,Nutrition,CLNUT,2025,1283
+8095,Shelter and Non-Food Items,CLSHL,2025,1283
+8096,Protection,CLPRO,2025,1283
+8097,WASH,CLWSH,2025,1283
+8098,Early Recovery,CLERY,2025,1283
+7799,Abris/Biens Non Alimentaires,CLSHL,2025,1222
+7801,Coordination,CLCSS,2025,1222
+7802,Eau Hygiène et Assainissement,CLWSH,2025,1222
+7803,Education,CLEDU,2025,1222
+7804,Nutrition,CLNUT,2025,1222
+7805,Protection,CLPRO,2025,1222
+7806,Réponse aux Réfugiés,CLRR,2025,1222
+7807,Santé,CLHEA,2025,1222
+7808,Sécurité alimentaire,CLFSC,2025,1222
+7809,Transfert d’espèces à usages multiples,CLMPC,2025,1222
+7761,Basic Needs,CLMPC,2025,1216
+8315,Education,CLEDU,2025,1216
+8316,Food Security,CLFSC,2025,1216
+8317,Public Health and Nutrition,CLHEA,2025,1216
+8318,Livelihoods and Economic Inclusion,CLERY,2025,1216
+8319,"Logistics, Supply and Telecommunications",CLLOG,2025,1216
+8320,Protection,CLPRO,2025,1216
+8321,"Settlement, Shelter and Housing",CLSHL,2025,1216
+8322,WASH,CLWSH,2025,1216
+7765,Common Services,CLCSS,2025,1219
+8305,Education,CLEDU,2025,1219
+8306,Food Security,CLFSC,2025,1219
+8307,Health,CLHEA,2025,1219
+8308,Humanitarian Transportation,CLLOG,2025,1219
+8309,Integration,CLERY,2025,1219
+8310,Multipurpose Cash Assistance,CLMPC,2025,1219
+8311,Nutrition,CLNUT,2025,1219
+8312,Protection,CLPRO,2025,1219
+8313,Shelter,CLSHL,2025,1219
+8314,WASH,CLWSH,2025,1219
+8126,Food Security and Livelihoods,CLFSC,2025,1285
+8127,Nutrition,CLNUT,2025,1285
+8128,Protection,CLPRO,2025,1285
+8129,Water Sanitation and Hygiene,CLWSH,2025,1285
+7764,Basic Needs,CLMPC,2025,1218
+8301,Education,CLEDU,2025,1218
+8302,Health and Nutrition,CLHEA,2025,1218
+8303,Livelihoods and Socioeconomic Inclusion,CLERY,2025,1218
+8304,Protection,CLPRO,2025,1218
+8005,Food Security,CLFSC,2025,1273
+8185,Health,CLHEA,2025,1273
+8186,Multi-purpose Cash Assistance,CLMPC,2025,1273
+8187,"Water, Sanitation and Hygiene",CLWSH,2025,1273
+8188,Education,CLEDU,2025,1273
+8189,Protection,CLPRO,2025,1273
+8190,Coordination and Support Services,CLCSS,2025,1273
+8191,Shelter and non-Food Items,CLSHL,2025,1273
+8192,Nutrition,CLNUT,2025,1273
+8193,Site Management,CLCCM,2025,1273
+8194,Logistics,CLLOG,2025,1273
+8195,Emergency Telecommunications,CLTEL,2025,1273
+7756,Education,CLEDU,2025,1211
+8344,Food Security,CLFSC,2025,1211
+8345,Health and Nutrition,CLHEA,2025,1211
+8346,Livelihoods and Resilience,CLERY,2025,1211
+8347,Protection,CLPRO,2025,1211
+8348,"Settlement, Shelter and Housing",CLSHL,2025,1211
+8349,WASH,CLWSH,2025,1211
+8350,Basic Needs,CLMPC,2025,1211
+7868,Abris/AME,CLSHL,2025,1260
+7914,CCCM,CLCCM,2025,1260
+7915,Education,CLEDU,2025,1260
+7916,Nutrition,CLNUT,2025,1260
+7917,Protection,CLPRO,2025,1260
+7918,Santé,CLHEA,2025,1260
+7919,Sécurité Alimentaire,CLFSC,2025,1260
+7920,"Eau, Hygiène et Assainissement",CLWSH,2025,1260
+7921,Réponse aux Réfugiés,CLRR,2025,1260
+7922,Coordination and Support Services,CLCSS,2025,1260
+7923,Transfert d’espèces à usages multiples,CLMPC,2025,1260
+7955,Seguridad Alimentaria,CLFSC,2025,1268
+7956,"Agua, Saneamiento e Higiene",CLWSH,2025,1268
+7957,Protección,CLPRO,2025,1268
+7958,Educación en Emergencias,CLEDU,2025,1268
+7959,Alojamiento de Emergencias,CLSHL,2025,1268
+7960,Salud,CLHEA,2025,1268
+7961,Nutrición,CLNUT,2025,1268
+7962,Coordinación y Gestión de Albergues Temporales (CCCM),CLCCM,2025,1268
+7963,Coordinación,CLCSS,2025,1268
+7758,Basic Needs,CLMPC,2025,1213
+8381,Education,CLEDU,2025,1213
+8383,Food Security,CLFSC,2025,1213
+8384,Public Health and Nutrition,CLHEA,2025,1213
+8385,Livelihoods and Economic Inclusion,CLERY,2025,1213
+8386,"Logistics, Supply and Telecommunications",CLLOG,2025,1213
+8387,Protection,CLPRO,2025,1213
+8388,"Settlement, Shelter and Housing",CLSHL,2025,1213
+8389,WASH,CLWSH,2025,1213
+7883,Coordination and Common Services,CLCSS,2025,1263
+7884,Education,CLEDU,2025,1263
+7885,Food Security and Agriculture,CLFSC,2025,1263
+7886,Health,CLHEA,2025,1263
+7887,Aviation,CLLOG,2025,1263
+7909,Nutrition,CLNUT,2025,1263
+7910,Protection,CLPRO,2025,1263
+7911,Emergency Shelter and NFI,CLSHL,2025,1263
+7912,"Water, Sanitation and Hygiene",CLWSH,2025,1263
+7913,Multi-purpose Cash,CLMPC,2025,1263
+7869,Camp Coordination & Camp Management,CLCCM,2025,1262
+7870,Education,CLEDU,2025,1262
+7871,Food Security and Agriculture,CLFSC,2025,1262
+7872,Health,CLHEA,2025,1262
+7873,Multipurpose Cash,CLMPC,2025,1262
+7874,Nutrition,CLNUT,2025,1262
+7875,Protection,CLPRO,2025,1262
+7876,Refugees and Migrants Multisector,CLRR,2025,1262
+7877,Rapid Response Mechanism (RRM),CLCSS1,2025,1262
+7878,Shelter and NFI,CLSHL,2025,1262
+7879,"WASH, Sanitation and Hygiene",CLWSH,2025,1262
+7880,Logistics,CLLOG,2025,1262
+7881,Coordination,CLCSS,2025,1262
+7882,Emergency Telecommunications,CLTEL,2025,1262
+7980,Camp Coordination and Camp Management,CLCCM,2025,1271
+7981,Education,CLEDU,2025,1271
+7982,Food Security and Livelihoods,CLFSC,2025,1271
+7983,Health,CLHEA,2025,1271
+7984,Protection,CLPRO,2025,1271
+7985,Shelter & Non-Food Items,CLSHL,2025,1271
+7986,"Water, Sanitation & Hygiene",CLWSH,2025,1271
+7987,Coordination Services,CLCSS,2025,1271
+7988,Emergency Telecommunications,CLTEL,2025,1271
+7989,Logistics,CLLOG,2025,1271
+7990,Multi-purpose Cash,CLMPC,2025,1271
+7776,Site Management,CLCCM,2025,1220
+7777,Coordination & Common Services,CLCSS,2025,1220
+7778,Education,CLEDU,2025,1220
+7779,Food Security and Livelihoods,CLFSC,2025,1220
+7780,Health,CLHEA,2025,1220
+7781,Logistics,CLLOG,2025,1220
+7782,Nutrition,CLNUT,2025,1220
+7783,Protection,CLPRO,2025,1220
+7784,Refugee Response,CLRR,2025,1220
+7785,Emergency Shelter and Non-Food Items,CLSHL,2025,1220
+7786,Emergency Telecommunications,CLTEL,2025,1220
+7787,"Water, Sanitation and Hygiene",CLWSH,2025,1220
+8027,Multi-Purpose Cash,CLMPC,2025,1220
+7972,"Agua, Saneamiento e Higiene",CLWSH,2025,1270
+7973,Coordinación y Gestión de Albergues,CLCCM,2025,1270
+7974,Educación en Emergencias,CLEDU,2025,1270
+7975,Protección,CLPRO,2025,1270
+7976,Salud,CLHEA,2025,1270
+7977,Seguridad Alimentaria,CLFSC,2025,1270
+7978,Nutrición,CLNUT,2025,1270
+7979,Coordinación,CLCSS,2025,1270
+7788,Camp Coordination and Camp Management,CLCCM,2025,1221
+7789,Enabling Programmes,CLCSS,2025,1221
+7790,Education,CLEDU,2025,1221
+7791,Food Security and Livelihoods,CLFSC,2025,1221
+7792,Health,CLHEA,2025,1221
+7793,Logistics,CLLOG,2025,1221
+7794,Refugee Response,CLRR,2025,1221
+7795,Shelter and NFIs,CLSHL,2025,1221
+7796,"Water, Sanitation and Hygiene",CLWSH,2025,1221
+7797,Nutrition,CLNUT,2025,1221
+7798,Protection,CLPRO,2025,1221
+7800,Multi Purpose Cash,CLMPC,2025,1221
+7944,Camp Coordination and Camp Management (CCCM),CLCCM,2025,1267
+7945,Coordination and Common Services,CLCSS,2025,1267
+7946,Education,CLEDU,2025,1267
+7947,Food Security and Livelihood,CLFSC,2025,1267
+7948,Health,CLHEA,2025,1267
+7949,Logistics,CLLOG,2025,1267
+7950,Nutrition,CLNUT,2025,1267
+7951,Protection,CLPRO,2025,1267
+7952,Shelter/NFIs,CLSHL,2025,1267
+7953,"Water, Sanitation and Hygiene (WASH)",CLWSH,2025,1267
+7954,Refugee Response,CLRR,2025,1267
+8082,Multipurpose Cash,CLMPC,2025,1267
+7759,Multi-sector,CLMS,2025,1214
+7757,Education,CLEDU,2025,1212
+7767,Food Security,CLFSC,2025,1212
+7768,Health,CLHEA,2025,1212
+7769,Livelihoods and Skills Development,CLERY,2025,1212
+7770,Nutrition,CLNUT,2025,1212
+7771,Protection,CLPRO,2025,1212
+7772,Shelter-CCCM,CLSHL,2025,1212
+7773,Water Sanitation and Hygiene,CLWSH,2025,1212
+7774,Coordination,CLCSS,2025,1212
+7775,Bhasan Char Response,CLMS,2025,1212
+7889,Coordination,CLCSS,2025,1264
+7890,Education,CLEDU,2025,1264
+7891,Sécurité Alimentaire,CLFSC,2025,1264
+7892,Santé,CLHEA,2025,1264
+7893,Nutrition,CLNUT,2025,1264
+7894,Protection,CLPRO,2025,1264
+7895,Réponse aux Réfugiés,CLRR,2025,1264
+7896,Abris/NFI,CLSHL,2025,1264
+7897,"EHA - Eau, Hygiène et Assainissement",CLWSH,2025,1264
+7898,Logistics,CLLOG,2025,1264
+8196,Transfert d’espèces à usages multiples,CLMPC,2025,1264
+7964,"Agua, saneamiento e higiene",CLWSH,2025,1269
+7965,Seguridad Alimentaria,CLFSC,2025,1269
+7966,Nutrición,CLNUT,2025,1269
+7967,Protección,CLPRO,2025,1269
+7968,Alojamientos Temporales (CCCM),CLCCM,2025,1269
+7969,Salud,CLHEA,2025,1269
+7970,Educación en emergencias,CLEDU,2025,1269
+7971,Coordinación,CLCSS,2025,1269
+8008,Camp Coordination and Camp Management,CLCCM,2025,1276
+8069,Protection,CLPRO,2025,1276
+8070,Early Recovery and Livelihoods,CLERY,2025,1276
+8071,Education,CLEDU,2025,1276
+8072,Food Security and Agriculture,CLFSC,2025,1276
+8073,Health,CLHEA,2025,1276
+8074,Nutrition,CLNUT,2025,1276
+8075,Emergency Telecommunications,CLTEL,2025,1276
+8076,Logistics,CLLOG,2025,1276
+8077,"Water, Sanitation and Hygiene",CLWSH,2025,1276
+8078,Multi-Purpose Cash,CLMPC,2025,1276
+8079,Shelter,CLSHL1,2025,1276
+8080,NFI,CLSHL2,2025,1276
+8081,Coordination and Common Services,CLCSS,2025,1276
+8009,"Agua, saneamiento e higiene",CLWSH,2025,1277
+8010,"Alojamiento, energía y enseres",CLSHL,2025,1277
+8011,Educación,CLEDU,2025,1277
+8012,Nutrición,CLNUT,2025,1277
+8013,Protección,CLPRO,2025,1277
+8014,Salud,CLHEA,2025,1277
+8015,Seguridad alimentaria,CLFSC,2025,1277
+8016,Logística y Coordinación,CLCSS,2025,1277
+7762,Basic Needs,CLMPC,2025,1217
+8390,"Livelihoods, Resilience and Economic Inclusion",CLERY,2025,1217
+8391,Education,CLEDU,2025,1217
+8392,Food Security,CLFSC,2025,1217
+8393,Health,CLHEA,2025,1217
+8394,Social Stability,CLOTH,2025,1217
+8395,Nutrition,CLNUT,2025,1217
+8396,Protection,CLPRO,2025,1217
+8397,"Settlement, Shelter and Housing",CLSHL,2025,1217
+8398,WASH,CLWSH,2025,1217
+8399,Economic Empowerment,CLERY1,2025,1217
+8400,Logistics,CLLOG,2025,1217
+8401,Energy,CLERY2,2025,1217
+8117,Protection,CLPRO,2025,1284
+8118,"Water, Sanitation and Hygiene (WASH)",CLWSH,2025,1284
+8119,Displacement Management,CLCCM,2025,1284
+8120,Education,CLEDU,2025,1284
+8121,Food Security and Agriculture,CLFSC,2025,1284
+8122,Health,CLHEA,2025,1284
+8123,Nutrition,CLNUT,2025,1284
+8124,Shelter,CLSHL,2025,1284
+8125,Logistics,CLLOG,2025,1284
+7760,Basic Needs,CLMPC,2025,1215
+8520,Education,CLEDU,2025,1215
+8521,Energy and Environment,CLERY1,2025,1215
+8522,Food Security,CLFSC,2025,1215
+8523,Health and Nutrition,CLHEA,2025,1215
+8524,"Livelihoods, Resilience and Economic Inclusion",CLERY,2025,1215
+8525,"Logistics, Supply and Telecommunications",CLLOG,2025,1215
+8526,Protection,CLPRO,2025,1215
+8527,"Settlement, Shelter and Housing",CLSHL,2025,1215
+8528,WASH,CLWSH,2025,1215
+8036,Food Security and Livelihoods,CLFSC,2025,1280
+8048,Health,CLHEA,2025,1280
+8049,Nutrition,CLNUT,2025,1280
+8050,Protection,CLPRO,2025,1280
+8051,Education,CLEDU,2025,1280
+8052,"Water, Sanitation and Hygiene",CLWSH,2025,1280
+8053,Shelter,CLSHL,2025,1280
+8054,Refugee Response,CLRR,2025,1280
+8055,Coordination and Common Services,CLCSS,2025,1280
+8229,Basic Assistance,CLMS,2025,1286
+8230,Education,CLEDU,2025,1286
+8231,Food Security & Agriculture,CLFSC,2025,1286
+8232,Health,CLHEA,2025,1286
+8233,Nutrition,CLNUT,2025,1286
+8234,Protection,CLPRO,2025,1286
+8235,Shelter,CLSHL,2025,1286
+8236,Site Management and Coordination,CLCCM,2025,1286
+8237,Social Stability,CLOTH,2025,1286
+8238,"Water, Sanitation And Hygiene (WASH)",CLWSH,2025,1286
+8239,Logistics,CLLOG,2025,1286
+8240,Coordination & Common Services,CLCSS,2025,1286
+7726,"Agua, Saneamiento e Higiene",CLWSH,2025,1208
+7727,Alojamientos y Asentamientos,CLSHL,2025,1208
+7728,Educación,CLEDU,2025,1208
+7729,Coordinación,CLCSS,2025,1208
+7730,Protección,CLPRO,2025,1208
+7731,Recuperación Temprana,CLERY,2025,1208
+7732,Salud,CLHEA,2025,1208
+7733,Seguridad Alimentaria y Nutrición,CLFSC,2025,1208
+7734,Transferencias monetarias multipropósito,CLMPC,2025,1208
+7810,Camp Coordination and Camp Management,CLCCM,2025,1223
+7811,Coordination and Common Services,CLCSS,2025,1223
+7812,Education,CLEDU,2025,1223
+7813,Food Security and Livelihoods,CLFSC,2025,1223
+7814,Health,CLHEA,2025,1223
+7815,Logistics,CLLOG,2025,1223
+7816,Nutrition,CLNUT,2025,1223
+7817,Protection,CLPRO,2025,1223
+7818,Refugee Response,CLRR,2025,1223
+7819,Shelter and Non-Food Items,CLSHL,2025,1223
+7820,"Water, Sanitation and Hygiene",CLWSH,2025,1223
+7821,Multi-Purpose Cash,CLMPC,2025,1223
+8037,Agriculture,CLAGR,2025,1281
+8038,Food Security,CLFSC,2025,1281
+8039,Water Sanitation Hygiene,CLWSH,2025,1281
+8040,Protection,CLPRO,2025,1281
+8041,Education,CLEDU,2025,1281
+8042,Health,CLHEA,2025,1281
+8043,Shelter,CLSHL,2025,1281
+8044,Logistics,CLLOG,2025,1281
+8045,Nutrition,CLNUT,2025,1281
+8046,Refugee Response,CLRR,2025,1281
+8047,Early Recovery,CLERY,2025,1281
+8333,Education,CLEDU,2025,1399
+8334,Multi-Purpose Cash,CLMPC,2025,1399
+8335,Shelter / NFI / CCCM,CLSHL,2025,1399
+8336,Health,CLHEA,2025,1399
+8337,WASH,CLWSH,2025,1399
+8338,Protection,CLPRO,2025,1399
+8339,Food Security,CLFSC,2025,1399
+8340,Nutrition,CLNUT,2025,1399
+8341,Coordination and Support Services,CLCSS,2025,1399
+8342,Early Recovery,CLERY,2025,1399
+8343,Logistics,CLLOG,2025,1399
+8006,Camp Coordination and Camp Management,CLCCM,2025,1274
+8057,Early Recovery and Livelihoods,CLERY,2025,1274
+8058,Education,CLEDU,2025,1274
+8059,Emergency Shelter and NFI,CLSHL,2025,1274
+8060,Food Security,CLFSC,2025,1274
+8061,Health,CLHEA,2025,1274
+8062,Nutrition,CLNUT,2025,1274
+8063,Protection,CLPRO,2025,1274
+8064,Water and Sanitation,CLWSH,2025,1274
+8065,Emergency Telecommunications,CLTEL,2025,1274
+8066,Logistics,CLLOG,2025,1274
+8067,Coordination and Support Services,CLCSS,2025,1274
+8068,Multi-Purpose Cash,CLMPC,2025,1274
+8184,Anticipatory Action,CLAA,2025,1274
+8007,Education,CLEDU,2025,1275
+8083,Food Security,CLFSC,2025,1275
+8084,Health,CLHEA,2025,1275
+8085,Nutrition,CLNUT,2025,1275
+8086,Protection,CLPRO,2025,1275
+8087,Shelter / NFI / CCCM,CLSHL,2025,1275
+8088,WASH,CLWSH,2025,1275
+8089,Coordination and Support Services,CLCSS,2025,1275
+8090,Multi-Purpose Cash,CLMPC,2025,1275
+8173,Camp Coordination / Management,CLCCM,2025,1325
+8174,Logistics,CLLOG,2025,1325
+8175,Emergency Shelter,CLSHL,2025,1325
+8176,Emergency Telecommunications,CLTEL,2025,1325
+8177,Food Security and Agriculture,CLFSC,2025,1325
+8178,Health,CLHEA,2025,1325
+8179,WASH,CLWSH,2025,1325
+8180,Multipurpose Cash,CLMPC,2025,1325
+8181,Protection,CLPRO,2025,1325
+8182,Education,CLEDU,2025,1325
+8183,Nutrition,CLNUT,2025,1325

@@ -1,0 +1,463 @@
+clusterId,clusterName,clusterCustomRef,year,plan_id
+6874,Coordination & Common Services,CLCSS,2023,1136
+7037,Communication and Community Engagement,CLTEL,2023,1136
+7038,Education,CLEDU,2023,1136
+7040,Food Security & Livelihoods,CLFSC,2023,1136
+7041,Health,CLHEA,2023,1136
+7042,Nutrition,CLNUT,2023,1136
+7043,Protection,CLPRO,2023,1136
+7044,"Water, Sanitation & Hygiene",CLWSH,2023,1136
+7045,Logistic,CLLOG,2023,1136
+7202,Emergency Shelter and NFI,CLSHL,2023,1136
+6875,Coordination and Common Services,CLCSS,2023,1137
+7064,Food Security and Livelihoods,CLFSC,2023,1137
+7065,Protection,CLPRO,2023,1137
+7066,Nutrition,CLNUT,2023,1137
+7067,Water Sanitation and Hygiene (WASH),CLWSH,2023,1137
+7068,Health,CLHEA,2023,1137
+7070,Education,CLEDU,2023,1137
+7108,Shelter,CLSHL,2023,1137
+7109,Refugee Response,CLRR,2023,1137
+6895,Education,CLEDU,2023,1140
+6896,Food Security and Agriculture,CLFSC,2023,1140
+6897,Health,CLHEA,2023,1140
+6898,Nutrition,CLNUT,2023,1140
+6899,Protection,CLPRO,2023,1140
+6900,Shelter and Non-Food Items (NFI),CLSHL,2023,1140
+6902,WASH,CLWSH,2023,1140
+6903,Logistics,CLLOG,2023,1140
+6904,Coordination and Support Services,CLCSS,2023,1140
+6914,Abris/AME,CLSHL,2023,1141
+6994,CCCM,CLCCM,2023,1141
+6995,Education,CLEDU,2023,1141
+6996,Nutrition,CLNUT,2023,1141
+6997,Protection,CLPRO,2023,1141
+6998,Santé,CLHEA,2023,1141
+6999,Sécurité Alimentaire,CLFSC,2023,1141
+7000,"Eau, Hygiène et Assainissement",CLWSH,2023,1141
+7001,Réponse aux Réfugiés,CLRR,2023,1141
+7003,Coordination and Support Services,CLCSS,2023,1141
+6917,Abris/NFI,CLSHL,2023,1145
+7055,Coordination,CLCSS,2023,1145
+7056,"EHA - Eau, Hygiène et Assainissement",CLWSH,2023,1145
+7057,Education,CLEDU,2023,1145
+7058,Nutrition,CLNUT,2023,1145
+7059,Protection,CLPRO,2023,1145
+7060,Réponse aux Réfugiés,CLRR,2023,1145
+7061,Santé,CLHEA,2023,1145
+7062,Logistics,CLLOG,2023,1145
+7063,Sécurité Alimentaire,CLFSC,2023,1145
+7134,Education,CLEDU,2023,1151
+7135,Health,CLHEA,2023,1151
+7137,Nutrition,CLNUT,2023,1151
+7138,"Water, Sanitation and Hygiene (WASH)",CLWSH,2023,1151
+7139,Protection,CLPRO,2023,1151
+7140,Refugee,CLRR,2023,1151
+7141,Logistics,CLLOG,2023,1151
+7142,Risk Communication and Community Engagement (RCCE),CLMS,2023,1151
+7187,Food Security,CLFSC,2023,1151
+7188,Emergency Shelter and Non-Food Items,CLSHL,2023,1151
+7189,Camp Coordination and Camp Management,CLCCM,2023,1151
+7190,Coordination and Common Services (CCS),CLCSS,2023,1151
+7205,Basic Needs / Multi-Purpose Cash,CLMPC,2023,1154
+7207,Coordination and Common Services,CLCSS,2023,1154
+7208,Education,CLEDU,2023,1154
+7209,Food Security,CLFSC,2023,1154
+7210,Health and Nutrition,CLHEA,2023,1154
+7211,"Livelihoods, Resilience and Socio-Economic Inclusion",CLERY,2023,1154
+7212,"Logistics, Telecoms and Operational Support",CLLOG,2023,1154
+7213,Protection,CLPRO,2023,1154
+7214,Shelter and NFIs,CLSHL,2023,1154
+7215,WASH,CLWSH,2023,1154
+7216,"Emergency Support to Migrant, Returnees and TCN",CLMS,2023,1154
+7414,Energy and Environment,CLERY1,2023,1154
+7111,Camp Coordination and Camp Management,CLCCM,2023,1149
+7112,Early Recovery and Livelihoods,CLERY,2023,1149
+7113,Education,CLEDU,2023,1149
+7114,Food Security and Agriculture,CLFSC,2023,1149
+7115,Health,CLHEA,2023,1149
+7116,Nutrition,CLNUT,2023,1149
+7117,Protection,CLPRO,2023,1149
+7118,Shelter and NFI,CLSHL,2023,1149
+7119,WASH,CLWSH,2023,1149
+7120,Multi-purpose cash,CLMPC,2023,1149
+7121,Logistics,CLLOG,2023,1149
+7403,Health,CLHEA,2023,1184
+7404,Food Security and Livelihood,CLFSC,2023,1184
+7405,Protection,CLPRO,2023,1184
+7406,"Water, Sanitation & Hygiene",CLWSH,2023,1184
+7407,Shelter and NFIs,CLSHL,2023,1184
+7408,Education,CLEDU,2023,1184
+7409,Early Recovery,CLERY,2023,1184
+7411,Multi-Purpose Cash Assistance,CLMPC,2023,1184
+7412,Nutrition,CLNUT,2023,1184
+7413,Coordination and Common Support,CLCSS,2023,1184
+7578,Site Management,CLCCM,2023,1184
+7078,Abris / Articles Non-Alimentaires,CLSHL,2023,1148
+7087,Education,CLEDU,2023,1148
+7088,"Eau, Hygiène et Assainissement",CLWSH,2023,1148
+7089,Nutrition,CLNUT,2023,1148
+7090,Santé,CLHEA,2023,1148
+7091,Sécurité alimentaire,CLFSC,2023,1148
+7092,Coordination,CLCSS,2023,1148
+7093,Réponse aux Réfugiés,CLRR,2023,1148
+7094,Réponse aux Rapatriés,CLMS,2023,1148
+7095,Protection,CLPRO,2023,1148
+7122,Education,CLEDU,2023,1150
+7123,Emergency Shelter/NFIs,CLSHL,2023,1150
+7124,Food Security & Livelihoods,CLFSC,2023,1150
+7125,Health & Nutrition,CLHEA,2023,1150
+7126,Protection,CLPRO,2023,1150
+7127,"Water, Sanitation and Hygiene (WASH)",CLWSH,2023,1150
+7128,Multi-Purpose Cash & Social Protection,CLMPC,2023,1150
+7129,Early Recovery & Debris Removal,CLERY,2023,1150
+7130,Logistics & Emergency Telecommunications,CLLOG,2023,1150
+7131,Temporary Settlement Support,CLCCM,2023,1150
+7132,Coordination,CLCSS,2023,1150
+7426,Food Security,CLFSC,2023,1186
+7427,Coordination and Support Services,CLCSS,2023,1186
+7428,Shelter and Non-Food Items,CLSHL,2023,1186
+7429,Multi-purpose Cash Assistance,CLMPC,2023,1186
+7430,Health,CLHEA,2023,1186
+7431,"Water, Sanitation and Hygiene",CLWSH,2023,1186
+7432,Protection,CLPRO,2023,1186
+7433,Education,CLEDU,2023,1186
+7529,Logistics,CLLOG,2023,1186
+7530,Emergency Telecommunications,CLTEL,2023,1186
+7595,Nutrition,CLNUT,2023,1186
+6926,Protection,CLPRO,2023,1143
+6927,Site Management and Site Development,CLCCM,2023,1143
+6928,Food Security,CLFSC,2023,1143
+6929,Education,CLEDU,2023,1143
+6930,Health,CLHEA,2023,1143
+6931,Nutrition,CLNUT,2023,1143
+6932,Shelter/Non-Food Items,CLSHL,2023,1143
+6933,Water Sanitation and Hygiene,CLWSH,2023,1143
+6934,Emergency Telecommunications,CLTEL,2023,1143
+6935,Coordination,CLCSS,2023,1143
+6936,Livelihoods and Skills Development,CLERY,2023,1143
+6937,Bhasan Char Response,CLMS,2023,1143
+7153,Food Security and  Agriculture,CLFSC,2023,1152
+7154,WASH,CLWSH,2023,1152
+7155,Education,CLEDU,2023,1152
+7156,Nutrition,CLNUT,2023,1152
+7157,Protection,CLPRO,2023,1152
+7158,Health,CLHEA,2023,1152
+7159,CCCM,CLCCM,2023,1152
+7192,WASH,CLWSH,2023,1153
+7193,Food Security,CLFSC,2023,1153
+7194,Health,CLHEA,2023,1153
+7195,Shelter/NFIs,CLSHL,2023,1153
+7196,Education,CLEDU,2023,1153
+7197,Protection,CLPRO,2023,1153
+7198,Nutrition,CLNUT,2023,1153
+7199,Logistics,CLLOG,2023,1153
+7200,CCCM,CLCCM,2023,1153
+7201,Coordination and Common Services,CLCSS,2023,1153
+6916,Seguridad Alimentaria y Nutricional,CLNUT-FSC,2023,1144
+6969,WASH,CLWSH,2023,1144
+6970,Proteccion,CLPRO,2023,1144
+6971,Recuperacion temprana,CLERY,2023,1144
+6972,Alojamiento de Emergencia,CLSHL,2023,1144
+6973,Salud y SSR,CLHEA-OTH,2023,1144
+6974,CCCM,CLCCM,2023,1144
+6975,Educacion,CLEDU,2023,1144
+6976,Coordinación,CLCSS,2023,1144
+6876,Seguridad Alimentaria,CLFSC,2023,1138
+6877,Protección,CLPRO,2023,1138
+6878,Recuperacion Temprana,CLERY,2023,1138
+6879,Salud,CLHEA,2023,1138
+6880,CCCM,CLCCM,2023,1138
+6881,Educación,CLEDU,2023,1138
+6882,WASH,CLWSH,2023,1138
+6883,Nutricion,CLNUT,2023,1138
+6884,Logistica y Telecomunicaciones,CLTEL,2023,1138
+6885,Coordinación,CLCSS,2023,1138
+6886,Alojamiento,CLSHL,2023,1138
+6887,Recuperacion temprana,CLERY,2023,1139
+6888,Proteccion,CLPRO,2023,1139
+6889,Seguridad Alimentaria,CLFSC,2023,1139
+6890,Nutricion,CLNUT,2023,1139
+6891,Salud y SSR,CLHEA,2023,1139
+6892,WASH,CLWSH,2023,1139
+6893,Educacion,CLEDU,2023,1139
+6894,Coordinación,CLCSS,2023,1139
+7110,Alojamientos Temporales de Emergencias,CLSHL,2023,1139
+6915,"Agua, Saneamiento e Higiene",CLWSH,2023,1142
+6918,Albergue y Artículos no Alimentarios,CLSHL,2023,1142
+6919,Educación,CLEDU,2023,1142
+6920,Coordinación,CLCSS,2023,1142
+6921,Protección,CLPRO,2023,1142
+6922,Recuperación Temprana,CLERY,2023,1142
+6923,Salud,CLHEA,2023,1142
+6924,Seguridad Alimentaria y Nutrición,CLFSC,2023,1142
+6852,Multi-sector,CLMS,2023,1120
+6861,Integration,CLERY,2023,1129
+7143,COMMON SERVICES,CLCSS,2023,1129
+7144,Education,CLEDU,2023,1129
+7145,Health,CLHEA,2023,1129
+7146,Nutrition,CLNUT,2023,1129
+7147,Protection,CLPRO,2023,1129
+7148,WASH,CLWSH,2023,1129
+7149,Food Security,CLFSC,2023,1129
+7150,Humanitarian Transportation,CLLOG,2023,1129
+7151,Multipurpose Cash Assistance (MPC),CLMPC,2023,1129
+7152,Shelter,CLSHL,2023,1129
+6854,Basic Needs,CLFSC1,2023,1126
+7217,Education,CLEDU,2023,1126
+7218,Food Security,CLFSC,2023,1126
+7219,Health,CLHEA,2023,1126
+7220,Livelihoods,CLERY,2023,1126
+7221,Social Stability,CLOTH,2023,1126
+7222,Operational support & Logistics,CLLOG,2023,1126
+7223,Protection,CLPRO,2023,1126
+7224,Shelter,CLSHL,2023,1126
+7225,WASH,CLWSH,2023,1126
+7227,Energy,CLERY2,2023,1126
+7228,Nutrition,CLNUT,2023,1126
+7229,Economic Empowerment,CLERY1,2023,1126
+6864,Camp Coordination and Camp Management,CLCCM,2023,1133
+6938,Education,CLEDU,2023,1133
+6939,Food Security and Livelihoods,CLFSC,2023,1133
+6940,Health,CLHEA,2023,1133
+6941,Nutrition,CLNUT,2023,1133
+6942,Protection,CLPRO,2023,1133
+6943,Shelter and NFIs,CLSHL,2023,1133
+6944,"Water, Sanitation and Hygiene",CLWSH,2023,1133
+6945,Enabling Programmes,CLCSS,2023,1133
+6946,Logistics,CLLOG,2023,1133
+6947,Refugee Response,CLRR,2023,1133
+7133,Emergency Telecommunications,CLTEL,2023,1133
+6817,Coordination and Support Services,CLCSS,2023,1115
+6819,Education,CLEDU,2023,1115
+6820,Food Security,CLFSC,2023,1115
+6821,Health,CLHEA,2023,1115
+6822,Nutrition,CLNUT,2023,1115
+6823,Protection,CLPRO,2023,1115
+6824,Refugee Response,CLRR,2023,1115
+6825,Shelter and NFI,CLSHL,2023,1115
+6826,"Water, Sanitation and Hygiene",CLWSH,2023,1115
+6832,Education,CLEDU,2023,1117
+6833,Emergency Shelter and NFI,CLSHL,2023,1117
+6834,Food Security and Agriculture,CLFSC,2023,1117
+6835,Health,CLHEA,2023,1117
+6836,Nutrition,CLNUT,2023,1117
+6837,Protection,CLPRO,2023,1117
+6838,"Water, Sanitation and Hygiene",CLWSH,2023,1117
+6845,Aviation,CLLOG,2023,1117
+6846,Coordination and Common Services,CLCSS,2023,1117
+6760,Coordination and Support Services,CLCSS,2023,1109
+6761,Food Security,CLFSC,2023,1109
+6762,Education,CLEDU,2023,1109
+6763,Health,CLHEA,2023,1109
+6764,Protection,CLPRO,2023,1109
+6765,Shelter and NFI Cluster,CLSHL,2023,1109
+6766,WASH,CLWSH,2023,1109
+6767,Multi-cluster/Multi-Purpose Cash,CLMPC,2023,1109
+6768,Camp Coordination and Camp Management,CLCCM,2023,1110
+6769,Early Recovery and Livelihoods,CLERY,2023,1110
+6770,Education,CLEDU,2023,1110
+6771,Emergency Shelter and NFI,CLSHL,2023,1110
+6772,Food Security,CLFSC,2023,1110
+6773,Health,CLHEA,2023,1110
+6774,Nutrition,CLNUT,2023,1110
+6775,Protection,CLPRO,2023,1110
+6776,Water and Sanitation,CLWSH,2023,1110
+6777,Emergency Telecommunications,CLTEL,2023,1110
+6778,Logistics,CLLOG,2023,1110
+6779,COORDINATION AND SUPPORT SERVICES,CLCSS,2023,1110
+6780,Multi-Purpose Cash,CLMPC,2023,1110
+6792,Camp Coordination and Camp Management,CLCCM,2023,1111
+6793,Coordination and Common Services,CLCSS,2023,1111
+6794,Education,CLEDU,2023,1111
+6795,Food Security and Livelihoods,CLFSC,2023,1111
+6796,Health,CLHEA,2023,1111
+6797,Logistics,CLLOG,2023,1111
+6798,Nutrition,CLNUT,2023,1111
+6799,Protection,CLPRO,2023,1111
+6800,Refugee Response,CLRR,2023,1111
+6801,Shelter and Non-Food Items,CLSHL,2023,1111
+6802,"Water, Sanitation and Hygiene",CLWSH,2023,1111
+7563,Emergency response Sudan crisis,CLRR1,2023,1111
+6781,Abris/AME,CLSHL,2023,1112
+6782,Coordination,CLCSS,2023,1112
+6783,"Eau, Hygiène et Assainissement",CLWSH,2023,1112
+6784,Education,CLEDU,2023,1112
+6785,Gestion des Sites d’Accueil Temporaires,CLCCM,2023,1112
+6786,Logistique,CLLOG,2023,1112
+6787,Nutrition,CLNUT,2023,1112
+6788,Protection,CLPRO,2023,1112
+6789,Réponse aux Réfugiés,CLRR,2023,1112
+6790,Santé,CLHEA,2023,1112
+6791,Sécurité alimentaire,CLFSC,2023,1112
+7097,Cash à usage multiple,CLMPC,2023,1112
+6827,Food Security and Agriculture,CLFSC,2023,1116
+6828,Protection,CLPRO,2023,1116
+6829,Nutrition,CLNUT,2023,1116
+6830,Health,CLHEA,2023,1116
+6831,"WASH, Sanitation and Hygiene",CLWSH,2023,1116
+6839,Education,CLEDU,2023,1116
+6840,Shelter and NFI,CLSHL,2023,1116
+6841,Camp Coordination & Camp Management,CLCCM,2023,1116
+6842,Logistics,CLLOG,2023,1116
+6843,Rapid Response Mechanism (RRM),CLCSS1,2023,1116
+6844,Refugees and Migrants Multisector,CLRR,2023,1116
+6847,Coordination,CLCSS,2023,1116
+6848,Emergency Telecommunications,CLTEL,2023,1116
+6849,Multi-Purpose Cash Assistance,CLMPC,2023,1116
+6816,Coordination and Common Services,CLCSS,2023,1114
+6958,Camp Coordination and Camp Management,CLCCM,2023,1114
+6959,Protection,CLPRO,2023,1114
+6960,Early Recovery and Livelihoods,CLERY,2023,1114
+6961,Education,CLEDU,2023,1114
+6962,Food Security and Agriculture,CLFSC,2023,1114
+6963,Health,CLHEA,2023,1114
+6964,Nutrition,CLNUT,2023,1114
+6965,"Water, Sanitation and Hygiene",CLWSH,2023,1114
+6966,Logistics,CLLOG,2023,1114
+6967,Emergency Telecommunications,CLTEL,2023,1114
+6968,Multi-Purpose Cash,CLMPC,2023,1114
+7020,Shelter,CLSHL,2023,1114
+7021,NFI,CLSHL1,2023,1114
+6857,Abris/Biens Non Alimentaires,CLSHL,2023,1122
+7079,Coordination,CLCSS,2023,1122
+7080,Eau Hygiène et Assainissement,CLWSH,2023,1122
+7081,Education,CLEDU,2023,1122
+7082,Nutrition,CLNUT,2023,1122
+7083,Protection,CLPRO,2023,1122
+7084,Réponse aux Réfugiés,CLRR,2023,1122
+7085,Santé,CLHEA,2023,1122
+7086,Sécurité alimentaire,CLFSC,2023,1122
+6858,Health,CLHEA,2023,1123
+6905,"Water, Sanitation and Hygiene",CLWSH,2023,1123
+6906,Food Security and Livelihoods,CLFSC,2023,1123
+6907,Nutrition,CLNUT,2023,1123
+6908,Protection,CLPRO,2023,1123
+6909,Education,CLEDU,2023,1123
+6910,Emergency Shelter and Non-Food Items,CLSHL,2023,1123
+6911,Refugee Response,CLRR,2023,1123
+6912,Logistics,CLLOG,2023,1123
+6913,Coordination & Common Services,CLCSS,2023,1123
+7204,Emergency Telecommunications,CLTEL,2023,1123
+6859,Health,CLHEA,2023,1124
+7098,Multi-purpose Cash,CLMPC,2023,1124
+7099,Education,CLEDU,2023,1124
+7100,Food Security and Livelihoods,CLFSC,2023,1124
+7101,Protection,CLPRO,2023,1124
+7102,Shelter & Non-Food Items,CLSHL,2023,1124
+7103,"Water, Sanitation & Hygiene",CLWSH,2023,1124
+7104,Logistics,CLLOG,2023,1124
+7105,Emergency Telecommunications,CLTEL,2023,1124
+7106,Coordination Services,CLCSS,2023,1124
+7107,Camp Coordination and Camp Management,CLCCM,2023,1124
+6860,Agriculture,CLAGR,2023,1128
+6977,Coordination and Common Services,CLCSS,2023,1128
+6978,Education,CLEDU,2023,1128
+6979,Emergency Shelter and NFIs,CLSHL,2023,1128
+6980,Food,CLFSC,2023,1128
+6981,Health,CLHEA,2023,1128
+6982,Logistics,CLLOG,2023,1128
+6983,Nutrition,CLNUT,2023,1128
+6984,Protection,CLPRO,2023,1128
+6985,Camp Coordination and Camp Management,CLCCM,2023,1128
+6986,"Water, Sanitation and Hygiene",CLWSH,2023,1128
+7226,Multi-Purpose Cash,CLMPC,2023,1128
+6925,"Eau, hygiène et assainissement",CLWSH,2023,1130
+6948,Protection,CLPRO,2023,1130
+6949,Santé,CLHEA,2023,1130
+6950,Sécurité alimentaire,CLFSC,2023,1130
+6951,Education,CLEDU,2023,1130
+6952,Nutrition,CLNUT,2023,1130
+6953,ABRIS/CCCM/NFI,CLSHL,2023,1130
+6954,Réponse aux réfugiés,CLRR,2023,1130
+6955,Logistique,CLLOG,2023,1130
+6956,Télécommunication d'urgence,CLTEL,2023,1130
+6957,Coordination,CLCSS,2023,1130
+6862,Camp Coordination and Camp Management (CCCM),CLCCM,2023,1131
+7010,Coordination and Common Services,CLCSS,2023,1131
+7011,Education,CLEDU,2023,1131
+7012,Food Security and Livelihood,CLFSC,2023,1131
+7013,Health,CLHEA,2023,1131
+7014,Logistics,CLLOG,2023,1131
+7015,Nutrition,CLNUT,2023,1131
+7016,Protection,CLPRO,2023,1131
+7017,Shelter/NFIs,CLSHL,2023,1131
+7018,"Water, Sanitation and Hygiene (WASH)",CLWSH,2023,1131
+7019,Refugee Response,CLRR,2023,1131
+6863,Education,CLEDU,2023,1132
+6987,Food Security,CLFSC,2023,1132
+6988,Health,CLHEA,2023,1132
+6989,Nutrition,CLNUT,2023,1132
+6990,Protection,CLPRO,2023,1132
+6991,Shelter / NFI / CCCM,CLSHL,2023,1132
+6992,WASH,CLWSH,2023,1132
+6993,Coordination and Support Services,CLCSS,2023,1132
+6865,Health,CLHEA,2023,1134
+7071,Nutrition,CLNUT,2023,1134
+7072,Coordination and Common Services,CLCSS,2023,1134
+7073,Education,CLEDU,2023,1134
+7074,WASH,CLWSH,2023,1134
+7075,Protection,CLPRO,2023,1134
+7076,Migrants,CLRR,2023,1134
+6803,Abris,CLSHL,2023,1113
+6804,Articles ménagers essentiels,CLSHL1,2023,1113
+6805,Cash à usage multiple,CLMPC,2023,1113
+6806,Coordination,CLCSS,2023,1113
+6807,"Eau, hygiène & assainissement",CLWSH,2023,1113
+6808,Education,CLEDU,2023,1113
+6809,Logistique,CLLOG,2023,1113
+6810,Nutrition,CLNUT,2023,1113
+6811,Protection,CLPRO,2023,1113
+6812,Santé,CLHEA,2023,1113
+6813,Sécurité alimentaire,CLFSC,2023,1113
+6814,Réponse multisectorielle aux réfugiés,CLRR,2023,1113
+6815,Coordination et gestion des camps,CLCCM,2023,1113
+6850,Education,CLEDU,2023,1118
+7180,Food Security,CLFSC,2023,1118
+7181,Health and Nutrition,CLHEA,2023,1118
+7182,Livelihoods and Resilience,CLERY,2023,1118
+7183,Logistics and Telecoms,CLLOG,2023,1118
+7184,"Shelter, NFIs and Basic Needs",CLSHL,2023,1118
+7185,WASH,CLWSH,2023,1118
+7186,Protection,CLPRO,2023,1118
+6851,Health & Nutrition,CLHEA,2023,1119
+7165,"Livelihoods, Resilience & Socio-Economic Inclusion",CLERY,2023,1119
+7166,WASH,CLWSH,2023,1119
+7167,Education,CLEDU,2023,1119
+7168,Protection,CLPRO,2023,1119
+7169,Shelter & NFIs,CLSHL,2023,1119
+7170,Food Security,CLFSC,2023,1119
+7171,"Logistics, Telecoms & Operational Support",CLLOG,2023,1119
+6853,Health and Nutrition,CLHEA,2023,1125
+7172,"Livelihoods, Resilience & Socio-Economic Inclusion",CLERY,2023,1125
+7173,WASH,CLWSH,2023,1125
+7174,Energy and Environment,CLOTH,2023,1125
+7175,Food Security,CLFSC,2023,1125
+7176,Protection,CLPRO,2023,1125
+7177,Education,CLEDU,2023,1125
+7178,Shelter and NFIs,CLSHL,2023,1125
+7179,"Logistics, Telecoms & Operational Support",CLLOG,2023,1125
+6855,Education,CLEDU,2023,1127
+7160,Basic Needs,CLFSC,2023,1127
+7161,Livelihoods & Social Inclusion,CLERY,2023,1127
+7162,Health & Nutrition,CLHEA,2023,1127
+7163,Protection,CLPRO,2023,1127
+7164,"Logistics, Telecoms & Operational Support",CLLOG,2023,1127
+6856,Abris et ANA,CLSHL,2023,1121
+7029,Éducation,CLEDU,2023,1121
+7030,"Eau Potable, Assainissement et Hygiène",CLWSH,2023,1121
+7031,Logistique,CLLOG,2023,1121
+7032,Nutrition,CLNUT,2023,1121
+7033,Protection,CLPRO,2023,1121
+7034,Santé,CLHEA,2023,1121
+7035,Sécurité Alimentaire,CLFSC,2023,1121
+7036,Coordination,CLCSS,2023,1121
+7191,CCCM,CLCCM,2023,1121
+6866,"Alojamiento, energía y enseres",CLSHL,2023,1135
+6867,"Agua, saneamiento e higiene",CLWSH,2023,1135
+6868,Educación,CLEDU,2023,1135
+6869,Nutrición,CLNUT,2023,1135
+6870,Protección,CLPRO,2023,1135
+6871,Salud,CLHEA,2023,1135
+6872,Seguridad alimentaria,CLFSC,2023,1135
+6873,Coordinación,CLCSS,2023,1135

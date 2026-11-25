@@ -1,0 +1,1379 @@
+caseloadId,caseloadCustomRef,caseloadType,caseloadDescription,availableGlobalClusterCode,entityId,totalPopulation,affected,inNeed,target,expectedReach,year,plan_id
+20679,BP1,plan,Plan Caseload Final,n/a,,30800000.0,,20700000.0,16000000.0,10900000,2021,1024
+24514,CLCCM/BF1-CCM,cluster,Camp Coordination And Camp Management,CCM,5898.0,,,1166125.0,850000.0,,2021,1024
+24519,CLCSS1/BF1-CSS,cluster,Coordination,CSS,5891.0,,,672459.0,672459.0,,2021,1024
+24508,CLEDU/BF1-EDU,cluster,Education,EDU,5892.0,,,8100000.0,5500000.0,,2021,1024
+24500,CLFSC/BF1-FSC,cluster,Food Security,FSC,5896.0,,,16200000.0,16000000.0,,2021,1024
+24502,CLHEA/BF1-HEA,cluster,Health,HEA,5893.0,,,20100000.0,11600000.0,,2021,1024
+24501,CLNUT/BF1-NUT,cluster,Nutrition,NUT,5894.0,,,7600000.0,6300000.0,,2021,1024
+24510,CLPRO/BF1-PRO,cluster,Protection,PRO,5901.0,,,15800000.0,8600000.0,,2021,1024
+51684,CLPRO/BF2-PRO-CPN,cluster,Child Protection,PRO-CPN,5901.0,,,8600000.0,1000000.0,,2021,1024
+24516,CLRR/BF1-RR,cluster,Refugee Response,n/a,5936.0,,,275010.0,275010.0,,2021,1024
+24512,CLSHL/BF1-SHL,cluster,Shelter/NFI,SHL,5895.0,,,7300000.0,3800000.0,,2021,1024
+24503,CLWSH/BF1-WSH,cluster,"Water, Sanitation and Hygiene",WSH,5899.0,,,15400000.0,11200000.0,,2021,1024
+20676,BP1,plan,Final Plan Caseload,n/a,,16152764.0,,6800000.0,4500000.0,2900000,2021,1042
+19958,CLCCM/BF1-CCM,cluster,Camp Coordination And Camp Management,CCM,6081.0,,,5032.0,3532.0,,2021,1042
+19957,CLCSS/BF1-CSS,cluster,Coordination,CSS,6082.0,,,,,,2021,1042
+19959,CLEDU/BF1-EDU,cluster,Education,EDU,6073.0,,,1730587.0,811002.0,,2021,1042
+19961,CLFSC/BF1-FSC,cluster,Food Security,FSC,6074.0,,,5724842.0,3705700.0,,2021,1042
+19963,CLHEA/BF1-HEA,cluster,Health,HEA,6075.0,,,4152291.0,2698989.0,,2021,1042
+19964,CLNUT/BF1-NUT,cluster,Nutrition,NUT,6076.0,,,1506415.0,870438.0,,2021,1042
+19965,CLPRO/BF1-PRO,cluster,Protection,PRO,6077.0,,,2334757.0,722291.0,,2021,1042
+19966,CLPRO/BF2-PRO-CPN,cluster,Child Protection,PRO-CPN,6077.0,,,1335509.0,160261.0,,2021,1042
+19967,CLPRO/BF3-PRO-GBV,cluster,Gender-Based Violence (GBV),PRO-GBV,6077.0,,,2268105.0,671191.0,,2021,1042
+19969,CLRR/BF1-RR,cluster,Refugee Response,n/a,6080.0,,,15405.0,15405.0,,2021,1042
+19968,CLSHL/BF1-SHL,cluster,Shelter/NFI,SHL,6079.0,,,106533.0,81700.0,,2021,1042
+19962,CLWSH/BF1-WSH,cluster,"Water, Sanitation and Hygiene",WSH,6078.0,,,3001632.0,2113207.0,,2021,1042
+20310,SO1/BF1,planEntity,,n/a,11358.0,,,6845594.0,4464097.0,,2021,1042
+20312,SO2/BF1,planEntity,,n/a,11359.0,,,6845594.0,4464097.0,,2021,1042
+20681,BP1,plan,Final caseload,n/a,,,,7203586.0,3295457.0,,2021,1021
+23811,CLCSS/BF1-CSS,cluster,Common Services caseload,CSS,6159.0,,,,,,2021,1021
+23815,CLEDU/BF1-EDU,cluster,Education caseload,EDU,6162.0,,,,,,2021,1021
+23822,CLERY/BF1-ERY,cluster,Integration Caseload,ERY,6165.0,,,,,,2021,1021
+23807,CLFSC/BF1-FSC,cluster,Food Security caseload,FSC,5958.0,,,,,,2021,1021
+23813,CLHEA/BF1-HEA,cluster,Health caseload,HEA,6160.0,,,,,,2021,1021
+23818,CLLOG/BF1-LOG,cluster,Logistics,LOG,6164.0,,,,,,2021,1021
+23808,CLMPC/BF1-MPC,cluster,Multipurpose CBI caseload,MPC,6157.0,,,,,,2021,1021
+23823,CLNUT/BF1-NUT,cluster,Nutrition,NUT,6166.0,,,,,,2021,1021
+23817,CLPRO/BF1-PRO,cluster,Protection,PRO,6163.0,,,,,,2021,1021
+23814,CLSHL/BF1-SHL,cluster,Shelter caseload,SHL,6161.0,,,,,,2021,1021
+23810,CLWSH/BF1-WSH,cluster,WASH caseload,WSH,6158.0,,,,,,2021,1021
+20686,BP1,plan,2021 Plan Caseload,n/a,,211400000.0,,8700000.0,6400000.0,4800000,2021,1032
+21962,CLCCM/BF1-CCM,cluster,Camp Coordination And Camp Management,CCM,5990.0,,,1921903.0,1438157.0,,2021,1032
+21717,CLEDU/BF1-EDU,cluster,Education,EDU,5992.0,,,1262980.0,1026541.0,,2021,1032
+22012,CLERY/BF1-ERY,cluster,Early recovery and livelihood,ERY,5991.0,,,2134573.0,260232.0,,2021,1032
+21749,CLFSC/BF1-FSC,cluster,Food Security,FSC,5994.0,,,5138357.0,4270888.0,,2021,1032
+21759,CLHEA/BF1-HEA,cluster,Health,HEA,5995.0,,,5813335.0,5262494.0,,2021,1032
+29075,CLLOG/BF1-LOG,cluster,Logistics,LOG,6000.0,,,,,,2021,1032
+21736,CLNUT/BF1-NUT,cluster,Nutrition,NUT,5996.0,,,1531865.0,1292540.0,,2021,1032
+21839,CLPRO/BF1-PRO,cluster,Protection,PRO,5997.0,,,4076551.0,2471984.0,,2021,1032
+51682,CLPRO/BF2-PRO-CPN,cluster,Child Protection,PRO-CPN,5997.0,,,1700000.0,1001000.0,,2021,1032
+21945,CLSHL/BF1-SHL,cluster,Shelter/NFI,SHL,5993.0,,,2272708.0,1402448.0,,2021,1032
+21747,CLWSH/BF1-WSH,cluster,"Water, Sanitation and Hygiene",WSH,5998.0,,,2881346.0,2523340.0,,2021,1032
+21721,SO1/BF1,planEntity,SO1,n/a,12030.0,,,,5176000.0,,2021,1032
+24591,SO2/BF1,planEntity,SO2,n/a,12032.0,,,,5185000.0,,2021,1032
+24592,SO3/BF1,planEntity,SO3,n/a,12033.0,,,,468000.0,,2021,1032
+24584,SP1/BF1,planEntity,SP1,n/a,12031.0,,,,4700000.0,,2021,1032
+24585,SP2/BF1,planEntity,SP2,n/a,12034.0,,,,209500.0,,2021,1032
+24586,SP3/BF1,planEntity,SP3,n/a,12035.0,,,,2176000.0,,2021,1032
+24587,SP4/BF1,planEntity,SP4,n/a,12036.0,,,,913000.0,,2021,1032
+24588,SP5/BF1,planEntity,SP%,n/a,12037.0,,,,5016000.0,,2021,1032
+24589,SP6/BF1,planEntity,SP6,n/a,12038.0,,,,452000.0,,2021,1032
+24590,SP7/BF1,planEntity,SP7,n/a,12039.0,,,,56300.0,,2021,1032
+20690,BP1,plan,,n/a,,,,1356043.0,1356043.0,,2021,1023
+18801,CLCCM/BF1-CCM,cluster,TARGETED BY SMSD,CCM,5908.0,,,884041.0,884041.0,,2021,1023
+20743,CLCSS/BF1-CSS,cluster,COORDINATION,CSS,5918.0,,,,,,2021,1023
+20742,CLCSS1/BF1-CSS,cluster,TARGETED BY CwC,CSS,5915.0,,,1131301.0,1131301.0,,2021,1023
+20744,CLEDU/BF2-EDU,cluster,TARGETED BY EDUCATION,EDU,5910.0,,,715171.0,451548.0,,2021,1023
+20736,CLFSC/BF1-FSC,cluster,TARGETED BY FOOD SECURITY,FSC,5909.0,,,1214442.0,1214442.0,,2021,1023
+20738,CLHEA/BF1-HEA,cluster,TARGETED BY HEALTH,HEA,5911.0,,,1356043.0,1356043.0,,2021,1023
+20739,CLNUT/BF1-NUT,cluster,TARGETED BY NUTRITION,NUT,5912.0,,,484692.0,415570.0,,2021,1023
+18782,CLPRO/BF1-PRO,cluster,General Protection,PRO,5890.0,,,1157171.0,1057888.0,,2021,1023
+18790,CLPRO/BF2-PRO-CPN,cluster,Child Protection,PRO-CPN,5890.0,,,826721.0,826721.0,,2021,1023
+18791,CLPRO/BF3-PRO-GBV,cluster,Gender-Based Violence (GBV),PRO-GBV,5890.0,,,1104936.0,667082.0,,2021,1023
+20740,CLSHL/BF1-SHL,cluster,TARGETED BY SHELTER/NFI,SHL,5913.0,,,1356043.0,1165872.0,,2021,1023
+20741,CLWSH/BF1-WSH,cluster,TARGETED BY WASH,WSH,5914.0,,,1356043.0,1120050.0,,2021,1023
+20683,BP1,plan,Plan Caseload Final,n/a,,12060167.0,,8310533.0,6645700.0,5700000,2021,1013
+24300,CLCCM/BF1-CCM,cluster,CCCM Cluster Caseload,CCM,5873.0,,,1390566.0,900000.0,,2021,1013
+25499,CLCCM/CO1/BF1,planEntity,The case load was calculated based on the CCCM severity analysis.,n/a,13339.0,,,1200000.0,900000.0,,2021,1013
+25500,CLCCM/CO2/BF1,planEntity,The case load was calculated based on the CCCM severity analysis.,n/a,13443.0,,,1200000.0,900000.0,,2021,1013
+25501,CLCCM/CO3/BF1,planEntity,The case load was calculated based on the CCCM severity analysis.,n/a,13450.0,,,1200000.0,900000.0,,2021,1013
+25502,CLCCM/CO4/BF1,planEntity,The case load was calculated based on the CCCM severity analysis.,n/a,13451.0,,,1200000.0,900000.0,,2021,1013
+23960,CLCSS/BF1-CSS,cluster,Organizations supported under CCS,CSS,5874.0,,,305.0,305.0,,2021,1013
+23963,CLCSS/CO1/BF1,planEntity,Assesments,n/a,13340.0,,,,78.0,,2021,1013
+24025,CLEDU/BF1-EDU,cluster,Caseload Education Cluster,EDU,5875.0,,,3390935.0,805931.0,,2021,1013
+24180,CLEDU/CA1/BF2,planEntity,Caseload,n/a,13389.0,,,3400000.0,797024.0,,2021,1013
+24185,CLEDU/CA10/BF1,planEntity,,n/a,13480.0,,,,4355.0,,2021,1013
+24186,CLEDU/CA11/BF1,planEntity,,n/a,13481.0,,,,8907.0,,2021,1013
+24187,CLEDU/CA12/BF1,planEntity,,n/a,13482.0,,,,4572.0,,2021,1013
+24391,CLEDU/CA13/BF1,planEntity,,n/a,13552.0,,,,7000.0,,2021,1013
+24181,CLEDU/CA2/BF1,planEntity,,n/a,13471.0,,,,390.0,,2021,1013
+24182,CLEDU/CA7/BF1,planEntity,Caseload- WASH (Rehabilitation),n/a,13476.0,,,,4975.0,,2021,1013
+24183,CLEDU/CA8/BF1,planEntity,,n/a,13477.0,,,,699750.0,,2021,1013
+24184,CLEDU/CA9/BF1,planEntity,,n/a,13479.0,,,,4355.0,,2021,1013
+24166,CLFSC/BF1-FSC,cluster,FSLC target,FSC,5877.0,,,7693363.0,5714650.0,,2021,1013
+25426,CLFSC/CO1/BF1,planEntity,Pin & Target in 2021,n/a,13343.0,,,7383359.0,4000000.0,,2021,1013
+25427,CLFSC/CO2/BF1,planEntity,CO2,n/a,13435.0,,,7383359.0,5716106.0,,2021,1013
+25428,CLFSC/CO3/BF1,planEntity,CO3,n/a,13436.0,,,,500000.0,,2021,1013
+24139,CLHEA/BF1-HEA,cluster,Health caseload,HEA,5879.0,,,5250938.0,2416667.0,,2021,1013
+24667,CLLOG/BF1-LOG,cluster,# of organizations utilizing logistics and coordination services,LOG,5878.0,,,320.0,320.0,,2021,1013
+23966,CLLOG/CO1/BF1,planEntity,Humanitarian Organizations,n/a,13341.0,,,320.0,320.0,,2021,1013
+23972,CLLOG/CO2/BF1,planEntity,Humanitarian Organizations,n/a,13342.0,,,320.0,320.0,,2021,1013
+23978,CLLOG/CO3/BF1,planEntity,Humanitarian Organizations,n/a,13344.0,,,320.0,320.0,,2021,1013
+24227,CLNUT/BF1-NUT,cluster,Nutrition Cluster Caseload,NUT,5880.0,,,1896632.0,1250747.0,,2021,1013
+24192,CLPRO/BF2-PRO-GBV,cluster,Gender-Based Violence (GBV),PRO-GBV,5854.0,,,2047184.0,916840.0,,2021,1013
+24195,CLPRO/BF3-PRO-CPN,cluster,Child Protection,PRO-CPN,5854.0,,,2701111.0,800000.0,,2021,1013
+24191,CLPRO/BF4-PRO-MIN,cluster,Mine Action,PRO-MIN,5854.0,,,654831.0,208608.0,,2021,1013
+24190,CLPRO/BF5-PRO-HLP,cluster,"Housing, Land and Property",PRO-HLP,5854.0,,,1488689.0,608975.0,,2021,1013
+24248,CLPRO/BF6-PRO,cluster,General Protection,PRO,5854.0,,,2383378.0,848670.0,,2021,1013
+25340,CLPRO/BF7-PRO-OVE,cluster,Protection (overall),n/a,5854.0,,,4977613.0,2575549.0,,2021,1013
+25163,CLPRO/CO1.1/BF1,planEntity,Child Protection,n/a,10005.0,,,2701111.0,800000.0,,2021,1013
+18172,CLPRO/CO3/BF1,planEntity,Mine Clearance,n/a,10008.0,,,10000.0,10000.0,,2021,1013
+24303,CLRR/BF1-RR,cluster,Refugee Response caseload,n/a,5881.0,,,310000.0,350000.0,,2021,1013
+24382,CLRR/CO1/BF1,planEntity,Refugee Population,n/a,13548.0,,,350000.0,350000.0,,2021,1013
+24385,CLRR/CO2/BF1,planEntity,Refugees and asylum seekers,n/a,13550.0,,,350000.0,350000.0,,2021,1013
+24096,CLSHL/BF1-SHL,cluster,Emergency Shelter and NFI Caseload,SHL,5876.0,,,2438753.0,1085000.0,,2021,1013
+24066,CLSHL/CA1/BF1,planEntity,newly displaced and new vulnerable populations,n/a,13401.0,,,566000.0,332000.0,,2021,1013
+24073,CLSHL/CA10/BF1,planEntity,"Resilience building for Returnees, Disaster Affected,HC",n/a,13411.0,,,355000.0,20000.0,,2021,1013
+24074,CLSHL/CA11/BF1,planEntity,"Resilience building for Returnees, Disaster Affected,HC",n/a,13412.0,,,10.0,8.0,,2021,1013
+24075,CLSHL/CA12/BF1,planEntity,"Resilience building for Returnees, Disaster Affected,HC",n/a,13413.0,,,30.0,30.0,,2021,1013
+24076,CLSHL/CA13/BF1,planEntity,"Resilience building for Returnees, Disaster Affected,HC",n/a,13414.0,,,30.0,30.0,,2021,1013
+24077,CLSHL/CA14/BF1,planEntity,"Resilience building for Returnees, Disaster Affected,HC",n/a,13415.0,,,80.0,80.0,,2021,1013
+24078,CLSHL/CA16/BF1,planEntity,"Resilience building for Returnees, Disaster Affected,HC",n/a,13418.0,,,80.0,80.0,,2021,1013
+24079,CLSHL/CA17/BF1,planEntity,"Resilience building for Returnees, Disaster Affected,HC",n/a,13419.0,,,26.0,26.0,,2021,1013
+24319,CLSHL/CA19/BF2,planEntity,,n/a,13522.0,,,297000.0,51000.0,,2021,1013
+24064,CLSHL/CA2/BF1,planEntity,newly displaced and new vulnerable populations,n/a,13402.0,,,918000.0,580000.0,,2021,1013
+24316,CLSHL/CA20/BF1,planEntity,,n/a,13524.0,,,152000.0,46000.0,,2021,1013
+24326,CLSHL/CA21/BF1,planEntity,1,n/a,13526.0,,,355000.0,93000.0,,2021,1013
+24065,CLSHL/CA3/BF1,planEntity,Populations in protracted situations,n/a,13404.0,,,485000.0,172000.0,,2021,1013
+24067,CLSHL/CA4/BF1,planEntity,Populations in Protracted situations,n/a,13405.0,,,502000.0,246800.0,,2021,1013
+24068,CLSHL/CA5/BF1,planEntity,"vulnerable protracted IDPs, returnees, and host communities/affected non-displaced",n/a,13406.0,,,215000.0,134700.0,,2021,1013
+24069,CLSHL/CA6/BF1,planEntity,"Resilience building for Returnees, Disaster Affected,HC",n/a,13407.0,,,15000.0,12500.0,,2021,1013
+24070,CLSHL/CA7/BF1,planEntity,"Resilience building for Returnees, Disaster Affected,HC",n/a,13408.0,,,13000.0,10000.0,,2021,1013
+24071,CLSHL/CA8/BF1,planEntity,"Resilience building for Returnees, Disaster Affected,HC",n/a,13409.0,,,10000.0,8000.0,,2021,1013
+24072,CLSHL/CA9/BF1,planEntity,"Resilience building for Returnees, Disaster Affected,HC",n/a,13410.0,,,355000.0,20000.0,,2021,1013
+23987,CLWSH/BF1-WSH,cluster,WASH caseload,WSH,5882.0,,,5903948.0,3000000.0,,2021,1013
+24297,CLWSH/CO1/BF1,planEntity,Number of SAM children provided with standard hygiene kits paired with hygiene promotion,n/a,13370.0,,,243101.0,194481.0,,2021,1013
+25505,CLWSH/CO1/BF2,planEntity,# of couple malnourished child/caretaker reached with full WASH household support package.,n/a,13370.0,,,243101.0,194481.0,,2021,1013
+25506,CLWSH/CO1/BF3,planEntity,# of nutrition facilities located in IPC 4/5 areas reached with access to safe water.,n/a,13370.0,,,374.0,126.0,,2021,1013
+25503,CLWSH/CO1/BF4,planEntity,# of beneficiaries in communities showing high prevalence of GAM and high WASH vulnerabilities reached with safe access to semi-permanent water.,n/a,13370.0,,,2189384.0,550000.0,,2021,1013
+25504,CLWSH/CO1/BF5,planEntity,Number# of beneficiaries in communities who have shown high prevalence of GAM and high WASH vulnerabilities reached with hygiene promotion.,n/a,13370.0,,,2189384.0,550000.0,,2021,1013
+24036,CLWSH/CO2/BF1,planEntity,Reducing prevalence of WASH-related  diseases and risk of outbreak by transmission contexts upon epidemiological investigation,n/a,13375.0,,,1626228.0,800000.0,,2021,1013
+20671,BP1,plan,Final Plan Caseload,n/a,,47180433.2,,13446500.53,8900000.0,7400000,2021,1014
+19085,CLCSS/BF1-CSS,cluster,Coordination,CSS,5855.0,,,868488.0,866394.0,,2021,1014
+19086,CLEDU/BF1-EDU,cluster,EDU,EDU,5856.0,,,2678558.0,2192383.0,,2021,1014
+19584,CLFSC/BF1-FSC,cluster,FSL,FSC,5858.0,,,7139718.2,6288166.038,,2021,1014
+19581,CLHEA/BF1-HEA,cluster,HEA,HEA,5859.0,,,8103082.0,5651225.0,,2021,1014
+20506,CLLOG-TEL/BF1,cluster,Logistics,n/a,5860.0,,,,,,2021,1014
+19580,CLNUT/BF1-NUT,cluster,NUT,NUT,5861.0,,,3922067.0,1760452.0,,2021,1014
+19583,CLPRO/BF1-PRO,cluster,General Protection,PRO,5862.0,,,2514680.0,2268181.0,,2021,1014
+20504,CLPRO/BF2-PRO-GBV,cluster,Gender-Based Violence (GBV),PRO-GBV,5862.0,,,2287484.0,890304.0,,2021,1014
+20505,CLPRO/BF3-PRO-MIN,cluster,Mine Action,PRO-MIN,5862.0,,,2696649.0,458430.0,,2021,1014
+20502,CLPRO/BF4-PRO-CPN,cluster,Child Protection,PRO-CPN,5862.0,,,2560788.0,1791784.0,,2021,1014
+19292,CLRR/CO1/BF1,planEntity,,n/a,10735.0,,,,,,2021,1014
+19582,CLSHL/BF1-SHL,cluster,Emergency Shelter and Non-Food Items,SHL,5857.0,,,1974044.0,850569.0,,2021,1014
+19579,CLWSH/BF1-WSH,cluster,WASH,WSH,5863.0,,,7955818.0,4760810.0,,2021,1014
+20682,BP1,plan,Plan final Caseload,n/a,,41700000.0,,3400000.0,1900000.0,1400000,2021,1015
+18736,CLCSS/BF1-CSS,cluster,Coord,CSS,5888.0,,,,,,2021,1015
+18730,CLEDU/BF1-EDU,cluster,Education,EDU,5902.0,,,403900.0,105000.0,,2021,1015
+18731,CLFSC/BF1-FSC,cluster,FSC,FSC,5883.0,,,1520000.0,80000.0,,2021,1015
+26397,CLFSC/CO1/BF1,planEntity,Ensure immediate access to food for the most vulnerable people affected by conflict and or СOVID-19,n/a,10140.0,,,,53074.0,,2021,1015
+26398,CLFSC/CO2/BF1,planEntity,Improve food security through the provision of emergency and time-critical agriculture assistance,n/a,10141.0,,,,17596.0,,2021,1015
+26399,CLFSC/CO3/BF1,planEntity,"Enhance resilience of vulnerable people affected by conflict and/or COVID-19 through restoring of non-agriculture livelihood and promote resilience to shocks (including wildfire, unemployment, higher prices, and other hazard) at community level",n/a,10142.0,,,,10014.0,,2021,1015
+18732,CLHEA/BF1-HEA,cluster,Health,HEA,5884.0,,,1520293.0,1320780.0,,2021,1015
+26400,CLHEA/CO1/BF1,planEntity,"Reduce infectious disease transmission and hospitalization rate by supporting healthcare system, including laboratories and immunization, and COVID-19 incident management system (Surveillance, Infection Prevention and Control, Case Management, EECPs, Risk Communication and Community Engagement)",n/a,10160.0,,,,528316.0,,2021,1015
+26401,CLHEA/CO2/BF1,planEntity,"Improve access of conflict-affected population, exacerbated by COVID-19, to essential healthcare services, including HIV/TB and MHPSS",n/a,10161.0,,,,358549.0,,2021,1015
+26402,CLHEA/CO3/BF1,planEntity,"Improve capacity, sustainability and quality of healthcare services provided at different levels of care for conflict-affected population, exacerbated by COVID-19, and ensure implementation of humanitarian exit strategy in GCA from 2021-2023",n/a,10162.0,,,,433915.0,,2021,1015
+18737,CLMPC/BF1-MPC,cluster,CASH,MPC,5889.0,,,,23026.0,,2021,1015
+18733,CLPRO/BF1-PRO,cluster,General Protection,PRO,5885.0,,,2802002.0,1519645.0,,2021,1015
+18774,CLPRO/BF2-PRO-CPN,cluster,Child Protection,PRO-CPN,5885.0,,,500000.0,330000.0,,2021,1015
+18775,CLPRO/BF3-PRO-GBV,cluster,Gender-Based Violence (GBV),PRO-GBV,5885.0,,,,,,2021,1015
+18778,CLPRO/BF4-PRO-MIN,cluster,Mine Action,PRO-MIN,5885.0,,,,,,2021,1015
+18779,CLPRO/BF5-PRO-OVE,cluster,Protection (overall),n/a,5885.0,,,,,,2021,1015
+18734,CLSHL/BF1-SHL,cluster,Shelter/NFI,SHL,5886.0,,,174173.0,119045.0,,2021,1015
+18735,CLWSH/BF1-WSH,cluster,WASH,WSH,5887.0,,,3088981.0,1900000.0,,2021,1015
+26457,CLWSH/CO1/BF1,planEntity,"Ensure immediate and sustainable access to sufficient safe water, and minimal levels of sanitation provision for conflict- and COVID-19-affected people",n/a,10229.0,,,2470000.0,622000.0,,2021,1015
+26458,CLWSH/CO2/BF1,planEntity,Provision of critical hygiene-related supplies and information for the prevention of infectious diseases,n/a,10230.0,,,1850000.0,1270000.0,,2021,1015
+26459,CLWSH/CO3/BF1,planEntity,"Promote resilience, recovery and sustainable access to sufficient safe water,  minimal levels of sanitation, and minimum hygiene standards",n/a,10231.0,,,,156000.0,,2021,1015
+26460,CLWSH/CO4/BF1,planEntity,Increase the safety of utility workers and safe continuous usage of water infrastructure,n/a,10232.0,,,4.0,50.0,,2021,1015
+20689,BP1,plan,Plan Caseload,n/a,,51300000.0,,6731041.0,1446954.0,1100000,2021,1016
+23855,CLEDU/BF1-EDU,cluster,Caseload Educación,EDU,5872.0,,,3607665.0,90279.0,,2021,1016
+25529,CLEDU/CO1/BF1,planEntity,Sectorial Objetive N1 caseload,n/a,11316.0,,,421992.0,98521.0,,2021,1016
+25530,CLEDU/CO2/BF1,planEntity,Sectorial Objetive N2 Caseload,n/a,11317.0,,,2583314.0,61606.0,,2021,1016
+25531,CLEDU/CO3/BF1,planEntity,Sectorial Objetive N3 caseload,n/a,11318.0,,,6587.0,6587.0,,2021,1016
+25532,CLEDU/CO4/BF1,planEntity,Sectorial Objetive N4 Caseload,n/a,11319.0,,,23576.0,2700.0,,2021,1016
+23857,CLERY/BF1-ERY,cluster,Caseload Recuperación Temprana,ERY,5871.0,,,4511469.0,365700.0,,2021,1016
+25520,CLERY/CO1/BF1,planEntity,Sectorial objetive N1 caseload,n/a,11320.0,,,1587960.0,30496.0,,2021,1016
+25521,CLERY/CO2/BF1,planEntity,Sectorial objetive N2 caseload,n/a,11321.0,,,2767059.0,30466.0,,2021,1016
+25522,CLERY/CO3/BF1,planEntity,Sectorial Objetive N3 caseload,n/a,11322.0,,,1990362.0,10139.0,,2021,1016
+25523,CLERY/CO4/BF1,planEntity,Sectorial Objetive N4 caseload,n/a,11323.0,,,1990362.0,20277.0,,2021,1016
+25524,CLERY/CO5/BF1,planEntity,Sectorial Objetive N5 caseload,n/a,11324.0,,,1587960.0,20277.0,,2021,1016
+25525,CLERY/CO6/BF1,planEntity,Sectorial objetive N6 caseload,n/a,11325.0,,,100.0,100.0,,2021,1016
+25526,CLERY/CO7/BF1,planEntity,Sectorial Objetive N7 caseload,n/a,11326.0,,,1990632.0,40554.0,,2021,1016
+25527,CLERY/CO8/BF1,planEntity,Sectorial Objetive N8 caseload,n/a,11327.0,,,1990363.0,30416.0,,2021,1016
+23859,CLFSC/BF1-FSC,cluster,Caseload SAN,FSC,5867.0,,,6232817.0,432000.0,,2021,1016
+25528,CLFSC/CO1/BF1,planEntity,Sectorial Objetive N1 caseload,n/a,11310.0,,,,260000.0,,2021,1016
+25644,CLFSC/CO2/BF1,planEntity,Sectorial Objetive N2 caseload,n/a,11311.0,,,,14000.0,,2021,1016
+23858,CLHEA/BF1-HEA,cluster,Caseload Salud,HEA,5868.0,,,6136513.0,946024.0,,2021,1016
+23856,CLPRO/BF1-PRO,cluster,Protección,PRO,5866.0,,,5280010.0,831561.0,,2021,1016
+51680,CLPRO/BF2-PRO-CPN,cluster,Protección de la infancia,PRO-CPN,5866.0,,,1900000.0,281000.0,,2021,1016
+25494,CLPRO/CO1/BF1,planEntity,Sectorial Objetive N1,n/a,10746.0,,,2081400.0,356753.0,,2021,1016
+25495,CLPRO/CO2/BF1,planEntity,Sectorial Objetive N2,n/a,10747.0,,,12466.0,3535.0,,2021,1016
+25496,CLPRO/CO3/BF1,planEntity,Sectorial Objetive N3,n/a,10748.0,,,2415262.0,359668.0,,2021,1016
+25497,CLPRO/CO4/BF1,planEntity,Sectorial Objetive N4,n/a,10749.0,,,754059.0,109169.0,,2021,1016
+25498,CLPRO/CO5/BF1,planEntity,Sectorial Objetive N5,n/a,10750.0,,,16823.0,2436.0,,2021,1016
+23854,CLSHL/BF1-SHL,cluster,Caseload Alojamientos,SHL,5870.0,,,2438766.0,40982.0,,2021,1016
+25515,CLSHL/CO1/BF1,planEntity,Sectorial Objetive N1 caseload,n/a,10751.0,,,1707136.0,25608.0,,2021,1016
+25516,CLSHL/CO2/BF1,planEntity,Sectorial Objetive N2 caseload,n/a,10752.0,,,97550.0,800.0,,2021,1016
+25517,CLSHL/CO3/BF1,planEntity,Sectorial Objetive N3 caseload,n/a,10753.0,,,97550.0,800.0,,2021,1016
+25518,CLSHL/CO4/BF1,planEntity,Sectorial Objetive N4 caseload,n/a,10754.0,,,48776.0,400.0,,2021,1016
+25519,CLSHL/CO5/BF1,planEntity,Sectorial Objetive N5 caseload,n/a,10755.0,,,487754.0,7316.0,,2021,1016
+23853,CLWSH/BF1-WSH,cluster,Caseload Wash,WSH,5869.0,,,5417064.0,220000.0,,2021,1016
+25418,CLWSH/CO1/BF1,planEntity,Sectorial objetive N1 caseload,n/a,11074.0,,,5417064.0,220000.0,,2021,1016
+25514,CLWSH/CO2/BF1,planEntity,Sectorial objetive N2 caseload,n/a,11100.0,,,0.0,100.0,,2021,1016
+20699,BP1,plan,Plan Caseload Final HRP,n/a,,4900000.0,,2800000.0,1840000.0,1700000,2021,1025
+22821,CLEDU/BF1-EDU,cluster,Éducation,EDU,6125.0,,,1300000.0,840000.0,,2021,1025
+22837,CLFSC/BF1-FSC,cluster,Sécurité Alimentaire,FSC,6142.0,,,2316000.0,1800000.0,,2021,1025
+22834,CLHEA/BF1-HEA,cluster,Santé,HEA,6141.0,,,2600000.0,1100000.0,,2021,1025
+22833,CLNUT/BF1-NUT,cluster,Nutrition,NUT,6128.0,,,1084000.0,870000.0,,2021,1025
+22829,CLPRO/BF1-PRO,cluster,Protection (total),PRO,5904.0,,,2500000.0,1280000.0,,2021,1025
+22830,CLPRO/BF2-PRO-CPN,cluster,Protection de l'enfant,PRO-CPN,5904.0,,,919000.0,302750.0,,2021,1025
+22831,CLPRO/BF3-PRO-GBV,cluster,Violence Basée sur le Genre (VBG),PRO-GBV,5904.0,,,1138000.0,758000.0,,2021,1025
+22832,CLPRO/BF4-PRO-HLP,cluster,"Logement, Terres et propriété",PRO-HLP,5904.0,,,330000.0,99000.0,,2021,1025
+22840,CLRR/BF1-RR,cluster,Réponse aux Réfugiés,n/a,6144.0,,,160000.0,160000.0,,2021,1025
+22810,CLSHL/BF1-SHL,cluster,Abris/BNA,SHL,6124.0,,,1100000.0,450000.0,,2021,1025
+22824,CLWSH/BF1-WSH,cluster,"Eau, Hygiène et Assainissement",WSH,6126.0,,,2500000.0,1400000.0,,2021,1025
+22443,SO1/BF1,planEntity,Objectif Stratégique 1,n/a,12555.0,,,1900000.0,1400000.0,,2021,1025
+22444,SO2/BF1,planEntity,Objectif Stratégique 2,n/a,12556.0,,,2800000.0,1200000.0,,2021,1025
+22445,SO3/BF1,planEntity,Objectif Stratégique 3,n/a,12557.0,,,1500000.0,1300000.0,,2021,1025
+22446,SP1.1/BF1,planEntity,OS1.1 OBJECTIFS SPÉCIFIQUES,n/a,12558.0,,,809000.0,647000.0,,2021,1025
+22579,SP1.2/BF1,planEntity,,n/a,12603.0,,,525000.0,525000.0,,2021,1025
+22551,SP1.3/BF1,planEntity,,n/a,12604.0,,,986000.0,986000.0,,2021,1025
+22553,SP1.4/BF1,planEntity,,n/a,12605.0,,,109600.0,109600.0,,2021,1025
+22555,SP1.5/BF1,planEntity,,n/a,12606.0,,,573000.0,573000.0,,2021,1025
+22557,SP1.6/BF1,planEntity,,n/a,12607.0,,,2800000.0,1280000.0,,2021,1025
+22559,SP2.1/BF1,planEntity,,n/a,12608.0,,,210000.0,210000.0,,2021,1025
+22562,SP2.2/BF1,planEntity,,n/a,12609.0,,,190000.0,190000.0,,2021,1025
+22565,SP2.3/BF1,planEntity,,n/a,12610.0,,,2300000.0,1000000.0,,2021,1025
+22566,SP2.4/BF1,planEntity,,n/a,12611.0,,,5300.0,4200.0,,2021,1025
+22568,SP2.5/BF1,planEntity,,n/a,12612.0,,,270000.0,270000.0,,2021,1025
+22571,SP2.6/BF1,planEntity,,n/a,12613.0,,,380000.0,380000.0,,2021,1025
+22573,SP3.1/BF1,planEntity,,n/a,12614.0,,,145000.0,145000.0,,2021,1025
+22577,SP3.2/BF1,planEntity,,n/a,12615.0,,,30000.0,12000.0,,2021,1025
+20673,BP1,plan,Plan Caseload final,n/a,,7392988.0,2475441.0,1250662.0,451000.0,500000,2021,1027
+18742,CLCSS/BF1-CSS,cluster,Coord,CSS,5935.0,,,1252879.0,450795.0,,2021,1027
+18743,CLEDU/BF1-EDU,cluster,Education,EDU,5950.0,,,326395.0,132064.0,,2021,1027
+18744,CLFSC/BF1-FSC,cluster,FCS,FSC,5951.0,,,698744.0,160435.0,,2021,1027
+18745,CLHEA/BF1-HEA,cluster,Health,HEA,5952.0,,,1195389.0,450795.0,,2021,1027
+20069,CLMPC/BF1-MPC,cluster,CMWG,MPC,5957.0,,,313657.0,33625.0,,2021,1027
+20070,CLPRO/BF1-PRO-CPN,cluster,Child Protection,PRO-CPN,5953.0,,,271447.0,64658.0,,2021,1027
+20071,CLPRO/BF2-PRO-MIN,cluster,Mine Action,PRO-MIN,5953.0,,,505486.0,450795.0,,2021,1027
+19934,CLPRO/BF3-PRO-GBV,cluster,Gender-Based Violence (GBV),PRO-GBV,5953.0,,,153353.0,54058.0,,2021,1027
+18746,CLPRO/BF4-PRO,cluster,General Protection,PRO,5953.0,,,462718.0,116696.0,,2021,1027
+18747,CLSHL/BF1-SHL,cluster,Shelter/NFI,SHL,5954.0,,,376036.0,110948.0,,2021,1027
+20576,CLTEL/BF1-TEL,cluster,ETS caseload,TEL,5956.0,,,,450795.0,,2021,1027
+18748,CLWSH/BF1-WSH,cluster,WASH,WSH,5955.0,,,437962.0,263181.0,,2021,1027
+24765,SP1/BF1,planEntity,"IDPs, Returnees, Non-Displaced, Migrants and Refugees",n/a,13791.0,,,,451000.0,,2021,1027
+24766,SP2/BF1,planEntity,"IDPs, returnees, non-displaced, migrants, and refugees",n/a,13792.0,,,,143000.0,,2021,1027
+24767,SP3/BF1,planEntity,"IDPs, returnees, non-displaced, migrants, and refugees",n/a,13793.0,,,,143000.0,,2021,1027
+24768,SP4/BF1,planEntity,"IDPs, returnees, non-displaced, migrants, and refugees",n/a,13794.0,,,,201000.0,,2021,1027
+24769,SP5/BF1,planEntity,"IDPs, returnees, non-displaced, migrants, and refugees",n/a,13795.0,,,,97000.0,,2021,1027
+20692,BP1,plan,Final Plan Caseload,n/a,,16818393.0,,5496653.0,3963577.0,2000000,2021,1028
+24576,CLCCM/BF1-CCM,cluster,Caseload Personnes dans le besoin et ciblées,CCM,5938.0,,,438665.0,438665.0,,2021,1028
+24577,CLEDU/BF1-EDU,cluster,Caseload Personnes dans le besoin et ciblées,EDU,5940.0,,,1343086.0,623177.0,,2021,1028
+24581,CLFSC/BF1-FSC,cluster,Caseload Personnes dans le besoin et ciblées,FSC,5944.0,,,4592793.0,3125388.0,,2021,1028
+24580,CLHEA/BF1-HEA,cluster,Caseload Personnes dans le besoin et ciblées,HEA,5943.0,,,1686720.0,812200.0,,2021,1028
+24578,CLNUT/BF1-NUT,cluster,Caseload Personnes dans le besoin et ciblées,NUT,5941.0,,,3788906.0,1793580.0,,2021,1028
+23294,CLNUT/CA1/BF1,planEntity,Nombre d'enfants soufrant de MAS pris en charge,n/a,13050.0,,,401090.0,292278.0,,2021,1028
+23296,CLNUT/CA2/BF1,planEntity,Nombre d'enfants souffrant de MAM pris en charge,n/a,13052.0,,,1496811.0,533536.0,,2021,1028
+23298,CLNUT/CA2/BF2,planEntity,Nombre de femmes enceintes et allaitantes souffrant de MAM prises en charge,n/a,13052.0,,,346582.0,76382.0,,2021,1028
+23300,CLNUT/CA3/BF1,planEntity,Nombre d'agents de sante et des relais communautaires formés ou recyclés,n/a,13053.0,,,4704.0,4074.0,,2021,1028
+23304,CLNUT/CA6/BF1,planEntity,Nombre d'enfants supplementes en MNP,n/a,13056.0,,,673334.0,151700.0,,2021,1028
+23305,CLNUT/CA6/BF2,planEntity,Nombre d'enfants supplementes en vit A lors de la riposte contre la rougeole,n/a,13056.0,,,813403.0,813403.0,,2021,1028
+23306,CLNUT/CA7/BF1,planEntity,Nombre d'enfants de 6-23 mois atteints par la blanket feeding,n/a,13057.0,,,753060.0,180219.0,,2021,1028
+23307,CLNUT/CA7/BF2,planEntity,Nombre de femmes enceintes et allaitantes atteintes par le blanket feeding,n/a,13057.0,,,663496.0,35859.0,,2021,1028
+23291,CLNUT/CO1/BF1,planEntity,Nombre d'enfants âgés de 0-59 mois MAM et MAS pris en charge,n/a,12541.0,,,1897901.0,825814.0,,2021,1028
+23292,CLNUT/CO1/BF2,planEntity,Femmes enceintes et allaitantes  MAM et MAS pris en charge,n/a,12541.0,,,346582.0,76382.0,,2021,1028
+23293,CLNUT/CO2/BF1,planEntity,Nombre des personnes atteint par les services de prevention de la malnutrition,n/a,12542.0,,,1902940.0,954348.0,,2021,1028
+23288,CLNUT/CO3/BF1,planEntity,Soutenir la coordination dans les provinces prioritaires,n/a,13051.0,,,16.0,16.0,,2021,1028
+23289,CLNUT/CO3/BF2,planEntity,Enquete SMART,n/a,13051.0,,,1.0,1.0,,2021,1028
+23290,CLNUT/CO3/BF3,planEntity,Mettre en place les plans de contingence,n/a,13051.0,,,2.0,2.0,,2021,1028
+24579,CLPRO/BF1-PRO,cluster,Protection,PRO,5942.0,,,539568.0,388582.0,,2021,1028
+51705,CLPRO/BF2-PRO-CPN,cluster,Protection de l'enfant,PRO-CPN,5942.0,,,374000.0,268000.0,,2021,1028
+24582,CLRR/BF1-RR,cluster,Caseload Personnes dans le besoin et ciblées,n/a,5945.0,,,481645.0,481645.0,,2021,1028
+24575,CLSHL/BF1-SHL,cluster,Caseload Personnes dans le besoin et ciblées,SHL,5937.0,,,876186.0,457943.0,,2021,1028
+24583,CLWSH/BF1-WSH,cluster,Caseload Personnes dans le besoin et ciblées,WSH,5939.0,,,1961346.0,920140.0,,2021,1028
+24564,SO1/BF1,planEntity,Nombre de personnes ciblées,n/a,10300.0,,,,2900000.0,,2021,1028
+24563,SO2/BF1,planEntity,Nombre de personnes ciblées,n/a,10301.0,,,,1500000.0,,2021,1028
+24562,SO3/BF1,planEntity,Nombre de personnes ciblées,n/a,11591.0,,,,1200000.0,,2021,1028
+24569,SP1.1/BF1,planEntity,Nombre de personnes ciblées,n/a,10296.0,,,,1400000.0,,2021,1028
+24568,SP1.2/BF1,planEntity,Nombre de personnes ciblées,n/a,10297.0,,,,2800000.0,,2021,1028
+24567,SP2.1/BF1,planEntity,Nombre de personnes ciblées,n/a,11592.0,,,,889000.0,,2021,1028
+24566,SP2.2/BF1,planEntity,Nombre de personnes ciblées,n/a,11593.0,,,,1300000.0,,2021,1028
+24565,SP2.3/BF1,planEntity,Nombre de personnes ciblées,n/a,11594.0,,,,1000000.0,,2021,1028
+24573,SP2.4/BF1,planEntity,Nombre de personnes ciblées,n/a,11595.0,,,,218000.0,,2021,1028
+24572,SP3.1/BF1,planEntity,Nombre de personnes ciblées,n/a,11596.0,,,,673000.0,,2021,1028
+24571,SP3.2/BF1,planEntity,Nombre de personnes ciblées,n/a,11597.0,,,,236000.0,,2021,1028
+24570,SP3.3/BF1,planEntity,Nombre de personnes ciblées,n/a,11598.0,,,,1200000.0,,2021,1028
+24574,SP3.4/BF1,planEntity,Nombre de personnes ciblées,n/a,11599.0,,,,993000.0,,2021,1028
+20684,BP1,plan,Plan Caseload Estimate,n/a,,26500000.0,,4406243.0,3024835.0,1600000,2021,1030
+22146,CLEDU/BF1-EDU,cluster,Caseload Education,EDU,5961.0,,,1892587.0,1130306.0,,2021,1030
+20891,CLERY/BF1-ERY,cluster,Early recovery and livelihood,ERY,5960.0,,,3222665.0,708687.0,,2021,1030
+22001,CLFSC/BF1-FSC,cluster,Caseload Food Security,FSC,5962.0,,,2281635.0,624907.0,,2021,1030
+21012,CLHEA/BF2-HEA,cluster,Health,HEA,5963.0,,,1892338.0,1636072.0,,2021,1030
+21715,CLNUT/BF1-NUT,cluster,Caseload Nutrition,NUT,5964.0,,,479732.0,310481.0,,2021,1030
+21928,CLNUT/CA1/BF1,planEntity,,n/a,12267.0,,,,,,2021,1030
+21921,CLNUT/CO1/BF1,planEntity,,n/a,11693.0,,,,,,2021,1030
+20963,CLPRO/BF1-PRO,cluster,General Protection,PRO,5965.0,,,991794.0,742723.0,,2021,1030
+24644,CLPRO/BF2-PRO-CPN,cluster,Child Protection,PRO-CPN,5965.0,,,1082154.0,776787.0,,2021,1030
+24645,CLPRO/BF3-PRO-GBV,cluster,Gender-Based Violence (GBV),PRO-GBV,5965.0,,,1006583.0,638504.0,,2021,1030
+20933,CLSHL/BF1-SHL,cluster,Shelter/NFI,SHL,5966.0,,,1528594.0,727115.0,,2021,1030
+20708,CLWSH/BF1-WSH,cluster,"Water, Sanitation and Hygiene",WSH,5967.0,,,1658885.0,1017716.0,,2021,1030
+21317,CLWSH/CA1/BF1,planEntity,,n/a,11648.0,,,,,,2021,1030
+21287,CLWSH/CA3/BF1,planEntity,,n/a,11660.0,,,,,,2021,1030
+22247,CLWSH/CO1/BF1,planEntity,# de personnes dans le besoin ayant accès à de l’eau potable durablement pour répondre à leur(s) vulnérabilité(s)/# of affected population with sustainable access to  safe drinking water,n/a,11643.0,,,1658885.0,915944.0,,2021,1030
+22248,CLWSH/CO1/BF2,planEntity,# des personnes dans le besoin ayant eu accès aux installations sanitaires de base de facon durable /# of affected population gaining access to sustainable basic sanitation services.,n/a,11643.0,,,1658885.0,667382.0,,2021,1030
+22249,CLWSH/CO2/BF1,planEntity,Nombre de personnes ciblées ayant reçu un paquet minimum WASH adapté à leurs vulnérabilités./Proportion of people beneficiaries of a minimum WASH package based on their vulnerability,n/a,11645.0,,,1658885.0,1017715.0,,2021,1030
+22250,CLWSH/CO3/BF1,planEntity,Nombre de  groupe sectoriels/Cluster fonctionnels/# of functionnal sectorial group/cluster,n/a,11646.0,,,10.0,7.0,,2021,1030
+24617,SO1/BF1,planEntity,Caseload of SO1,n/a,11632.0,,,,1461883.0,,2021,1030
+24618,SO2/BF1,planEntity,Caseload of SO2,n/a,11633.0,,,,1055012.0,,2021,1030
+24619,SO3/BF1,planEntity,Caseload of SO3,n/a,11634.0,,,,830785.0,,2021,1030
+20701,BP1,plan,Plan Caseload Final,n/a,,41727304.0,,18400000.0,17700000.0,17500000,2021,1031
+24443,CLEDU/BF1-EDU,cluster,Education in Emergencies caseload,EDU,5970.0,,,2614011.0,1300000.0,,2021,1031
+24824,CLFSC/BF2-FSC,cluster,Food Security,FSC,5972.0,,,17823122.0,16200000.0,,2021,1031
+24445,CLHEA/BF1-HEA,cluster,Health caseload,HEA,5973.0,,,14460444.0,10700000.0,,2021,1031
+24850,CLNUT/BF1-NUT,cluster,Nutrition Cluster Overall PIN/Caseload,NUT,5974.0,,,5361305.0,3800000.0,,2021,1031
+24881,CLPRO/BF2-PRO,cluster,General Protection,PRO,5975.0,,,12374168.0,2607679.0,,2021,1031
+24882,CLPRO/BF3-PRO-CPN,cluster,Child Protection,PRO-CPN,5975.0,,,4787315.0,1320000.0,,2021,1031
+24883,CLPRO/BF4-PRO-GBV,cluster,Gender-Based Violence (GBV),PRO-GBV,5975.0,,,7428501.0,1500000.0,,2021,1031
+24884,CLPRO/BF5-PRO-MIN,cluster,Mine Action,PRO-MIN,5975.0,,,3479245.0,2000000.0,,2021,1031
+24885,CLPRO/BF6-PRO-HLP,cluster,"Housing, Land and Property",PRO-HLP,5975.0,,,5020325.0,300000.0,,2021,1031
+24621,CLSHL/BF1-SHL,cluster,Emergency Shelter and NFI caseload,SHL,5971.0,,,6878203.0,1300000.0,,2021,1031
+24623,CLWSH/BF1-WSH,cluster,"Water, Sanitation and Hygiene Caseload",WSH,5976.0,,,8772324.0,3598229.0,,2021,1031
+20693,BP1,plan,Plan Caseload,n/a,,24200000.0,,3821659.0,2072941.0,1700000,2021,1033
+21676,CLEDU/BF1-EDU,cluster,Education,EDU,6005.0,,,555062.0,252168.0,,2021,1033
+21682,CLFSC/BF1-FSC,cluster,Sécurité Alimentaire,FSC,6010.0,,,1982754.0,1281197.0,,2021,1033
+21679,CLHEA/BF1-HEA,cluster,Santé,HEA,6009.0,,,1392751.0,1114203.0,,2021,1033
+21677,CLNUT/BF1-NUT,cluster,Nutrition,NUT,6006.0,,,2188617.0,1266919.0,,2021,1033
+21617,CLPRO/BF1-PRO,cluster,Protection générale,PRO,6007.0,,,1443703.0,950301.0,,2021,1033
+21619,CLPRO/BF2-PRO-CPN,cluster,Protection de l'enfant,PRO-CPN,6007.0,,,678107.0,425647.0,,2021,1033
+21618,CLPRO/BF3-PRO-GBV,cluster,Violence Basée sur le Genre (VBG),PRO-GBV,6007.0,,,410012.0,269886.0,,2021,1033
+24010,CLRR/BF1-RR,cluster,Réponse aux Réfugiés,n/a,6008.0,,,231000.0,231000.0,,2021,1033
+21669,CLSHL/BF1-SHL,cluster,Abris/NFI,SHL,6002.0,,,862595.0,698826.0,,2021,1033
+34233,CLSHL/CO1/BF1,planEntity,,n/a,11988.0,,,,,,2021,1033
+21670,CLWSH/BF1-WSH,cluster,"Eau, Hygiène et Assainissement",WSH,6004.0,,,1937039.0,1121797.0,,2021,1033
+20672,BP1,plan,Plan Caseload Final HRP,n/a,,207770000.0,,11000000.0,4291405.0,2595336,2021,1034
+22584,CLEDU/BF1-EDU,cluster,Children in need of education,EDU,6042.0,,,2400000.0,1117715.0,,2021,1034
+22189,CLEDU/CA1/BF1,planEntity,cluster members,n/a,11853.0,,,250.0,50.0,,2021,1034
+22170,CLEDU/CA2/BF1,planEntity,,n/a,11854.0,,,81000.0,81000.0,,2021,1034
+22171,CLEDU/CA3/BF1,planEntity,,n/a,11856.0,,,139950.0,139950.0,,2021,1034
+22172,CLEDU/CA4/BF1,planEntity,,n/a,11857.0,,,122757.0,31917.0,,2021,1034
+22174,CLEDU/CA5/BF1,planEntity,,n/a,11858.0,,,57542.0,16687.0,,2021,1034
+22180,CLEDU/CA6/BF1,planEntity,,n/a,12436.0,,,1487043.0,684040.0,,2021,1034
+22182,CLEDU/CA7/BF1,planEntity,children,n/a,12437.0,,,,340076.0,,2021,1034
+22183,CLEDU/CA7/BF2,planEntity,Teachers,n/a,12437.0,,,,16687.0,,2021,1034
+22186,CLEDU/CA8/BF1,planEntity,,n/a,12438.0,,,1487043.0,669169.0,,2021,1034
+21163,CLFSC/BF1-FSC,cluster,Food Security caseload,FSC,6045.0,,,5819813.0,1700000.0,,2021,1034
+21329,CLFSC/CA1/BF1,planEntity,"Cash/food assistance/integrated household food system support to those affected by multiple shocks (drought, flood, locust and Covid-19, snowfall and conflict etc)",n/a,11876.0,,,5819813.0,1150000.0,,2021,1034
+21331,CLFSC/CA2/BF1,planEntity,"Cluster coordination, monitoring, capacity building, information management",n/a,11986.0,,,5819813.0,1700000.0,,2021,1034
+21333,CLFSC/CA3/BF1,planEntity,"Integarted agriculture support (Crops, livestock, micro and small agri businesses, rehabilitation of infrastructure and technical capacity building etc) to those affected by multiple shocks (drought, flood, locust and COVID-19 etc)",n/a,11987.0,,,5819813.0,550000.0,,2021,1034
+21164,CLFSC/CO1/BF1,planEntity,"Improve food security by providing targeted cash, food and nutrition support to most vulnerable people affected by multiple shocks",n/a,11873.0,,,5819813.0,1150000.0,,2021,1034
+21319,CLFSC/CO2/BF1,planEntity,Improve coordination and harmonization of humanitarian response across all levels,n/a,11981.0,,,5819813.0,1700000.0,,2021,1034
+21323,CLFSC/CO3/BF1,planEntity,"Preserve the ability/resilience of people most vulnerable to multiple shocks to meet their food, livelihood and other basic needs, through provision of timely livelihood  support and humanitarian assistance",n/a,11982.0,,,5819813.0,550000.0,,2021,1034
+21437,CLHEA/BF1-HEA,cluster,Overall Health,HEA,6046.0,,,6000000.0,3300000.0,,2021,1034
+20862,CLNUT/BF1-NUT,cluster,Nutrition,NUT,6044.0,,,2920019.0,1656259.0,,2021,1034
+20961,CLNUT/CO1/BF1,planEntity,Treatment of Acute malnutrition,n/a,11732.0,,,290053.0,227983.0,,2021,1034
+23376,CLPRO/BF1-PRO,cluster,Protection,PRO,6048.0,,,7313417.0,3181564.0,,2021,1034
+23375,CLRR/BF1-RR,cluster,Registered refugees and asylum seekers with NADRA and UNHCR,n/a,6049.0,,,1436521.0,1436521.0,,2021,1034
+21999,CLRR/CA1/BF1,planEntity,Registered refugees and asylum seekers with NADRA and UNHCR,n/a,11867.0,,,1417632.0,1417632.0,,2021,1034
+21167,CLRR/CO1/BF1,planEntity,Registered refugees and asylum seekers with NADRA and UNHCR,n/a,11875.0,,,1436521.0,1436521.0,,2021,1034
+23377,CLSHL/BF1-SHL,cluster,PIN Shelter,SHL,6047.0,,,1305318.0,105192.0,,2021,1034
+21293,CLWSH/BF1-WSH,cluster,WASH Caseload,WSH,6043.0,,,3627783.0,1813891.0,,2021,1034
+21296,CLWSH/CO1/BF1,planEntity,,n/a,11947.0,,,2027783.0,1013891.0,,2021,1034
+21297,CLWSH/CO2/BF1,planEntity,,n/a,11948.0,,,1600000.0,800000.0,,2021,1034
+22253,SO1/BF1,planEntity,PIN + Target SO1,n/a,11531.0,,,9400000.0,3600000.0,,2021,1034
+22252,SO2/BF1,planEntity,PIN + Target OS2,n/a,11532.0,,,11000000.0,4300000.0,,2021,1034
+20696,BP1,plan,Plan Caseload,n/a,,40200000.0,,4100000.0,1500000.0,1200000,2021,1035
+24467,CLCCM/BF1-CCM,cluster,CCCM Caseload,CCM,6017.0,,,361293.0,309000.0,,2021,1035
+26716,CLCCM/CA1/BF1,planEntity,CCCM CA1 Caseload,n/a,14952.0,,,,309500.0,,2021,1035
+26718,CLCCM/CA2/BF1,planEntity,CCCM CA2 Caseload,n/a,14953.0,,,,309500.0,,2021,1035
+24524,CLCCM/CO1/BF1,planEntity,CCCM CO1 Caseload,n/a,13642.0,,,,309500.0,,2021,1035
+24525,CLCCM/CO2/BF1,planEntity,CCCM CO2 Caseload,n/a,13643.0,,,,309500.0,,2021,1035
+24526,CLCCM/CO3/BF1,planEntity,CCCM CO3 Caseload,n/a,13644.0,,,,309500.0,,2021,1035
+24595,CLCSS/BF1-CSS,cluster,Coordination and Common Services Caseload,CSS,6012.0,,,,,,2021,1035
+24468,CLEDU/BF1-EDU,cluster,Education caseload,EDU,6014.0,,,1300000.0,572000.0,,2021,1035
+26720,CLEDU/CA1/BF1,planEntity,ED CA1 Caseload,n/a,14954.0,,,,299160.0,,2021,1035
+26739,CLEDU/CA10/BF1,planEntity,ED CA10 Caseload,n/a,14965.0,,,,72535.0,,2021,1035
+26741,CLEDU/CA12/BF1,planEntity,ED CA12 Caseload,n/a,14968.0,,,,410513.0,,2021,1035
+26722,CLEDU/CA2/BF1,planEntity,ED CA2 Caseload,n/a,14955.0,,,,243615.0,,2021,1035
+26724,CLEDU/CA3/BF1,planEntity,ED CA3 Caseload,n/a,14956.0,,,,252470.0,,2021,1035
+26726,CLEDU/CA4/BF1,planEntity,ED CA4 Caseload,n/a,14957.0,,,,67663.0,,2021,1035
+26728,CLEDU/CA5/BF1,planEntity,ED CA5 Caseload,n/a,14958.0,,,,31446.0,,2021,1035
+26730,CLEDU/CA6/BF1,planEntity,ED CA6 Caseload,n/a,14959.0,,,,1500.0,,2021,1035
+26734,CLEDU/CA7/BF1,planEntity,ED CA7 Caseload,n/a,14960.0,,,,197.0,,2021,1035
+26737,CLEDU/CA8/BF1,planEntity,ED CA8 Caseload,n/a,14962.0,,,,571725.0,,2021,1035
+24527,CLEDU/CO1/BF1,planEntity,ED CO1 Caseload,n/a,13645.0,,,,571725.0,,2021,1035
+24528,CLEDU/CO2/BF1,planEntity,ED CO2 Caseload,n/a,13646.0,,,,72535.0,,2021,1035
+24529,CLEDU/CO3/BF1,planEntity,ED CO3 Caseload,n/a,13647.0,,,,410512.0,,2021,1035
+24469,CLERY/BF1-ERY,cluster,Emergency Livelihoods caseload,ERY,6015.0,,,3400000.0,196000.0,,2021,1035
+26756,CLERY/CA1/BF1,planEntity,EL CA1 Caseload,n/a,15008.0,,,,107088.0,,2021,1035
+26758,CLERY/CA2/BF1,planEntity,EL CA2 Caseload,n/a,15009.0,,,,73656.0,,2021,1035
+26760,CLERY/CA3/BF1,planEntity,EL CA3 Caseload,n/a,15010.0,,,,6000.0,,2021,1035
+26762,CLERY/CA4/BF1,planEntity,EL CA4 Caseload,n/a,15011.0,,,,9000.0,,2021,1035
+24530,CLERY/CO1/BF1,planEntity,EL CO1 Caseload,n/a,13648.0,,,,107088.0,,2021,1035
+24531,CLERY/CO2/BF1,planEntity,EL CO2 Caseload,n/a,13649.0,,,,79656.0,,2021,1035
+24532,CLERY/CO3/BF1,planEntity,EL CO3 Caseload,n/a,13650.0,,,,9000.0,,2021,1035
+24470,CLFSC/BF1-FSC,cluster,Food Security caseload,FSC,6016.0,,,736254.0,421500.0,,2021,1035
+26764,CLFSC/CA1/BF1,planEntity,FSC CA1 Caseload,n/a,15012.0,,,,221392.0,,2021,1035
+26766,CLFSC/CA2/BF1,planEntity,FSC CA2 Caseload,n/a,15013.0,,,,54800.0,,2021,1035
+26768,CLFSC/CA3/BF1,planEntity,FSC CA3 Caseload,n/a,15014.0,,,,7500.0,,2021,1035
+26770,CLFSC/CA4/BF1,planEntity,FSC CA4 Caseload,n/a,15015.0,,,,84138.0,,2021,1035
+26772,CLFSC/CA5/BF1,planEntity,FSC CA5 Caseload,n/a,15016.0,,,,46150.0,,2021,1035
+26774,CLFSC/CA6/BF1,planEntity,FSC CA6 Caseload,n/a,15017.0,,,,46150.0,,2021,1035
+24533,CLFSC/CO1/BF1,planEntity,FSC CO1 Caseload,n/a,13651.0,,,,221392.0,,2021,1035
+24534,CLFSC/CO2/BF1,planEntity,FSC CO2 Caseload,n/a,13652.0,,,,54800.0,,2021,1035
+24535,CLFSC/CO3/BF1,planEntity,FSC CO3 Caseload,n/a,13653.0,,,,84138.0,,2021,1035
+24536,CLFSC/CO4/BF1,planEntity,FSC CO4 Caseload,n/a,13654.0,,,,46150.0,,2021,1035
+24471,CLHEA/BF1-HEA,cluster,Health caseload,HEA,6018.0,,,2404283.0,857000.0,,2021,1035
+26776,CLHEA/CA1/BF1,planEntity,HLTH CA1 Caseload,n/a,15018.0,,,,68000.0,,2021,1035
+26778,CLHEA/CA2/BF1,planEntity,HLTH CA2 Caseload,n/a,15019.0,,,,239940.0,,2021,1035
+26780,CLHEA/CA3/BF1,planEntity,HLTH CA3 Caseload,n/a,15020.0,,,,601148.0,,2021,1035
+26782,CLHEA/CA4/BF1,planEntity,HLTH CA4 Caseload,n/a,15021.0,,,,210000.0,,2021,1035
+26784,CLHEA/CA5/BF1,planEntity,HLTH CA5 Caseload,n/a,15022.0,,,,601148.0,,2021,1035
+26786,CLHEA/CA6/BF1,planEntity,HLTH CA6 Caseload,n/a,15023.0,,,,11000.0,,2021,1035
+26788,CLHEA/CA7/BF1,planEntity,HLTH CA7 Caseload,n/a,15024.0,,,,60115.0,,2021,1035
+24537,CLHEA/CO1/BF1,planEntity,HLTH CO1 Caseload,n/a,13656.0,,,,746147.0,,2021,1035
+24538,CLHEA/CO2/BF1,planEntity,HLTH CO2 Caseload,n/a,13657.0,,,,601148.0,,2021,1035
+24539,CLHEA/CO3/BF1,planEntity,HLTH CO3 Caseload,n/a,13658.0,,,,60115.0,,2021,1035
+24540,CLHEA/CO4/BF1,planEntity,HLTH CO4 Caseload,n/a,13659.0,,,,68000.0,,2021,1035
+24477,CLMPC/BF1-MPC,cluster,MPCA caseload,MPC,6021.0,,,,390000.0,,2021,1035
+26694,CLMPC/CA1/BF1,planEntity,CWG CA1 Caseload,n/a,14941.0,,,,390000.0,,2021,1035
+26693,CLMPC/CO1/BF1,planEntity,CWG CO1 Caseload,n/a,14940.0,,,,390000.0,,2021,1035
+24472,CLPRO/BF1-PRO,cluster,General Protection,PRO,6013.0,,,2170045.0,740000.0,,2021,1035
+24473,CLPRO/BF2-PRO-CPN,cluster,Child Protection,PRO-CPN,6013.0,,,1715138.0,500000.0,,2021,1035
+24474,CLPRO/BF3-PRO-GBV,cluster,Gender-Based Violence (GBV),PRO-GBV,6013.0,,,1315579.0,460000.0,,2021,1035
+26836,CLPRO/CA1/BF1,planEntity,PROT-GP HLP MA CA1 Caseload,n/a,15048.0,,,,1700.0,,2021,1035
+26854,CLPRO/CA10/BF1,planEntity,PROT-GP HLP MA CA10 Caseload,n/a,15057.0,,,,25000.0,,2021,1035
+26856,CLPRO/CA11/BF1,planEntity,PROT-GP HLP MA CA11 Caseload,n/a,15058.0,,,,120000.0,,2021,1035
+26858,CLPRO/CA12/BF1,planEntity,PROT-GP HLP MA CA12 Caseload,n/a,15059.0,,,,280000.0,,2021,1035
+26860,CLPRO/CA13/BF1,planEntity,PROT-GP HLP MA CA13 Caseload,n/a,15060.0,,,,7200.0,,2021,1035
+26863,CLPRO/CA14/BF1,planEntity,PROT-GP HLP MA CA14 Caseload,n/a,15061.0,,,,20000.0,,2021,1035
+26865,CLPRO/CA15/BF1,planEntity,PROT-GP HLP MA CA15 Caseload,n/a,15062.0,,,,80000.0,,2021,1035
+26867,CLPRO/CA16/BF1,planEntity,PROT-CP CA16 Caseload,n/a,15063.0,,,,22999.0,,2021,1035
+26869,CLPRO/CA17/BF1,planEntity,PROT-CP CA17 Caseload,n/a,15064.0,,,,8000.0,,2021,1035
+26871,CLPRO/CA18/BF1,planEntity,PROT-CP CA18 Caseload,n/a,15065.0,,,,150.0,,2021,1035
+26873,CLPRO/CA19/BF1,planEntity,PROT-CP CA19 Caseload,n/a,15066.0,,,,27000.0,,2021,1035
+26838,CLPRO/CA2/BF1,planEntity,PROT-GP HLP MA CA2 Caseload,n/a,15049.0,,,,120000.0,,2021,1035
+26902,CLPRO/CA20/BF1,planEntity,PROT-CP CA20 Caseload,n/a,15067.0,,,,390.0,,2021,1035
+26876,CLPRO/CA21/BF1,planEntity,PROT-CP CA21 Caseload,n/a,15068.0,,,,10000.0,,2021,1035
+26878,CLPRO/CA22/BF1,planEntity,PROT-CP CA22 Caseload,n/a,15069.0,,,,12000.0,,2021,1035
+26882,CLPRO/CA23/BF1,planEntity,PROT-CP CA23 Caseload,n/a,15070.0,,,,114000.0,,2021,1035
+26885,CLPRO/CA24/BF1,planEntity,PROT-CP CA24 Caseload,n/a,15071.0,,,,100000.0,,2021,1035
+26889,CLPRO/CA25/BF1,planEntity,PROT-CP CA25 Caseload,n/a,15072.0,,,,30000.0,,2021,1035
+26893,CLPRO/CA26/BF1,planEntity,PROT-CP CA26 Caseload,n/a,15073.0,,,,11000.0,,2021,1035
+26895,CLPRO/CA27/BF1,planEntity,PROT-CP CA27 Caseload,n/a,15074.0,,,,200000.0,,2021,1035
+26900,CLPRO/CA28/BF1,planEntity,PROT-CP CA28 Caseload,n/a,15075.0,,,,350000.0,,2021,1035
+26907,CLPRO/CA29/BF1,planEntity,PROT-GBV CA29 Caseload,n/a,15076.0,,,,2356.0,,2021,1035
+26840,CLPRO/CA3/BF1,planEntity,PROT-GP HLP MA CA3 Caseload,n/a,15050.0,,,,7825.0,,2021,1035
+26911,CLPRO/CA30/BF1,planEntity,PROT-GBV CA30 Caseload,n/a,15077.0,,,,26178.0,,2021,1035
+26915,CLPRO/CA31/BF1,planEntity,PROT-GBV CA31 Caseload,n/a,15078.0,,,,93095.0,,2021,1035
+26917,CLPRO/CA32/BF1,planEntity,PROT-GBV CA32 Caseload,n/a,15079.0,,,,61113.0,,2021,1035
+26920,CLPRO/CA33/BF1,planEntity,PROT-GBV CA33 Caseload,n/a,15080.0,,,,5445.0,,2021,1035
+26927,CLPRO/CA34/BF1,planEntity,PROT-GBV CA34 Caseload,n/a,15081.0,,,,2094.0,,2021,1035
+26929,CLPRO/CA35/BF1,planEntity,PROT-GBV CA35 Caseload,n/a,15082.0,,,,82718.0,,2021,1035
+26932,CLPRO/CA36/BF1,planEntity,PROT-GBV CA36 Caseload,n/a,15083.0,,,,459884.0,,2021,1035
+26842,CLPRO/CA4/BF1,planEntity,PROT-GP HLP MA CA4 Caseload,n/a,15051.0,,,,5000.0,,2021,1035
+26844,CLPRO/CA5/BF1,planEntity,PROT-GP HLP MA CA5 Caseload,n/a,15052.0,,,,20000.0,,2021,1035
+26846,CLPRO/CA6/BF1,planEntity,PROT-GP HLP MA CA6 Caseload,n/a,15053.0,,,,40000.0,,2021,1035
+26848,CLPRO/CA7/BF1,planEntity,PROT-GP HLP MA CA7 Caseload,n/a,15054.0,,,,10500.0,,2021,1035
+26850,CLPRO/CA8/BF1,planEntity,PROT-GP HLP MA CA8 Caseload,n/a,15055.0,,,,2300.0,,2021,1035
+26852,CLPRO/CA9/BF1,planEntity,PROT-GP HLP MA CA9 Caseload,n/a,15056.0,,,,300.0,,2021,1035
+24544,CLPRO/CO1/BF1,planEntity,PROT-GP HLP MA CO1 Caseload,n/a,13661.0,,,,129527.0,,2021,1035
+24552,CLPRO/CO10/BF1,planEntity,PROT-GBV CO10 Caseload,n/a,13670.0,,,,93095.0,,2021,1035
+24553,CLPRO/CO11/BF1,planEntity,PROT-GBV CO11 Caseload,n/a,13671.0,,,,82718.0,,2021,1035
+24554,CLPRO/CO12/BF1,planEntity,PROT-GBV CO12 Caseload,n/a,13672.0,,,,459884.0,,2021,1035
+24542,CLPRO/CO2/BF1,planEntity,PROT-GP HLP MA CO2 Caseload,n/a,13662.0,,,,78101.0,,2021,1035
+24543,CLPRO/CO3/BF1,planEntity,PROT-GP HLP MA CO3 Caseload,n/a,13663.0,,,,25000.0,,2021,1035
+24545,CLPRO/CO4/BF1,planEntity,PROT-GP HLP MA CO4 Caseload,n/a,13664.0,,,,507197.0,,2021,1035
+24546,CLPRO/CO5/BF1,planEntity,PROT-CP CO5 Caseload,n/a,13665.0,,,,8000.0,,2021,1035
+24548,CLPRO/CO6/BF1,planEntity,PROT-CP CO6 Caseload,n/a,13666.0,,,,37000.0,,2021,1035
+24549,CLPRO/CO7/BF1,planEntity,PROT-CP CO7 Caseload,n/a,13667.0,,,,255000.0,,2021,1035
+24550,CLPRO/CO8/BF1,planEntity,PROT-CP CO8 Caseload,n/a,13668.0,,,,200000.0,,2021,1035
+24551,CLPRO/CO9/BF1,planEntity,PROT-GBV CO9 Caseload,n/a,13669.0,,,,2356.0,,2021,1035
+24475,CLSHL/BF1-SHL,cluster,Shelter and NFIs caseload,SHL,6019.0,,,2562495.0,373000.0,,2021,1035
+26790,CLSHL/CA1/BF1,planEntity,SNFI CA1 Caseload,n/a,15025.0,,,,500.0,,2021,1035
+26808,CLSHL/CA10/BF1,planEntity,SNFI CA10 Caseload,n/a,15034.0,,,,23760.0,,2021,1035
+26810,CLSHL/CA11/BF1,planEntity,SNFI CA11 Caseload,n/a,15035.0,,,,12000.0,,2021,1035
+26792,CLSHL/CA2/BF1,planEntity,SNFI CA2 Caseload,n/a,15026.0,,,,240.0,,2021,1035
+26794,CLSHL/CA3/BF1,planEntity,SNFI CA3 Caseload,n/a,15027.0,,,,32953.0,,2021,1035
+26796,CLSHL/CA4/BF1,planEntity,SNFI CA4 Caseload,n/a,15028.0,,,,147847.0,,2021,1035
+26798,CLSHL/CA5/BF1,planEntity,SNFI CA5 Caseload,n/a,15029.0,,,,14586.0,,2021,1035
+26800,CLSHL/CA6/BF1,planEntity,SNFI CA6 Caseload,n/a,15030.0,,,,58730.0,,2021,1035
+26802,CLSHL/CA7/BF1,planEntity,SNFI CA7 Caseload,n/a,15031.0,,,,16194.0,,2021,1035
+26804,CLSHL/CA8/BF1,planEntity,SNFI CA8 Caseload,n/a,15032.0,,,,56988.0,,2021,1035
+26806,CLSHL/CA9/BF1,planEntity,SNFI CA9 Caseload,n/a,15033.0,,,,9579.0,,2021,1035
+24555,CLSHL/CO1/BF1,planEntity,SNFI CO1 Caseload,n/a,13660.0,,,,740.0,,2021,1035
+24556,CLSHL/CO2/BF1,planEntity,SNFI CO2 Caseload,n/a,13673.0,,,,372638.0,,2021,1035
+24476,CLWSH/BF1-WSH,cluster,WASH caseload,WSH,6020.0,,,2568278.0,1103559.0,,2021,1035
+26812,CLWSH/CA1/BF1,planEntity,WASH CA1 Caseload,n/a,15036.0,,,,332299.0,,2021,1035
+26830,CLWSH/CA10/BF1,planEntity,WASH CA10 Caseload,n/a,15045.0,,,,771260.0,,2021,1035
+26832,CLWSH/CA11/BF1,planEntity,WASH CA11 Caseload,n/a,15046.0,,,,44109.0,,2021,1035
+26834,CLWSH/CA12/BF1,planEntity,WASH CA12 Caseload,n/a,15047.0,,,,221392.0,,2021,1035
+26814,CLWSH/CA2/BF1,planEntity,WASH CA2 Caseload,n/a,15037.0,,,,332299.0,,2021,1035
+26816,CLWSH/CA3/BF1,planEntity,WASH CA3 Caseload,n/a,15038.0,,,,332299.0,,2021,1035
+26818,CLWSH/CA4/BF1,planEntity,WASH CA4 Caseload,n/a,15039.0,,,,353717.0,,2021,1035
+26820,CLWSH/CA5/BF1,planEntity,WASH CA5 Caseload,n/a,15040.0,,,,221236.0,,2021,1035
+26822,CLWSH/CA6/BF1,planEntity,WASH CA6 Caseload,n/a,15041.0,,,,110356.0,,2021,1035
+26824,CLWSH/CA7/BF1,planEntity,WASH CA7 Caseload,n/a,15042.0,,,,221236.0,,2021,1035
+26826,CLWSH/CA8/BF1,planEntity,WASH CA8 Caseload,n/a,15043.0,,,,220711.0,,2021,1035
+26828,CLWSH/CA9/BF1,planEntity,WASH CA9 Caseload,n/a,15044.0,,,,308504.0,,2021,1035
+24557,CLWSH/CO1/BF1,planEntity,WASH CO1 Caseload,n/a,13675.0,,,,332299.0,,2021,1035
+24558,CLWSH/CO2/BF1,planEntity,WASH CO2 Caseload,n/a,13676.0,,,,221236.0,,2021,1035
+24559,CLWSH/CO3/BF1,planEntity,WASH CO3 Caseload,n/a,13677.0,,,,771260.0,,2021,1035
+24560,CLWSH/CO4/BF1,planEntity,WASH CO4 Caseload,n/a,13678.0,,,,221392.0,,2021,1035
+24377,SO1/BF1,planEntity,SO1 caseload,n/a,13210.0,,,,724402.0,,2021,1035
+24378,SO2/BF1,planEntity,SO2 caseload,n/a,13546.0,,,,1389289.0,,2021,1035
+24379,SO3/BF1,planEntity,SO3 caseload,n/a,13547.0,,,,1094015.0,,2021,1035
+26519,SP1.1/BF1,planEntity,SP1.1 Caseload,n/a,13212.0,,,,221392.0,,2021,1035
+26518,SP1.2/BF1,planEntity,SP1.2 Caseload,n/a,13553.0,,,,264244.0,,2021,1035
+26525,SP1.3/BF1,planEntity,SP1.3 Caseload,n/a,13554.0,,,,408279.0,,2021,1035
+26526,SP2.1/BF1,planEntity,SP2.1 Caseload,n/a,13555.0,,,,977718.0,,2021,1035
+26527,SP2.2/BF1,planEntity,SP2.2 Caseload,n/a,13556.0,,,,226349.0,,2021,1035
+26528,SP2.3/BF1,planEntity,SP2.3 Caseload,n/a,13557.0,,,,912145.0,,2021,1035
+26529,SP3.1/BF1,planEntity,SP3.1 Caseload,n/a,13558.0,,,,549818.0,,2021,1035
+26530,SP3.2/BF1,planEntity,SP3.2 Caseload,n/a,13559.0,,,,129761.0,,2021,1035
+26531,SP3.3/BF1,planEntity,SP3.3 Caseload,n/a,13560.0,,,,131844.0,,2021,1035
+26532,SP3.4/BF1,planEntity,SP3.4 Caseload,n/a,13561.0,,,,278543.0,,2021,1035
+26533,SP3.5/BF1,planEntity,SP3.5 Caseload,n/a,13562.0,,,,831246.0,,2021,1035
+20687,BP1,plan,Final HRP Caseload,n/a,,20542003.0,,5917269.0,4745063.0,2450000,2021,1036
+22275,CLEDU/BF1-EDU,cluster,Education Final Caseload,EDU,6025.0,,,558427.0,485832.0,,2021,1036
+21463,CLEDU/CA1/BF1,planEntity,"Mise en place de centres temporaires d’apprentissage (PASU, SSAP, CAC, PARIS etc.) dans les zones touchées par la fermeture des écoles ou avec une forte concentration de PDIs",n/a,12067.0,,,114317.0,114317.0,,2021,1036
+21492,CLEDU/CA10/BF1,planEntity,Mise en place de protocole COVID dans les ecoles,n/a,12079.0,,,6500.0,6500.0,,2021,1036
+21502,CLEDU/CA11/BF1,planEntity,Formation des enseignants sur l’appui psychosocial et la santé mentale dans le contexte de crise,n/a,12081.0,,,1897.0,1897.0,,2021,1036
+21510,CLEDU/CA12/BF1,planEntity,Formation des acteurs sur les thématiques clés de protection en milieu scolaire et l'éducation en situation d'urgence,n/a,12083.0,,,19447.0,19447.0,,2021,1036
+21518,CLEDU/CA13/BF1,planEntity,"Appui et renforcement des capacités des structures scolaires (APE, AME, CGS et Gouvernement Scolaire)",n/a,12085.0,,,359.0,359.0,,2021,1036
+21526,CLEDU/CA14/BF1,planEntity,Programme d’éducation pour la paix et la cohésion sociale,n/a,12090.0,,,113644.0,113644.0,,2021,1036
+21465,CLEDU/CA2/BF1,planEntity,Action/Appui au dialogue communautaire pour l’ouverture des écoles fermées,n/a,12069.0,,,239.0,239.0,,2021,1036
+21468,CLEDU/CA3/BF1,planEntity,Formation des animateurs/volontaires des centres temporaires d’apprentissage,n/a,12070.0,,,9724.0,9724.0,,2021,1036
+21470,CLEDU/CA4/BF1,planEntity,Construction/réhabilitation de salles de classes,n/a,12071.0,,,13582.0,13582.0,,2021,1036
+21473,CLEDU/CA5/BF1,planEntity,"Mise en place de programmes d'éducation à distance, y compris par la radio",n/a,12072.0,,,15550.0,15550.0,,2021,1036
+21476,CLEDU/CA6/BF1,planEntity,Appui a la mobilisation communautaire pour le soutien à l'education a distance,n/a,12073.0,,,1193819.0,1193819.0,,2021,1036
+21480,CLEDU/CA7/BF1,planEntity,Fourniture de l’alimentation scolaire aux élèves,n/a,12074.0,,,277500.0,277500.0,,2021,1036
+21483,CLEDU/CA8/BF1,planEntity,Distribution de fournitures scolaires et de manuels/guides pédagogiques,n/a,12076.0,,,485832.0,485832.0,,2021,1036
+21486,CLEDU/CA9/BF1,planEntity,Distribution de mobiliers scolaires,n/a,12077.0,,,333.0,333.0,,2021,1036
+21441,CLEDU/CO1/BF1,planEntity,Promouvoir l’accès équitable à une offre éducative inclusive et de qualité dans un environnement protecteur,n/a,12055.0,,,485832.0,277500.0,,2021,1036
+21443,CLEDU/CO2/BF1,planEntity,Offrir une éducation de qualité aux enfants déscolarisés/non scolarisés dans les régions affectées par une situation de crise.,n/a,12056.0,,,485832.0,485832.0,,2021,1036
+21448,CLEDU/CO3/BF1,planEntity,Renforcer les capacités de résilience du système éducatif,n/a,12058.0,,,19447.0,19447.0,,2021,1036
+21710,CLFSC/BF1-FSC,cluster,Sécurité Alimentaire Final Caseload,FSC,6029.0,,,2233626.0,1786900.0,,2021,1036
+22241,CLFSC/CA1/BF1,planEntity,Assistance d'urgence aux personnes vulnérables affectées par des mouvements de populations,n/a,12460.0,,,1307073.0,377781.0,,2021,1036
+22242,CLFSC/CA2/BF1,planEntity,Assistance alimentaire saisonnière inconditionnelle aux personnes en insécurité alimentaire aigüe (phases 3-5 CH),n/a,12471.0,,,2636436.0,929292.0,,2021,1036
+22234,CLFSC/CA3/BF1,planEntity,"Appui aux AGR agro-pastorales (maraîchage, petit-élevage, transformation, commercialisation) pour protéger les sources alimentaires",n/a,12462.0,,,2636436.0,114730.0,,2021,1036
+22235,CLFSC/CA4/BF1,planEntity,Appui à l'agriculture (avec maraîchage) pour protéger les sources alimentaires,n/a,12463.0,,,2636436.0,172095.0,,2021,1036
+22237,CLFSC/CA5/BF1,planEntity,Appui à l’élevage pour protéger les sources alimentaires,n/a,12464.0,,,2636436.0,860473.0,,2021,1036
+22238,CLFSC/CA6/BF1,planEntity,"Appui aux AGR  agro-pastorales (maraîchage, petit-élevage, transformation, commercialisation) pour réhabiliter et/ou protéger les moyens de production",n/a,12465.0,,,2636436.0,95892.0,,2021,1036
+22239,CLFSC/CA7/BF1,planEntity,Appui à l'agriculture (avec maraîchage) pour réhabiliter et/ou protéger les moyens de production (y compris création d’actifs - FFA),n/a,12466.0,,,2636436.0,143839.0,,2021,1036
+22240,CLFSC/CA8/BF1,planEntity,Appui à l'élevage pour réhabiliter et/ou protéger les moyens de production,n/a,12467.0,,,2233626.0,719194.0,,2021,1036
+22245,CLFSC/CA9/BF1,planEntity,Appui aux mécanismes de suivi et de coordination de la réponse au niveau national et local,n/a,12468.0,,,2636436.0,150000.0,,2021,1036
+22190,CLFSC/CO1/BF1,planEntity,"Assurer la réponse d’urgence aux besoins immédiats liés à l’insécurité alimentaire et nutritionnelle en assurant l'accès à une nourriture de qualité et son utilisation saine, à travers une assistance coordonnée et intégrée avec les autres secteurs et acteurs",n/a,12448.0,,,2636436.0,1307073.0,,2021,1036
+22194,CLFSC/CO2/BF1,planEntity,"Assurer la complémentarité de la réponse d’urgence avec les actions d’appui aux moyens d’existence et de renforcement de la résilience communautaire, en améliorant l'accès aux actifs productifs et aux marchés pour assurer la disponibilité, l'accès et la stabilité des approvisionnements",n/a,12458.0,,,2636436.0,2109149.0,,2021,1036
+22227,CLFSC/CO3/BF1,planEntity,"Renforcer les capacités des acteurs locaux et étatiques pour améliorer le suivi de la situation, la préparation et la coordination de la réponse aux chocs socio-économiques et climatiques",n/a,12459.0,,,2636436.0,200000.0,,2021,1036
+23880,CLHEA/BF1-HEA,cluster,Santé Final Caseload,HEA,6028.0,,,1785378.0,1785378.0,,2021,1036
+22006,CLHEA/CA1/BF1,planEntity,,n/a,12249.0,,,1785378.0,1785378.0,,2021,1036
+22091,CLHEA/CA10/BF1,planEntity,,n/a,12260.0,,,11752.0,11752.0,,2021,1036
+22109,CLHEA/CA11/BF1,planEntity,,n/a,12261.0,,,160.0,160.0,,2021,1036
+22118,CLHEA/CA12/BF1,planEntity,,n/a,12262.0,,,423722.0,423722.0,,2021,1036
+22009,CLHEA/CA2/BF1,planEntity,,n/a,12252.0,,,448.0,448.0,,2021,1036
+22068,CLHEA/CA3/BF1,planEntity,,n/a,12253.0,,,224.0,224.0,,2021,1036
+22060,CLHEA/CA4/BF1,planEntity,,n/a,12254.0,,,1785378.0,1785378.0,,2021,1036
+22071,CLHEA/CA5/BF1,planEntity,,n/a,12255.0,,,397.0,397.0,,2021,1036
+22072,CLHEA/CA5/BF1,planEntity,,n/a,12255.0,,,397.0,397.0,,2021,1036
+22075,CLHEA/CA6/BF1,planEntity,,n/a,12256.0,,,788483.0,788483.0,,2021,1036
+22078,CLHEA/CA7/BF1,planEntity,,n/a,12257.0,,,224.0,224.0,,2021,1036
+22084,CLHEA/CA8/BF1,planEntity,,n/a,12258.0,,,158896.0,158896.0,,2021,1036
+22087,CLHEA/CA9/BF1,planEntity,,n/a,12259.0,,,128.0,128.0,,2021,1036
+21997,CLHEA/CO1/BF1,planEntity,,n/a,12248.0,,,1785378.0,1785378.0,,2021,1036
+22002,CLHEA/CO2/BF1,planEntity,,n/a,12250.0,,,26811.0,26811.0,,2021,1036
+22004,CLHEA/CO3/BF1,planEntity,,n/a,12251.0,,,423722.0,423722.0,,2021,1036
+23879,CLNUT/BF1-NUT,cluster,Nutrition Final Caseload,NUT,6026.0,,,1114870.0,754730.0,,2021,1036
+22058,CLPRO/BF1-PRO,cluster,Protection,PRO,6027.0,,,3464366.0,3054412.0,,2021,1036
+51681,CLPRO/BF2-PRO-CPN,cluster,Protection de l'enfant,PRO-CPN,6027.0,,,1300000.0,828728.0,,2021,1036
+22597,CLRR/BF1-RR,cluster,Réponse Multisectorielles aux Réfugiés Final Caseload,n/a,6146.0,,,128500.0,128500.0,,2021,1036
+20798,CLSHL/BF1-SHL,cluster,Abris/BNA Final Caseload,SHL,6022.0,,,821548.0,213381.0,,2021,1036
+23873,CLSHL/CO1/BF1,planEntity,Nombre de ménages ayant reçu un abri d'urgence,n/a,11717.0,,,36923.0,9600.0,,2021,1036
+23874,CLSHL/CO2/BF1,planEntity,"Nombre de séances de renforcement des capacités aux structures étatiques et partenaires opérationnels organisées sur l'accueil, la gestion et l'opérationnalisation de sites de deplacés",n/a,11718.0,,,50.0,13.0,,2021,1036
+23875,CLSHL/CO3/BF1,planEntity,Pourcentage de ménages bénéficiant d'abris et biens non-alimentaires conformes à leurs attentes,n/a,11719.0,,,100.0,80.0,,2021,1036
+23876,CLSHL/CO4/BF1,planEntity,Nombre ménages ayant accès à un abri durable,n/a,11720.0,,,27692.0,7200.0,,2021,1036
+21840,CLWSH/BF1-WSH,cluster,WASH Final Caseload 2021,WSH,6024.0,,,2248083.0,1798466.0,,2021,1036
+21843,CLWSH/CO1/BF1,planEntity,Personnes ayant besoin d'assistance EHA d'urgence,n/a,12313.0,,,350000.0,350000.0,,2021,1036
+21845,CLWSH/CO2/BF1,planEntity,Aires de santé dans les zones affectées par la malnutrition,n/a,12314.0,,,100.0,100.0,,2021,1036
+21847,CLWSH/CO3/BF1,planEntity,"Centres de soins de santé (espaces d'isolement ou de prise en charge) recevant des patients COVID 19""",n/a,12315.0,,,1482.0,594.0,,2021,1036
+21849,CLWSH/CO4/BF1,planEntity,Personnes à risque COVID dans les zones prioritaires,n/a,12316.0,,,720000.0,720000.0,,2021,1036
+21852,CLWSH/CO5/BF1,planEntity,Population vulnérables en besoin d'infrastructures d'eau durables,n/a,12317.0,,,1671102.0,652661.0,,2021,1036
+21858,CLWSH/CO6/BF1,planEntity,Personnes vulnérables au COVID-19,n/a,12321.0,,,720000.0,720000.0,,2021,1036
+21861,CLWSH/CO6/BF2,planEntity,Ecoles et lieux publics necessitant des paquets EHA COVID,n/a,12321.0,,,36000.0,10100.0,,2021,1036
+21862,CLWSH/CO7/BF1,planEntity,Interventions EHA d'urgence,n/a,12322.0,,,40.0,40.0,,2021,1036
+21864,CLWSH/CO8/BF1,planEntity,Personnes vulnerables couvertes pendant 3mois par les stocks de contingence EHA repositionnés,n/a,12323.0,,,450000.0,175000.0,,2021,1036
+21865,CLWSH/CO8/BF2,planEntity,Infrastructures d'eau (PMH et Puits) necessitant d'une instance de gestion,n/a,12323.0,,,600.0,600.0,,2021,1036
+21866,CLWSH/CO8/BF3,planEntity,Ouvrages de retenue d'eau permettant de régénérer les pâturages et de diminuer le tarissement,n/a,12323.0,,,50.0,25.0,,2021,1036
+20747,SO1/BF1,planEntity,"Sauver et préserver la vie et la dignité d'au moins 80% des populations vulnérables affectées par une crise humanitaire ou par des catastrophes naturelles à travers une assistance multisectorielle en nature et en cash adressant leurs besoins vitaux et de survie y compris le monitoring de protection dans les cercles prioritaires des régions nord, centre, sud et ouest d’ici fin 2022",n/a,11050.0,,,,80.0,,2021,1036
+20748,SO2/BF1,planEntity,"Permettre à au moins 80% des populations hôtes, PDI, retournés, rapatriés, migrants et autres groupes vulnérables des zones affectées par la crise au centre, nord, sud et ouest du Mali d’avoir accès à des services sociaux de base de qualité d’ici fin 2022",n/a,11666.0,,,,80.0,,2021,1036
+20749,SO3/BF1,planEntity,"Permettre une approche holistique de protection transversale, intégrée ou spécialisée, fondée sur les droits de l’homme à au moins 80% des personnes affectées pour l'ensemble de l’intervention en veillant à ce que la protection soit au cœur de l'action humanitaire d’ici 2022",n/a,11667.0,,,,80.0,,2021,1036
+20750,SO4/BF1,planEntity,"Renforcer les capacités de résilience d'au moins 80% des personnes dans au moins 75% des régions à faire face à des chocs, diminuer les vulnérabilités et améliorer les stratégies de subsistance et la préparation aux catastrophes d’ici 2022",n/a,11668.0,,,,80.0,,2021,1036
+22683,SO5/BF1,planEntity,"100% des refugies, demandeurs d’asile et des personnes à risque d’apatridie ont accès à la protection internationale au Mali dans un délai et des conditions d’accueil optimal",n/a,12621.0,,,,100.0,,2021,1036
+22682,SO6/BF1,planEntity,"100% des refugies, demandeurs d’asile et des personnes à risque d’apatridie ont accès aux services sociaux de base et aux moyens d’existence et d’autosuffisance dans leurs zones d’accueil",n/a,12622.0,,,,100.0,,2021,1036
+22681,SO7/BF1,planEntity,"Les réfugiés, demandeurs d’asile et les personnes à risque d’apatridie reçoivent l’accompagnement requis en vue d’une solution durable effective en fonction de leurs besoins de protection",n/a,12623.0,,,,100.0,,2021,1036
+20751,SP1/BF1,planEntity,": Fournir une assistance multisectorielle (assistance et protection) d’urgence en cash à au moins 80% des PDI en situation d’urgence et vivant dans les sites de déplacés dans les cercles prioritaires des régions du nord, centre, sud et ouest selon les droits fondamentaux d’ici fin 2022",n/a,11051.0,,,,80.0,,2021,1036
+20761,SP10/BF1,planEntity,"Assurer qu'au moins 80% des PDI dans les cercles prioritaires des régions du nord, centre, sud et ouest ont accès à des services de renforcement de la cohésion sociale d’ici fin 2022",n/a,11677.0,,,,80.0,,2021,1036
+20763,SP11/BF1,planEntity,"Soutenir le plaidoyer stratégique et technique en faveur d’une meilleure protection des groupes vulnérables dans les cercles prioritaires des régions nord, centre, sud et ouest d’ici fin 2022",n/a,11678.0,,,,,,2021,1036
+20764,SP12/BF1,planEntity,Assurer les moyens de subsistance d'au moins 80% des personnes dans 75% de cercles prioritaires sont assurés par la protection et la réhabilitation de leurs moyens de production d’ici fin 2022,n/a,11679.0,,,,80.0,,2021,1036
+20765,SP13/BF1,planEntity,"Améliorer les connaissances, les compétences et les capacités d'au moins 80% des personnes qui quittent les zones agropastorales pour reconstituer leurs moyens d’existence d’ici fin 2022",n/a,11680.0,,,,80.0,,2021,1036
+20766,SP14/BF1,planEntity,"Assurer la disponibilité d’un système institutionnalisé de préparation communautaire, de surveillance, de réseaux et d'alerte précoce accessibles pour au moins 75% des personnes qui quittent les zones pastorales, agropastorales et riveraines d’ici fin 2022",n/a,11681.0,,,,75.0,,2021,1036
+20767,SP15/BF1,planEntity,Renforcer les mécanismes communautaires et traditionnels de cohésion sociale et de gestion des conflits pour au moins 80% des personnes dans les zones régulièrement touchées par les conflits d’ici fin 2022,n/a,11682.0,,,,,,2021,1036
+20768,SP16/BF1,planEntity,"Renforcer la résilience d'au moins 80% des personnes affectées, principalement des personnes déplacées, par la fourniture d'abris provisoires et durables d’ici fin 2022",n/a,11683.0,,,,80.0,,2021,1036
+20752,SP2/BF1,planEntity,"Assurer une réduction des taux de mortalité et de malnutrition aiguë globale d'au moins 80% des PDI hors sites et d'au moins 80% des autres personnes touchées par les conflits et l’insécurité, les désastres et les épidémies dans les cercles ciblés grâce à un accès adéquat à la nourriture, à l’eau, l’hygiène, l’assainissement, aux soins de santé essentiels et aux services de nutrition d’ici fin 2022",n/a,11669.0,,,,80.0,,2021,1036
+20753,SP3/BF1,planEntity,Assurer à 100% l’opérationnalité des mécanismes de réponse rapide en nature et en cash pour répondre aux besoins vitaux des personnes en situation d’urgence lors des déplacements forcés d’ici fin 2022,n/a,11670.0,,,,100.0,,2021,1036
+20754,SP4/BF1,planEntity,"Renforcer la fourniture des services de EHA, d’éducation, de protection, de santé, d’abris et BNA à au moins 80% de ménages hôtes vulnérables d’ici la fin de 2022",n/a,11671.0,,,,80.0,,2021,1036
+20755,SP5/BF1,planEntity,"Fournir des services d’EHA, d'éducation, de santé, d'abris et de BNA à au moins 80% des personnes déplacées y compris 80% de rapatriés dans des sites de personnes déplacées établis dans au moins 75% des communautés d’ici fin 2022",n/a,11672.0,,,,75.0,,2021,1036
+20756,SP6/BF1,planEntity,Améliorer l'accès à la nourriture et sa bonne utilisation pour au moins 80% de personnes vulnérables (qu'elles soient déplacées ou non) confrontées à une insécurité alimentaire aiguë d’ici fin 2022,n/a,11673.0,,,,80.0,,2021,1036
+20757,SP7/BF1,planEntity,"Protéger les moyens d'existence et les sources alimentaires connexes pour au moins 80% de personnes (agriculteurs, agro-éleveurs, éleveurs et personnes déplacées à l'intérieur du Mali) d’ici fin 2022",n/a,11674.0,,,,80.0,,2021,1036
+20758,SP8/BF1,planEntity,"Assurer  que l’ensemble des interventions permettent de donner la priorité à la sécurité et à la dignité, d'éviter de causer des dommages, d'assurer l'accès des populations à l'assistance et aux services sociaux de base, d'accorder une attention particulière aux plus vulnérables ainsi qu'une participation et une information réelles des populations touchées, notamment par des mécanismes de feedback dans les cercles prioritaires des régions nord, centre, sud et ouest d’ici fin 2022",n/a,11675.0,,,,,,2021,1036
+20759,SP9/BF1,planEntity,"Renforcer l'environnement de protection juridique et communautaire, en se concentrant en particulier sur le cadre juridique malien applicable en cas de déplacement interne et le renforcement des capacités sur les autres thématiques de protection dont le logement, à l’accès à la terre et aux biens d’ici fin 2022",n/a,11676.0,,,,,,2021,1036
+20674,BP1,plan,Personnes dans le besoin et ciblées pour une assistance alimentaire,n/a,,21500000.0,,3533773.0,2920010.0,1600000,2021,1037
+20292,CLCCM/BF1-CCM,cluster,Analyse des besoins sectoriels. Personnes dans le besoin et ciblées- Personnes déplacées internes,CCM,6034.0,,,955829.0,721443.0,,2021,1037
+20501,CLCCM/CA1/BF1,planEntity,Nombre de système de gestion (Gestionnaire ou équipe mobile),n/a,11564.0,,,150.0,105.0,,2021,1037
+20509,CLCCM/CA2/BF1,planEntity,Nombre de site,n/a,11583.0,,,150.0,100.0,,2021,1037
+20513,CLCCM/CA3/BF1,planEntity,Personnes formées en gestion des sites d'accueil temporaires,n/a,11584.0,,,17500.0,17500.0,,2021,1037
+20522,CLCCM/CA7/BF1,planEntity,Nombre de personnes ciblées pour les appuis communautaires,n/a,11588.0,,,32500.0,32500.0,,2021,1037
+20331,CLCCM/CO1/BF1,planEntity,Le nombre de sites et zones de deplacement,n/a,11469.0,,,150.0,150.0,,2021,1037
+20352,CLCCM/CO2/BF1,planEntity,Le nombre de personnes sensibilisées dans les sites et les communautés d'accueil pour la prévention a la COVID 19,n/a,11480.0,,,955829.0,721443.0,,2021,1037
+20428,CLCCM/CO3/BF1,planEntity,Nombre de mécanismes de gouvernance et participation communautaire,n/a,11530.0,,,500.0,500.0,,2021,1037
+20431,CLCCM/CO4/BF1,planEntity,Contribuer au relèvement des personnes déplacées internes dans les sites,n/a,11546.0,,,32500.0,32500.0,,2021,1037
+20072,CLEDU/BF1-EDU,cluster,Nombre d'enfants dans le besoin et nombre d'enfants ciblés,EDU,6033.0,,,812602.0,812602.0,,2021,1037
+20120,CLEDU/CA1/BF1,planEntity,"Organiser des  campagnes de sensibilisation des communautés sur l’inscription et le maintien des filles et des garçons, y compris les enfants en situation de handicap, affectés par la crise de sécurité et la pandémie Covid-19",n/a,11342.0,,,200000.0,200000.0,,2021,1037
+20227,CLEDU/CA10/BF1,planEntity,Former  6 000 enseignants/animateurs sur les curricula ESU,n/a,11390.0,,,16250.0,6000.0,,2021,1037
+20229,CLEDU/CA11/BF1,planEntity,Appuyer les programmes d'apprentissage par la radio à travers la mise en place de 10 000 clubs d'écoute composés de 40 membres au profit de 400 000 enfants  dans les six  régions affectées pendant 12 mois,n/a,11391.0,,,400000.0,300000.0,,2021,1037
+20231,CLEDU/CA12/BF1,planEntity,"Former 5000 enseignants (60% des  femmes) en Soutien Psychocial (PSS),développement des plans scolaires de préparation/réponse aux urgences/CDRR  (y compris le protocole sanitaire  COVID-19)",n/a,11392.0,,,16250.0,5000.0,,2021,1037
+20233,CLEDU/CA13/BF1,planEntity,"Appuyer la mise en place des mécanismes de gestion de plaintes et de soutien pour lutter contre l’exploitation et les abus sexuels, les VBG et la maltraitance des enfants dans les écoles",n/a,11393.0,,,2000.0,850.0,,2021,1037
+20235,CLEDU/CA14/BF1,planEntity,Former 10 000 enseignants/animateurs  sur les  risques des mines,n/a,11394.0,,,16250.0,10000.0,,2021,1037
+20237,CLEDU/CA15/BF1,planEntity,Former 800 leaders communautaires et acteurs locaux  de l’éducation sur le Soutien Psychosocial (y compris les plans de préparation et de réponse aux urgences) et le Protocole sanitaire COVID-19,n/a,11395.0,,,2000.0,800.0,,2021,1037
+20124,CLEDU/CA2/BF1,planEntity,Fournir l'alimentation scolaire d'urgence à 110 000 élèves du primaire,n/a,11344.0,,,812602.0,110000.0,,2021,1037
+20127,CLEDU/CA3/BF1,planEntity,Distribuer des kits  scolaires (individuels) à 400 000 élèves  dans les écoles ciblées,n/a,11346.0,,,812602.0,400000.0,,2021,1037
+20133,CLEDU/CA4/BF1,planEntity,Distribuer  100 tentes pour les classes temporaires,n/a,11350.0,,,5000.0,5000.0,,2021,1037
+20135,CLEDU/CA5/BF1,planEntity,Réparer et mettre à disposition 40 000 tables-bancs au profit de 300 000 élèves,n/a,11354.0,,,300000.0,40000.0,,2021,1037
+20137,CLEDU/CA6/BF1,planEntity,Réhabiliter/construire 70 salles de classes (temporaires et sémi-permanentes) prennant en compte les besoins spécifiques des ESH dans les écoles hôtes,n/a,11356.0,,,3500.0,3500.0,,2021,1037
+20169,CLEDU/CA7/BF1,planEntity,Distribuer des kits de gestion d’hygiène menstruelle (GHM) à 100 000 élèves filles pour leur manitien à l'école,n/a,11362.0,,,100000.0,100000.0,,2021,1037
+20183,CLEDU/CA8/BF1,planEntity,Soutenir la formation à distance pour 300 000 élèves du primaire et du secondaire touchés par la crise sanitaire,n/a,11379.0,,,812602.0,300000.0,,2021,1037
+20225,CLEDU/CA9/BF1,planEntity,Livrer des kits pédagogiques à 5 000 enseignants,n/a,11389.0,,,16250.0,5000.0,,2021,1037
+20112,CLEDU/CO1/BF1,planEntity,,n/a,11308.0,,,812602.0,812602.0,,2021,1037
+20115,CLEDU/CO2/BF1,planEntity,,n/a,11335.0,,,2000.0,850.0,,2021,1037
+20330,CLFSC/BF3-FSC,cluster,Nbre de personnes dans le besoin et ciblées,FSC,6040.0,,,2900000.0,2500000.0,,2021,1037
+20402,CLFSC/CA1/BF1,planEntity,Apporter un soutien d'urgence aux personnes affectées par les mouvements de populations et insecurité alimentaire critique,n/a,11520.0,,,519000.0,500000.0,,2021,1037
+20404,CLFSC/CA2/BF1,planEntity,"Apporter un soutien d'urgence aux  filles, garçons et enfants de 0 à 5 ans et femmes enceinte et allaitante affectées par les mouvements de populations",n/a,11521.0,,,450000.0,350000.0,,2021,1037
+20406,CLFSC/CA3/BF1,planEntity,Apporter un soutien d'urgence aux personnes affectées par les mouvements de populations et insecurité alimentaire critique dans le 30 jours suivants le chocs,n/a,11522.0,,,500000.0,350000.0,,2021,1037
+20408,CLFSC/CA4/BF1,planEntity,Fournir une assistance alimentaire aux personnes affectées par la soudure agricole et/ou pastorale,n/a,11523.0,,,1700000.0,1050000.0,,2021,1037
+20410,CLFSC/CA5/BF1,planEntity,"Soutenir les activités de maraichage, aux AGR et aux actions communautaires en milieu rural, aux cantines scolaires",n/a,11524.0,,,800000.0,500000.0,,2021,1037
+20412,CLFSC/CA6/BF1,planEntity,"Appuyer les ménages ayant des activités agricoles hors maraîchage (cultures vivrières, céréalières, legumineuses...), des activités d'élevage (grand et petit bétail, volaille, etc.),  des activités de pêche et pisciculture, assistance alimentaire conditionnelle (FFA), appui au retour et aux menage affectées par l'impact socio-economique du COVID-19",n/a,11525.0,,,1300000.0,1000000.0,,2021,1037
+20414,CLFSC/CA7/BF1,planEntity,Renforcer les capacités institutionnelles (acteurs/services étatiques nationaux et locaux) et capacité acteurs humanitaires,n/a,11526.0,,,100.0,100.0,,2021,1037
+20388,CLFSC/CO1/BF1,planEntity,"Nombre de personnes ciblées ayant reçu une assistance alimentaire d'urgence (en nature, espèce ou coupons)",n/a,11513.0,,,1200000.0,980000.0,,2021,1037
+20390,CLFSC/CO2/BF1,planEntity,"Nombre de personnes ciblées ayant reçu une assistance alimentaire d'urgence (en nature, espèce ou coupons)",n/a,11514.0,,,1200000.0,980000.0,,2021,1037
+20392,CLFSC/CO3/BF1,planEntity,,n/a,11515.0,,,1200000.0,980000.0,,2021,1037
+20394,CLFSC/CO4/BF1,planEntity,,n/a,11516.0,,,1700000.0,1050000.0,,2021,1037
+20396,CLFSC/CO5/BF1,planEntity,,n/a,11517.0,,,800000.0,500000.0,,2021,1037
+20398,CLFSC/CO6/BF1,planEntity,,n/a,11518.0,,,1300000.0,1000000.0,,2021,1037
+20400,CLFSC/CO7/BF1,planEntity,,n/a,11519.0,,,100.0,100.0,,2021,1037
+19843,CLHEA/BF1-HEA,cluster,Nombre des personnes ayant bénéficiées des soins de santé primaires,HEA,6039.0,,,2505478.0,1926367.0,,2021,1037
+19792,CLHEA/CA1/BF1,planEntity,Assurer la fonctionalité des formations sanitaires dans les zones dificile d'accès,n/a,11176.0,,,499200.0,499200.0,,2021,1037
+19808,CLHEA/CA10/BF1,planEntity,"Renforcer le système de surveillance et appui à la réponse aux épidémies incluant la communication sur le risque, les mesures de prevention et le laboratoire",n/a,11185.0,,,2500.0,2500.0,,2021,1037
+19790,CLHEA/CA2/BF1,planEntity,Mettre en place des post médicaux avancés et les cliniques mobiles pour l'offres des soins de santé,n/a,11177.0,,,332800.0,332800.0,,2021,1037
+19793,CLHEA/CA3/BF1,planEntity,Assurer l'offre des soins de santé mentale à travers les équipes mobiles/post médicaux avancé,n/a,11178.0,,,665600.0,665600.0,,2021,1037
+19795,CLHEA/CA4/BF1,planEntity,Assurer la dispinibilité du dispositif minimum d'urgences pour la santé sexuelle et réproductive incluant les VBG,n/a,11179.0,,,41600.0,41600.0,,2021,1037
+19797,CLHEA/CA5/BF1,planEntity,Renforcer les capacités de transfusion sanguine dans les six régions,n/a,11180.0,,,14057.0,14057.0,,2021,1037
+19799,CLHEA/CA6/BF1,planEntity,Assurer la disponibilité de l'oxygene aux enfants severement malnutris,n/a,11181.0,,,14057.0,14057.0,,2021,1037
+19801,CLHEA/CA7/BF1,planEntity,Deployer les equipes mobiles multidisciplinnaires pour assurer l'offre des soins de santé integrés,n/a,11182.0,,,250000.0,200000.0,,2021,1037
+19803,CLHEA/CA8/BF1,planEntity,Accompagner et renforcer l’offre de paquet des soins de santé primaires dans les structures sanitaires (formulation du paquet minimum et sa dissémination),n/a,11183.0,,,1926367.0,1926367.0,,2021,1037
+19805,CLHEA/CA9/BF1,planEntity,Appuyer la réponse aux épidemies dans les régions touchées,n/a,11184.0,,,2505478.0,1503287.0,,2021,1037
+19772,CLHEA/CO1/BF1,planEntity,Nombre des personnes couvertes par les services de soins de santé de qualifié,n/a,11169.0,,,1040000.0,832000.0,,2021,1037
+19779,CLHEA/CO2/BF1,planEntity,Nombre d'enfants malnutris avec complication ayant été pris en charge,n/a,11170.0,,,14057.0,14057.0,,2021,1037
+19778,CLHEA/CO3/BF1,planEntity,Nombre des personnes couvertes par les services de soins de santé de qualifié au travers le clinques mobiles,n/a,11171.0,,,250000.0,200000.0,,2021,1037
+19782,CLHEA/CO4/BF1,planEntity,Nombre des personnes ayant bénéficiées des soins de santé primaires,n/a,11172.0,,,2505478.0,1926367.0,,2021,1037
+19783,CLHEA/CO5/BF1,planEntity,Proportion d’épidémies rapportées auxquelles le secteur de la santé a répondu efficacement,n/a,11174.0,,,1926367.0,1926367.0,,2021,1037
+24424,CLLOG/BF1-LOG,cluster,Logistique,LOG,6035.0,,,,,,2021,1037
+19809,CLNUT/BF1-NUT,cluster,Cluster nutrition,NUT,6036.0,,,1430632.0,797072.0,,2021,1037
+19822,CLNUT/CA1/BF1,planEntity,Nombre d’enfants de 6-59 mois souffrant de MAS pris en charge,n/a,11193.0,,,93710.0,93710.0,,2021,1037
+19878,CLNUT/CA10/BF1,planEntity,Nombre d'enquête Nutritionnelle  SMART  nationale  réalisée,n/a,11238.0,,,1.0,1.0,,2021,1037
+19882,CLNUT/CA11/BF1,planEntity,Nombre de  rencontre  trimestrielles   DRS-DS et parténaires  réalisé,n/a,11240.0,,,24.0,24.0,,2021,1037
+19886,CLNUT/CA12/BF1,planEntity,Nombre de districts sanitaires qui remontent  hebdomaderement les données de la prise en charge  de la malnutrition,n/a,11243.0,,,35.0,35.0,,2021,1037
+19892,CLNUT/CA13/BF1,planEntity,Nombre de FEFA bénéficiant d’activités Protection et promotion des bonnes pratiques ANJE,n/a,11247.0,,,407607.0,305706.0,,2021,1037
+19906,CLNUT/CA14/BF1,planEntity,Nombre de mère d’enfants bénéficiaires  d’un counseling sur l’ANJE,n/a,11259.0,,,407607.0,305706.0,,2021,1037
+19915,CLNUT/CA15/BF1,planEntity,Nombre d’enfant de 6 à 23 mois bénéficiant de distribution de rations de protection,n/a,11268.0,,,585822.0,125952.0,,2021,1037
+19928,CLNUT/CA16/BF1,planEntity,Nombre  des enfants filles et garçons admis pour malnutrition aiguë qui sont testés positifs et traités contre la malaria,n/a,11278.0,,,93710.0,14057.0,,2021,1037
+19936,CLNUT/CA17/BF1,planEntity,Nombre  des enfants filles et garçons depisté de lamalnutrition lors de 4 passages de la CPS,n/a,11284.0,,,1755851.0,1580266.0,,2021,1037
+19941,CLNUT/CA18/BF1,planEntity,Nombre d'enfant filles  et de garçons admis pour malnutrition aiguë sévère recevant des kits WASH,n/a,11287.0,,,93710.0,14057.0,,2021,1037
+19945,CLNUT/CA19/BF1,planEntity,Nombre d'enfant filles  et de garçons  malnutrition  dépister et référer dans le structure de prise en charge,n/a,11291.0,,,331225.0,308074.0,,2021,1037
+19825,CLNUT/CA2/BF1,planEntity,"Nombre des  mères, gardienne d’enfant et membre des ménage formé",n/a,11196.0,,,93710.0,74968.0,,2021,1037
+19949,CLNUT/CA20/BF1,planEntity,Nombre de consultations tenues  avec les mères accompagnantés/ gardienne,n/a,11293.0,,,14057.0,1406.0,,2021,1037
+20131,CLNUT/CA21/BF1,planEntity,Nombre de sites sentinelles mise en place et opérationnels,n/a,11353.0,,,17.0,17.0,,2021,1037
+19839,CLNUT/CA3/BF1,planEntity,% du personnel de nutrition qui ont reçu une formation sur l’inclusion des personnes handicapées,n/a,11205.0,,,50.0,50.0,,2021,1037
+19845,CLNUT/CA4/BF1,planEntity,% de personnel de santé(PCI) former sur la PEC psycho sociale de la malnutrition  dans les CRENI de la zone prioritaire 1 et 2( =9+23),n/a,11211.0,,,100.0,100.0,,2021,1037
+19853,CLNUT/CA5/BF1,planEntity,% du personnel de nutrition qui ont reçu une orientation sur le référencement du VGB et qui peut diriger les survivants vers des soins appropriés,n/a,11217.0,,,50.0,50.0,,2021,1037
+19859,CLNUT/CA6/BF1,planEntity,Nombre d'agents de santé et ASBC recyclé/ formé sur  les approches communautaire,n/a,11222.0,,,7169.0,5735.0,,2021,1037
+19865,CLNUT/CA7/BF1,planEntity,Nombre d’enfants de 6-59 mois  filles et garçons souffrant de MAM pris en charge,n/a,11226.0,,,237515.0,214364.0,,2021,1037
+19874,CLNUT/CA8/BF1,planEntity,Nombre de FEFA souffrant de MAM pris en charge,n/a,11234.0,,,71675.0,57340.0,,2021,1037
+19876,CLNUT/CA9/BF1,planEntity,Nombre d'enquête Nutritionnelle  SMART Rapide réalisée,n/a,11236.0,,,5.0,5.0,,2021,1037
+19813,CLNUT/CO1/BF1,planEntity,Nombre d’enfants de 6-59 mois souffrant de MAS pris en charge,n/a,11186.0,,,93710.0,93710.0,,2021,1037
+19817,CLNUT/CO1/BF2,planEntity,Nombre d’enfants de 6-59 mois  et FEFA souffrant de MAM pris en charge,n/a,11186.0,,,309190.0,271704.0,,2021,1037
+20745,CLNUT/CO3/BF1,planEntity,Nombre de FEFA bénéficiant d’activités Protection et promotion des bonnes pratiques ANJE.,n/a,11190.0,,,407607.0,305706.0,,2021,1037
+20760,CLNUT/CO3/BF2,planEntity,Nombre d’enfants de 6 à 23 mois bénéficiant de distribution de rations de protection.,n/a,11190.0,,,585822.0,125952.0,,2021,1037
+19655,CLPRO/BF1-PRO,cluster,Protection (total),PRO,6037.0,,,1535429.0,1002197.0,,2021,1037
+19680,CLPRO/BF2-PRO-HLP,cluster,"Logement, Terres et propriété",PRO-HLP,6037.0,,,1091017.0,436407.0,,2021,1037
+19681,CLPRO/BF3-PRO-GBV,cluster,Violence Basée sur le Genre (VBG),PRO-GBV,6037.0,,,666834.0,533467.0,,2021,1037
+20080,CLPRO/BF4-PRO-CPN,cluster,Protection de l'enfant,PRO-CPN,6037.0,,,715511.0,500850.0,,2021,1037
+20278,CLPRO/BF5-PRO-MIN,cluster,Lutte Antimines,PRO-MIN,6037.0,,,764660.0,300000.0,,2021,1037
+30579,CLPRO/CA6/BF1,planEntity,,n/a,11072.0,,,,,,2021,1037
+25162,CLPRO/CA8/BF1,planEntity,,n/a,11330.0,,,,,,2021,1037
+19682,CLPRO/CO5/BF1,planEntity,Protection VBG : Assurer la prise en charge multisectorielle des survivant(e)s de  Violence Basée sur le Genre,n/a,11067.0,,,5173.0,5173.0,,2021,1037
+19684,CLPRO/CO6/BF1,planEntity,Protection VBG : Prévenir les actes de violence basée sur le genre y compris la violence infligée par le parténaire intime et l'exploitation et Abus sexuels et mitiger les risques de violence basée sur le genre,n/a,11069.0,,,646000.0,533467.0,,2021,1037
+25231,CLPRO/CO8/BF1,planEntity,,n/a,11329.0,,,,,,2021,1037
+20434,CLRR/BF1-RR,cluster,Refugiés,n/a,6038.0,,,19400.0,19400.0,,2021,1037
+19814,CLSHL/BF1-SHL,cluster,Personnes dans le besoin et ciblées par le cluster pour une assistance humanitaire,SHL,6030.0,,,1422382.0,651847.0,,2021,1037
+20429,CLSHL/CA1/BF1,planEntity,Personnes dans le besoin et ciblées par le cluster pour une assistance humanitaire.,n/a,11296.0,,,1422384.0,651847.0,,2021,1037
+19766,CLWSH/BF1-WSH,cluster,"Personnes dans le besoins et ciblées en 2021 pour une assistance en Eau, Hygiène et Assainissement",WSH,6032.0,,,2548537.0,1600000.0,,2021,1037
+19824,CLWSH/CO1/BF1,planEntity,"Déplacées internes, retournées, autres populations non-déplacées",n/a,11167.0,,,1795478.0,1235000.0,,2021,1037
+19815,CLWSH/CO2/BF1,planEntity,"Déplacées internes, retournées, autres populations non-déplacées",n/a,11168.0,,,2548537.0,950000.0,,2021,1037
+20486,CLWSH/CO3/BF1,planEntity,Personnes dans le besoins et ciblées par les activités de promotion à l'hygiène et mobilisation communautaire,n/a,11187.0,,,2548537.0,1600000.0,,2021,1037
+20471,CLWSH/CO4/BF1,planEntity,"Couples enfant malnutris/ accompagnants dans le bésoins et ciblés pour un accès securisé, adapté et amelioré aux services d'approvisionnement en eau potable et assainissement et d'amelioration des pratiques d'hygiene",n/a,11189.0,,,93710.0,20000.0,,2021,1037
+19638,CQ1/BQ1,planEntity,Nombre de personnes ayant besoin d'assistance humanitaire d'urgence,n/a,11031.0,,,1322707.0,,,2021,1037
+19639,CQ2/BQ1,planEntity,Nombre de personnes dans le besoin d'assistance humanitaire,n/a,11032.0,,,3533773.0,,,2021,1037
+20994,CQ3/BQ1,planEntity,Besoins Consequence Protection,n/a,11817.0,,,2000000.0,,,2021,1037
+19640,SP1/BF1,planEntity,"Personnes déplacées internes, communautés non déplacées dans les zones difficiles d'accès.",n/a,11036.0,,,,518897.0,,2021,1037
+19649,SP10/BF1,planEntity,"Personnes déplacées internes, communautés non déplacées dans les 6 régions prioritaires et les réfugiés.",n/a,11045.0,,,,1600000.0,,2021,1037
+19650,SP11/BF1,planEntity,"Personnes déplacées internes, personnes vivant avec un handicap et personnes non déplacées victimes de VBG.",n/a,11046.0,,,,646000.0,,2021,1037
+19641,SP2/BF1,planEntity,"Personnes déplacées internes, communautés non déplacées dans les zones difficiles d'accès.",n/a,11037.0,,,,1040000.0,,2021,1037
+19642,SP3/BF1,planEntity,"Enfants de moins de 5ans, femmes enceintes et allaitantes",n/a,11038.0,,,,676000.0,,2021,1037
+19643,SP4/BF1,planEntity,"Personnes déplacées internes, communautés non déplacées d'accueil",n/a,11039.0,,,,782000.0,,2021,1037
+19644,SP5/BF1,planEntity,"Personnes déplacées internes, Communautés non déplacées et réfugiés",n/a,11040.0,,,,2500000.0,,2021,1037
+19645,SP6/BF1,planEntity,"Personnes déplacées internes, réfugiés",n/a,11041.0,,,,980000.0,,2021,1037
+19646,SP7/BF1,planEntity,"Personnes déplacées internes, communautés non déplacées et réfugiés",n/a,11042.0,,,,2500000.0,,2021,1037
+19647,SP8/BF1,planEntity,"Personnes déplacées internes, communautés non déplacées et réfugiés",n/a,11043.0,,,,140000.0,,2021,1037
+19648,SP9/BF1,planEntity,ONG et agences UN inscrites dans le HRP,n/a,11044.0,,,,100.0,,2021,1037
+20691,BP1,plan,Plan Caseload,n/a,,12574566.0,,2255830.0,1058332.0,354000,2021,1039
+20720,CLEDU/BF1-EDU,cluster,"En 2021, la réponse humanitaire dans le domaine de l’éducation visera essentiellement à assurer la continuité de l’éducation inclusive et équitable dans les situations d'urgence en vue d’assurer à chaque enfant ayant atteint l’âge scolaire son droit à l’éducation. Les populations concernées sont principalement celles affectées par les désastres naturelles (et les destructions matérielles qu’ils engendrent) et/ou les mouvements de population. Le secteur éducation prévoit d'assister les enfants d'âge scolaire déplacés, raptriés et les enfants vulnérables de la communauté hôte.",EDU,6131.0,,,157283.0,157283.0,,2021,1039
+23429,CLEDU/CA1/BF1,planEntity,Nombre de salles qui seront réhabilitées/construites,n/a,12739.0,,,300.0,300.0,,2021,1039
+23481,CLEDU/CA10/BF1,planEntity,-	50 campagnes de sensibilisation communautaire sur l’importance de l’éducation et sa gestion en situation d’urgence sont organisées,n/a,13116.0,,,50.0,50.0,,2021,1039
+23484,CLEDU/CA11/BF1,planEntity,Les parents membres des CGE sont formés sur la prévention des urgences,n/a,13117.0,,,634.0,634.0,,2021,1039
+23431,CLEDU/CA2/BF1,planEntity,les classes temporaires seront érigées,n/a,13102.0,,,334.0,334.0,,2021,1039
+23449,CLEDU/CA3/BF1,planEntity,"Les enfants scolarisés déplacés , rapatriés et de la communauté hôte revcevront du matéril pour les aider à rester à l'école et terminer leurs études",n/a,13108.0,,,150662.0,150662.0,,2021,1039
+23456,CLEDU/CA4/BF1,planEntity,les ensigants  sont formés en urgence pour appuyer dans l'encadrement des enfants vulnérable,n/a,13109.0,,,6621.0,6621.0,,2021,1039
+23464,CLEDU/CA5/BF1,planEntity,Cours de rattrapage,n/a,13110.0,,,145000.0,145000.0,,2021,1039
+23459,CLEDU/CA6/BF1,planEntity,hygiène à l'école,n/a,13111.0,,,166.0,166.0,,2021,1039
+23467,CLEDU/CA7/BF1,planEntity,Support pycho-social aux enfants  et ensigants affectes,n/a,13113.0,,,2000.0,2000.0,,2021,1039
+23474,CLEDU/CA8/BF2,planEntity,les enfants affectés bénéficient des repas,n/a,13114.0,,,34000.0,34000.0,,2021,1039
+23477,CLEDU/CA9/BF2,planEntity,Distribution des Kits de dignité aux enfants les plus vulnérables,n/a,13115.0,,,40000.0,40000.0,,2021,1039
+23426,CLEDU/CO1/BF1,planEntity,"Il s'agit des enfants déplacés, raptriés et de la communautés hôte tous en âge scolaire",n/a,12738.0,,,150662.0,150662.0,,2021,1039
+23428,CLEDU/CO2/BF2,planEntity,Il s'agit de renforcer les capaicités des enseignants pour les rendre capables d'encadrer les enfants vulnérables,n/a,13095.0,,,6621.0,6621.0,,2021,1039
+23687,CLFSC/BF1-FSC,cluster,Le secteur sécurité alimentaire et moyens d'existence contribue à la réponse humanitaire globale du Burundi(HRP 2021) en apportant une assistance alimentaire en nature et ou en cash ainsi qu'en restaurant les moyens d'existence de 736 Mille personnes plus vulnérables ciblées parmi les 2 Millions de personnes dans le besoin (HNO 2021),FSC,6136.0,,,1998738.0,736738.0,,2021,1039
+23686,CLFSC/CA1/BF1,planEntity,Lesevaluations des  besoins d'assistance prioritaire sont conduites,n/a,12553.0,,,13.0,13.0,,2021,1039
+23688,CLFSC/CA2/BF1,planEntity,Assistance alimentaire et/ou en cash pour repondre aux besoins alimentaires de 736 000 personnes vulnerables des zones plus affectees par les chocs divers,n/a,12798.0,,,2000000.0,736000.0,,2021,1039
+23689,CLFSC/CA3/BF1,planEntity,Des mecanismes de redevabilite sont mise en place et le niveau de satisfaction des beneficiaires de l'assistance rapporté,n/a,13041.0,,,100.0,100.0,,2021,1039
+23690,CLFSC/CA4/BF1,planEntity,Distribution des intrants agricoles divers a 98130 menages d'agriculteurs affectes par les chocs divers pour assurer leur autonomie future.,n/a,13042.0,,,399748.0,98231.0,,2021,1039
+23695,CLFSC/CA5/BF1,planEntity,Assistance pour renforcer la resilience des menages a travers l'accompagnement des menages affectes dans le developpement des AGRs et diversification des moyens d'existence.,n/a,13049.0,,,98920.0,19647.0,,2021,1039
+23367,CLFSC/CO1/BF1,planEntity,"L'estimation des PIN a été basée sur les personnes se trouvant dans les phases 3 et plus de l'IPC (phases humanitaires) ajustés par d'autres  facteurs  de vulnérabilité antincipés pour 2021 selon les projections météorologiques et les prévisions de rapatriement du HCR. Les 736000 personnes à cibler pour l'assistance seront prioritairement dans les provinces du Nord Est particulièrement touchées par la pression des retournés, par le phénomène La Nina ainsi  que l'impact socioéconomique de COVID19 ainsi que les provinces de l'Ouest particulièrement affectées par les inondations et l'impact socio économique de COVID19",n/a,12552.0,,,1998738.0,736000.0,,2021,1039
+23372,CLFSC/CO2/BF1,planEntity,"98 130 ménages plus vulnérables dans les zones particulièrement affectes par les chocs divers (aléas climatiques, déplacements, impact socioéconomique de COVID 19…) seront appuyés dans la restauration de leurs moyens d’existence pour pouvoir se remettre sur pied en vue d’assurer leur autonomie alimentaire et la résilience aux chocs futurs.",n/a,13039.0,,,399748.0,98130.0,,2021,1039
+20725,CLHEA/BF1-HEA,cluster,Santé,HEA,6135.0,,,578344.0,269207.0,,2021,1039
+22457,CLHEA/CA1/BF1,planEntity,La méthodologie utilisée pour le calcul du PIN et la cible est basée sur l'indentification des provinces sujettes à des Urgences Sanitaires avec le calcul de la sévèrite des besoins en rapport avec la durée de la marche pour arriver à un Centre de Santé  et l'incidence des maladies à potentiel épidémique dans ses provinces ciblées.,n/a,12560.0,,,1316.0,950.0,,2021,1039
+22483,CLHEA/CA10/BF1,planEntity,La méthodologie utilisée pour le calcul du PIN et la cible est basée sur l'indentification des provinces sujettes à des Urgences Sanitaires avec le calcul de la sévèrite des besoins en rapport avec la durée de la marche pour arriver à un Centre de Santé  et l'incidence des maladies à potentiel épidémique dans ses provinces ciblées,n/a,12569.0,,,47.0,47.0,,2021,1039
+22469,CLHEA/CA2/BF1,planEntity,La méthodologie utilisée pour le calcul du PIN et la cible est basée sur l'indentification des provinces sujettes à des Urgences Sanitaires avec le calcul de la sévèrite des besoins en rapport avec la durée de la marche pour arriver à un Centre de Santé  et l'incidence des maladies à potentiel épidémique dans ses provinces ciblées.,n/a,12561.0,,,112793.0,54057.0,,2021,1039
+22466,CLHEA/CA3/BF1,planEntity,La méthodologie utilisée pour le calcul du PIN et la cible est basée sur l'indentification des provinces sujettes à des Urgences Sanitaires avec le calcul de la sévèrite des besoins en rapport avec la durée de la marche pour arriver à un Centre de Santé  et l'incidence des maladies à potentiel épidémique dans ses provinces ciblées.,n/a,12562.0,,,578344.0,269207.0,,2021,1039
+22480,CLHEA/CA4/BF1,planEntity,La méthodologie utilisée pour le calcul du PIN et la cible est basée sur l'indentification des provinces sujettes à des Urgences Sanitaires avec le calcul de la sévèrite des besoins en rapport avec la durée de la marche pour arriver à un Centre de Santé  et l'incidence des maladies à potentiel épidémique dans ses provinces ciblées,n/a,12563.0,,,578344.0,269207.0,,2021,1039
+22471,CLHEA/CA5/BF1,planEntity,La méthodologie utilisée pour le calcul du PIN et la cible est basée sur l'indentification des provinces sujettes à des Urgences Sanitaires avec le calcul de la sévèrite des besoins en rapport avec la durée de la marche pour arriver à un Centre de Santé  et l'incidence des maladies à potentiel épidémique dans ses provinces ciblées,n/a,12564.0,,,578344.0,269207.0,,2021,1039
+22474,CLHEA/CA6/BF1,planEntity,La méthodologie utilisée pour le calcul du PIN et la cible est basée sur l'indentification des provinces sujettes à des Urgences Sanitaires avec le calcul de la sévèrite des besoins en rapport avec la durée de la marche pour arriver à un Centre de Santé  et l'incidence des maladies à potentiel épidémique dans ses provinces ciblées,n/a,12565.0,,,578344.0,269207.0,,2021,1039
+22458,CLHEA/CA7/BF1,planEntity,La méthodologie utilisée pour le calcul du PIN et la cible est basée sur l'indentification des provinces sujettes à des Urgences Sanitaires avec le calcul de la sévèrite des besoins en rapport avec la durée de la marche pour arriver à un Centre de Santé  et l'incidence des maladies à potentiel épidémique dans ses provinces ciblées,n/a,12566.0,,,47.0,47.0,,2021,1039
+22459,CLHEA/CA8/BF1,planEntity,La méthodologie utilisée pour le calcul du PIN et la cible est basée sur l'indentification des provinces sujettes à des Urgences Sanitaires avec le calcul de la sévèrite des besoins en rapport avec la durée de la marche pour arriver à un Centre de Santé  et l'incidence des maladies à potentiel épidémique dans ses provinces ciblées,n/a,12567.0,,,578344.0,269207.0,,2021,1039
+22460,CLHEA/CA9/BF1,planEntity,La méthodologie utilisée pour le calcul du PIN et la cible est basée sur l'indentification des provinces sujettes à des Urgences Sanitaires avec le calcul de la sévèrite des besoins en rapport avec la durée de la marche pour arriver à un Centre de Santé  et l'incidence des maladies à potentiel épidémique dans ses provinces ciblées,n/a,12568.0,,,578344.0,269207.0,,2021,1039
+22448,CLHEA/CO1/BF1,planEntity,La méthodologie utilisée pour le calcul du PIN et la cible est basée sur l'indentification des provinces sujettes à des Urgences Sanitaires avec le calcul de la sévèrite des besoins en rapport avec la durée de la marche pour arriver à un Centre de Santé  et l'incidence des maladies à potentiel épidémique dans ses provinces ciblées.,n/a,12554.0,,,578344.0,269207.0,,2021,1039
+22454,CLHEA/CO2/BF1,planEntity,La méthodologie utilisée pour le calcul du PIN et la cible est basée sur l'indentification des provinces sujettes à des Urgences Sanitaires avec le calcul de la sévèrite des besoins en rapport avec la durée de la marche pour arriver à un Centre de Santé  et l'incidence des maladies à potentiel épidémique dans ses provinces ciblées.,n/a,12559.0,,,578344.0,269207.0,,2021,1039
+23414,CLLOG/CA1/BF1,planEntity,Le secteur menera differentes evaluations pour determiner le meilleur emplacement pour renforcer les capacites de stockage et creer la plateforme logistique,n/a,13086.0,,,,15.0,,2021,1039
+23415,CLLOG/CA2/BF1,planEntity,Le secteur partagera de maniere reguliere et au moins une fois par mois un rapport concernant la mise a jour sur les dernières informations logistiques disponibles,n/a,13087.0,,,,12.0,,2021,1039
+23416,CLLOG/CA3/BF1,planEntity,"Le secteur reunira de maniere reguliere, au moins une fois par mois, les partenaires pour evaluer leurs besoins, en essayant d'avoir l'information pour au moins dix organisations",n/a,13092.0,,,,10.0,,2021,1039
+20728,CLMS/BF1-MS,cluster,Réponse aux Réfugiés,MS,6138.0,,,142890.0,142890.0,,2021,1039
+23795,CLMS/CA1/BF1,planEntity,Services généraux de gestion de projet fournis,n/a,13227.0,,,142890.0,142890.0,,2021,1039
+23804,CLMS/CA10/BF1,planEntity,Subventions sectorielles en espèces ou bons fournis,n/a,13256.0,,,142890.0,142890.0,,2021,1039
+23805,CLMS/CA11/BF1,planEntity,Assistance spéciale pour les personnes relevant de la compétence des personnes concernées ayant des besoins spécifiques,n/a,13258.0,,,142890.0,142890.0,,2021,1039
+23806,CLMS/CA12/BF1,planEntity,Centres de transit créés,n/a,13260.0,,,142890.0,142890.0,,2021,1039
+23809,CLMS/CA13/BF1,planEntity,Accord tripartite conclu,n/a,13262.0,,,142890.0,142890.0,,2021,1039
+23812,CLMS/CA14/BF1,planEntity,Situation des personnes relevant de la compétence surveillée,n/a,13266.0,,,142890.0,142890.0,,2021,1039
+23816,CLMS/CA15/BF1,planEntity,Réunions d'information et réunions avec les pays donateurs organisées,n/a,13268.0,,,142890.0,142890.0,,2021,1039
+23819,CLMS/CA16/BF1,planEntity,Entretien du parc de véhicules en bon état,n/a,13271.0,,,142890.0,142890.0,,2021,1039
+23820,CLMS/CA17/BF1,planEntity,"Entreposage fourni, réparé et entretenu",n/a,13274.0,,,142890.0,142890.0,,2021,1039
+23821,CLMS/CA18/BF1,planEntity,Services généraux de gestion de projet fournis,n/a,13276.0,,,142890.0,142890.0,,2021,1039
+23796,CLMS/CA2/BF1,planEntity,Accès aux services de soins de santé primaires fournis ou soutenus,n/a,13239.0,,,142890.0,142890.0,,2021,1039
+23797,CLMS/CA3/BF1,planEntity,"Infrastructure éducative construite, améliorée ou entretenue",n/a,13242.0,,,142890.0,142890.0,,2021,1039
+23798,CLMS/CA4/BF1,planEntity,Matériel d'abri et trousses d'outils d'entretien fournis,n/a,13244.0,,,142890.0,142890.0,,2021,1039
+23799,CLMS/CA5/BF1,planEntity,Accès à la production agricole / animale / halieutique permis,n/a,13247.0,,,142890.0,142890.0,,2021,1039
+23800,CLMS/CA6/BF1,planEntity,Accès au travail indépendant / aux affaires facilité,n/a,13249.0,,,142890.0,142890.0,,2021,1039
+23801,CLMS/CA7/BF1,planEntity,Volonté individuel du retour vérifié,n/a,13251.0,,,142890.0,142890.0,,2021,1039
+23802,CLMS/CA8/BF1,planEntity,Aide au retour fournie,n/a,13252.0,,,142890.0,142890.0,,2021,1039
+23803,CLMS/CA9/BF1,planEntity,Transport de rapatrié sûr et digne fourni,n/a,13255.0,,,142890.0,142890.0,,2021,1039
+23785,CLMS/CO1/BF1,planEntity,"Gestion, coordination et soutien des opérations renforcés et optimisés",n/a,13225.0,,,142890.0,142890.0,,2021,1039
+23794,CLMS/CO10/BF1,planEntity,"Gestion, coordination et soutien des opérations renforcés et optimisés",n/a,13237.0,,,142890.0,142890.0,,2021,1039
+23786,CLMS/CO2/BF1,planEntity,L'état de santé de la population s'est amélioré,n/a,13226.0,,,142890.0,142890.0,,2021,1039
+23787,CLMS/CO3/BF1,planEntity,La population a un accès optimal à l'éducation,n/a,13230.0,,,142890.0,142890.0,,2021,1039
+23788,CLMS/CO4/BF1,planEntity,"Abris et infrastructures mis en place, améliorés et entretenus",n/a,13231.0,,,142890.0,142890.0,,2021,1039
+23789,CLMS/CO5/BF1,planEntity,Amélioration de l'autonomie et des moyens de subsistance,n/a,13232.0,,,142890.0,142890.0,,2021,1039
+23790,CLMS/CO6/BF1,planEntity,Potentiel de retour volontaire réalisé,n/a,13233.0,,,142890.0,142890.0,,2021,1039
+23791,CLMS/CO7/BF1,planEntity,La réintégration rendue plus durable,n/a,13234.0,,,142890.0,142890.0,,2021,1039
+23792,CLMS/CO8/BF1,planEntity,Renforcement des relations avec les donateurs et de la mobilisation des ressources,n/a,13235.0,,,142890.0,142890.0,,2021,1039
+23793,CLMS/CO9/BF1,planEntity,Logistique et approvisionnement optimisés pour répondre aux besoins opérationnels,n/a,13236.0,,,142890.0,142890.0,,2021,1039
+23226,CLNUT/BF1-NUT,cluster,"Le calcul des PIN et cibles pour la Nutrition passe par le choix des provinces devant bénéficier d’interventions humanitaires en nutrition. Le 1er critère de choix des provinces est la prévalence de la malnutrition aiguë globale (MAG) supérieur ou égale à 5% et 16 provinces répondent à ce critère de MAG supérieure ou égale à 5%. Suivant les recommandations du niveau global, le Burundi tombe dans le scenario 2. Le calcul des personnes dans le besoin a été fait en utilisant l’outil intitulé « calculatrice pour les besoins humanitaires en matière de nutrition » mise en place par le cluster nutrition au niveau global.  De plus, selon les orientations données par OCHA, les 37.8% qui se trouvent dans la catégorie de la population la plus pauvre a servi de base de planification pour les interventions de prévention de la malnutrition. Les catégories de bénéficiaires considérées sont : les enfants de moins de 5 ans et les Enceintes et Allaitantes (FEFA). Les enfants de moins de 5 ans :  -	Les enfants 0-59 mois souffrant de malnutrition aiguë sévère (MAS) attendus sur les 16 provinces sont calculés comme suit : Nombre d’enfants de moins de 5 ans MAS   attendus en  = Prévalence de MAS (P/T) * population des moins de 5 ans des zones affectées * k (facteur d’incidence de la MAS qui est de 2.6).  10 pour cent des enfants atteints de MAS risquent d’avoir des complications médicales et nécessiteront un traitement dans les services de stabilisation thérapeutiques en milieu hospitalier tandis que 90 pour cent sans complications médicales seront traités en ambulatoire. Il est aussi important de noter que tous les enfants de moins de 6 mois sont uniquement traités en hospitalisation. 100% des enfants MAS attendus dans les 16 provinces sont ciblés pour le traitement.  -	Les enfants de 6-59 mois malnutris aigüe modérés (MAM) attendus sur les 16 provinces calculées suivant la formule : Population d’enfants 6-59 mois* prévalence * facteur d’incidence 2,6.  Seuls 35% des enfants MAM dans le besoin sont ciblés pour la prise en charge et sont repartis sur 4 provinces de Kirundo, Ngozi, Rutana et Cankuzo.  -	Les enfants de 6-23 mois ayant besoin d’une alimentation de couverture (blanket feeding) sont calculés comme suit = Population des enfants âgés de 0-23 mois des zones « affectées » *Couverture prévue pour le blanket feeding qui est estimé à 50%. 10,000 enfants sont ciblés pour cette intervention par manque de financement. -	Le nombre d’enfants 6-23 mois ayant besoin d’assistance en diversité alimentaire minimale est égal aux données démographiques des zones « affectées » * % des enfants âgés de 6-23 mois * (1- proportion Diversité alimentaire minimale). Des mères, pères, gardien-e-s d’enfants de 6-23 mois seront ciblés pour des activités de promotion de l’ANJE avec un accent particulier sur l’alimentation de complément appropriée. 45% des enfants 6-23 mois recevront des poudres de micronutriments. Un forfait de 5000 ménages ayant des enfants de 6-23 mois seront ciblés pour les activités de cash transfert compte tenu du faible financement des activités. -	Le nombre d’enfants ayant besoin d’une assistance en allaitement exclusif est égal aux données démographiques des zones « affectées » * % des enfants âgés de 0-5 mois * (1- proportion d'allaitement maternel exclusif). La proportion d’allaitement maternel exclusif représente la prévalence de l’allaitement maternel exclusif pour chaque province. Des femmes enceintes et mères des enfants de moins de 6 mois seront ciblées pour le counseling ANJE individuel ou à travers les groupes de soutien avec un focus particulier sur l’allaitement maternel exclusif.  Les chiffres sont ventilés par sexe et incluent une estimation du nombre d’enfants vivant avec handicap, soit 10% des enfants de moins de 5 ans  .  Femmes Enceintes et Allaitantes (FEFA) : -	Le nombre de FEFA atteintes de MAM dans le besoin de traitement = Prévalence de la MAM *population de FEFA des zones « affectées ». 85% des FEFA MAM sont ciblées, soit 25,000 femmes. -	Le nombre de femmes enceintes ayant besoin d'une supplémentation en micronutriments contenant du fer une quantité suffisante = Données démographiques des zones « affectées » * % de FE * (1- Proportion de FE ayant bénéficié de compléments en micronutriments contenant suffisamment de fer). Les estimations tiennent compte des femmes vivant avec Handicap, soit 15% de la population d’adultes.  Le PiN du secteur est déterminé par l’indicateur ayant le plus grand nombre de personnes dans le besoin pour chaque catégorie de personnes (les enfants de moins de 5 ans et femmes enceintes et allaitantes).",NUT,6133.0,,,703892.0,477944.0,,2021,1039
+23231,CLNUT/CA1/BF1,planEntity,"Les enfants 6-59 mois pouvant souffrir de malnutrition aigüe sévère (MAS) calculée sur la base de admissions de 2019 (DHIS2) sur les 16 provinces. 100% des enfants MAS sont ciblées . De plus, 1040 enfants rapatriés MAS sont ciblés .",n/a,13026.0,,,58898.0,58898.0,,2021,1039
+23235,CLNUT/CA2/BF1,planEntity,"-	Les enfants 6-59 mois pouvant souffrir de malnutrition aigüe modérée (MAM) calculée suivant la formule : Population d’enfants 6-59 mois* prevalence * facteur d’incidence 2,6 sur 9 provinces avec prevalence > 6%. Ce ciblage réduit de 16 à 9 provinces pour les interventions ciblant la malnutrition aigue modérée faiblement financée.",n/a,13027.0,,,242408.0,153020.0,,2021,1039
+23320,CLNUT/CA3/BF1,planEntity,25 % des enfants de 6-59 mois des 16 provinces sont dans le besoin d'un depistage de la malnutrition aigue. 60% des enfants dans le besoin sont ciblés.,n/a,13062.0,,,433787.0,260272.0,,2021,1039
+23323,CLNUT/CA4/BF1,planEntity,10% des FEFA dans les 16 provinces peuvent souffrir de MAM . Seules 9 provinces sont ciblées pour la supplementation des FEFA MAM,n/a,13063.0,,,104866.0,60872.0,,2021,1039
+23325,CLNUT/CA5/BF1,planEntity,"Les personnes a sensibiliser sont estimer a base de 25% des FEFA des 16 provinces . Toutefois,les hommes (49%)comme les femmes (51%)ont besoin de cette sensibilisation dans le cadre de la prevention de la malnutrition chez les enfants. 80% des personnes dans le besoin sont ciblées",n/a,13064.0,,,262164.0,209731.0,,2021,1039
+23330,CLNUT/CA6/BF1,planEntity,un forfait de 3000 Femmes de ménages vulnérables seront ciblées pour les activités de cash Transfert compte tenu du faible financement de cette activité dans les HRP précédents,n/a,13065.0,,,,3000.0,,2021,1039
+23329,CLNUT/CA7/BF1,planEntity,"40% des enfants 6-23 mois pourraient être a risque de malnutrition et devraient bénéficier d’une alimentation de couverture. Un nombre 10,000 enfants est ciblé sur les 68,000 compte tenu du faible financement de cette activité.",n/a,13066.0,,,68000.0,10000.0,,2021,1039
+23331,CLNUT/CO1/BF1,planEntity,"Le calcul des PIN et cibles pour la Nutrition passe par le choix des provinces devant bénéficier d’interventions humanitaires. Le 1er critère de choix des provinces est la prevalence de la malnutrition aigue globale (MAG) supérieur à 5% (Scenario 2 selon le GNC).  16 provinces répondent à ce critère de MAG>5%. Suivant les recommandations du niveau global pour le Burundi qui tombe dans le scenario 2, il faut considérer que 25% de la population pourrait avoir besoin d’assistance humanitaire pour toutes les catégories de bénéficiaires : Enfants 6-59 mois ; Enfants 6-23 mois ; Femmes Enceintes et Allaitantes (FEFA).",n/a,13023.0,,,543853.0,326345.0,,2021,1039
+23332,CLNUT/CO2/BF1,planEntity,"25% des FEFA representant 262000meres, tuteurs d'enfants sont dans le besoin de sensibilisation sur la nutrition sante et hygiene . 80% des personnes dans le besoin sont ciblees. 25% des enfants de 6-23 mois soit 68000 enfants sont dans le besoin d'alimentation de couverture , seuls 10000 enfants sont ciblés",n/a,13025.0,,,330000.0,220000.0,,2021,1039
+20722,CLPRO/BF1-PRO,cluster,Protection générale,PRO,6134.0,,,450184.0,297947.0,,2021,1039
+20723,CLPRO/BF2-PRO-CPN,cluster,Protection de l'enfant,PRO-CPN,6134.0,,,242378.0,159527.0,,2021,1039
+20724,CLPRO/BF3-PRO-GBV,cluster,Violence Basée sur le Genre (VBG),PRO-GBV,6134.0,,,175684.0,112245.0,,2021,1039
+22988,CLPRO/CA1/BF1,planEntity,"Cet objectif sectoriel vise à améliorer l'acces aux services de protection y compris les  services psycho-sociaux, médicaux,  hébergement d'urgence, de réunification familiale,etc",n/a,12760.0,,,175684.0,13918.0,,2021,1039
+23023,CLPRO/CA2/BF1,planEntity,"Fournir le soutien psychosocial aux enfants affectes (refugies, deplaces internes, retournes/rapatries, communautes hotes); Soutenir la gestion des cas et l'offre des services de protection, y compris le PSS, la prise en charge alternative pour les enfants en mobilites, les enfants dans les rues, les enfants victimes des violations, et autres enfants vilnerables dans le besoin",n/a,12761.0,,,418062.0,271772.0,,2021,1039
+23024,CLPRO/CA2/BF2,planEntity,"Soutenir les familles d'accueil, la prise en charge alternative, les familles et la reintegration communautaires des enfants separes et non accompagnes; Soutenir la recherche familiale, la prise en charge  alternative et la reunification des enfants separes et non accompagnes.",n/a,12761.0,,,418062.0,271772.0,,2021,1039
+23025,CLPRO/CA3/BF1,planEntity,"Delivrances des certificats de naissances aux rapatries, retournes, communaute hote",n/a,12762.0,,,53533.0,53533.0,,2021,1039
+23032,CLPRO/CA4/BF1,planEntity,Renforcer la prevention des VBG et autres violation et fournir des services de prise en charge des victimes; Fournir le soutien en PSS et activites socio-recreatives pour les enfants dans les sites/camos des refugies; Soutenir les structures communautaires de protection de l'enfant y inclus le CDFC/CPC et les groupes de solidarites pour faciliter l'identofocation et l'offre de services de base aux enfants a risque.,n/a,12769.0,,,175684.0,112245.0,,2021,1039
+23033,CLPRO/CA5/BF1,planEntity,Formation des acteurs de protection de l'enfant et developpement des outils de rapportage et de referencement pour l'offre d'un 1er secours; Renforcement des capacites des structures de protection de l'enfance a base communautaire (CDFC et GS) pour soutenir l'identofication des enfants vulnerables et arisque et l'offre des services de base aux enfants selon les besoins; Former les assistances sociaux (60) et les leaders communautaires sur la PE et les pratiques parentales (200),n/a,12770.0,,,242378.0,159527.0,,2021,1039
+23749,CLPRO/CA6/BF1,planEntity,"Soutenir les structures communautaires dans le suivi des situations des enfants et la facilitation de l'acces aux services pour les enfants, particulièrement les plus vulnérables (CPE, CDFC, OSC, etc…)",n/a,12771.0,,,450.0,450.0,,2021,1039
+23051,CLPRO/CA7/BF1 VBG,planEntity,Fournir les kits de dignité aux femmes et filles Vulnerables,n/a,12767.0,,,175684.0,12291.0,,2021,1039
+23054,CLPRO/CA8/BF1 VBG,planEntity,femmes et filles chefs de menages ciblés selon leur vulnerabilité,n/a,12768.0,,,175684.0,7023.0,,2021,1039
+22329,CLPRO/CO1/BF1,planEntity,cet objectif concerne la provision  de services de protection aux personnes ciblées,n/a,12499.0,,,450184.0,297947.0,,2021,1039
+22984,CLPRO/CO2/BF1,planEntity,cet objectif permettra de renforcer l'acces pour les plus vulnérables à la documentation et au logement,n/a,12500.0,,,450184.0,297947.0,,2021,1039
+22985,CLPRO/CO3/BF1,planEntity,vise à améliorer les capacités de prévention et reponse des structures communautaires aux problèmes de protection,n/a,12546.0,,,450184.0,297947.0,,2021,1039
+22987,CLPRO/CO4/BF1,planEntity,cet objectif vise l'acces aux activités susceptibles de renforcer les capacités de résiliences des groupes vulnérables,n/a,12545.0,,,450184.0,297947.0,,2021,1039
+20727,CLRR/BF1-RR,cluster,Réponse aux Réfugiés,n/a,6137.0,,,95000.0,95000.0,,2021,1039
+23766,CLRR/CA1/BF1,planEntity,Quantité et qualité adéquates de l'aide alimentaire fournie,n/a,13223.0,,,95000.0,95000.0,,2021,1039
+23774,CLRR/CA10/BF1,planEntity,Articles de secours de base fournis,n/a,13270.0,,,95000.0,95000.0,,2021,1039
+23775,CLRR/CA11/BF1,planEntity,Installations sanitaires / latrines communautaires construites,n/a,13272.0,,,95000.0,95000.0,,2021,1039
+23776,CLRR/CA12/BF1,planEntity,Des fosses à ordures construites / entretenues,n/a,13273.0,,,95000.0,95000.0,,2021,1039
+23777,CLRR/CA13/BF1,planEntity,Opérations générales du site construites et maintenues,n/a,13275.0,,,95000.0,95000.0,,2021,1039
+23778,CLRR/CA14/BF1,planEntity,Matériel d'abri et trousses d'outils d'entretien fournis,n/a,13277.0,,,95000.0,95000.0,,2021,1039
+23779,CLRR/CA15/BF1,planEntity,"Système d'eau construit, agrandi et / ou amélioré",n/a,13278.0,,,95000.0,95000.0,,2021,1039
+23780,CLRR/CA16/BF1,planEntity,Prise en charge de l'autogestion communautaire,n/a,13281.0,,,95000.0,95000.0,,2021,1039
+23781,CLRR/CA17/BF1,planEntity,Accès à la production agricole / animale / halieutique permis,n/a,13282.0,,,95000.0,95000.0,,2021,1039
+23782,CLRR/CA18/BF1,planEntity,Accès aux services financiers facilité (formel et informel),n/a,13283.0,,,95000.0,95000.0,,2021,1039
+23783,CLRR/CA19/BF1,planEntity,Formation professionnelle / compétences techniques fournies,n/a,13284.0,,,95000.0,95000.0,,2021,1039
+23767,CLRR/CA2/BF1,planEntity,Accès aux services de soins de santé primaires fournis ou soutenus,n/a,13257.0,,,95000.0,95000.0,,2021,1039
+23768,CLRR/CA3/BF1,planEntity,Mécanismes d'orientation mis en place,n/a,13259.0,,,95000.0,95000.0,,2021,1039
+23769,CLRR/CA4/BF1,planEntity,Compléments alimentaires complémentaires fournis et surveillés,n/a,13261.0,,,95000.0,95000.0,,2021,1039
+23770,CLRR/CA5/BF1,planEntity,"Infrastructure éducative construite, améliorée ou entretenue",n/a,13263.0,,,95000.0,95000.0,,2021,1039
+23784,CLRR/CA6/BF1,planEntity,Enseignement primaire fourni ou soutenu,n/a,13264.0,,,95000.0,95000.0,,2021,1039
+23771,CLRR/CA7/BF1,planEntity,Soins et traitement des PoC vivant avec le VIH et le SIDA fournis,n/a,13265.0,,,95000.0,95000.0,,2021,1039
+23772,CLRR/CA8/BF1,planEntity,Services de prévention de la transmission mère-enfant du VIH fournis,n/a,13267.0,,,95000.0,95000.0,,2021,1039
+23773,CLRR/CA9/BF1,planEntity,Énergie alternative / renouvelable promue,n/a,13269.0,,,95000.0,95000.0,,2021,1039
+23750,CLRR/CO1/BF1,planEntity,Sécurité alimentaire améliorée,n/a,13146.0,,,95000.0,95000.0,,2021,1039
+23759,CLRR/CO10/BF1,planEntity,"Abris et infrastructures mis en place, améliorés et entretenus",n/a,13248.0,,,95000.0,95000.0,,2021,1039
+23760,CLRR/CO11/BF1,planEntity,Approvisionnement en eau potable augmenté ou maintenu,n/a,13250.0,,,95000.0,95000.0,,2021,1039
+23761,CLRR/CO12/BF1,planEntity,Mobilisation communautaire renforcée et élargie,n/a,13253.0,,,95000.0,95000.0,,2021,1039
+23762,CLRR/CO13/BF1,planEntity,Amélioration de l'autonomie et des moyens de subsistance,n/a,13254.0,,,95000.0,95000.0,,2021,1039
+23763,CLRR/CO14/BF1,planEntity,Mobilisation communautaire renforcée et élargie,n/a,13279.0,,,95000.0,95000.0,,2021,1039
+23764,CLRR/CO15/BF1,planEntity,Amélioration de l'autonomie et des moyens de subsistance,n/a,13280.0,,,95000.0,95000.0,,2021,1039
+23751,CLRR/CO2/BF1,planEntity,L'état de santé de la population s'est amélioré,n/a,13228.0,,,95000.0,95000.0,,2021,1039
+23752,CLRR/CO3/BF1,planEntity,Bien-être nutritionnel amélioré,n/a,13229.0,,,95000.0,95000.0,,2021,1039
+23765,CLRR/CO4/BF1,planEntity,La population a un accès optimal à l'éducation,n/a,13238.0,,,95000.0,95000.0,,2021,1039
+23753,CLRR/CO5/BF1,planEntity,La population a un accès optimal aux services de santé reproductive et de VIH,n/a,13240.0,,,95000.0,95000.0,,2021,1039
+23754,CLRR/CO6/BF1,planEntity,La population a un accès suffisant à l'énergie,n/a,13241.0,,,95000.0,95000.0,,2021,1039
+23756,CLRR/CO7/BF2,planEntity,La population a suffisamment d'articles de base et domestiques,n/a,13243.0,,,95000.0,95000.0,,2021,1039
+23757,CLRR/CO8/BF1,planEntity,La population vit dans des conditions d'assainissement et d'hygiène satisfaisantes,n/a,13245.0,,,95000.0,95000.0,,2021,1039
+23758,CLRR/CO9/BF1,planEntity,Services aux personnes ayant des besoins spécifiques renforcés,n/a,13246.0,,,95000.0,95000.0,,2021,1039
+20717,CLSHL/BF1-SHL,cluster,Abris/BNA,SHL,6112.0,,,248299.0,177174.0,,2021,1039
+23166,CLSHL/CA1/BF1,planEntity,Personnes nécessitant un appui à la réparation ou à la construction de leur abri,n/a,12533.0,,,6696.0,4687.0,,2021,1039
+23149,CLSHL/CA2/BF1,planEntity,Nombre de personnes concernées par l'assistance en transferts monétaires pour de l'hébergement,n/a,12944.0,,,125882.0,88117.0,,2021,1039
+23167,CLSHL/CA3/BF1,planEntity,Nombre de personne concernées par un appui à l'obtention de documents de possession de parcelle ou maison,n/a,12955.0,,,127772.0,63889.0,,2021,1039
+23194,CLSHL/CA4/BF1,planEntity,Persomnnes concernées par les activités de renforcement des capacités en construction avec une approche de réduction des risques de catastrophes,n/a,12969.0,,,97908.0,16881.0,,2021,1039
+23216,CLSHL/CA5/BF1,planEntity,Personnes concernées par une assistance en abri d'urgence,n/a,12988.0,,,32860.0,23002.0,,2021,1039
+23218,CLSHL/CA6/BF1,planEntity,Personnes concernées par l'appui en kits d'articles non alimentaires,n/a,13017.0,,,39555.0,27689.0,,2021,1039
+23220,CLSHL/CA7/BF1,planEntity,Personnes concernées par l'assistance en abris semi-permanents,n/a,13018.0,,,125882.0,88117.0,,2021,1039
+23222,CLSHL/CA8/BF1,planEntity,Personnes concernées par l'assistance en réparation d'abris,n/a,13019.0,,,57747.0,40423.0,,2021,1039
+23122,CLSHL/CO1/BF1,planEntity,Population concernée par l'objectif sectoriel Abris/ANA no. 1,n/a,12532.0,,,248299.0,173809.0,,2021,1039
+23123,CLSHL/CO2/BF1,planEntity,Population concernée par l'objectif sectoriel Abris/ANA no. 2,n/a,12937.0,,,130768.0,91537.0,,2021,1039
+22772,CLWSH/BF1-WSH,cluster,"Le secteur eau-hygiène et assainissement (EHA) a considéré pour les besoins d’assistance les groupes de population suivant : les personnes déplacées internes (PDI), les rapatriés pour l’année 2021; et les autres personnes vulnérables aux épidémies de choléra ou généralement d’origine hydriques. Chaque groupe a été pris suivant un indicateur de besoins liés au secteur. Les besoins en eau potable et assainissement de base. Les 139 674 personnes rapatriées actuels et planifiés sont pris en compte par le secteur EHA dans le calcul de la population dans le besoin. Cela pour atténuer la pression exercée par ce groupe sur le minimum d’infrastructure en place afin d’éviter une chute de la situation WASH surtout dans les provinces avec un faible taux d’accès en eau potable. Ces données vont être superposées aux effectifs des rapatriés actuel et planifiés pour déterminer les PIN des rapatriés seulement dans les provinces avec un taux de couverture en eau potable inferieur à la moyenne nationale (Kirundo, Muyinga, Cankuzo, Ruyigi et Rutana).Les personnes déplacées internes suite aux catastrophes naturelles tel que les inondations, glissement de terrains, vents violents et autres. Ce groupe comme les rapatriés exerce une pression sur les infrastructures EHA des communautés d’accueil et selon les analyses de vulnérabilité/besoins conduites, ce groupe se retrouve dans des conditions de précarité d’hygiène. Le secteur considère alors la totalité de 131 336 PDIs comme étant en besoin. Concernant les urgences dues aux épidémies des maladies d’origines hydriques dont le cholera ou diarrhées pour les enfants de moins de 5 ans s’inscrit dans le groupe des autres populations vulnérables. Le secteur considère le maximum de cas enregistré au cours des 5 dernières années (2016 -2020) entre le choléra et les diarrhées des enfants. Ils totalisent un effectif de 269 667 personnes. Toutefois, il faut noter que les interventions du secteur WASH vont au-delà des cas de choléra ou diarrhées enregistrés donc dans les communautés d'origines des cas, les projections se réfèrent aux règles de planifications de l’OMS sur les risques de contaminations en fonctions des cas enregistré (1cas met 500 personnes à risques de contaminations de cholera ou autres maladies diarrhéique), ceci est compté parmi les autres personnes vulnérables prises en totalité dans le calcul du PiN. Pour chaque province, le PiN est la somme des PiN déterminé pour chaque éventuelle situation d’urgence de cette province. La population globale dans le besoin pour le secteur WASH est donc traduit par la somme des populations dans le besoin d’assistance humanitaire des différentes provinces du pays.",WSH,6130.0,,,540678.0,540678.0,,2021,1039
+23263,CLWSH/CA1/BF1,planEntity,"Cette activité est de donner de l'eau potable aux populations vulnerables soit sur les sites des PDIs ou dans les communautés affectées par des epidemies. Il faut des camions pour water tracking, trouver des sources d'approvisionnement d'eau potable ou faire des traitement avant distribution le cas écheants mais egalement l'amenagement des points de puisage temporaire comme des bladders",n/a,12797.0,,,540678.0,401003.0,,2021,1039
+23336,CLWSH/CA2/BF2,planEntity,"Il s'agit de l'amenagement des latrines d'urgence en materiaux disponibles localement , mais egalement predisposer des cabines de latrines mobiles",n/a,12800.0,,,401003.0,131336.0,,2021,1039
+23356,CLWSH/CA3/BF3,planEntity,"les Kits WASH à distribuer sont principales constitués des savons, bidon de stockage de l'eau, seaux, les Aquatabs pour traitement de l'eau à domiciles, etc... Ces Kits contitues des stocks de contingence du secteur",n/a,12801.0,,,401003.0,131336.0,,2021,1039
+23368,CLWSH/CA4/BF4,planEntity,C'est des seances de sensibilisation à travers plusieurs caneaux de communication des bonnes pratiques d'hygiène,n/a,12803.0,,,540678.0,540678.0,,2021,1039
+22802,CLWSH/CA5/BF5,planEntity,Distribution des Kits WASH au population affectées pour renforcer leurs capacités de resilience et resistance aux chocs,n/a,12805.0,,,401003.0,269667.0,,2021,1039
+23370,CLWSH/CA6/BF6,planEntity,"Avec la pendemie de Covid 19, il est prevue de renforcer les systemes de lavages des mains au savon dans les ecoles",n/a,12806.0,,,1750.0,350.0,,2021,1039
+23371,CLWSH/CA7/BF7,planEntity,Construction de latrine pour l'accès à un assainissement dans les ecoles ayant connues des inondations,n/a,12807.0,,,10.0,5.0,,2021,1039
+23261,CLWSH/CO1/BF1,planEntity,"Pour l'OS 1, le PIN est l'ensemble des personnes en besoin d'urgence pour sauver des vies. le PINs regroupant le Maximum entre les autres personnes vulnerables au cholera et des diarrhé au cours des 5 dernieres années plus toutes les PDIs dans les premiers jours",n/a,13040.0,,,540678.0,401003.0,,2021,1039
+23262,CLWSH/CO2/BF1,planEntity,"Pour l'OS 2, le PIN est celui de l'objectif sectoriel 1 augmenté du nombre des rapatriés planifiés et actuels mais seulemet dans les province avec un taux d'accès à l'eau inférieur à la moyenne nationale (60% )",n/a,12802.0,,,540678.0,540678.0,,2021,1039
+25164,SO1/BF1,planEntity,Caseload SO1,n/a,12491.0,,,,737000.0,,2021,1039
+25165,SO2/BF1,planEntity,Caseload SO2,n/a,12492.0,,,,1058332.0,,2021,1039
+25166,SP1/BF1,planEntity,Caseload SP1,n/a,12493.0,,,,452110.0,,2021,1039
+25171,SP2/BF1,planEntity,Caseload SP2,n/a,12494.0,,,,737000.0,,2021,1039
+25170,SP3/BF1,planEntity,Caseload SP3,n/a,12495.0,,,,737000.0,,2021,1039
+25169,SP4/BF1,planEntity,Caseload SP4,n/a,12496.0,,,,1058332.0,,2021,1039
+25168,SP5/BF1,planEntity,Caseload SP5,n/a,12497.0,,,,220000.0,,2021,1039
+25167,SP6/BF1,planEntity,Caseload SP6,n/a,12498.0,,,,540678.0,,2021,1039
+20680,BP1,plan,Mozambique HRP 2021 Caseload,n/a,,32200000.0,,1326777.0,1046911.0,1230000,2021,1040
+20611,CLCCM/BF1-CCM,cluster,CCCM Caseload,CCM,6113.0,,,539000.0,351000.0,,2021,1040
+23514,CLCCM/CO1/BF1,planEntity,,n/a,11944.0,,,539000.0,351000.0,,2021,1040
+23515,CLCCM/CO2/BF1,planEntity,,n/a,12748.0,,,189000.0,189000.0,,2021,1040
+23831,CLCCM/CO3/BF1,planEntity,,n/a,12902.0,,,539000.0,351000.0,,2021,1040
+20613,CLEDU/BF1-EDU,cluster,Education Caseload,EDU,6115.0,,,540764.0,245570.0,,2021,1040
+23337,CLEDU/CO1/BF1,planEntity,,n/a,11945.0,,,348355.0,219223.0,,2021,1040
+23346,CLEDU/CO2/BF1,planEntity,,n/a,13072.0,,,23516.0,18716.0,,2021,1040
+23349,CLEDU/CO3/BF1,planEntity,,n/a,13073.0,,,345512.0,228854.0,,2021,1040
+20614,CLFSC/BF1-FSC,cluster,FSL Caseload,FSC,6116.0,,,950000.0,750000.0,,2021,1040
+23487,CLFSC/CO1/BF1,planEntity,,n/a,13118.0,,,950000.0,750000.0,,2021,1040
+23491,CLFSC/CO2/BF1,planEntity,,n/a,13119.0,,,950000.0,550000.0,,2021,1040
+20615,CLHEA/BF1-HEA,cluster,Health Caseload,HEA,6117.0,,,1164559.0,563610.0,,2021,1040
+23522,CLHEA/CO1/BF1,planEntity,,n/a,11916.0,,,885674.0,537787.0,,2021,1040
+23525,CLHEA/CO2/BF1,planEntity,,n/a,13138.0,,,989000.0,563610.0,,2021,1040
+23534,CLHEA/CO3/BF1,planEntity,,n/a,13139.0,,,650000.0,535000.0,,2021,1040
+23537,CLHEA/CO4/BF1,planEntity,,n/a,13140.0,,,989000.0,563610.0,,2021,1040
+20616,CLNUT/BF1-NUT,cluster,Nutrition,NUT,6119.0,,,237165.0,152317.0,,2021,1040
+20610,CLPRO/BF1-PRO,cluster,Protection (overall),PRO,6120.0,,,1249159.0,350000.0,,2021,1040
+20609,CLPRO/BF2-PRO-GBV,cluster,Gender-Based Violence (GBV),PRO-GBV,6120.0,,,823934.0,255000.0,,2021,1040
+20608,CLPRO/BF3-PRO-CPN,cluster,Child Protection,PRO-CPN,6120.0,,,543631.0,278147.0,,2021,1040
+23872,CLPRO/CO1/BF1,planEntity,,n/a,13141.0,,,,381537.0,,2021,1040
+20619,CLRR/BF1-RR,cluster,Refugee Response,n/a,6123.0,,,13820.0,13820.0,,2021,1040
+20617,CLSHL/BF1-SHL,cluster,Shelter/NFI,SHL,6121.0,,,761246.0,564000.0,,2021,1040
+23844,CLSHL/CO1/BF1,planEntity,,n/a,13289.0,,,761246.0,564000.0,,2021,1040
+23847,CLSHL/CO2/BF1,planEntity,,n/a,13144.0,,,761246.0,564000.0,,2021,1040
+20618,CLWSH/BF1-WSH,cluster,"Water, Sanitation and Hygiene",WSH,6122.0,,,1170495.0,541734.0,,2021,1040
+23860,CLWSH/CO1/BF1,planEntity,,n/a,12888.0,,,370000.0,240000.0,,2021,1040
+23864,CLWSH/CO2/BF1,planEntity,,n/a,13291.0,,,620000.0,300000.0,,2021,1040
+23868,CLWSH/CO3/BF1,planEntity,,n/a,13292.0,,,190000.0,100000.0,,2021,1040
+21289,SO1/BF1,planEntity,,n/a,11886.0,,,,,,2021,1040
+21288,SO1/BF2,planEntity,,n/a,11886.0,,,,,,2021,1040
+20697,BP1,plan,Plan Caseload,n/a,,117900000.0,,23902819.0,14828160.0,7671261,2021,1041
+24690,CLAGR/BF1-AGR,cluster,Agriculture Cluster Load,AGR,6054.0,,,14593548.0,6683893.0,,2021,1041
+25422,CLCCM/BF1-CCM,cluster,"Ensure care and maintenance of the site’s infrastructure, while mitigating the impacts of environmental degradation",CCM,6140.0,,,5330025.0,1297888.0,,2021,1041
+31181,CLEDU/BF2-EDU,cluster,Accelerated Learning Programmes (ALP – focuses on learners who dropped out of school and are rejoining or are over age when joining school),EDU,6055.0,,,8463888.0,2305716.0,,2021,1041
+25264,CLFSC/BF1-FSC,cluster,Food Cluster Caseload,FSC,6057.0,,,12789929.0,12789929.0,,2021,1041
+25239,CLHEA/BF1-HEA,cluster,Health cluster load,HEA,6058.0,,,5936104.0,3175415.0,,2021,1041
+25347,CLNUT/BF1-NUT,cluster,Nutrition cluster load,NUT,6060.0,,,7170575.0,2908208.0,,2021,1041
+25233,CLPRO/BF1-PRO,cluster,Protection,PRO,6061.0,,,8470390.0,2953389.0,,2021,1041
+51695,CLPRO/BF2-PRO-CPN,cluster,Child Protection,PRO-CPN,6061.0,,,3200000.0,600000.0,,2021,1041
+25228,CLSHL/BF1-SHL,cluster,Shelter NFI cluster load,SHL,6056.0,,,2247735.0,1437260.0,,2021,1041
+25245,CLWSH/BF1-WSH,cluster,"Water, Sanitation and Hygiene",WSH,6062.0,,,8044069.0,4758543.0,,2021,1041
+24672,SO1/BF1,planEntity,"SO1 Morbidity, mortality and protection risks are reduced among affected population Reduce morbidity and mortality, and address and mitigate protection risks and impacts of protection incidents for affected population in Ethiopia in 2021.",n/a,13689.0,,,20851555.0,13770681.0,,2021,1041
+24673,SO2/BF1,planEntity,"SO2 Affected population in Ethiopia have safe, dignified, accountable and equitable access to critical and essential services with a conflict-sensitive approach.",n/a,13690.0,,,12643185.0,3328356.0,,2021,1041
+24674,SO3/BF1,planEntity,"SO3 Support  affected persons to recover from crisis, seek voluntary, safe, and dignified solutions to displacement, and build resilience to withstand future shocks in 2021.",n/a,13691.0,,,9913448.0,6681233.0,,2021,1041
+24675,SP1/BF1,planEntity,"SO1.1 Deliver protection (gender, age, diversity) and conflict-sensitive essential life-saving services (WASH, Health, Nutrition, Education, Shelter/NFI, etc..), to XX conflict and disaster affected people.",n/a,13692.0,,,15095036.0,6094461.0,,2021,1041
+24676,SP2/BF1,planEntity,"SO1.2 Protection needs of number of crises affected persons, especially children, are identified, referred, and addressed, with responsive complaints and feedback mechanism in place.",n/a,13693.0,,,5434638.0,2636219.0,,2021,1041
+24677,SP3/BF1,planEntity,SO1.3 High levels of food insecurity and malnutrition of million people are reduced to mitigate the adoption of negative coping mechanisms,n/a,13694.0,,,15039519.0,12092539.0,,2021,1041
+24678,SP4/BF1,planEntity,SO1.4 million people have access to health and other essential services to reduce mortality.,n/a,13695.0,,,13322223.0,5047435.0,,2021,1041
+24679,SP5/BF1,planEntity,"SO2.1 Promote the protection, safety, and dignity of million conflict and disaster affected people, through targeted, community-centered multi-sector interventions that “do no harm” and contribute to social cohesion outcomes",n/a,13696.0,,,3645472.0,1327641.0,,2021,1041
+25433,SP6/BF1,planEntity,"SO2.2 Ensure safe, accountable, participatory, equitable, and barrier free access for conflict and natural disaster affected people to essential services",n/a,13697.0,,,11689334.0,3140537.0,,2021,1041
+24687,SP7/BF1,planEntity,"SO3.1 Support the affected population, inclusively, to make informed decisions about their recovery, and IDPs on achieving their preferred durable solution to end displacement.",n/a,13702.0,,,999997.0,762116.0,,2021,1041
+24688,SP8/BF1,planEntity,SO3.2 Support  number of affected persons in XX geographical locations to have productive and sustainable livelihood activities by end of 2021.,n/a,13703.0,,,8741313.0,6408306.0,,2021,1041
+25434,SP9/BF1,planEntity,"SO3.3 Support number of affected persons to have access to justice, essential services, and protection, including in areas of voluntary return, relocation, or local integration.",n/a,13704.0,,,2500000.0,16216.0,,2021,1041
+20675,BP1,plan,Plan Caseload HRP,n/a,,54400000.0,,1035782.0,944468.0,667000,2021,1046
+20453,CLEDU/BF1-EDU,cluster,Education,EDU,6096.0,,,278874.0,211815.0,,2021,1046
+23877,CLEDU/CO1/BF1,planEntity,HRP final figures,n/a,13295.0,,,271902.0,206519.0,,2021,1046
+23885,CLEDU/CO2/BF1,planEntity,HRP final figures,n/a,13304.0,,,6972.0,5295.0,,2021,1046
+23888,CLEDU/CO3/BF1,planEntity,HRP final figures,n/a,13305.0,,,485.0,172.0,,2021,1046
+20455,CLFSC/BF1-FSC,cluster,Food Security,FSC,6097.0,,,782864.0,601235.0,,2021,1046
+23889,CLFSC/CO1/BF1,planEntity,HRP final figures,n/a,13306.0,,,583051.0,514694.0,,2021,1046
+23892,CLFSC/CO2/BF1,planEntity,HRP final figures,n/a,13307.0,,,204308.0,175444.0,,2021,1046
+20457,CLHEA/BF1-HEA,cluster,Health,HEA,6098.0,,,818658.0,579667.0,,2021,1046
+24318,CLHEA/CO1/BF1,planEntity,HRP final figures,n/a,13523.0,,,100.0,100.0,,2021,1046
+24321,CLHEA/CO2/BF1,planEntity,HRP final figures,n/a,13525.0,,,818659.0,579667.0,,2021,1046
+20459,CLNUT/BF1-NUT,cluster,Nutrition,NUT,6099.0,,,183203.0,147891.0,,2021,1046
+24366,CLNUT/CO1/BF1,planEntity,HRP final figures,n/a,13527.0,,,127428.0,104109.0,,2021,1046
+24370,CLNUT/CO2/BF1,planEntity,HRP final figures,n/a,13528.0,,,55386.0,43419.0,,2021,1046
+24367,CLNUT/CO3/BF1,planEntity,HRP final figure,n/a,13529.0,,,127428.0,97112.0,,2021,1046
+24368,CLNUT/CO4/BF1,planEntity,HRP final figures,n/a,13530.0,,,55676.0,43782.0,,2021,1046
+24339,CLNUT/CO5/BF1,planEntity,HRP final figures,n/a,13531.0,,,51125.0,51125.0,,2021,1046
+20461,CLPRO/BF1-PRO,cluster,Protection (overall),PRO,6100.0,,,985629.0,856032.0,,2021,1046
+20468,CLPRO/BF2-PRO-CPN,cluster,Child Protection,PRO-CPN,6100.0,,,380000.0,206000.0,,2021,1046
+20469,CLPRO/BF3-PRO-GBV,cluster,Gender-Based Violence (GBV),PRO-GBV,6100.0,,,582000.0,260000.0,,2021,1046
+20470,CLPRO/BF4-PRO-MIN,cluster,Mine Action,PRO-MIN,6100.0,,,453000.0,225000.0,,2021,1046
+24405,CLPRO/CO1/BF1,planEntity,HRP final figures,n/a,13532.0,,,985629.0,856032.0,,2021,1046
+24406,CLPRO/CO2/BF1,planEntity,HRP final figures,n/a,13533.0,,,985629.0,856032.0,,2021,1046
+24343,CLPRO/CO3/BF1,planEntity,HRP final figures,n/a,13534.0,,,8367.0,7698.0,,2021,1046
+24345,CLPRO/CO4/BF1,planEntity,HRP final figures,n/a,13535.0,,,985629.0,856032.0,,2021,1046
+20463,CLSHL/BF1-SHL,cluster,Shelter/NFI,SHL,6101.0,,,348276.0,326313.0,,2021,1046
+24346,CLSHL/CO1/BF1,planEntity,HRP final figures,n/a,13536.0,,,197341.0,191722.0,,2021,1046
+24348,CLSHL/CO2/BF1,planEntity,,n/a,13537.0,,,197341.0,191722.0,,2021,1046
+24351,CLSHL/CO3/BF1,planEntity,HRP final figures,n/a,13538.0,,,309487.0,281067.0,,2021,1046
+20465,CLWSH/BF1-WSH,cluster,"Water, Sanitation and Hygiene",WSH,6102.0,,,914132.0,640022.0,,2021,1046
+24353,CLWSH/CO1/BF1,planEntity,HRP final figures,n/a,13539.0,,,914132.0,640022.0,,2021,1046
+24354,CLWSH/CO2/BF1,planEntity,HRP final figures,n/a,13540.0,,,914132.0,640022.0,,2021,1046
+24356,CLWSH/CO3/BF1,planEntity,HRP final figures,n/a,13541.0,,,914132.0,640022.0,,2021,1046
+24358,CLWSH/CO4/BF1,planEntity,HRP final figures,n/a,13542.0,,,361916.0,83272.0,,2021,1046
+24361,CLWSH/CO5/BF1,planEntity,HRP final figurers,n/a,13543.0,,,206148.0,46397.0,,2021,1046
+24392,SO1/BF1,planEntity,HRP final figures,n/a,13296.0,,,,942842.0,,2021,1046
+24408,SO2/BF1,planEntity,HRP final figures,n/a,13297.0,,,,885964.0,,2021,1046
+28881,BFP1,plan,Plan Caseload,n/a,,54400000.0,,2128218.0,2127532.0,1533000,2021,1051
+25562,CLEDU/BF2-EDU,cluster,Interim Emergency Plan Figures,EDU,6231.0,,,,56620.0,,2021,1051
+25565,CLFSC/BF1-FSC,cluster,Interim Emergency Plan Figures,FSC,6232.0,,,,2148113.0,,2021,1051
+25570,CLHEA/BF1-HEA,cluster,Interim Emergency Plan Figures,HEA,6233.0,,,,79500.0,,2021,1051
+25571,CLNUT/BF1-NUT,cluster,Interim Emergency Plan Figures,NUT,6234.0,,,,312000.0,,2021,1051
+25572,CLPRO/BF1-PRO,cluster,Protection,PRO,6235.0,,,,247740.0,,2021,1051
+25573,CLSHL/BF1-SHL,cluster,Interim Emergency Plan Figures,SHL,6236.0,,,,79189.0,,2021,1051
+25574,CLWSH/BF1-WSH,cluster,Interim Emergency Plan Figures,WSH,6237.0,,,,683219.0,,2021,1051
+28909,BFP1,plan,Plan Caseload,n/a,,103726285.0,,5235763.0,5235763.0,1719965,2021,1055
+25633,CLAGR/BF1-AGR,cluster,Agriculture caseload,AGR,6264.0,,,3660171.0,2928137.0,,2021,1055
+25638,CLCCM/BF1-CCM,cluster,Camp Coordination and Camp Management caseload,CCM,6273.0,,,1800000.0,651377.0,,2021,1055
+25635,CLEDU/BF1-EDU,cluster,Education caseload,EDU,6266.0,,,1400000.0,1197000.0,,2021,1055
+25618,CLFSC/BF1-FSC,cluster,Food Security caseload,FSC,6268.0,,,5195427.0,5195427.0,,2021,1055
+25629,CLHEA/BF1-HEA,cluster,Health caseload,HEA,6269.0,,,3900000.0,2300000.0,,2021,1055
+25627,CLNUT/BF1-NUT,cluster,Nutrition caseload,NUT,6271.0,,,1611119.0,1380695.0,,2021,1055
+25631,CLPRO/BF1-PRO,cluster,Protection,PRO,6274.0,,,3001800.0,2344990.0,,2021,1055
+25624,CLSHL/BF1-SHL,cluster,Emergency Shelter and NFIs caseload,SHL,6267.0,,,4186719.0,2366799.0,,2021,1055
+25625,CLWSH/BF1-WSH,cluster,Water Sanitation and Hygiene caseload,WSH,6272.0,,,5200000.0,5200000.0,,2021,1055
+22792,BP1,plan,Plan caseload,n/a,,28400000.0,,1590000.0,1310000.0,908000,2021,1047
+22798,CLEDU/BF1-EDU,cluster,Education Caseload,EDU,6152.0,,,624000.0,567000.0,,2021,1047
+22793,CLFSC/BF1-FSC,cluster,Food Security Caseload,FSC,6147.0,,,1310000.0,1310000.0,,2021,1047
+22796,CLHEA/BF1-HEA,cluster,Health Caseload,HEA,6150.0,,,700000.0,213000.0,,2021,1047
+22795,CLNUT/BF1-NUT,cluster,Nutrition Caseload,NUT,6149.0,,,741000.0,250000.0,,2021,1047
+22797,CLPRO/BF1-PRO,cluster,Protection,PRO,6151.0,,,1190000.0,706200.0,,2021,1047
+26468,CLSHL/BF1-SHL,cluster,Emergency Shelter Caseload,SHL,6293.0,,,5000.0,3000.0,,2021,1047
+22794,CLWSH/BF1-WSH,cluster,WASH Caseload,WSH,6148.0,,,1480000.0,807000.0,,2021,1047
+27827,BP1,plan,2021 Plan Caseload,n/a,,55000000.0,,2945397.0,1293570.0,795000,2021,1073
+27049,CLEDU/BF1-EDU,cluster,Flash Appeal Figures,EDU,6390.0,,,754516.0,105749.0,,2021,1073
+27039,CLFSC/BF1-FSC,cluster,Flash Appeal Figures,FSC,6385.0,,,2366237.0,1015154.0,,2021,1073
+27045,CLHEA/BF1-HEA,cluster,Flash Appeal Figures,HEA,6388.0,,,1501158.0,391749.0,,2021,1073
+27047,CLMS/BF1-MS,cluster,Flash Appeal Figures,MS,6389.0,,,274650.0,274650.0,,2021,1073
+27041,CLNUT/BF1-NUT,cluster,Flash Appeal Figures,NUT,6386.0,,,533922.0,335702.0,,2021,1073
+27051,CLPRO/BF1-PRO,cluster,Protection,PRO,6391.0,,,230000.0,60000.0,,2021,1073
+27043,CLWSH/BF1-WSH,cluster,Flash Appeal Figures,WSH,6387.0,,,2226633.0,834867.0,,2021,1073
+20678,BP1,plan,Plan Caseload,n/a,,12327530.0,,5932722.0,4030085.0,3000000,2021,1011
+18177,CLCCM/BF1-CCM,cluster,CCCM Caseload,CCM,5836.0,,,2341411.0,1841083.0,,2021,1011
+18182,CLCCM/CO1/BF1,planEntity,# of sites,n/a,10018.0,,,2400.0,1600.0,,2021,1011
+18191,CLCCM/CO2/BF1,planEntity,# of IDPs,n/a,10028.0,,,2341411.0,1841083.0,,2021,1011
+18196,CLCCM/CO3/BF1,planEntity,# of sites,n/a,10029.0,,,2400.0,1600.0,,2021,1011
+18224,CLCSS/BF1-CSS,cluster,EP,CSS,5838.0,,,5932722.0,4030085.0,,2021,1011
+22502,CLCSS/CO1/BF2,planEntity,,n/a,10043.0,,,,,,2021,1011
+22503,CLCSS/CO2/BF1,planEntity,,n/a,10044.0,,,,,,2021,1011
+18199,CLEDU/BF2-EDU,cluster,Education,EDU,5837.0,,,1440030.0,374973.0,,2021,1011
+18200,CLEDU/CO1/BF1,planEntity,Objective 1,n/a,10033.0,,,1440030.0,374973.0,,2021,1011
+18206,CLEDU/CO2/BF1,planEntity,Objective 2,n/a,10034.0,,,1440030.0,374973.0,,2021,1011
+18212,CLEDU/CO3/BF1,planEntity,Objective 3,n/a,10035.0,,,1440030.0,374973.0,,2021,1011
+18217,CLFSC/BF3-FSC,cluster,FSNAU,FSC,5840.0,,,3530202.0,3215834.0,,2021,1011
+18272,CLHEA/BF1-HEA,cluster,Health Caseload,HEA,5841.0,,,3914695.0,2808496.0,,2021,1011
+18337,CLHEA/CO1/BF1,planEntity,Public Health Intervention,n/a,10027.0,,,,,,2021,1011
+18338,CLHEA/CO2/BF1,planEntity,"Physical and mental wellbeing, including MHPSS",n/a,10031.0,,,,,,2021,1011
+18339,CLHEA/CO3/BF1,planEntity,GBV/IPV,n/a,10059.0,,,,,,2021,1011
+18336,CLHEA/CO4/BF1,planEntity,Outpatient consultations,n/a,10060.0,,,,,,2021,1011
+18296,CLLOG/BF1-LOG,cluster,Logistics caseload,LOG,5839.0,,,5932722.0,4030085.0,,2021,1011
+18237,CLNUT/BF1-NUT,cluster,Nutrition Caseload,NUT,5842.0,,,2305847.0,1433001.0,,2021,1011
+18264,CLPRO/BF1-PRO,cluster,Protection,PRO,5843.0,,,3212864.0,1944561.0,,2021,1011
+51683,CLPRO/BF2-PRO-CPN,cluster,Child Protection,PRO-CPN,5843.0,,,1800000.0,1192264.0,,2021,1011
+18297,CLRR/BF1-RR,cluster,Refugee Response Caseload,n/a,5844.0,,,46052.0,46052.0,,2021,1011
+18222,CLSHL/BF3-SHL,cluster,Shelter  Caseload,SHL,5845.0,,,3156863.0,2532577.0,,2021,1011
+18257,CLWSH/BF1-WSH,cluster,WASH caseload,WSH,5846.0,,,4613102.0,2542997.0,,2021,1011
+26522,BP1,plan,Plan caseload final figures,n/a,,5592631.0,2400000.0,1863924.0,1091671.0,,2021,1050
+26514,CLEDU/BF1-EDU,cluster,Education,EDU,6206.0,,,400000.0,220000.0,,2021,1050
+26513,CLFSC/BF1-FSC,cluster,Food Security,FSC,6205.0,,,1466000.0,490300.0,,2021,1050
+26312,CLFSC/CO1/BF1,planEntity,Provision of relief food and basic needs assistance to individuals not covered by ongoing and planned interventions  until June 2022,n/a,14303.0,,,,490300.0,,2021,1050
+26511,CLHEA/BF1-HEA,cluster,Health,HEA,6203.0,,,1363000.0,246000.0,,2021,1050
+34587,CLHEA/CO1/BF1,planEntity,,n/a,14473.0,,,,,,2021,1050
+26521,CLLOG/BF1-LOG,cluster,Caseload Logisics,LOG,6292.0,,,3687692.0,2334251.0,,2021,1050
+26512,CLNUT/BF1-NUT,cluster,Nutrition,NUT,6204.0,,,830587.0,398169.0,,2021,1050
+26516,CLPRO/BF1-PRO-GBV,cluster,Gender-Based Violence (GBV),PRO-GBV,6278.0,,,363381.0,96033.0,,2021,1050
+26517,CLRR/BF1-RR,cluster,Refugee Response,n/a,6279.0,,,120000.0,36000.0,,2021,1050
+26515,CLWSH/BF1-WSH,cluster,"Water, Sanitation and Hygiene",WSH,6207.0,,,1863924.0,1091671.0,,2021,1050
+34586,SO1/BF1,planEntity,,n/a,14304.0,,,,,,2021,1050
+25363,BP1,plan,Plan Estimates,n/a,,30034990.0,,4900000.0,750000.0,,2021,1048
+25368,CLCCM/BF1-CCM,cluster,COVID-19 Emergency Plan Figures,CCM,6188.0,,,,180000.0,,2021,1048
+25375,CLEDU/BF1-EDU,cluster,COVID-19 Emergency Plan Figures,EDU,6192.0,,,,276000.0,,2021,1048
+25380,CLERY/BF1-ERY,cluster,COVID-19 Emergency Plan Figures,ERY,6195.0,,,,80000.0,,2021,1048
+25364,CLFSC/BF1-FSC,cluster,COVID-19 Emergency Plan Figures,FSC,6186.0,,,,200000.0,,2021,1048
+25366,CLHEA/BF1-HEA,cluster,COVID-19 Emergency Plan Figures,HEA,6187.0,,,,400000.0,,2021,1048
+25374,CLNUT/BF1-NUT,cluster,COVID-19 Emergency Plan Figures,NUT,6191.0,,,,455000.0,,2021,1048
+25378,CLOTH/BF1-OTH,cluster,COVID-19 Emergency Plan Figures,OTH,6194.0,,,,20000000.0,,2021,1048
+25372,CLPRO/BF1-PRO,cluster,Protection,PRO,6190.0,,,,518000.0,,2021,1048
+25370,CLWSH/BF1-WSH,cluster,COVID-19 Emergency Plan Figures,WSH,6189.0,,,,750000.0,,2021,1048
+26403,BP1,plan,Flash Appeal caseload,n/a,,1400000.0,,39157.0,271156.0,166823,2021,1056
+26412,CLEDU/BF1-EDU,cluster,Education Caseload,EDU,6286.0,,,,100000.0,,2021,1056
+26408,CLERY/BF1-ERY,cluster,Early Recovery Caseload Estimate,ERY,6287.0,,,,400000.0,,2021,1056
+26414,CLFSC-AGR/BF1-FSC,cluster,Food Security and Agriculture Caseload,n/a,6282.0,,,,310000.0,,2021,1056
+26406,CLHEA/BF1-HEA,cluster,Health Caseload Estimate,HEA,6281.0,,,,225000.0,,2021,1056
+26441,CLNUT/BF1-NUT,cluster,Nutrition Caseload Estimate,NUT,6290.0,,,,167118.0,,2021,1056
+26410,CLPRO/BF1-PRO,cluster,Protection,PRO,6283.0,,,,440050.0,,2021,1056
+26417,CLSHL/BF1-SHL,cluster,Shelter and NFI Caseload Estimate,SHL,6285.0,,,,392000.0,,2021,1056
+26405,CLWSH/BF1-WSH,cluster,WASH Caseload Estimate,WSH,6284.0,,,,500000.0,,2021,1056
+20677,BP1,plan,Plan Caseload Estimate,n/a,,5100000.0,,2450000.0,1800000.0,1154907,2021,1012
+23027,CLEDU/BF1-EDU,cluster,Education,EDU,5847.0,,,504000.0,413000.0,,2021,1012
+23026,CLFSC/BF1-FSC,cluster,Food Security,FSC,5848.0,,,2000000.0,1700000.0,,2021,1012
+23028,CLHEA/BF1-HEA,cluster,Health,HEA,5849.0,,,1400000.0,1200000.0,,2021,1012
+23031,CLPRO/BF1-PRO,cluster,Protection,PRO,5853.0,,,2100000.0,359000.0,,2021,1012
+23029,CLSHL/BF1-SHL,cluster,Shelter/NFI,SHL,5851.0,,,431000.0,99000.0,,2021,1012
+23030,CLWSH/BF1-WSH,cluster,"Water, Sanitation and Hygiene",WSH,5850.0,,,1600000.0,752000.0,,2021,1012
+24646,CLWSH/CA1/BF1,planEntity,,n/a,9937.0,,,1229732.0,528713.0,,2021,1012
+25387,BP1,plan,Plan Caseload final,n/a,,5100000.0,,0.0,0.0,0,2021,1049
+25403,CLCSS/BF1-CSS,cluster,Coordination Caseload Final Figures,CSS,6202.0,,,,,,2021,1049
+25398,CLEDU/BF1-EDU,cluster,Education Caseload Final Figures,EDU,6200.0,,,612985.0,480000.0,,2021,1049
+25390,CLFSC/BF1-FSC,cluster,Food Security Caseload Final Figures,FSC,6196.0,,,653650.0,503144.0,,2021,1049
+25394,CLHEA/BF1-HEA,cluster,Health and Nutrition Final Figures,HEA,6198.0,,,1200000.0,800000.0,,2021,1049
+25395,CLPRO/BF1-PRO,cluster,Protection,PRO,6199.0,,,1319339.0,585000.0,,2021,1049
+25391,CLSHL/BF1-SHL,cluster,Shelter and NFI Final Figures,SHL,6197.0,,,105350.0,54500.0,,2021,1049
+25399,CLWSH/BF1-WSH,cluster,WASH Caseload Final Figures,WSH,6201.0,,,1310000.0,1074000.0,,2021,1049
+26173,CLWSH/CA1/BF1,planEntity,,n/a,14594.0,,,,,,2021,1049
+29799,BP1,plan,Flash Appeal Caseload,n/a,,9450000.0,0.0,0.0,0.0,700000,2021,1045
+20561,CLCCM/BF1-CCM,cluster,Caseload CCCM,CCM,6106.0,,,180000.0,101000.0,,2021,1045
+20559,CLEDU/BF1-EDU,cluster,Caseload Education,EDU,6108.0,,,534000.0,70000.0,,2021,1045
+20553,CLFSC/BF1-FSC,cluster,Caseload FSC,FSC,6095.0,,,2800000.0,700000.0,,2021,1045
+20555,CLHEA/BF1-HEA,cluster,Caseload Health,HEA,6107.0,,,500000.0,150000.0,,2021,1045
+20557,CLPRO/BF1-PRO,cluster,Protección,PRO,6105.0,,,1200000.0,450000.0,,2021,1045
+23434,CLSHL/BF1-SHL,cluster,Caseload Shelter,SHL,6156.0,,,93000.0,54000.0,,2021,1045
+20551,CLWSH/BF1-WSH,cluster,Caseload WASH,WSH,6104.0,,,1600000.0,573000.0,,2021,1045
+20705,BP1,plan,Final caseload,n/a,,,,1836385.0,1836385.0,,2021,1018
+25537,CLEDU/BF1-EDU,cluster,Education,EDU,6209.0,,,,,,2021,1018
+25540,CLERY/BF1-ERY,cluster,Livelihoods and resilience,ERY,6212.0,,,,,,2021,1018
+25539,CLFSC/BF1-FSC,cluster,Food Security,FSC,6211.0,,,,,,2021,1018
+25538,CLHEA/BF1-HEA,cluster,Health and Nutrition,HEA,6210.0,,,,,,2021,1018
+25541,CLOTH/BF1-OTH,cluster,Energy and Environment,OTH,6213.0,,,,,,2021,1018
+25536,CLPRO/BF1-PRO,cluster,Protection,PRO,5903.0,,,,,,2021,1018
+25543,CLSHL/BF1-SHL,cluster,Shelter and NFIs,SHL,6215.0,,,,,,2021,1018
+25542,CLWSH/BF1-WSH,cluster,WASH,WSH,6214.0,,,,,,2021,1018
+20703,BP1,plan,Final caseload,n/a,,,,3052000.0,3052000.0,,2021,1019
+25553,CLEDU/BF1-EDU,cluster,Education,EDU,6223.0,,,,,,2021,1019
+25556,CLERY/BF1-ERY,cluster,Livelihoods and resilience,ERY,6226.0,,,,,,2021,1019
+25555,CLFSC/BF1-FSC,cluster,Food Security,FSC,6225.0,,,,,,2021,1019
+25554,CLHEA/BF1-HEA,cluster,Health and Nutrition,HEA,6224.0,,,,,,2021,1019
+25557,CLOTH/BF1-OTH,cluster,Energy and Environment,OTH,6227.0,,,,,,2021,1019
+25552,CLPRO/BF1-PRO,cluster,Protection,PRO,5920.0,,,,,,2021,1019
+25559,CLSHL/BF1-SHL,cluster,Shelter and NFIs,SHL,6229.0,,,,,,2021,1019
+25558,CLWSH/BF1-WSH,cluster,WASH,WSH,6228.0,,,,,,2021,1019
+20698,BP1,plan,Plan Caseload,n/a,,103199349.0,,19616782.0,9611247.0,7060000,2021,1026
+23074,CLEDU/BF1-EDU,cluster,Caseload Education,EDU,5923.0,,,4698431.0,587708.0,,2021,1026
+23913,CLEDU/CO1/BF1,planEntity,"Les filles et les garçons de 6 à 17 ans issus des populations déplacées, retournées ou expulsées depuis moins de six mois ainsi que les enfants des ménages d’accueil sont protégés contre les risques de protection en ayant accès à un environnement scolaire sûr et protecteur",n/a,13128.0,,,725551.0,281000.0,,2021,1026
+23912,CLEDU/CO2/BF1,planEntity,"Les filles et les garçons de 6 à 17 ans fréquentant les écoles des zones affectées par le choléra ou la COVID-19 reçoivent des services d’eau, hygiène et assainissement (EHA) en milieu scolaire pour faire face aux épidémies et maladies mortelles d’origine hydrique, vectorielle ou virale",n/a,13130.0,,,2828977.0,66000.0,,2021,1026
+23914,CLEDU/CO3/BF1,planEntity,"Les files et les garçons de 6 à 17 ans issus des populations déplacées, retournées ou expulsées depuis 7 à 12 mois ainsi les enfants des ménages d’accueil accèdent à une éducation inclusive de qualité dans un environnement d’apprentissage sûr et protecteur",n/a,13131.0,,,1053482.0,230000.0,,2021,1026
+23915,CLEDU/CO4/BF1,planEntity,"Les femmes et hommes enseignants sont formés sur les thématiques clés, dont la méthodologie centrée sur l'enfant, le soutien psycho-social et l'éducation pour la paix",n/a,13132.0,,,90423.0,10500.0,,2021,1026
+23916,CLEDU/CO5/BF1,planEntity,Les filles et garçons de 6 à 17 ans fréquentant les écoles ciblées sont protégés contre les abus et exploitation sexuels en milieu scolaire grâce à un paquet d’activité visant la prévention et la gestion des cas,n/a,13133.0,,,725551.0,281000.0,,2021,1026
+23079,CLFSC/BF1-FSC,cluster,Caseload SECAL,FSC,5929.0,,,19616782.0,9611247.0,,2021,1026
+23906,CLFSC/CO1/BF1,planEntity,Sauver des vies face à l’insécurité alimentaire aigüe par la mise en oeuvre d’une assistance alimentaire d’urgence visant à répondre aux besoins alimentaires et nutritionnels vitaux des personnes les plus vulnérables,n/a,13314.0,,,19616782.0,9611247.0,,2021,1026
+23909,CLFSC/CO2/BF1,planEntity,Les moyens de subsistance des personnes les plus vulnérables affectées par l’insécurité alimentaire aigüe sont reconstituer afin de leur permettre de se relever à la suite d’un choc,n/a,13316.0,,,19616782.0,3360000.0,,2021,1026
+23078,CLHEA/BF1-HEA,cluster,Caseload Santé,HEA,5928.0,,,11334276.0,7257813.0,,2021,1026
+23965,CLHEA/CO1/BF1,planEntity,Réduire la surmortalité et la surmorbidité liées au manque d'accès aux services de soins de santé.,n/a,13335.0,,,1292197.0,1166546.0,,2021,1026
+23968,CLHEA/CO2/BF1,planEntity,Réduire chez les enfants de moins de 5 ans la surmorbidité et la surmortalité  liées au manque d'accès aux services de prise en charge médicale des complications de la MAS.,n/a,13336.0,,,7787.0,7787.0,,2021,1026
+23973,CLHEA/CO3/BF1,planEntity,"Réduire la surmorbidité et la surmortalité liées aux épidémies et/ou flambées épidémiques de choléra, rougeole, paludisme, COVID-19 et MVE",n/a,13337.0,,,11267621.0,7271019.0,,2021,1026
+23979,CLHEA/CO4/BF1,planEntity,Réduire la surmorbidité et la surmortalité liées à l'accès aux services de prise en charge médicale des VBG.,n/a,13338.0,,,6203.0,5599.0,,2021,1026
+26328,CLMPC/BF1-MPC,cluster,# de personnes assistées à travers une réponse en espèces à usage multiple,MPC,5921.0,,,19616782.0,3310000.0,,2021,1026
+24208,CLMPC/CO1/BF1,planEntity,CLCSH / CO1 - Les bénéficiaires (transferts monétaires à usage multiple) sont en mesure de subvenir en tout ou partie à un ensemble de besoins de base / ou de rétablissement,n/a,13484.0,,,19616782.0,3310000.0,,2021,1026
+23076,CLNUT/BF1-NUT,cluster,Caseload Nutrition,NUT,5926.0,,,5643293.0,2572897.0,,2021,1026
+23903,CLNUT/CO1/BF1,planEntity,Nombre de personnes affectées par la malnutrition aigüe bénéficiant d’une prise en charge nutritionnelle multisectorielle,n/a,13215.0,,,5151819.0,2203536.0,,2021,1026
+23703,CLNUT/CO2/BF1,planEntity,Femmes enceinte et allaitantes,n/a,13217.0,,,754691.0,493993.0,,2021,1026
+23077,CLPRO/BF1-PRO-OVE,cluster,Protection (total),n/a,5927.0,,,9546311.0,4993330.0,,2021,1026
+23241,CLPRO/BF2-PRO,cluster,Protection générale,PRO,5927.0,,,5630746.0,2859686.0,,2021,1026
+23242,CLPRO/BF3-PRO-CPN,cluster,Protection de l'enfant,PRO-CPN,5927.0,,,4170182.0,703590.0,,2021,1026
+23243,CLPRO/BF4-PRO-MIN,cluster,Lutte Antimines,PRO-MIN,5927.0,,,3355463.0,2813222.0,,2021,1026
+23244,CLPRO/BF5-PRO-HLP,cluster,"Logement, Terres et propriété",PRO-HLP,5927.0,,,2197022.0,907486.0,,2021,1026
+23245,CLPRO/BF6-PRO-GBV,cluster,Violence Basée sur le Genre (VBG),PRO-GBV,5927.0,,,7018927.0,1088947.0,,2021,1026
+23413,CLPRO/CO1/BF1,planEntity,"PROT_GEN_Les incidents de protection mettant en péril la vie et la santé mentale de 1952329 personnes déplacées, des retournées et des familles d'accueil vivant dans les zones affectées par les conflits sont identifiés.",n/a,13074.0,,,3904645.0,1952329.0,,2021,1026
+23443,CLPRO/CO10/BF1,planEntity,"GTPE_Fournir un soutien psychosocial, incluant à travers l'accès à des Espaces Amis d'Enfants ou à un soutien individuel ou de groupe, à 583.127 enfants vulnérables et/ou affectés par les urgences humanitaires, dont 297.395 filles et 87.470 handicapes, (enfants déplacés, enfants retournés, chef de ménage, enfant en situation de handicap, enfants séparés), et inclus les enfants et leurs familles affectés par les épidémies.",n/a,13105.0,,,4068144.0,583127.0,,2021,1026
+23445,CLPRO/CO11/BF1,planEntity,GTPE_Assurer une réintégration socio-économique/scolaire et de réinsertion communautaire adéquate et durable pour 7.346 EAFGA .,n/a,13106.0,,,14769.0,7346.0,,2021,1026
+23447,CLPRO/CO12/BF1,planEntity,"GTPE_Répondre aux besoins moyen terme de 17.580 enfants non accompagnés identifiés, dont 8.965 filles et 2.640 handicapés, à travers la recherche et réunification familiale ou une solution de remplacement appropriée",n/a,13107.0,,,77760.0,17580.0,,2021,1026
+23570,CLPRO/CO13/BF1,planEntity,"VBG_Assurer l'accès, dans les 72 heures suivant l'incident du viol, aux services de prise en charge médical de qualité à au moins 60% de survivant (e) de violences sexuelles d'ici la fin de l'année 2021.",n/a,13147.0,,,290297.0,246090.0,,2021,1026
+23591,CLPRO/CO15/BF1,planEntity,VBG_Assurer l'accès aux services d'accompagement juridiques et judiciaires de qualité aux Survivant(e)s de VBG afin d'améliorer leur autonomisation en situation de crise humanitaire,n/a,13152.0,,,484787.0,82199.0,,2021,1026
+23597,CLPRO/CO16/BF1,planEntity,"VBG_Renforcer les mécanismes de protection institutionnels et communautaires à travers la contribution, leaders communautaires, policiers, des hommes et des garçons à la protection des femmes et des filles contre les violences basées sur le genre.",n/a,13153.0,,,1482.0,636.0,,2021,1026
+23627,CLPRO/CO17/BF1,planEntity,"VBG_Assurer la distribution des kits de dignité aux femmes et filles les plus vulnérables, y compris les survivantes de VBG, et  celles vivantes avec handicap d'ici la fin de l'année 2021",n/a,13167.0,,,1341513.0,403720.0,,2021,1026
+23629,CLPRO/CO18/BF1,planEntity,"VBG_Renforcer les capacités de résilience des populations à risques de VBG à travers l’amélioration des Connaissances, Attitudes et Pratiques en matière de prévention et réponse aux VBG/pratiques néfastes, COVID-19 et EBOLA",n/a,13168.0,,,6634640.0,897663.0,,2021,1026
+23601,CLPRO/CO19/BF1,planEntity,"LAM_Réduire l'exposition des communautés à la présence des mines, restes explosifs des guerre (REG) et armes légères et de petit calibre dans les zones contaminées.",n/a,13154.0,,,2546064.0,2546064.0,,2021,1026
+23417,CLPRO/CO2/BF1,planEntity,"PROT_GEN_Les besoins urgents et spécifiques de 1589114 personnes déplacées internes, retournées et communautés hôtes sont identifiés a travers le profilage.",n/a,13075.0,,,1589114.0,1589114.0,,2021,1026
+23603,CLPRO/CO20/BF1,planEntity,"LAM_Éduquer et sensibilier aux risques des mines, restes d’explosifs de guerre (REG) et armes légères et de petit calibre les personnes vivant dans des zones contaminées.",n/a,13155.0,,,1070109.0,353137.0,,2021,1026
+23605,CLPRO/CO21/BF1,planEntity,"LAM_Assurer une assistance et un accompagnement a l'insertion socio-economique des victimes de mines, restes explosifs des guerre (REG) et armes légères et de petit calibre.",n/a,13156.0,,,692.0,692.0,,2021,1026
+23607,CLPRO/CO22/BF1,planEntity,"LAM_Éduquer aux risques des mines, restes d’explosifs de guerre (REG) et armes légères et de petit calibre les personnes vivant dans des zones contaminées",n/a,13157.0,,,2546064.0,509215.0,,2021,1026
+23609,CLPRO/CO23/BF1,planEntity,"LTP_Assistance légale pour la facilitation de l'accès aux terres agricoles, terres de residences, et aux ressources naturelles (eaux, charbon, bois de chauffe…).",n/a,13158.0,,,280931.0,84279.0,,2021,1026
+23612,CLPRO/CO24/BF1,planEntity,LTP_Negociation de parcelle de terre à l'intention des PDIs,n/a,13159.0,,,262238.0,78675.0,,2021,1026
+23614,CLPRO/CO25/BF1,planEntity,LTP_Sensibilisation sur les droits LTP des PDIs et des personnes de retour,n/a,13160.0,,,642064.0,211882.0,,2021,1026
+23615,CLPRO/CO26/BF1,planEntity,LTP_Plaidoyer et lobbying pour la promotion et la protection des droits LTP des femmes.,n/a,13161.0,,,262238.0,78675.0,,2021,1026
+23617,CLPRO/CO27/BF1,planEntity,LTP_Aide à la demarcation des parcelles de terres,n/a,13162.0,,,280931.0,140468.0,,2021,1026
+23619,CLPRO/CO28/BF1,planEntity,LTP_Formation des autorités locales sur la resolution des conflits et sur les droits LTP des Pdis,n/a,13163.0,,,2260.0,904.0,,2021,1026
+23418,CLPRO/CO3/BF1,planEntity,PROT_GEN_Les incidents et risques de protection sont réduits et/ou prévenues a travers la sensibilisation de 459074 personnes sur le respect des droits humains dans les zones de déplacement et de retour.,n/a,13076.0,,,1391137.0,459074.0,,2021,1026
+23419,CLPRO/CO4/BF1,planEntity,PROT_GEN_La cohabitation pacifique entre les communautes affectées par les conflits inter communautaires et incidents de protections dans les zones de déplacement est renforcee a travers la sensibilisation de 234561 personnes.,n/a,13077.0,,,2345651.0,234561.0,,2021,1026
+23420,CLPRO/CO5/BF1,planEntity,"PROT_GEN_L ’accès à la justice est facilité pour 1237273 personnes déplacées, retournées et communautés hôtes survivantes des violations des droits humains a travers un accompagnemetn juridique.",n/a,13078.0,,,2474519.0,1237273.0,,2021,1026
+23421,CLPRO/CO6/BF1,planEntity,"GTPE_Répondre aux besoins urgents de 11,757 enfants associés aux forces et groupes armés (EAFGA) dont 2.940 filles et 1.760 handicapés identifiés à travers un suivi individuel et une prise en charge transitoire.",n/a,13099.0,,,14769.0,11757.0,,2021,1026
+23424,CLPRO/CO7/BF1,planEntity,"GTPE_Répondre aux besoins urgents de 17.580 enfants non accompagnés identifiés, dont 8.965 filles et 2.640 handicapés, à travers une prise en charge familiale transitoire",n/a,13100.0,,,77760.0,17580.0,,2021,1026
+23427,CLPRO/CO8/BF1,planEntity,"GTPE_Assurer une prise en charge psychosociale, médicale et holistique à 6.259 enfants et adolescent(e)s victimes de violences y compris de violences sexuelles et basées sur le genre, dont 5.600 filles et 939 handicapés.",n/a,13101.0,,,15096.0,6259.0,,2021,1026
+23441,CLPRO/CO9/BF1,planEntity,"GTPE_Prévenir les risques de séparation familiale et les violations des droits des enfants, inclus à travers des activités de sensibilisation, monitoring des violations graves (MRM) et de renforcement des mécanismes communautaires de protection, qui vont cibler dans l’ensemble environ 353.137 personnes, dont 180.100 femmes et 52.970 handicapés.",n/a,13104.0,,,1070109.0,353137.0,,2021,1026
+23851,CLRR/BF1-RR,cluster,Caseload Reponse aux Refugiés,n/a,5930.0,,,527000.0,527000.0,,2021,1026
+23073,CLSHL/BF1-SHL,cluster,Caseload Abris,SHL,5919.0,,,5459283.0,2018206.0,,2021,1026
+23412,CLSHL/CO1/BF1,planEntity,571 413 personnes affectées par les crises assistées avec un kit d'abris d'urgence dans le premier mois du déplacement a travers une réponse rapide (en cash ou in-kind),n/a,13067.0,,,1142826.0,571413.0,,2021,1026
+23648,CLSHL/CO2/BF2,planEntity,"876261 personnes deplacées en familles d'accueil ou centre urbain, ainsi que les ménages vulnérables de la communauté d'hote, ayant recu un appui en abris favorisant l'approche locale (construction d'un abris, réhabilitation du logement, ou appui au loyer - en cash ou in-kind)",n/a,13178.0,,,2450390.0,876261.0,,2021,1026
+23650,CLSHL/CO3/BF3,planEntity,135916 personnes deplacées dans des sites ou des centres collectifs assistées avec une réponse en Abris d’urgence (en cash ou in-kind),n/a,13179.0,,,159901.0,135916.0,,2021,1026
+23652,CLSHL/CO4/BF4,planEntity,"472682 personnes retournées qui ont recu un appui pour accéder au logement décent, avec une construction locale ou réhabilitation de leur logement détruit  (en cash ou in-kind)",n/a,13180.0,,,2143290.0,472682.0,,2021,1026
+23655,CLSHL/CO5/BF5,planEntity,"302320 personnes deplacées en familles d'accueil ou centre urbain, ainsi ainsi que les ménages vulnérable de la communauté d'hote, ayant recu un appui en abris favorisant l'approche locale (construction d'un abris, réhabilitation du logement, ou appui au loyer - en cash ou in-kind)",n/a,13185.0,,,355671.0,302320.0,,2021,1026
+23657,CLSHL/CO6/BF6,planEntity,151 personnes deplacées dans des sites ou des centres collectifs assistées avec une réponse en Abris d’urgence (en cash ou in-kind),n/a,13186.0,,,177.0,151.0,,2021,1026
+23659,CLSHL/CO7/BF7,planEntity,"244891 personnes retournées qui ont recu un appui pour accéder au logement décent, avec une construction locale ou réhabilitation de leur logement détruit  (en cash ou in-kind)",n/a,13187.0,,,349844.0,244891.0,,2021,1026
+23852,CLSHL1/BF1,cluster,Caseload AME,n/a,6155.0,,,2263046.0,1412036.0,,2021,1026
+23878,CLSHL1/CO1/BF1,planEntity,L’accès immédiat aux AME des personnes retournées et déplacées de moins de six mois et leurs familles est assuré,n/a,13091.0,,,1081079.0,1048835.0,,2021,1026
+23881,CLSHL1/CO2/BF1,planEntity,Le bien-être physique et mental des survivants de violences basées sur le genre (VBG) est assuré à travers la distribution de kits d’hygiène intime (contribue à l’objectif spécifique 1.5),n/a,13093.0,,,387900.0,116360.0,,2021,1026
+23882,CLSHL1/CO3/BF1,planEntity,"Les conditions d’accès aux AME pour les personnes vulnérables retournées et déplacées depuis sept à 12 mois et leurs familles d’accueil sont améliorées à travers la distribution de kits, coupons ou des transferts monétaires",n/a,13094.0,,,794102.0,413017.0,,2021,1026
+23075,CLWSH/BF1-WSH,cluster,Caseload EHA,WSH,5924.0,,,7883231.0,4743560.0,,2021,1026
+23893,CLWSH/CO1/BF1,planEntity,"L’accès équitable et en toute protection aux services EHA de 1,6 M de pers. affectées par des mouvements de population liés aux conflits ou aux catastrophes naturelles (personnes déplacées, retournées, expulsées, familles d'accueil, communautés hôtes) est assuré de manière adéquate et inclusive",n/a,13308.0,,,1695220.0,1564679.0,,2021,1026
+23894,CLWSH/CO2/BF1,planEntity,L’accès à un paquet minimum EHA de 303k enfants souffrant de la malnutrition aigüe sévère (MAS) et de 263k femmes enceintes et allaitantes (y compris celles en situation de handicap) est assuré pour prévenir,n/a,13309.0,,,725125.0,566039.0,,2021,1026
+23897,CLWSH/CO3/BF1,planEntity,"L’accès à un paquet EHA de 2,6 M de pers. affectées par les épidémies de choléra, covid19 et Ebola est assuré pour prévenir et réduire le risque de transmission à travers un système de surveillance et une riposte rapide adéquate et inclusive",n/a,13310.0,,,3313207.0,2587409.0,,2021,1026
+23899,CLWSH/CO4/BF1,planEntity,L’accès aux services EHA de 64 000 enfants non accompagnés et 9 000 enfants associés aux forces et groupes armés en besoin de protection est assuré,n/a,13311.0,,,78004.0,73171.0,,2021,1026
+23901,CLWSH/CO5/BF1,planEntity,"L’accès à un paquet EHA de 3 M de pers. vivant dans les zones à risque d’épidémie de choléra, COVID-19 et MVE pour prévenir et réduire le risque de transmission en renforçant les mécanismes de résilience par une préparation adéquate des institutions de prises en charge et des communautés",n/a,13313.0,,,7173432.0,3009728.0,,2021,1026
+23052,SO1/BFSO1,planEntity,La réponse multisectorielle permet de couvrir les besoins vitaux de 9611247 de personnes afin de préserver leur intégrité physique & menta,n/a,12474.0,,,19616782.0,9611247.0,,2021,1026
+23053,SO2/BFSO2,planEntity,La réponse multisectorielle permet de réduire les vulnérabilités et d'améliorer les conditions de vie de 3360000de personnes,n/a,12890.0,,,19616782.0,3360000.0,,2021,1026
+23056,SP1/BFSP1,planEntity,"Nombre de personnes déplacées, retournées & réfugiées depuis moins de 6 mois dans les sites, en familles d'accueil ou dans les centres collectifs et nombre de personnes vulnérables de la communauté hôte bénéficiant d'une assistance multisectorielle",n/a,12475.0,,,4753581.0,2675576.0,,2021,1026
+23069,SP10/BFSP10,planEntity,"NOMBRE de personnes affectées par des incidents de protection (victimes/survivants de violence, y compris VBG, ENA, EAFGA, victimes de REG, personnes en situation de handicap, personnes déplacées & retournées) bénéficiant d'un accompagnement juridique et/ou d'un soutien pour leur réintégration scolaire et/ou socio-économique et communautaire (dont l'accès à la terre & la cohabitation pacifique)",n/a,12905.0,,,3896329.0,1359945.0,,2021,1026
+23057,SP2/BFIN1,planEntity,Nombre de personnes affectées par l’insécurité alimentaire aigüe bénéficiant d’une assistance alimentaire d’urgence,n/a,12895.0,,,19616782.0,9611247.0,,2021,1026
+23058,SP3/BFIN1,planEntity,Nombre de personnes affectées par la malnutrition aigüe bénéficiant d’une prise en charge nutritionnelle multisectorielle,n/a,12896.0,,,4754740.0,2203536.0,,2021,1026
+23227,SP4/BF4,planEntity,"Nombre de personnes affectées par une épidémie de choléra, rougeole, paludisme, MVE et/ou COVID-19  bénéficiant d’une prise en charge médicale et/ou ayant accès à la vaccination",n/a,13022.0,,,10892965.0,6849363.0,,2021,1026
+23062,SP5/BFIN1,planEntity,"Nombre de survivant(e)s de VBG, incluant les enfants, bénéficiant d'une prise en charge médicale & psychosociale",n/a,12898.0,,,7018927.0,2813168.0,,2021,1026
+23065,SP6/BFIN1,planEntity,"Nombre de personnes déplacées,  retournées & réfugiés entre 7 et 12 mois dans les sites, en familles d'accueil ou dans les centres collectifs bénéficiant d'une assistance multisectorielle",n/a,12900.0,,,2094140.0,873505.0,,2021,1026
+23066,SP7/BF1,planEntity,Nombre de personnes en situation d’insécurité alimentaire aigüe bénéficiant d’un soutien à la restauration des moyens d'existence & à la production agricole d'urgence,n/a,12901.0,,,19616782.0,3360000.0,,2021,1026
+23255,SP8/BF1,planEntity,Nombre de femmes enceintes & allaitantes dans les zones à risque de malnutrition aigüe bénéficiant d'activités d'alimentation du nourrisson et du jeune enfant en situation d'urgence,n/a,12903.0,,,754691.0,493993.0,,2021,1026
+23068,SP9/BF1,planEntity,"Nombre de personnes vivant dans les zones à risque d’épidémie de choléra, de MVE ou de COVID-19 bénéficiant d’une assistance préventive en EHA",n/a,12904.0,,,7173432.0,3009728.0,,2021,1026
+26520,BP1,plan,,n/a,,40000000.0,,0.0,0.0,0,2021,1057
+26495,CLEDU/BF1-EDU,cluster,Consolidated FA Figures,EDU,6295.0,,,2614011.0,500000.0,,2021,1057
+26497,CLFSC/BF1-FSC,cluster,Consolidated FA Figures,FSC,6297.0,,,17823122.0,10800000.0,,2021,1057
+26498,CLHEA/BF1-HEA,cluster,Consolidated FA Figures,HEA,6298.0,,,14460444.0,34000000.0,,2021,1057
+26499,CLNUT/BF1-NUT,cluster,Consolidated FA Figures,NUT,6299.0,,,,1200000.0,,2021,1057
+26500,CLPRO/BF1-PRO,cluster,Protection,PRO,6300.0,,,33089554.0,1500000.0,,2021,1057
+26496,CLSHL/BF1-SHL,cluster,Consolidated FA Figures,SHL,6296.0,,,6878203.0,900000.0,,2021,1057
+26501,CLWSH/BF1-WSH,cluster,Consolidated FA Figures,WSH,6301.0,,,5361305.0,2500000.0,,2021,1057
+20702,BP1,plan,,n/a,,,,10316142.0,10316142.0,,2021,1020
+25277,CLEDU/BF1-EDU,cluster,Education,EDU,6169.0,,,,,,2021,1020
+25276,CLERY/BF1-ERY,cluster,Early recovery and livelihood,ERY,6051.0,,,,,,2021,1020
+25280,CLFSC/BF1-FSC,cluster,Food Security,FSC,6172.0,,,,,,2021,1020
+25279,CLFSC1/BF1,cluster,Food Security,n/a,6171.0,,,,,,2021,1020
+25281,CLHEA/BF1-HEA,cluster,Health,HEA,6173.0,,,,,,2021,1020
+25284,CLMS/BF1-MS,cluster,Multi-sector,MS,6176.0,,,,,,2021,1020
+25286,CLOTH1/BF1-OTH,cluster,Other,OTH,6178.0,,,,,,2021,1020
+25285,CLOTH2/BF1-OTH,cluster,Other,OTH,6177.0,,,,,,2021,1020
+25282,CLPRO/BF1-PRO,cluster,Protection,PRO,6174.0,,,,,,2021,1020
+25278,CLSHL/BF1-SHL,cluster,Shelter/NFI,SHL,6170.0,,,,,,2021,1020
+25283,CLWSH/BF1-WSH,cluster,"Water, Sanitation and Hygiene",WSH,6175.0,,,,,,2021,1020
+20685,BP1,plan,Plan Caseload Estimate,n/a,,28700000.0,,7000000.0,4500000.0,4000000,2021,1029
+19191,CLEDU/BF1-EDU,cluster,Educación,EDU,5980.0,,,,1500000.0,,2021,1029
+19196,CLFSC/BF1-FSC,cluster,Seguridad Alimentaria,FSC,5982.0,,,,700000.0,,2021,1029
+19195,CLHEA/BF1-HEA,cluster,Salud,HEA,5979.0,,,,4400000.0,,2021,1029
+19193,CLNUT/BF1-NUT,cluster,Nutrición,NUT,5981.0,,,,900000.0,,2021,1029
+19194,CLPRO/BF1-PRO,cluster,Protección general,PRO,5949.0,,,,800000.0,,2021,1029
+20732,CLPRO/BF2-PRO-CPN,cluster,Protección de la infancia,PRO-CPN,5949.0,,,,1100000.0,,2021,1029
+20733,CLPRO/BF3-PRO-GBV,cluster,Violencia de género (VDG),PRO-GBV,5949.0,,,,500000.0,,2021,1029
+19192,CLSHL/BF1-SHL,cluster,Albergue/ANA,SHL,5984.0,,,,1400000.0,,2021,1029
+19190,CLWSH/BF1-WSH,cluster,"Agua, saneamiento e higiene",WSH,5983.0,,,,4000000.0,,2021,1029
+23917,CLWSH/CA1.01/BF1,planEntity,,n/a,10373.0,,,,,,2021,1029
+20688,BP1,plan,Final caseload,n/a,,,1700000.0,613667.0,311017.0,,2021,1038
+20704,BP1,plan,Final caseload,n/a,,,,490500.0,490500.0,,2021,1017
+25545,CLEDU/BF1-EDU,cluster,Education,EDU,6216.0,,,,,,2021,1017
+25548,CLERY/BF1-ERY,cluster,Livelihoods and resilience,ERY,6219.0,,,,,,2021,1017
+25547,CLFSC/BF1-FSC,cluster,Food Security,FSC,6218.0,,,,,,2021,1017
+25546,CLHEA/BF1-HEA,cluster,Health and Nutrition,HEA,6217.0,,,,,,2021,1017
+25549,CLOTH/BF1-OTH,cluster,Energy and Environment,OTH,6220.0,,,,,,2021,1017
+25544,CLPRO/BF1-PRO,cluster,Protection,PRO,6052.0,,,,,,2021,1017
+25551,CLSHL/BF1-SHL,cluster,Shelter and NFIs,SHL,6222.0,,,,,,2021,1017
+25550,CLWSH/BF1-WSH,cluster,WASH,WSH,6221.0,,,,,,2021,1017
+20700,BP1,plan,Plan Caseload Estimate,n/a,,11400000.0,,4355735.0,1500000.0,1622490,2021,1043
+24643,CLCSS/BF1-CSS,cluster,Coordination,CSS,6071.0,,,4400000.0,1500000.0,,2021,1043
+24634,CLEDU/BF1-EDU,cluster,Education caseload,EDU,6065.0,,,750000.0,500000.0,,2021,1043
+24642,CLFSC/BF1-FSC,cluster,Sécurité alimentaire caseload,FSC,6070.0,,,4355735.0,1300000.0,,2021,1043
+24641,CLHEA/BF1-HEA,cluster,Health,HEA,6069.0,,,2951607.0,961048.0,,2021,1043
+24636,CLNUT/BF1-NUT,cluster,Nutrition caseload,NUT,6067.0,,,216938.0,96019.0,,2021,1043
+24637,CLPRO/BF1-PRO-GBV,cluster,Violence Basée sur le Genre (VBG),PRO-GBV,6068.0,,,230000.0,151500.0,,2021,1043
+24638,CLPRO/BF2-PRO-CPN,cluster,Protection de l'enfant,PRO-CPN,6068.0,,,709173.0,177293.0,,2021,1043
+24639,CLPRO/BF3-PRO,cluster,Protection générale,PRO,6068.0,,,114507.0,43910.0,,2021,1043
+24640,CLPRO/BF4-PRO-OVE,cluster,Protection (total),n/a,6068.0,,,979173.0,416613.0,,2021,1043
+24633,CLSHL/BF1-SHL,cluster,Abris et ANA caseload,SHL,6064.0,,,273592.0,51500.0,,2021,1043
+24635,CLWSH/BF1-WSH,cluster,"Eau Potable, Assainissement et Hygiène caseload",WSH,6072.0,,,3822137.0,690368.0,,2021,1043
+25578,BP1,plan,Plan caseload,n/a,,17100000.0,4800000.0,3800000.0,1680000.0,136051,2021,1052
+26370,CLCSS/CO1/BF1,planEntity,Coordinación,n/a,14774.0,,,,1680000.0,,2021,1052
+25746,CLEDU/BF1-EDU,cluster,Educación,EDU,6243.0,,,178631.0,89198.0,,2021,1052
+25739,CLERY/BF1-ERY,cluster,Recuperación Temprana,ERY,6244.0,,,1100000.0,407000.0,,2021,1052
+26102,CLERY/CO1/BF1,planEntity,Recuperación Temprana,n/a,14438.0,,,13094.0,18698.0,,2021,1052
+26103,CLERY/CO2/BF1,planEntity,Recuperación Temprana,n/a,14439.0,,,594.0,220.0,,2021,1052
+26105,CLERY/CO3/BF1,planEntity,Recuperación Temprana,n/a,14440.0,,,,362800.0,,2021,1052
+26104,CLERY/CO3/BF2,planEntity,Reccupeación Temprana,n/a,14440.0,,,1211000.0,362000.0,,2021,1052
+26081,CLFSC/BF1-FSC,cluster,Seguridad Alimentaria,FSC,6238.0,,,3450000.0,270000.0,,2021,1052
+25757,CLFSC/CO1/BF1,planEntity,Seguridad Alimentaria,n/a,14353.0,,,276000.0,138000.0,,2021,1052
+26085,CLFSC/CO2/BF1,planEntity,Seguridad Alimentaria,n/a,14356.0,,,60800.0,60800.0,,2021,1052
+25738,CLHEA/BF1-HEA,cluster,Salud y SSR,HEA,6241.0,,,930000.0,558000.0,,2021,1052
+25947,CLHEA/CO1/BF1,planEntity,Salud y SSR,n/a,14432.0,,,195300.0,109500.0,,2021,1052
+25949,CLHEA/CO2/BF1,planEntity,Salud y SSR,n/a,14433.0,,,754.0,618.0,,2021,1052
+25951,CLHEA/CO3/BF1,planEntity,Salud y SSR,n/a,14434.0,,,2282.0,2197.0,,2021,1052
+25726,CLNUT/BF1-NUT,cluster,Nutrición,NUT,6242.0,,,2300000.0,962000.0,,2021,1052
+25915,CLNUT/CO1/BF1,planEntity,Nutrición,n/a,14394.0,,,255000.0,175000.0,,2021,1052
+25911,CLNUT/CO2/BF1,planEntity,Nutrición,n/a,14426.0,,,830800.0,175200.0,,2021,1052
+25910,CLNUT/CO3/BF1,planEntity,Nutrición,n/a,14427.0,,,15420.0,7100.0,,2021,1052
+25907,CLNUT/CO4/BF1,planEntity,Nutrición,n/a,14428.0,,,42.0,42.0,,2021,1052
+25913,CLNUT/CO5/BF1,planEntity,Nutrición,n/a,14429.0,,,4200.0,2100.0,,2021,1052
+25918,CLNUT/CO6/BF1,planEntity,Nutrición,n/a,14430.0,,,420.0,420.0,,2021,1052
+25908,CLNUT/CO7/BF1,planEntity,Nutrición,n/a,14431.0,,,7200.0,1400.0,,2021,1052
+26082,CLPRO/BF1-PRO,cluster,Protección general,PRO,6239.0,,,1700000.0,253351.0,,2021,1052
+26083,CLPRO/BF2-PRO-CPN,cluster,Protección de la infancia,PRO-CPN,6239.0,,,601214.0,204750.0,,2021,1052
+26084,CLPRO/BF3-PRO-GBV,cluster,Violencia de género (VDG),PRO-GBV,6239.0,,,529261.0,264630.0,,2021,1052
+26086,CLPRO/CO1/BF1,planEntity,Protección,n/a,14441.0,,,342200.0,239614.0,,2021,1052
+26087,CLPRO/CO2/BF1,planEntity,Protección,n/a,14442.0,,,278200.0,214010.0,,2021,1052
+26088,CLPRO/CO3/BF1,planEntity,Protección,n/a,14443.0,,,,635000.0,,2021,1052
+26089,CLPRO/CO4/BF1,planEntity,Protección,n/a,14444.0,,,,80.0,,2021,1052
+26100,CLPRO/CO5/BF1,planEntity,Protección,n/a,14445.0,,,4200.0,2000.0,,2021,1052
+26092,CLPRO/CO6/BF1,planEntity,Protección,n/a,14446.0,,,214200.0,53000.0,,2021,1052
+26094,CLPRO/CO7/BF1,planEntity,Protección,n/a,14447.0,,,420.0,40.0,,2021,1052
+26096,CLPRO/CO8/BF1,planEntity,Protección,n/a,14448.0,,,1950.0,1500.0,,2021,1052
+26098,CLPRO/CO9/BF1,planEntity,Protección,n/a,14449.0,,,529300.0,185100.0,,2021,1052
+25731,CLWSH/BF1-WSH,cluster,WASH,WSH,6240.0,,,1100000.0,424000.0,,2021,1052
+25958,CLWSH/CO1/BF1,planEntity,WASH,n/a,14435.0,,,3260930.0,424000.0,,2021,1052
+25961,CLWSH/CO2/BF2,planEntity,WASH,n/a,14436.0,,,4190300.0,42400.0,,2021,1052
+25959,CLWSH/CO3/BF3,planEntity,WASH,n/a,14437.0,,,245026.0,221026.0,,2021,1052
+25673,SO1/BF1,planEntity,Se espera con estas acciones beneficiar a unas 2.4 millones de personas. La temporalidad en la duración de las acciones es entre agosto 2021 y diciembre 2022.,n/a,14354.0,,,,2400000.0,,2021,1052
+25703,SO2/BF2,planEntity,Se espera con estas acciones beneficiar alrededor de un millón de personas. La temporalidad en la duración de las acciones es entre agosto 2021 y diciembre 2022.,n/a,14370.0,,,,911000.0,,2021,1052
+26069,SP1.1/BF1,planEntity,1.1 Asistir en la recuperación de la habitabilidad ...,n/a,14355.0,,,,294043.0,,2021,1052
+26070,SP1.2/BF1,planEntity,1.1 Asistir en la recuperación de la habitabilidad ...,n/a,14372.0,,,,443964.0,,2021,1052
+26071,SP1.3/BF1,planEntity,1.1 Asistir en la recuperación de la habitabilidad ...,n/a,14385.0,,,,1296781.0,,2021,1052
+26072,SP1.4/BF1,planEntity,1.1 Asistir en la recuperación de la habitabilidad ...,n/a,14386.0,,,,366749.0,,2021,1052
+26074,SP2.1/BF1,planEntity,1.1 Asistir en la recuperación de la habitabilidad ...,n/a,14388.0,,,,699869.0,,2021,1052
+26080,SP2.1/BF2,planEntity,establecimientos de salud,n/a,14388.0,,,,254.0,,2021,1052
+26078,SP2.1/BF3,planEntity,Establecimeintos educativos,n/a,14388.0,,,,447.0,,2021,1052
+26075,SP2.2/BF1,planEntity,1.1 Asistir en la recuperación de la habitabilidad ...,n/a,14389.0,,,,155211.0,,2021,1052
+26079,SP2.3/BF1,planEntity,1.1 Asistir en la recuperación de la habitabilidad ...,n/a,14390.0,,,,55898.0,,2021,1052
+26076,SP2.4/BF1,planEntity,"2.4 Reestablecer el funcionamiento de la organización local para la respuesta a la emergencia y la recuperación sostenible con enfoque de derechos y enfoque de “reconstruir mejor”, a través de la implementación de un proceso de empoderamiento y desarrollo de capacidades",n/a,14391.0,,,,20.0,,2021,1052
+26077,SP2.4/BF2,planEntity,"2.4 Reestablecer el funcionamiento de la organización local para la respuesta a la emergencia y la recuperación sostenible con enfoque de derechos y enfoque de “reconstruir mejor”, a través de la implementación de un proceso de empoderamiento y desarrollo de capacidades",n/a,14391.0,,,,200.0,,2021,1052
+26073,SP5/BF1,planEntity,1.1 Asistir en la recuperación de la habitabilidad ...,n/a,14387.0,,,,37650.0,,2021,1052
+26009,BP1,plan,Caseload PIN Honduras,n/a,,10100000.0,4000000.0,2800000.0,1800000.0,28000,2021,1053
+25720,CLCCM/BF1-CCM,cluster,CCCM Pin y Target,CCM,6250.0,,,95000.0,85000.0,,2021,1053
+26106,CLCCM/CO1/BF1,planEntity,PIN y PM CCCM 1,n/a,14404.0,,,20224.0,28000.0,,2021,1053
+26107,CLCCM/CO2/BF1,planEntity,PIN y PM CCCM 2,n/a,14405.0,,,20224.0,18000.0,,2021,1053
+26108,CLCCM/CO3/BF1,planEntity,PIN y PM CCCM 3,n/a,14406.0,,,16852.0,5000.0,,2021,1053
+26109,CLCCM/CO4/BF1,planEntity,PIN y PM CCCM 4,n/a,14407.0,,,4775.0,4250.0,,2021,1053
+26110,CLCCM/CO5/BF1,planEntity,PIN y PM CCCM 5,n/a,14408.0,,,10955.0,9750.0,,2021,1053
+26111,CLCCM/CO6/BF1,planEntity,PIN y PM CCCM 6,n/a,14409.0,,,22470.0,20000.0,,2021,1053
+25585,CLEDU/BF1-EDU,cluster,Education caseload,EDU,6251.0,,,475000.0,273000.0,,2021,1053
+25725,CLERY/BF1-ERY,cluster,Recuperación Temprana,ERY,6254.0,,,1100000.0,680000.0,,2021,1053
+25697,CLFSC-NUT/BF1-FSC,cluster,Seguridad Alimentaria,n/a,6245.0,,,2500000.0,1800000.0,,2021,1053
+25699,CLFSC-NUT/BF2-NUT,cluster,Nutrición,n/a,6245.0,,,520000.0,364000.0,,2021,1053
+29580,CLFSC-NUT/CO4/BF1,planEntity,,n/a,14344.0,,,,,,2021,1053
+25716,CLHEA-OTH/BF1-HEA,cluster,Salud,n/a,6248.0,,,1300000.0,699000.0,,2021,1053
+25717,CLHEA-OTH/BF2-OTH,cluster,Otro,n/a,6248.0,,,1000000.0,151000.0,,2021,1053
+25707,CLPRO/BF1-PRO,cluster,Protección general,PRO,6246.0,,,942000.0,665000.0,,2021,1053
+25709,CLPRO/BF2-PRO-GBV,cluster,Violencia de género (VDG),PRO-GBV,6246.0,,,661000.0,318000.0,,2021,1053
+25710,CLPRO/BF3-PRO-CPN,cluster,Protección de la infancia,PRO-CPN,6246.0,,,302000.0,214000.0,,2021,1053
+25723,CLSHL/BF1-SHL,cluster,Alojamiento de Emergencia CASELOAD Pin y Target,SHL,6252.0,,,89000.0,53000.0,,2021,1053
+25714,CLWSH/BF1-WSH,cluster,WASH PIN y Target,WSH,6247.0,,,2500000.0,900000.0,,2021,1053
+26259,CLWSH/CO1/BF1,planEntity,,n/a,14350.0,,,1777819.0,517379.0,,2021,1053
+26261,CLWSH/CO2/BF1,planEntity,,n/a,14351.0,,,439210.0,207351.0,,2021,1053
+26260,CLWSH/CO3/BF1,planEntity,,n/a,14352.0,,,186403.0,102664.0,,2021,1053
+25587,CQ1/BQ1,planEntity,PIN Bienestar Físico y Mental,n/a,14315.0,,,2100000.0,1800000.0,,2021,1053
+25588,CQ2/BQ1,planEntity,PIN Estándares de Vida,n/a,14318.0,,,2500000.0,588000.0,,2021,1053
+25581,SO1/BF1,planEntity,PIN y Meta Objetivo Estratégico 1,n/a,14314.0,,,2100000.0,1800000.0,,2021,1053
+25589,SO2/BF1,planEntity,PIN y Meta Objetivo Estratégico 2,n/a,14316.0,,,2500000.0,1700000.0,,2021,1053
+25592,SP1.1/BF1,planEntity,PIN y Meta Objetivo Específico 1.1,n/a,14319.0,,,1500000.0,1300000.0,,2021,1053
+25590,SP1.2/BF1,planEntity,PIN y Meta Objetivo Específico 1.2,n/a,14320.0,,,1100000.0,900000.0,,2021,1053
+25591,SP1.3/BF1,planEntity,PIN y Meta Objetivo Específico 1.3,n/a,14321.0,,,2100000.0,1800000.0,,2021,1053
+25593,SP2.1/BF1,planEntity,PIN y Meta Objetivo Específico 2.1,n/a,14328.0,,,2100000.0,1500000.0,,2021,1053
+25595,SP2.2/BF1,planEntity,PIN y Meta Objetivo Específico 2.2,n/a,14329.0,,,2300000.0,1600000.0,,2021,1053
+25594,SP2.3/BF1,planEntity,PIN y Meta Objetivo Específico 2.3,n/a,14330.0,,,1200000.0,865000.0,,2021,1053
+26346,BP1,plan,Plan Estimates,n/a,,6779443.0,3223452.0,1700000.0,912200.0,47687,2021,1054
+26171,CLCCM/BF1-CCM,cluster,CCCM,CCM,6261.0,,,149800.0,12600.0,,2021,1054
+26029,CLCCM/CO1/BF1,planEntity,Objetivo Sectorial 1,n/a,14458.0,,,149800.0,12600.0,,2021,1054
+26064,CLCCM/CO2/BF1,planEntity,Objetivo Sectorial 2,n/a,14459.0,,,12600.0,8500.0,,2021,1054
+26039,CLCCM/CO4/BF1,planEntity,Objetivo Sectorial 4,n/a,14461.0,,,6000.0,1000.0,,2021,1054
+26061,CLCCM/CO5/BF1,planEntity,Objetivo sectorial 5,n/a,14462.0,,,12600.0,4000.0,,2021,1054
+26063,CLCCM/CO6/BF1,planEntity,Objetivo sectorial 6,n/a,14463.0,,,12600.0,1500.0,,2021,1054
+26062,CLCCM/CO7/BF1,planEntity,Objetivo Sectorial 7,n/a,14464.0,,,12600.0,6000.0,,2021,1054
+26058,CLCCM/CO8/BF1,planEntity,Objetivo Sectorial 8,n/a,14465.0,,,12600.0,6000.0,,2021,1054
+26172,CLEDU/BF1-EDU,cluster,Educación,EDU,6262.0,,,792139.0,79200.0,,2021,1054
+26168,CLERY/BF1-ERY,cluster,Recuperación Temprana,ERY,6256.0,,,944697.0,45000.0,,2021,1054
+26008,CLFSC/BF1-FSC,cluster,Food security caseload,FSC,6253.0,,,1043633.0,375000.0,,2021,1054
+26170,CLHEA/BF1-HEA,cluster,Salud,HEA,6259.0,,,998210.0,458000.0,,2021,1054
+26118,CLNUT/BF1-NUT,cluster,Nutrición,NUT,6260.0,,,236000.0,115000.0,,2021,1054
+26169,CLPRO/BF1-PRO,cluster,Protección general,PRO,6257.0,,,759000.0,270000.0,,2021,1054
+26349,CLPRO/BF2-PRO-GBV,cluster,Violencia de género (VDG),PRO-GBV,6257.0,,,605000.0,385500.0,,2021,1054
+26350,CLPRO/BF3-PRO-CPN,cluster,Protección de la infancia,PRO-CPN,6257.0,,,116000.0,554000.0,,2021,1054
+26119,CLWSH/BF1-WSH,cluster,WASH,WSH,6258.0,,,807986.0,150300.0,,2021,1054
+20695,BP1,plan,Plan Caseload,n/a,,17500000.0,,13400000.0,11100000.0,6700000,2021,1044
+20213,CLCCM/BF1-CCM,cluster,Camp Coordination And Camp Management,CCM,6084.0,,,1950000.0,1950000.0,,2021,1044
+20212,CLCSS/BF1-CSS,cluster,Coordination,CSS,6094.0,,,,,,2021,1044
+25089,CLEDU/BF1-EDU,cluster,Education,EDU,6086.0,,,6900000.0,4800000.0,,2021,1044
+20215,CLERY/BF1-ERY,cluster,Early recovery and livelihood,ERY,6085.0,,,11620000.0,2200000.0,,2021,1044
+20217,CLFSC/BF1-FSC,cluster,Food Security,FSC,6087.0,,,14200000.0,13200000.0,,2021,1044
+20218,CLHEA/BF1-HEA,cluster,Health,HEA,6088.0,,,12400000.0,11600000.0,,2021,1044
+20222,CLLOG/BF1-LOG,cluster,Logistics,LOG,6092.0,,,,,,2021,1044
+20219,CLNUT/BF1-NUT,cluster,Nutrition,NUT,6089.0,,,4900000.0,4100000.0,,2021,1044
+20214,CLPRO/BF1-PRO,cluster,General Protection,PRO,6083.0,,,13130000.0,3100000.0,,2021,1044
+25157,CLPRO/BF2-PRO-GBV,cluster,Gender-Based Violence (GBV),PRO-GBV,6083.0,,,13100000.0,1600000.0,,2021,1044
+25158,CLPRO/BF3-PRO-CPN,cluster,Child Protection,PRO-CPN,6083.0,,,13100000.0,2300000.0,,2021,1044
+25159,CLPRO/BF4-PRO-MIN,cluster,Mine Action,PRO-MIN,6083.0,,,10300000.0,5600000.0,,2021,1044
+20220,CLSHL/BF0,cluster,Shelter_Caseload,n/a,6090.0,,,5900000.0,2700000.0,,2021,1044
+25160,CLSHL/BF0-SHL,cluster,NFI_Caseload,SHL,6090.0,,,4700000.0,4100000.0,,2021,1044
+20223,CLTEL/BF1-TEL,cluster,Emergency Telecommunications,TEL,6093.0,,,,,,2021,1044
+20221,CLWSH/BF1-WSH,cluster,"Water, Sanitation and Hygiene",WSH,6091.0,,,12200000.0,12200000.0,,2021,1044

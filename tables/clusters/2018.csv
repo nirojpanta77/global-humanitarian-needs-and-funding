@@ -1,0 +1,305 @@
+clusterId,clusterName,clusterCustomRef,year,plan_id
+4119,CCCM,CLCCM,2018,634
+4120,Child Protection,CLPRO-CPN,2018,634
+4121,Coordination and Common Services,CLCSS,2018,634
+4122,Education,CLEDU,2018,634
+4123,Emergency Livelihoods,CLERY,2018,634
+4124,ETC,CLTEL,2018,634
+4125,Food Security,CLFSC,2018,634
+4126,Gender-Based Violence,CLPRO-GBV,2018,634
+4127,Health,CLHEA,2018,634
+4128,Logistics,CLLOG,2018,634
+4129,Multi-Purpose Cash Assistance,CLMPC,2018,634
+4130,Protection,CLPRO,2018,634
+4131,RRM,CLMS,2018,634
+4132,Shelter - NFI,CLSHL,2018,634
+4133,WASH,CLWSH,2018,634
+3923,Camp Coordination and Camp Management,CLCCM,2018,629
+3924,Coordination,CLCSS,2018,629
+3925,Education,CLEDU,2018,629
+3926,Early Recovery and Livelihoods,CLERY,2018,629
+3927,Emergency Telecommunications,CLTEL,2018,629
+3928,Food Security,CLFSC,2018,629
+3929,Health,CLHEA,2018,629
+3930,Logistics,CLLOG,2018,629
+3931,Nutrition,CLNUT,2018,629
+3932,Protection,CLPRO,2018,629
+3933,Shelter / NFI,CLSHL,2018,629
+3934,WASH,CLWSH,2018,629
+3977,Child Protection,CLPRO-CPN,2018,629
+3978,Gender-Based Violence,CLPRO-GBV,2018,629
+3992,Mine Action,CLPRO-MIN,2018,629
+4054,Abris/NFI,CLSHL,2018,643
+4055,Education,CLEDU,2018,643
+4056,Logistique UNHAS,CLLOG,2018,643
+4057,Nutrition,CLNUT,2018,643
+4058,Protection,CLPRO,2018,643
+4059,S/Cluster Protection de l'Enfant,CLPRO-CPN,2018,643
+4060,S/Cluster VBG,CLPRO-GBV,2018,643
+4061,Santé,CLHEA,2018,643
+4062,Sécurité Alimentaire,CLFSC,2018,643
+4063,Wash,CLWSH,2018,643
+4064,Coordination and Support Services,CLCSS,2018,643
+4116,Multi-Sector for Refugees,CLRR,2018,643
+4015,Coordination and Common Services,CLCSS,2018,636
+4016,Education,CLEDU,2018,636
+4017,Food Security,CLFSC,2018,636
+4018,Health,CLHEA,2018,636
+4019,Protection,CLPRO,2018,636
+4020,Shelter and NFIs,CLSHL,2018,636
+4021,WASH,CLWSH,2018,636
+4111,Multi-Sector,CLMS,2018,636
+3968,Education,CLEDU,2018,633
+3970,Health and Nutrition Cluster,CLHEA,2018,633
+3971,WASH,CLWSH,2018,633
+3972,Food Security Sector,CLFSC,2018,633
+3973,Protection,CLPRO,2018,633
+3974,Coordination and Support Services,CLCSS,2018,633
+3975,Shelter/NFIs,CLSHL,2018,633
+4030,Coordination,CLCSS,2018,640
+4031,Education,CLEDU,2018,640
+4035,Health,CLHEA,2018,640
+4036,Multi-Sector for Refugees,CLRR,2018,640
+4037,Food Security,CLFSC,2018,640
+4038,Protection,CLPRO,2018,640
+4039,Shelter and NFI,CLSHL,2018,640
+4040,WASH,CLWSH,2018,640
+4041,Nutrition,CLNUT,2018,640
+4113,Early Recovery,CLERY,2018,640
+4114,Multi-Sector for Non-Refugees,CLMS,2018,640
+4226,Emergency Employment and Community Rehabilitation,CLERY,2018,657
+4227,Coordination and Safety,CLCSS,2018,657
+4228,Logistics,CLLOG,2018,657
+4229,Nutrition,CLNUT,2018,657
+4230,Emergency Telecommunications,CLTEL,2018,657
+4231,Food Security and Agriculture,CLFSC,2018,657
+4232,Health,CLHEA,2018,657
+4233,Protection,CLPRO,2018,657
+4234,Refugee and Migrant Multi-Sector,CLRR,2018,657
+4235,Shelter / CCCM / NFIs,CLSHL,2018,657
+4236,WASH,CLWSH,2018,657
+4237,Education,CLEDU,2018,657
+4065,Camp Coordination and Camp Management,CLCCM,2018,642
+4066,Coordination and Support Services,CLCSS,2018,642
+4067,Early Recovery and Livelihoods,CLERY,2018,642
+4068,Education,CLEDU,2018,642
+4069,Emergency Shelter and NFI,CLSHL,2018,642
+4070,Logistics,CLLOG,2018,642
+4071,Food Security,CLFSC,2018,642
+4072,Health,CLHEA,2018,642
+4073,Nutrition,CLNUT,2018,642
+4074,Protection,CLPRO,2018,642
+4075,Water and Sanitation,CLWSH,2018,642
+4076,Emergency Telecommunications,CLTEL,2018,642
+4117,Child Protection,CLPRO-CPN,2018,642
+4118,Gender-Based Violence,CLPRO-GBV,2018,642
+4258,Sécurité alimentaire,CLFSC,2018,661
+4259,Nutrition,CLNUT,2018,661
+4260,Réponse aux réfugiés,CLRR,2018,661
+4261,"Santé, eau, hygiène et assainissement",CLWSH,2018,661
+4262,Service UNHAS,CLCSS-LOG,2018,661
+4185,Protection,CLPRO,2018,652
+4186,WASH,CLWSH,2018,652
+4187,Health,CLHEA,2018,652
+4188,Food Security,CLFSC,2018,652
+4189,Non Food Items and Shelter,CLSHL,2018,652
+4190,Nutrition,CLNUT,2018,652
+4191,Education,CLEDU,2018,652
+4192,Refugees Non-sectoral Response,CLRR,2018,652
+4193,Logistics,CLLOG,2018,652
+4194,Emergency Telecommunications,CLTEL,2018,652
+4195,Coordination,CLCSS,2018,652
+4196,Cash,CLMPC,2018,652
+4146,Abris et Biens non Alimentaires,CLSHL,2018,649
+4147,Cholera,CLHEA1,2018,649
+4148,Coordination,CLCSS,2018,649
+4149,CCCM,CLCCM,2018,649
+4150,Education,CLEDU,2018,649
+4151,Logistique,CLLOG,2018,649
+4152,Nutrition,CLNUT,2018,649
+4153,Protection,CLPRO,2018,649
+4154,Relèvement,CLERY,2018,649
+4155,Santé,CLHEA,2018,649
+4156,Sécurité Alimentaire,CLFSC,2018,649
+4157,Télécommunication d'Urgence,CLCSS1,2018,649
+4158,WASH,CLWSH,2018,649
+4134,Camp Coordination and Camp Management,CLCCM,2018,648
+4135,Common Services,CLCSS,2018,648
+4136,Community Restoration,CLERY,2018,648
+4137,Education,CLEDU,2018,648
+4138,Emergency Shelter and NFIs,CLSHL,2018,648
+4139,Food Security,CLFSC,2018,648
+4140,Health,CLHEA,2018,648
+4141,Multi-sector for Refugees,CLRR,2018,648
+4142,Nutritiion,CLNUT,2018,648
+4143,Protection,CLPRO,2018,648
+4144,WASH,CLWSH,2018,648
+4297,Camp Coordination and Camp Management,CLCCM,2018,665
+4298,Early Recovery,CLERY,2018,665
+4299,Education,CLEDU,2018,665
+4300,Food Security and Agriculture,CLFSC,2018,665
+4301,Nutrition,CLNUT,2018,665
+4302,Health (including Reproductive Health and Mental Health and Psychosocial Services),CLHEA,2018,665
+4303,Protection,CLPRO,2018,665
+4304,Protection - Child Protection,CLPRO-CPN,2018,665
+4305,Protection - Gender-Based Violence,CLPRO-GBV,2018,665
+4306,Emergency Shelter,CLSHL1,2018,665
+4307,"Water, Sanitation and Hygiene",CLWSH,2018,665
+4308,Coordination,CLCSS,2018,665
+4309,Multi-sector,CLMS,2018,665
+4310,Shelter,CLSHL,2018,665
+3979,Child Protection,CLPRO-CPN,2018,635
+3980,Common Services,CLCSS,2018,635
+3981,Education,CLEDU,2018,635
+3982,Emergency Shelter and Non-Food Items,CLSHL,2018,635
+3983,Food Security and Livelihoods,CLFSC,2018,635
+3984,Gender-based Violence,CLPRO-GBV,2018,635
+3985,Health,CLHEA,2018,635
+3986,Logistics and Emergency Telecommunications,CLLOG,2018,635
+3987,Nutrition,CLNUT,2018,635
+3988,Protection,CLPRO,2018,635
+3989,Refugee Multi-Sector,CLRR,2018,635
+3990,"Recovery, Returns and Reintegration",CLERY,2018,635
+3991,"Water, Sanitation and Hygiene",CLWSH,2018,635
+4088,Aviation,CLLOG,2018,645
+4089,Coordination,CLCSS,2018,645
+4090,Emergency Shelter and NFI,CLSHL,2018,645
+4091,Food Security and Agriculture,CLFSC,2018,645
+4092,Health,CLHEA,2018,645
+4093,Multi Purpose Cash,CLMPC,2018,645
+4094,Nutrition,CLNUT,2018,645
+4095,Protection,CLPRO,2018,645
+4096,"Water, Sanitation and Hygiene",CLWSH,2018,645
+4097,Education in Emergencies WG,CLEDU,2018,645
+4077,Camp Coordination and Camp Management (CCCM),CLCCM,2018,644
+4079,Education,CLEDU,2018,644
+4080,Enabling Programmes,CLCSS,2018,644
+4081,Food Security,CLFSC,2018,644
+4082,Health,CLHEA,2018,644
+4083,Logistics,CLLOG,2018,644
+4084,Nutrition,CLNUT,2018,644
+4085,Protection,CLPRO,2018,644
+4086,Shelter and NFIs,CLSHL,2018,644
+4087,"Water, Sanitation and Hygiene",CLWSH,2018,644
+4112,Multi-Sectoral Assistance,CLRR,2018,644
+3994,Coordination and Support Services,CLCSS,2018,638
+3995,Education,CLEDU,2018,638
+3996,Emergency Shelter and NFI,CLSHL,2018,638
+3997,Food Security,CLFSC,2018,638
+3999,Health,CLHEA,2018,638
+4000,Nutrition,CLNUT,2018,638
+4001,Protection,CLPRO,2018,638
+4002,Water and Sanitation,CLWSH,2018,638
+4339,Gender-Based Violence,CLPRO-GBV,2018,669
+4340,Early Recovery,CLERY,2018,669
+4341,Food Security and Livelihoods,CLFSC,2018,669
+4342,Water Sanitation and Hygiene,CLWSH,2018,669
+4343,Camp Management,CLCCM,2018,669
+4344,Logistics,CLLOG,2018,669
+4345,Child Protection,CLPRO-CPN,2018,669
+4346,Education,CLEDU,2018,669
+4347,Shelter,CLSHL,2018,669
+4348,Health,CLHEA,2018,669
+4205,Education,CLEDU,2018,655
+4206,Food security,CLFSC,2018,655
+4207,Health,CLHEA,2018,655
+4208,Nutrition,CLNUT,2018,655
+4209,Protection,CLPRO,2018,655
+4210,Shelter/NFIs/CCCM,CLSHL,2018,655
+4211,WASH,CLWSH,2018,655
+4212,Coordination & common services,CLCSS,2018,655
+4022,Coordination,CLCSS,2018,639
+4023,"Eau, Hygiène et Assainissement",CLWSH,2018,639
+4024,Education,CLEDU,2018,639
+4025,Logistique,CLLOG,2018,639
+4026,"Abris, Articles Non Alimentaires et CCCM",CLSHL,2018,639
+4027,Santé,CLHEA,2018,639
+4028,Sécurité Alimentaire,CLFSC,2018,639
+4029,Nutrition,CLNUT,2018,639
+4032,Protection,CLPRO,2018,639
+4245,Réponse multisectorielle aux réfugiés,CLRR,2018,639
+4004,Abris/AME/CCCM,CLSHL,2018,637
+4005,"Eau, hygiène et assainissement",CLWSH,2018,637
+4006,Education,CLEDU,2018,637
+4007,Nutrition,CLNUT,2018,637
+4008,Protection,CLPRO,2018,637
+4009,Santé,CLHEA,2018,637
+4010,Sécurité alimentaire,CLFSC,2018,637
+4011,Plan de réponse pour les réfugiés,CLRR,2018,637
+4012,Logistique,CLLOG,2018,637
+4013,Coordination,CLCSS,2018,637
+4099,Camp Coordination and Management,CLCCM,2018,646
+4100,Coordination and Common Services (CCS),CLCSS,2018,646
+4101,Education,CLEDU,2018,646
+4102,Emergency Telecommunications (ETC),CLTEL,2018,646
+4103,Food Security and Livelihoods (FSL),CLFSC,2018,646
+4104,Health,CLHEA,2018,646
+4105,Logistics (LOGS),CLLOG,2018,646
+4106,Non Food Items and Emergency Shelter (NFI&ES),CLSHL,2018,646
+4107,Nutrition,CLNUT,2018,646
+4108,Other Refugee Response,CLRR,2018,646
+4109,Protection,CLPRO,2018,646
+4110,"Water, Sanitation and Hygiene (WASH)",CLWSH,2018,646
+4173,Abris / NFI / CCCM,CLSHL,2018,651
+4174,Education,CLEDU,2018,651
+4175,"Eau, Hygiène et assainissement (EHA)",CLWSH,2018,651
+4176,Logistique,CLLOG,2018,651
+4177,Moyen de Subsistance et Stabilisation Communautaire (MSSC),CLERY,2018,651
+4178,Nutrition,CLNUT,2018,651
+4179,Protection,CLPRO,2018,651
+4180,Santé,CLHEA,2018,651
+4181,Sécurité Alimentaire,CLFSC,2018,651
+4182,Télécom d'Urgences,CLTEL,2018,651
+4183,Plan de Réponse pour les Réfugiés,CLRR,2018,651
+4184,Coordination,CLCSS,2018,651
+4042,Education,CLEDU,2018,641
+4043,Food Security and Livelihoods,CLFSC,2018,641
+4044,Health and Nutrition,CLHEA,2018,641
+4045,Humanitarian Coordination,CLCSS,2018,641
+4046,Logistics,CLLOG,2018,641
+4047,Protection: Mine Action,CLPRO-MIN,2018,641
+4048,Protection: Protection,CLPRO,2018,641
+4049,Protection: Gender-based Violence (GBV),CLPRO-GBV,2018,641
+4050,Protection: Child Protection,CLPRO-CPN,2018,641
+4051,Shelter / Non-Food Items (NFI),CLSHL,2018,641
+4052,"Water, Sanitation and Hygiene (WASH)",CLWSH,2018,641
+4053,Other,CLMS,2018,641
+4244,Multipurpose Cash Assistance,CLMPC,2018,641
+4202,Sécurité alimentaire,CLFSC,2018,654
+4203,Nutrition,CLNUT,2018,654
+4204,Préparation et réponse aux urgences,CLMS,2018,654
+4246,Food Security (including Agriculture),CLFSC,2018,659
+4247,Nutrition,CLNUT,2018,659
+4248,Health,CLHEA,2018,659
+4249,"Water, Sanitation and Hygiene (WASH)",CLWSH,2018,659
+4214,Education,CLEDU,2018,656
+4215,Communication with Communities,CLCSS1,2018,656
+4216,Logistics,CLCSS2,2018,656
+4217,Nutrition,CLNUT,2018,656
+4218,Food Security,CLFSC,2018,656
+4219,Health,CLHEA,2018,656
+4220,Coordination,CLCSS,2018,656
+4221,Protection,CLPRO,2018,656
+4222,Refugee Response (Multi-Sector),CLRR,2018,656
+4223,Shelter and Non-Food Items,CLSHL,2018,656
+4224,Site Management,CLSHL-CCM,2018,656
+4225,"Water, Sanitation and Hygiene",CLWSH,2018,656
+4239,Protection - Gender-Based Violence,CLPRO-GBV,2018,656
+4240,Emergency Telecommunications,CLTEL,2018,656
+4241,GiHA WG,CLCSS3,2018,656
+4242,Protection - Child Protection,CLPRO-CPN,2018,656
+4243,Multi-sector,CLMS,2018,658
+4197,Sécurité alimentaire,CLFSC,2018,653
+4198,Nutrition,CLNUT,2018,653
+4199,Réfugiés,CLRR,2018,653
+4200,PDI,CLMS,2018,653
+4201,Préparation à la réponse aux catastrophes,CLCSS,2018,653
+4250,Education,CLEDU,2018,660
+4251,Agriculture and Livestock,CLFSC1,2018,660
+4252,Food,CLFSC,2018,660
+4253,Emergency Shelter and non-food items,CLSHL,2018,660
+4254,Health,CLHEA,2018,660
+4255,Nutrition,CLNUT,2018,660
+4256,Protection,CLPRO,2018,660
+4257,"Water, Sanitation and Hygiene",CLWSH,2018,660
+4546,Logistics,CLLOG,2018,660

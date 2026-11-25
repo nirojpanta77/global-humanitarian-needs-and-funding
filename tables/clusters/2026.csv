@@ -1,0 +1,334 @@
+clusterId,clusterName,clusterCustomRef,year,plan_id
+8620,Coordination et gestion des camps,CLCCM,2026,1509
+8757,"Coordination, soutien thématique et support au système",CLCSS,2026,1509
+8758,Abris et AME,CLSHL,2026,1509
+8759,Logistique,CLLOG,2026,1509
+8760,Sécurité alimentaire,CLFSC,2026,1509
+8761,Santé,CLHEA,2026,1509
+8762,Transfert d’espèces à usages multiples,CLMPC,2026,1509
+8763,Nutrition,CLNUT,2026,1509
+8764,"Eau, hygiène & assainissement",CLWSH,2026,1509
+8765,Réponse multisectorielle aux réfugiés,CLRR,2026,1509
+8766,Education,CLEDU,2026,1509
+8767,Protection,CLPRO,2026,1509
+8618,"Coordination, soutien thématique et support au système",CLCSS,2026,1511
+8840,Education,CLEDU,2026,1511
+8841,Abris/Biens Non Alimentaires,CLSHL,2026,1511
+8842,Sécurité alimentaire,CLFSC,2026,1511
+8843,Santé,CLHEA,2026,1511
+8844,Nutrition,CLNUT,2026,1511
+8845,Protection,CLPRO,2026,1511
+8846,Eau Hygiène et Assainissement,CLWSH,2026,1511
+8847,Réponse aux Réfugiés,CLRR,2026,1511
+8848,Transfert d’espèces à usages multiples,CLMPC,2026,1511
+8619,Protection,CLPRO,2026,1510
+8682,Multi-purpose Cash Assistance,CLMPC,2026,1510
+8683,"Water, Sanitation and Hygiene",CLWSH,2026,1510
+8684,Education,CLEDU,2026,1510
+8685,Food Security,CLFSC,2026,1510
+8686,Shelter,CLSHL,2026,1510
+8687,Health,CLHEA,2026,1510
+8688,Nutrition,CLNUT,2026,1510
+8689,"Coordination, Thematics and System Support",CLCSS,2026,1510
+8690,Logistics,CLLOG,2026,1510
+8691,Emergency Telecommunications,CLTEL,2026,1510
+8692,Site Management,CLCCM,2026,1510
+8628,Abris/AME,CLSHL,2026,1499
+8865,Gestion des Sites d’Accueil Temporaires,CLCCM,2026,1499
+8866,Nutrition,CLNUT,2026,1499
+8867,Protection,CLPRO,2026,1499
+8868,Santé,CLHEA,2026,1499
+8869,Sécurité alimentaire,CLFSC,2026,1499
+8870,Réponse aux réfugiés,CLRR,2026,1499
+8871,"Coordination, soutien thématique et support au système",CLCSS,2026,1499
+8872,Logistiques,CLLOG,2026,1499
+8873,"Eau, Hygiène et Assainissement",CLWSH,2026,1499
+8874,Education,CLEDU,2026,1499
+9147,Camp Coordination and Camp Management (CCCM),CLCCM,2026,1637
+9148,Education,CLEDU,2026,1637
+9149,Food Security,CLFSC,2026,1637
+9150,Health,CLHEA,2026,1637
+9151,Nutrition,CLNUT,2026,1637
+9152,Protection,CLPRO,2026,1637
+9153,Shelter,CLSHL,2026,1637
+9154,WASH,CLWSH,2026,1637
+9155,Logistics and Emergency Telecommunications,CLLOG,2026,1637
+9156,Coordination,CLCSS,2026,1637
+8998,Multi-sector,CLMS,2026,1527
+8985,Multi-sector,CLMS,2026,1528
+8627,Protección,CLPRO,2026,1500
+8849,"Agua, Saneamiento e Higiene",CLWSH,2026,1500
+8850,Educación en Emergencias,CLEDU,2026,1500
+8851,Seguridad Alimentaria y Nutrición,CLFSC,2026,1500
+8852,Salud,CLHEA,2026,1500
+8853,"Coordinación, apoyo temático y sistémico",CLCSS,2026,1500
+8854,Alojamientos y Asentamientos,CLSHL,2026,1500
+8855,Transferencias monetarias multipropósito,CLMPC,2026,1500
+8626,Abris AME,CLSHL,2026,1501
+8789,CCCM,CLCCM,2026,1501
+8790,Education,CLEDU,2026,1501
+8791,Nutrition,CLNUT,2026,1501
+8792,Protection,CLPRO,2026,1501
+8793,Santé,CLHEA,2026,1501
+8794,Sécurité Alimentaire,CLFSC,2026,1501
+8795,"Eau, Hygiène et Assainissement",CLWSH,2026,1501
+8796,Réponse pour les réfugiés,CLRR,2026,1501
+8797,"Coordination, soutien thématique et support au système",CLCSS,2026,1501
+8798,Transfert d'Espèce à Usage Multiple (TEUM),CLMPC,2026,1501
+8616,Santé,CLHEA,2026,1513
+8908,Education,CLEDU,2026,1513
+8909,Abris/NFI,CLSHL,2026,1513
+8910,Sécurité Alimentaire,CLFSC,2026,1513
+8911,"Coordination, soutien thématique et support au système",CLCSS,2026,1513
+8912,"EHA - Eau, Hygiène et Assainissement",CLWSH,2026,1513
+8913,Protection,CLPRO,2026,1513
+8914,Transfert d’espèces à usages multiples,CLMPC,2026,1513
+8915,Logistique,CLLOG,2026,1513
+8916,Réponse aux Réfugiés,CLRR,2026,1513
+8917,Nutrition,CLNUT,2026,1513
+8604,,CL1,2026,1523
+8605,Education,CLEDU,2026,1524
+9031,Food Security,CLFSC,2026,1524
+9032,Health,CLHEA,2026,1524
+9033,Livelihoods and Skills Development,CLERY,2026,1524
+9034,Nutrition,CLNUT,2026,1524
+9035,Protection,CLPRO,2026,1524
+9036,Shelter-CCCM,CLSHL,2026,1524
+9037,Water Sanitation and Hygiene,CLWSH,2026,1524
+9038,Coordination,CLCSS,2026,1524
+9039,Bhasan Char Response,CLMS,2026,1524
+8603,Education,CLEDU,2026,1502
+8831,Emergency Shelter and NFI,CLSHL,2026,1502
+8832,Food Security and Agriculture,CLFSC,2026,1502
+8833,Health,CLHEA,2026,1502
+8834,Nutrition,CLNUT,2026,1502
+8835,Protection,CLPRO,2026,1502
+8836,"Water, Sanitation and Hygiene",CLWSH,2026,1502
+8837,Aviation,CLLOG,2026,1502
+8838,"Coordination, Thematics and System Support",CLCSS,2026,1502
+8839,Multipurpose Cash,CLMPC,2026,1502
+8615,Site Management,CLCCM,2026,1514
+8799,Multi-Purpose Cash,CLMPC,2026,1514
+8800,Education,CLEDU,2026,1514
+8801,"Coordination, Thematic and System Support",CLCSS,2026,1514
+8802,Emergency Shelter and Non-Food Items,CLSHL,2026,1514
+8803,Protection,CLPRO,2026,1514
+8804,Food Security and Livelihoods,CLFSC,2026,1514
+8805,Health,CLHEA,2026,1514
+8806,Nutrition,CLNUT,2026,1514
+8807,Enabling Services,CLLOG,2026,1514
+8808,Refugee Response,CLRR,2026,1514
+8809,"Water, Sanitation and Hygiene",CLWSH,2026,1514
+8625,Abris et BNA,CLSHL,2026,1503
+8810,CCCM,CLCCM,2026,1503
+8811,Education,CLEDU,2026,1503
+8812,"Eau Potable, Assainissement et Hygiène",CLWSH,2026,1503
+8813,Nutrition,CLNUT,2026,1503
+8814,Santé,CLHEA,2026,1503
+8815,Sécurité Alimentaire,CLFSC,2026,1503
+8816,"Coordination, soutien thématique et support au système",CLCSS,2026,1503
+8817,Logistique,CLLOG,2026,1503
+8818,Protection,CLPRO,2026,1503
+8819,Cash à Usage Multiple,CLMPC,2026,1503
+8630,Common services,CLCSS,2026,1525
+8768,Education,CLEDU,2026,1525
+8769,Financial Support,CLMPC,2026,1525
+8770,Food Security,CLFSC,2026,1525
+8771,Health,CLHEA,2026,1525
+8772,Humanitarian Transportation,CLLOG,2026,1525
+8773,Integration,CLERY,2026,1525
+8775,Protection,CLPRO,2026,1525
+8776,Shelter,CLSHL,2026,1525
+8777,WASH,CLWSH,2026,1525
+8788,Nutrition,CLNUT,2026,1525
+8613,Camp Coordination and Camp Management,CLCCM,2026,1516
+8820,"Coordination, Thematics and System Support",CLCSS,2026,1516
+8821,Food Security and Livelihoods,CLFSC,2026,1516
+8822,Protection,CLPRO,2026,1516
+8823,Education,CLEDU,2026,1516
+8824,Health,CLHEA,2026,1516
+8825,Nutrition,CLNUT,2026,1516
+8826,Logistics,CLLOG,2026,1516
+8827,Shelter and NFIs,CLSHL,2026,1516
+8828,Multi Purpose Cash,CLMPC,2026,1516
+8829,"Water, Sanitation and Hygiene",CLWSH,2026,1516
+8830,Refugee Response,CLRR,2026,1516
+8612,"Agua, saneamiento e higiene",CLWSH,2026,1517
+8901,Educación,CLEDU,2026,1517
+8902,Nutrición,CLNUT,2026,1517
+8903,Protección,CLPRO,2026,1517
+8904,Salud,CLHEA,2026,1517
+8905,Seguridad alimentaria,CLFSC,2026,1517
+8906,"Coordinación, apoyo temático y sistémico",CLCSS,2026,1517
+9103,Shelter WG,CLSHL,2026,1517
+9104,Logistics (WG),CLLOG,2026,1517
+8674,Education,CLEDU,2026,1565
+8675,"Food Security, Agriculture and Nutrition",CLFSC|AGR|NUT,2026,1565
+8676,Health,CLHEA,2026,1565
+8677,Protection,CLPRO,2026,1565
+8678,Shelter/NFI/CCCM,CLSHL,2026,1565
+8679,WASH,CLWSH,2026,1565
+8680,Early Recovery,CLERY,2026,1565
+8607,Education,CLEDU,2026,1505
+8732,Food Security,CLFSC,2026,1505
+8733,Health,CLHEA,2026,1505
+8734,Nutrition,CLNUT,2026,1505
+8735,Protection,CLPRO,2026,1505
+8736,Shelter / NFI / CCCM,CLSHL,2026,1505
+8737,WASH,CLWSH,2026,1505
+8738,"Coordination, Thematics and System Support",CLCSS,2026,1505
+8739,Early Recovery,CLERY,2026,1505
+8740,Multi-Purpose Cash,CLMPC,2026,1505
+8623,Camp Coordination and Camp Management (CCCM),CLCCM,2026,1506
+8712,Education,CLEDU,2026,1506
+8713,Health,CLHEA,2026,1506
+8714,Food Security and Livelihoods,CLFSC,2026,1506
+8715,Nutrition,CLNUT,2026,1506
+8716,Protection,CLPRO,2026,1506
+8717,Shelter/NFIs,CLSHL,2026,1506
+8718,"Water, Sanitation and Hygiene (WASH)",CLWSH,2026,1506
+8719,Logistics,CLLOG,2026,1506
+8720,"Coordination, Thematics and System Support",CLCSS,2026,1506
+8622,ABRIS&NFI,CLSHL,2026,1507
+8721,CCCM,CLCCM,2026,1507
+8722,Education,CLEDU,2026,1507
+8723,Santé,CLHEA,2026,1507
+8724,Nutrition,CLNUT,2026,1507
+8725,Sécurité alimentaire,CLFSC,2026,1507
+8726,"Eau, hygiène et assainissement",CLWSH,2026,1507
+8727,Protection,CLPRO,2026,1507
+8728,Transfert d’espèces à usages multiples,CLMPC,2026,1507
+8729,Réponse aux réfugiés,CLMS,2026,1507
+8730,Logistique,CLLOG,2026,1507
+8731,"Coordination, soutien thématique et support au système",CLCSS,2026,1507
+8617,Camp Coordination  and Camp  Management,CLCCM,2026,1512
+8701,Education,CLEDU,2026,1512
+8702,Food Security,CLFSC,2026,1512
+8703,Health,CLHEA,2026,1512
+8704,Logistics,CLLOG,2026,1512
+8705,Nutrition,CLNUT,2026,1512
+8706,Protection,CLPRO,2026,1512
+8707,Shelter and Non-food Items,CLSHL,2026,1512
+8708,"Water, Sanitation  and Hygiene",CLWSH,2026,1512
+8709,"Coordination, Thematic and System Support",CLCSS,2026,1512
+8710,Multi-Purpose Cash,CLMPC,2026,1512
+8711,Refugee Response,CLRR,2026,1512
+8606,Multi-Purpose Cash,CLMPC,2026,1518
+8986,Camp Coordination and Camp Management,CLCCM,2026,1518
+8987,Education,CLEDU,2026,1518
+8988,Nutrition,CLNUT,2026,1518
+8989,Food Security,CLFSC,2026,1518
+8990,Health,CLHEA,2026,1518
+8991,Protection,CLPRO,2026,1518
+8992,"Water, Sanitation and Hygiene",CLWSH,2026,1518
+8993,"Coordination, Thematics and System Support",CLCSS,2026,1518
+8994,Logistics,CLLOG,2026,1518
+8995,Shelter,CLSHL1,2026,1518
+8996,NFI,CLSHL2,2026,1518
+8889,Abris d’urgence,CLSHL,2026,1567
+8890,"Eau, hygiène et assainissement",CLWSH,2026,1567
+8891,Education,CLEDU,2026,1567
+8892,Protection,CLPRO,2026,1567
+8893,Santé,CLHEA,2026,1567
+8894,Nutrition,CLNUT,2026,1567
+8895,Sécurité alimentaire,CLFSC,2026,1567
+8896,Agriculture,CLAGR,2026,1567
+8898,Coordination et services communs,CLCSS,2026,1567
+8899,Logistique,CLLOG,2026,1567
+8610,Camp Coordination & Camp Management,CLCCM,2026,1520
+8876,Education,CLEDU,2026,1520
+8877,Food Security and Agriculture,CLFSC,2026,1520
+8878,Health,CLHEA,2026,1520
+8879,Multipurpose Cash,CLMPC,2026,1520
+8880,Nutrition,CLNUT,2026,1520
+8881,Protection,CLPRO,2026,1520
+8882,Refugees and Migrants Multisector,CLRR,2026,1520
+8883,Rapid Response Mechanism (RRM),CLRRM,2026,1520
+8884,Shelter and NFI,CLSHL,2026,1520
+8885,"WASH, Sanitation and Hygiene",CLWSH,2026,1520
+8886,Logistics,CLLOG,2026,1520
+8887,"Coordination, Thematic  and Systems Support",CLCSS,2026,1520
+8888,Emergency Telecommunications,CLTEL,2026,1520
+9181,Health,CLHEA,2026,1670
+9182,Protection,CLPRO,2026,1670
+9183,Food Security Livelihoods and Nutrition,CLFSC,2026,1670
+9184,"Water, Sanitation and Hygiene",CLWSH,2026,1670
+9185,Coordination Thematic and System Support,CLCSS,2026,1670
+8629,Education,CLEDU,2026,1498
+8856,Food Security,CLFSC,2026,1498
+8857,Health,CLHEA,2026,1498
+8858,Nutrition,CLNUT,2026,1498
+8859,Protection,CLPRO,2026,1498
+8860,Shelter and NFI,CLSHL,2026,1498
+8861,"Water, Sanitation and Hygiene",CLWSH,2026,1498
+8862,Refugee Response,CLRR,2026,1498
+8863,Multipurpose Cash,CLMPC,2026,1498
+8864,"Coordination, Thematics and System Support",CLCSS,2026,1498
+8961,Seguridad Alimentaria y Nutrición,CLFSC,2026,1601
+8969,Albergues y Vivienda,CLSHL,2026,1601
+8970,"Agua, Saneamiento e Higiene",CLWSH,2026,1601
+8971,Salud,CLHEA,2026,1601
+8972,Logística,CLLOG,2026,1601
+8973,Educación,CLEDU,2026,1601
+8974,Energy Working Group,CLCSS,2026,1601
+8875,,CL1,2026,1566
+8918,"Coordination, Thematics and System Support",CLCSS,2026,1568
+8951,Multi-Purpose Cash Assistance (MPCA),CLMPC,2026,1568
+8952,Education,CLEDU,2026,1568
+8953,Food Security and Agriculture,CLFSC1,2026,1568
+8954,Health,CLHEA,2026,1568
+8955,Nutrition,CLNUT,2026,1568
+8956,Protection,CLPRO,2026,1568
+8957,Shelter & SMC,CLSHL,2026,1568
+8958,"Water, Sanitation and Hygiene",CLWSH,2026,1568
+8959,Logistics and Telecommunications,CLLOG|TEL,2026,1568
+8960,Social Stability,CLOTH,2026,1568
+9070,Livelihoods,CLFSC2,2026,1568
+8621,CCCM,CLCCM,2026,1508
+8778,Education,CLEDU,2026,1508
+8779,Food Security,CLFSC,2026,1508
+8780,Health,CLHEA,2026,1508
+8781,Nutrition,CLNUT,2026,1508
+8782,Protection,CLPRO,2026,1508
+8783,Shelter and Non-food Items,CLSHL,2026,1508
+8784,WASH,CLWSH,2026,1508
+8785,"Coordination, Thematics and System Support",CLCSS,2026,1508
+8786,Logistics ETS LS,CLLOG,2026,1508
+8787,Multi-Purpose Cash,CLMPC,2026,1508
+8608,Education,CLEDU,2026,1522
+8741,"Food Security, Agriculture and Livelihoods",CLFSC,2026,1522
+8742,Health,CLHEA,2026,1522
+8743,Nutrition,CLNUT,2026,1522
+8744,Protection,CLPRO,2026,1522
+8745,Shelter/NFI,CLSHL,2026,1522
+8746,"Water, Sanitation and Hygiene",CLWSH,2026,1522
+8747,Recovery,CLERY,2026,1522
+8641,Food Security and Livelihoods,CLFSC,2026,1532
+8748,Health,CLHEA,2026,1532
+8749,Nutrition,CLNUT,2026,1532
+8750,WASH,CLWSH,2026,1532
+8751,Shelter & NFI,CLSHL,2026,1532
+8752,Education,CLEDU,2026,1532
+8753,Protection,CLPRO,2026,1532
+8754,Multi-Purpose Cash,CLMPC,2026,1532
+8755,Coordination and common services,CLCSS,2026,1532
+8614,Education,CLEDU,2026,1515
+8693,Food Security and Livelihoods,CLFSC,2026,1515
+8694,Health,CLHEA,2026,1515
+8695,Protection,CLPRO,2026,1515
+8696,Shelter & Non-Food Items,CLSHL,2026,1515
+8697,"Water, Sanitation & Hygiene",CLWSH,2026,1515
+8698,"Coordination, Thematic and Support Services",CLCSS,2026,1515
+8699,Logistics,CLLOG,2026,1515
+8700,Multi-purpose Cash,CLMPC,2026,1515
+8756,Emergency Telecommunications,CLTEL,2026,1515
+8975,Protection,CLPRO,2026,1603
+8976,Basic Needs,CLMPC,2026,1603
+8977,Education,CLEDU,2026,1603
+8978,Food Security,CLFSC,2026,1603
+8979,Livelihoods & Economic Inclusion,CLERY,2026,1603
+8980,Public Health & Nutrition,CLHEA|NUT,2026,1603
+8981,"Settlement, Shelter & Housing",CLSHL,2026,1603
+8982,WASH,CLWSH,2026,1603
+8983,Telecommunications,CLTEL,2026,1603
+8984,Coordination,CLCSS,2026,1603

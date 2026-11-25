@@ -1,0 +1,551 @@
+planClusters,globalClusterId,globalClusterCode,globalClusterName,globalClusterType,year,plan_id
+[5898],1,CCM,Camp Coordination / Management,global,2021,1024
+[5892],3,EDU,Education,global,2021,1024
+[5895],4,SHL,Emergency Shelter and NFI,global,2021,1024
+[5900],5,TEL,Emergency Telecommunications,global,2021,1024
+[5896],6,FSC,Food Security,global,2021,1024
+[5893],7,HEA,Health,global,2021,1024
+[5897],8,LOG,Logistics,global,2021,1024
+[5894],9,NUT,Nutrition,global,2021,1024
+[5901],10,PRO,Protection,global,2021,1024
+[5899],11,WSH,Water Sanitation Hygiene,global,2021,1024
+[5901],12,PRO-CPN,Protection - Child Protection,aor,2021,1024
+[5901],13,PRO-GBV,Protection - Gender-Based Violence,aor,2021,1024
+[5901],15,PRO-MIN,Protection - Mine Action,aor,2021,1024
+[5936],26479,MS,Multi-sector,custom,2021,1024
+"[5891, 6168]",26480,CSS,Coordination and support services,custom,2021,1024
+[6081],1,CCM,Camp Coordination / Management,global,2021,1042
+[6073],3,EDU,Education,global,2021,1042
+[6079],4,SHL,Emergency Shelter and NFI,global,2021,1042
+[6074],6,FSC,Food Security,global,2021,1042
+[6075],7,HEA,Health,global,2021,1042
+[6076],9,NUT,Nutrition,global,2021,1042
+[6077],10,PRO,Protection,global,2021,1042
+[6078],11,WSH,Water Sanitation Hygiene,global,2021,1042
+[6077],12,PRO-CPN,Protection - Child Protection,aor,2021,1042
+[6077],13,PRO-GBV,Protection - Gender-Based Violence,aor,2021,1042
+[6082],26480,CSS,Coordination and support services,custom,2021,1042
+[6165],2,ERY,Early Recovery,global,2021,1021
+[6162],3,EDU,Education,global,2021,1021
+[6161],4,SHL,Emergency Shelter and NFI,global,2021,1021
+[5958],6,FSC,Food Security,global,2021,1021
+[6160],7,HEA,Health,global,2021,1021
+[6164],8,LOG,Logistics,global,2021,1021
+[6166],9,NUT,Nutrition,global,2021,1021
+[6163],10,PRO,Protection,global,2021,1021
+[6158],11,WSH,Water Sanitation Hygiene,global,2021,1021
+[6163],12,PRO-CPN,Protection - Child Protection,aor,2021,1021
+[6163],13,PRO-GBV,Protection - Gender-Based Violence,aor,2021,1021
+[6157],26479,MS,Multi-sector,custom,2021,1021
+[6159],26480,CSS,Coordination and support services,custom,2021,1021
+[6163],26546,PRO-HTS,Protection - Human Trafficking & Smuggling,aor,2021,1021
+[5990],1,CCM,Camp Coordination / Management,global,2021,1032
+[5991],2,ERY,Early Recovery,global,2021,1032
+[5992],3,EDU,Education,global,2021,1032
+[5993],4,SHL,Emergency Shelter and NFI,global,2021,1032
+[5999],5,TEL,Emergency Telecommunications,global,2021,1032
+[5994],6,FSC,Food Security,global,2021,1032
+[5995],7,HEA,Health,global,2021,1032
+[6000],8,LOG,Logistics,global,2021,1032
+[5996],9,NUT,Nutrition,global,2021,1032
+[5997],10,PRO,Protection,global,2021,1032
+[5998],11,WSH,Water Sanitation Hygiene,global,2021,1032
+[5997],12,PRO-CPN,Protection - Child Protection,aor,2021,1032
+[5997],13,PRO-GBV,Protection - Gender-Based Violence,aor,2021,1032
+[5997],14,PRO-HLP,"Protection - Housing, Land and Property",aor,2021,1032
+[5997],15,PRO-MIN,Protection - Mine Action,aor,2021,1032
+[6001],26480,CSS,Coordination and support services,custom,2021,1032
+[5908],1,CCM,Camp Coordination / Management,global,2021,1023
+[5910],3,EDU,Education,global,2021,1023
+[5913],4,SHL,Emergency Shelter and NFI,global,2021,1023
+[5917],5,TEL,Emergency Telecommunications,global,2021,1023
+[5909],6,FSC,Food Security,global,2021,1023
+[5911],7,HEA,Health,global,2021,1023
+[5916],8,LOG,Logistics,global,2021,1023
+[5912],9,NUT,Nutrition,global,2021,1023
+[5890],10,PRO,Protection,global,2021,1023
+[5914],11,WSH,Water Sanitation Hygiene,global,2021,1023
+[5890],12,PRO-CPN,Protection - Child Protection,aor,2021,1023
+[5890],13,PRO-GBV,Protection - Gender-Based Violence,aor,2021,1023
+"[5915, 5918]",26480,CSS,Coordination and support services,custom,2021,1023
+[5873],1,CCM,Camp Coordination / Management,global,2021,1013
+[5875],3,EDU,Education,global,2021,1013
+[5876],4,SHL,Emergency Shelter and NFI,global,2021,1013
+[5877],6,FSC,Food Security,global,2021,1013
+[5879],7,HEA,Health,global,2021,1013
+[5878],8,LOG,Logistics,global,2021,1013
+[5880],9,NUT,Nutrition,global,2021,1013
+[5854],10,PRO,Protection,global,2021,1013
+[5882],11,WSH,Water Sanitation Hygiene,global,2021,1013
+[5854],12,PRO-CPN,Protection - Child Protection,aor,2021,1013
+[5854],13,PRO-GBV,Protection - Gender-Based Violence,aor,2021,1013
+[5854],14,PRO-HLP,"Protection - Housing, Land and Property",aor,2021,1013
+[5854],15,PRO-MIN,Protection - Mine Action,aor,2021,1013
+[5874],26480,CSS,Coordination and support services,custom,2021,1013
+[5856],3,EDU,Education,global,2021,1014
+[5857],4,SHL,Emergency Shelter and NFI,global,2021,1014
+[5860],5,TEL,Emergency Telecommunications,global,2021,1014
+[5858],6,FSC,Food Security,global,2021,1014
+[5859],7,HEA,Health,global,2021,1014
+[5860],8,LOG,Logistics,global,2021,1014
+[5861],9,NUT,Nutrition,global,2021,1014
+[5862],10,PRO,Protection,global,2021,1014
+[5863],11,WSH,Water Sanitation Hygiene,global,2021,1014
+[5862],12,PRO-CPN,Protection - Child Protection,aor,2021,1014
+[5862],13,PRO-GBV,Protection - Gender-Based Violence,aor,2021,1014
+[5862],15,PRO-MIN,Protection - Mine Action,aor,2021,1014
+[5855],26480,CSS,Coordination and support services,custom,2021,1014
+[5902],3,EDU,Education,global,2021,1015
+[5886],4,SHL,Emergency Shelter and NFI,global,2021,1015
+[5883],6,FSC,Food Security,global,2021,1015
+[5884],7,HEA,Health,global,2021,1015
+[5885],10,PRO,Protection,global,2021,1015
+[5887],11,WSH,Water Sanitation Hygiene,global,2021,1015
+[5885],12,PRO-CPN,Protection - Child Protection,aor,2021,1015
+[5885],13,PRO-GBV,Protection - Gender-Based Violence,aor,2021,1015
+[5885],15,PRO-MIN,Protection - Mine Action,aor,2021,1015
+[5889],16,MPC,Multipurpose Cash,global,2021,1015
+[5888],26480,CSS,Coordination and support services,custom,2021,1015
+[5871],2,ERY,Early Recovery,global,2021,1016
+[5872],3,EDU,Education,global,2021,1016
+[5870],4,SHL,Emergency Shelter and NFI,global,2021,1016
+[5867],6,FSC,Food Security,global,2021,1016
+[5868],7,HEA,Health,global,2021,1016
+[5866],10,PRO,Protection,global,2021,1016
+[5869],11,WSH,Water Sanitation Hygiene,global,2021,1016
+[5866],12,PRO-CPN,Protection - Child Protection,aor,2021,1016
+[5866],13,PRO-GBV,Protection - Gender-Based Violence,aor,2021,1016
+[5866],15,PRO-MIN,Protection - Mine Action,aor,2021,1016
+[6139],26480,CSS,Coordination and support services,custom,2021,1016
+[6125],3,EDU,Education,global,2021,1025
+[6124],4,SHL,Emergency Shelter and NFI,global,2021,1025
+[6145],5,TEL,Emergency Telecommunications,global,2021,1025
+[6142],6,FSC,Food Security,global,2021,1025
+[6141],7,HEA,Health,global,2021,1025
+[6127],8,LOG,Logistics,global,2021,1025
+[6128],9,NUT,Nutrition,global,2021,1025
+[5904],10,PRO,Protection,global,2021,1025
+[6126],11,WSH,Water Sanitation Hygiene,global,2021,1025
+[5904],12,PRO-CPN,Protection - Child Protection,aor,2021,1025
+[5904],13,PRO-GBV,Protection - Gender-Based Violence,aor,2021,1025
+[5904],14,PRO-HLP,"Protection - Housing, Land and Property",aor,2021,1025
+[6144],26479,MS,Multi-sector,custom,2021,1025
+[6143],26480,CSS,Coordination and support services,custom,2021,1025
+[5950],3,EDU,Education,global,2021,1027
+[5954],4,SHL,Emergency Shelter and NFI,global,2021,1027
+[5956],5,TEL,Emergency Telecommunications,global,2021,1027
+[5951],6,FSC,Food Security,global,2021,1027
+[5952],7,HEA,Health,global,2021,1027
+[5953],10,PRO,Protection,global,2021,1027
+[5955],11,WSH,Water Sanitation Hygiene,global,2021,1027
+[5953],12,PRO-CPN,Protection - Child Protection,aor,2021,1027
+[5953],13,PRO-GBV,Protection - Gender-Based Violence,aor,2021,1027
+[5953],15,PRO-MIN,Protection - Mine Action,aor,2021,1027
+[5957],16,MPC,Multipurpose Cash,global,2021,1027
+[5935],26480,CSS,Coordination and support services,custom,2021,1027
+[5938],1,CCM,Camp Coordination / Management,global,2021,1028
+[5940],3,EDU,Education,global,2021,1028
+[5937],4,SHL,Emergency Shelter and NFI,global,2021,1028
+[5944],6,FSC,Food Security,global,2021,1028
+[5943],7,HEA,Health,global,2021,1028
+[5947],8,LOG,Logistics,global,2021,1028
+[5941],9,NUT,Nutrition,global,2021,1028
+[5942],10,PRO,Protection,global,2021,1028
+[5939],11,WSH,Water Sanitation Hygiene,global,2021,1028
+[5942],12,PRO-CPN,Protection - Child Protection,aor,2021,1028
+[5942],13,PRO-GBV,Protection - Gender-Based Violence,aor,2021,1028
+[5946],26480,CSS,Coordination and support services,custom,2021,1028
+[5960],2,ERY,Early Recovery,global,2021,1030
+[5961],3,EDU,Education,global,2021,1030
+[5966],4,SHL,Emergency Shelter and NFI,global,2021,1030
+[5962],6,FSC,Food Security,global,2021,1030
+[5963],7,HEA,Health,global,2021,1030
+[5964],9,NUT,Nutrition,global,2021,1030
+[5965],10,PRO,Protection,global,2021,1030
+[5967],11,WSH,Water Sanitation Hygiene,global,2021,1030
+[5965],12,PRO-CPN,Protection - Child Protection,aor,2021,1030
+[5965],13,PRO-GBV,Protection - Gender-Based Violence,aor,2021,1030
+[5968],16,MPC,Multipurpose Cash,global,2021,1030
+[5959],26480,CSS,Coordination and support services,custom,2021,1030
+[5970],3,EDU,Education,global,2021,1031
+[5971],4,SHL,Emergency Shelter and NFI,global,2021,1031
+[5972],6,FSC,Food Security,global,2021,1031
+[5973],7,HEA,Health,global,2021,1031
+[5978],8,LOG,Logistics,global,2021,1031
+[5974],9,NUT,Nutrition,global,2021,1031
+[5975],10,PRO,Protection,global,2021,1031
+[5976],11,WSH,Water Sanitation Hygiene,global,2021,1031
+[5975],12,PRO-CPN,Protection - Child Protection,aor,2021,1031
+[5975],13,PRO-GBV,Protection - Gender-Based Violence,aor,2021,1031
+[5975],14,PRO-HLP,"Protection - Housing, Land and Property",aor,2021,1031
+[5975],15,PRO-MIN,Protection - Mine Action,aor,2021,1031
+[5977],26480,CSS,Coordination and support services,custom,2021,1031
+[6005],3,EDU,Education,global,2021,1033
+[6002],4,SHL,Emergency Shelter and NFI,global,2021,1033
+[6010],6,FSC,Food Security,global,2021,1033
+[6009],7,HEA,Health,global,2021,1033
+[6011],8,LOG,Logistics,global,2021,1033
+[6006],9,NUT,Nutrition,global,2021,1033
+[6007],10,PRO,Protection,global,2021,1033
+[6004],11,WSH,Water Sanitation Hygiene,global,2021,1033
+[6007],12,PRO-CPN,Protection - Child Protection,aor,2021,1033
+[6007],13,PRO-GBV,Protection - Gender-Based Violence,aor,2021,1033
+[6003],26480,CSS,Coordination and support services,custom,2021,1033
+[6042],3,EDU,Education,global,2021,1034
+[6047],4,SHL,Emergency Shelter and NFI,global,2021,1034
+[6045],6,FSC,Food Security,global,2021,1034
+[6046],7,HEA,Health,global,2021,1034
+[6044],9,NUT,Nutrition,global,2021,1034
+[6048],10,PRO,Protection,global,2021,1034
+[6043],11,WSH,Water Sanitation Hygiene,global,2021,1034
+[6048],12,PRO-CPN,Protection - Child Protection,aor,2021,1034
+[6048],13,PRO-GBV,Protection - Gender-Based Violence,aor,2021,1034
+[6041],26480,CSS,Coordination and support services,custom,2021,1034
+[6017],1,CCM,Camp Coordination / Management,global,2021,1035
+[6015],2,ERY,Early Recovery,global,2021,1035
+[6014],3,EDU,Education,global,2021,1035
+[6019],4,SHL,Emergency Shelter and NFI,global,2021,1035
+[6016],6,FSC,Food Security,global,2021,1035
+[6018],7,HEA,Health,global,2021,1035
+[6013],10,PRO,Protection,global,2021,1035
+[6020],11,WSH,Water Sanitation Hygiene,global,2021,1035
+[6013],12,PRO-CPN,Protection - Child Protection,aor,2021,1035
+[6013],13,PRO-GBV,Protection - Gender-Based Violence,aor,2021,1035
+[6021],16,MPC,Multipurpose Cash,global,2021,1035
+[6012],26480,CSS,Coordination and support services,custom,2021,1035
+[6025],3,EDU,Education,global,2021,1036
+[6022],4,SHL,Emergency Shelter and NFI,global,2021,1036
+[6029],6,FSC,Food Security,global,2021,1036
+[6028],7,HEA,Health,global,2021,1036
+[6026],9,NUT,Nutrition,global,2021,1036
+[6027],10,PRO,Protection,global,2021,1036
+[6024],11,WSH,Water Sanitation Hygiene,global,2021,1036
+[6027],12,PRO-CPN,Protection - Child Protection,aor,2021,1036
+[6027],13,PRO-GBV,Protection - Gender-Based Violence,aor,2021,1036
+[6027],15,PRO-MIN,Protection - Mine Action,aor,2021,1036
+[6023],26480,CSS,Coordination and support services,custom,2021,1036
+[6034],1,CCM,Camp Coordination / Management,global,2021,1037
+[6033],3,EDU,Education,global,2021,1037
+[6030],4,SHL,Emergency Shelter and NFI,global,2021,1037
+[6040],6,FSC,Food Security,global,2021,1037
+[6039],7,HEA,Health,global,2021,1037
+[6035],8,LOG,Logistics,global,2021,1037
+[6036],9,NUT,Nutrition,global,2021,1037
+[6037],10,PRO,Protection,global,2021,1037
+[6032],11,WSH,Water Sanitation Hygiene,global,2021,1037
+[6037],12,PRO-CPN,Protection - Child Protection,aor,2021,1037
+[6037],13,PRO-GBV,Protection - Gender-Based Violence,aor,2021,1037
+[6037],14,PRO-HLP,"Protection - Housing, Land and Property",aor,2021,1037
+[6037],15,PRO-MIN,Protection - Mine Action,aor,2021,1037
+[6031],26480,CSS,Coordination and support services,custom,2021,1037
+[6131],3,EDU,Education,global,2021,1039
+[6112],4,SHL,Emergency Shelter and NFI,global,2021,1039
+[6136],6,FSC,Food Security,global,2021,1039
+[6135],7,HEA,Health,global,2021,1039
+[6132],8,LOG,Logistics,global,2021,1039
+[6133],9,NUT,Nutrition,global,2021,1039
+[6134],10,PRO,Protection,global,2021,1039
+[6130],11,WSH,Water Sanitation Hygiene,global,2021,1039
+[6134],12,PRO-CPN,Protection - Child Protection,aor,2021,1039
+[6134],13,PRO-GBV,Protection - Gender-Based Violence,aor,2021,1039
+"[6137, 6138]",26479,MS,Multi-sector,custom,2021,1039
+[6129],26480,CSS,Coordination and support services,custom,2021,1039
+[6113],1,CCM,Camp Coordination / Management,global,2021,1040
+[6115],3,EDU,Education,global,2021,1040
+[6121],4,SHL,Emergency Shelter and NFI,global,2021,1040
+[6116],6,FSC,Food Security,global,2021,1040
+[6117],7,HEA,Health,global,2021,1040
+[6118],8,LOG,Logistics,global,2021,1040
+[6119],9,NUT,Nutrition,global,2021,1040
+[6120],10,PRO,Protection,global,2021,1040
+[6122],11,WSH,Water Sanitation Hygiene,global,2021,1040
+[6120],12,PRO-CPN,Protection - Child Protection,aor,2021,1040
+[6120],13,PRO-GBV,Protection - Gender-Based Violence,aor,2021,1040
+[6114],26480,CSS,Coordination and support services,custom,2021,1040
+[6140],1,CCM,Camp Coordination / Management,global,2021,1041
+[6055],3,EDU,Education,global,2021,1041
+[6056],4,SHL,Emergency Shelter and NFI,global,2021,1041
+[6057],6,FSC,Food Security,global,2021,1041
+[6058],7,HEA,Health,global,2021,1041
+[6059],8,LOG,Logistics,global,2021,1041
+[6060],9,NUT,Nutrition,global,2021,1041
+[6061],10,PRO,Protection,global,2021,1041
+[6062],11,WSH,Water Sanitation Hygiene,global,2021,1041
+[6061],12,PRO-CPN,Protection - Child Protection,aor,2021,1041
+[6061],13,PRO-GBV,Protection - Gender-Based Violence,aor,2021,1041
+[6061],14,PRO-HLP,"Protection - Housing, Land and Property",aor,2021,1041
+[6063],26480,CSS,Coordination and support services,custom,2021,1041
+[6054],26512,AGR,Agriculture,custom,2021,1041
+[6096],3,EDU,Education,global,2021,1046
+[6101],4,SHL,Emergency Shelter and NFI,global,2021,1046
+[6097],6,FSC,Food Security,global,2021,1046
+[6098],7,HEA,Health,global,2021,1046
+[6099],9,NUT,Nutrition,global,2021,1046
+[6100],10,PRO,Protection,global,2021,1046
+[6102],11,WSH,Water Sanitation Hygiene,global,2021,1046
+[6100],12,PRO-CPN,Protection - Child Protection,aor,2021,1046
+[6100],13,PRO-GBV,Protection - Gender-Based Violence,aor,2021,1046
+[6100],15,PRO-MIN,Protection - Mine Action,aor,2021,1046
+[6103],26480,CSS,Coordination and support services,custom,2021,1046
+[6231],3,EDU,Education,global,2021,1051
+[6236],4,SHL,Emergency Shelter and NFI,global,2021,1051
+[6232],6,FSC,Food Security,global,2021,1051
+[6233],7,HEA,Health,global,2021,1051
+[6234],9,NUT,Nutrition,global,2021,1051
+[6235],10,PRO,Protection,global,2021,1051
+[6237],11,WSH,Water Sanitation Hygiene,global,2021,1051
+[6235],12,PRO-CPN,Protection - Child Protection,aor,2021,1051
+[6235],13,PRO-GBV,Protection - Gender-Based Violence,aor,2021,1051
+[6235],15,PRO-MIN,Protection - Mine Action,aor,2021,1051
+[6230],26480,CSS,Coordination and support services,custom,2021,1051
+[6273],1,CCM,Camp Coordination / Management,global,2021,1055
+[6266],3,EDU,Education,global,2021,1055
+[6267],4,SHL,Emergency Shelter and NFI,global,2021,1055
+[6277],5,TEL,Emergency Telecommunications,global,2021,1055
+[6268],6,FSC,Food Security,global,2021,1055
+[6269],7,HEA,Health,global,2021,1055
+[6270],8,LOG,Logistics,global,2021,1055
+[6271],9,NUT,Nutrition,global,2021,1055
+[6274],10,PRO,Protection,global,2021,1055
+[6272],11,WSH,Water Sanitation Hygiene,global,2021,1055
+[6274],12,PRO-CPN,Protection - Child Protection,aor,2021,1055
+[6274],13,PRO-GBV,Protection - Gender-Based Violence,aor,2021,1055
+[6265],26480,CSS,Coordination and support services,custom,2021,1055
+[6649],26481,OTH,Other,custom,2021,1055
+[6264],26512,AGR,Agriculture,custom,2021,1055
+[6152],3,EDU,Education,global,2021,1047
+[6293],4,SHL,Emergency Shelter and NFI,global,2021,1047
+[6153],5,TEL,Emergency Telecommunications,global,2021,1047
+[6147],6,FSC,Food Security,global,2021,1047
+[6150],7,HEA,Health,global,2021,1047
+[6149],9,NUT,Nutrition,global,2021,1047
+[6151],10,PRO,Protection,global,2021,1047
+[6148],11,WSH,Water Sanitation Hygiene,global,2021,1047
+[6151],12,PRO-CPN,Protection - Child Protection,aor,2021,1047
+[6151],13,PRO-GBV,Protection - Gender-Based Violence,aor,2021,1047
+[6154],26480,CSS,Coordination and support services,custom,2021,1047
+[6390],3,EDU,Education,global,2021,1073
+[6385],6,FSC,Food Security,global,2021,1073
+[6388],7,HEA,Health,global,2021,1073
+[6386],9,NUT,Nutrition,global,2021,1073
+[6391],10,PRO,Protection,global,2021,1073
+[6387],11,WSH,Water Sanitation Hygiene,global,2021,1073
+[6391],12,PRO-CPN,Protection - Child Protection,aor,2021,1073
+[6391],13,PRO-GBV,Protection - Gender-Based Violence,aor,2021,1073
+[6389],26479,MS,Multi-sector,custom,2021,1073
+[6648],26480,CSS,Coordination and support services,custom,2021,1073
+[5836],1,CCM,Camp Coordination / Management,global,2021,1011
+[5837],3,EDU,Education,global,2021,1011
+[5845],4,SHL,Emergency Shelter and NFI,global,2021,1011
+[5840],6,FSC,Food Security,global,2021,1011
+[5841],7,HEA,Health,global,2021,1011
+[5839],8,LOG,Logistics,global,2021,1011
+[5842],9,NUT,Nutrition,global,2021,1011
+[5843],10,PRO,Protection,global,2021,1011
+[5846],11,WSH,Water Sanitation Hygiene,global,2021,1011
+[5843],12,PRO-CPN,Protection - Child Protection,aor,2021,1011
+[5843],13,PRO-GBV,Protection - Gender-Based Violence,aor,2021,1011
+[5843],14,PRO-HLP,"Protection - Housing, Land and Property",aor,2021,1011
+[5843],15,PRO-MIN,Protection - Mine Action,aor,2021,1011
+[5838],26480,CSS,Coordination and support services,custom,2021,1011
+[6206],3,EDU,Education,global,2021,1050
+[6205],6,FSC,Food Security,global,2021,1050
+[6203],7,HEA,Health,global,2021,1050
+[6292],8,LOG,Logistics,global,2021,1050
+[6204],9,NUT,Nutrition,global,2021,1050
+[6207],11,WSH,Water Sanitation Hygiene,global,2021,1050
+[6278],12,PRO-CPN,Protection - Child Protection,aor,2021,1050
+[6278],13,PRO-GBV,Protection - Gender-Based Violence,aor,2021,1050
+[6188],1,CCM,Camp Coordination / Management,global,2021,1048
+[6195],2,ERY,Early Recovery,global,2021,1048
+[6192],3,EDU,Education,global,2021,1048
+[6186],6,FSC,Food Security,global,2021,1048
+[6187],7,HEA,Health,global,2021,1048
+[6193],8,LOG,Logistics,global,2021,1048
+[6191],9,NUT,Nutrition,global,2021,1048
+[6190],10,PRO,Protection,global,2021,1048
+[6189],11,WSH,Water Sanitation Hygiene,global,2021,1048
+[6190],12,PRO-CPN,Protection - Child Protection,aor,2021,1048
+[6190],13,PRO-GBV,Protection - Gender-Based Violence,aor,2021,1048
+[6194],26481,OTH,Other,custom,2021,1048
+[6287],2,ERY,Early Recovery,global,2021,1056
+[6286],3,EDU,Education,global,2021,1056
+[6285],4,SHL,Emergency Shelter and NFI,global,2021,1056
+[6289],5,TEL,Emergency Telecommunications,global,2021,1056
+[6282],6,FSC,Food Security,global,2021,1056
+[6281],7,HEA,Health,global,2021,1056
+[6288],8,LOG,Logistics,global,2021,1056
+[6290],9,NUT,Nutrition,global,2021,1056
+[6283],10,PRO,Protection,global,2021,1056
+[6284],11,WSH,Water Sanitation Hygiene,global,2021,1056
+[6283],12,PRO-CPN,Protection - Child Protection,aor,2021,1056
+[6283],13,PRO-GBV,Protection - Gender-Based Violence,aor,2021,1056
+[6291],26480,CSS,Coordination and support services,custom,2021,1056
+[6283],26481,OTH,Other,custom,2021,1056
+[6282],26512,AGR,Agriculture,custom,2021,1056
+[5847],3,EDU,Education,global,2021,1012
+[5851],4,SHL,Emergency Shelter and NFI,global,2021,1012
+[5848],6,FSC,Food Security,global,2021,1012
+[5849],7,HEA,Health,global,2021,1012
+[5853],10,PRO,Protection,global,2021,1012
+[5850],11,WSH,Water Sanitation Hygiene,global,2021,1012
+[5853],12,PRO-CPN,Protection - Child Protection,aor,2021,1012
+[5853],13,PRO-GBV,Protection - Gender-Based Violence,aor,2021,1012
+[5853],15,PRO-MIN,Protection - Mine Action,aor,2021,1012
+[5852],26480,CSS,Coordination and support services,custom,2021,1012
+[6200],3,EDU,Education,global,2021,1049
+[6197],4,SHL,Emergency Shelter and NFI,global,2021,1049
+[6196],6,FSC,Food Security,global,2021,1049
+[6198],7,HEA,Health,global,2021,1049
+[6199],10,PRO,Protection,global,2021,1049
+[6201],11,WSH,Water Sanitation Hygiene,global,2021,1049
+[6199],12,PRO-CPN,Protection - Child Protection,aor,2021,1049
+[6199],13,PRO-GBV,Protection - Gender-Based Violence,aor,2021,1049
+[6199],14,PRO-HLP,"Protection - Housing, Land and Property",aor,2021,1049
+[6199],15,PRO-MIN,Protection - Mine Action,aor,2021,1049
+[6202],26480,CSS,Coordination and support services,custom,2021,1049
+[6106],1,CCM,Camp Coordination / Management,global,2021,1045
+[6108],3,EDU,Education,global,2021,1045
+[6156],4,SHL,Emergency Shelter and NFI,global,2021,1045
+[6095],6,FSC,Food Security,global,2021,1045
+[6107],7,HEA,Health,global,2021,1045
+[6105],10,PRO,Protection,global,2021,1045
+[6104],11,WSH,Water Sanitation Hygiene,global,2021,1045
+[6111],12,PRO-CPN,Protection - Child Protection,aor,2021,1045
+[6110],13,PRO-GBV,Protection - Gender-Based Violence,aor,2021,1045
+[6109],26480,CSS,Coordination and support services,custom,2021,1045
+[6212],2,ERY,Early Recovery,global,2021,1018
+[6209],3,EDU,Education,global,2021,1018
+[6215],4,SHL,Emergency Shelter and NFI,global,2021,1018
+[6211],6,FSC,Food Security,global,2021,1018
+[6210],7,HEA,Health,global,2021,1018
+[5903],10,PRO,Protection,global,2021,1018
+[6214],11,WSH,Water Sanitation Hygiene,global,2021,1018
+[6213],26481,OTH,Other,custom,2021,1018
+[6226],2,ERY,Early Recovery,global,2021,1019
+[6223],3,EDU,Education,global,2021,1019
+[6229],4,SHL,Emergency Shelter and NFI,global,2021,1019
+[6225],6,FSC,Food Security,global,2021,1019
+[6224],7,HEA,Health,global,2021,1019
+[5920],10,PRO,Protection,global,2021,1019
+[6228],11,WSH,Water Sanitation Hygiene,global,2021,1019
+[6227],26481,OTH,Other,custom,2021,1019
+[5923],3,EDU,Education,global,2021,1026
+"[5919, 6155]",4,SHL,Emergency Shelter and NFI,global,2021,1026
+[5929],6,FSC,Food Security,global,2021,1026
+[5928],7,HEA,Health,global,2021,1026
+[5925],8,LOG,Logistics,global,2021,1026
+[5926],9,NUT,Nutrition,global,2021,1026
+[5927],10,PRO,Protection,global,2021,1026
+[5924],11,WSH,Water Sanitation Hygiene,global,2021,1026
+[5927],12,PRO-CPN,Protection - Child Protection,aor,2021,1026
+[5927],13,PRO-GBV,Protection - Gender-Based Violence,aor,2021,1026
+[5927],14,PRO-HLP,"Protection - Housing, Land and Property",aor,2021,1026
+[5927],15,PRO-MIN,Protection - Mine Action,aor,2021,1026
+[5921],16,MPC,Multipurpose Cash,global,2021,1026
+[5930],26479,MS,Multi-sector,custom,2021,1026
+[5922],26480,CSS,Coordination and support services,custom,2021,1026
+[6295],3,EDU,Education,global,2021,1057
+[6296],4,SHL,Emergency Shelter and NFI,global,2021,1057
+[6297],6,FSC,Food Security,global,2021,1057
+[6298],7,HEA,Health,global,2021,1057
+[6299],9,NUT,Nutrition,global,2021,1057
+[6300],10,PRO,Protection,global,2021,1057
+[6301],11,WSH,Water Sanitation Hygiene,global,2021,1057
+[6300],12,PRO-CPN,Protection - Child Protection,aor,2021,1057
+[6300],13,PRO-GBV,Protection - Gender-Based Violence,aor,2021,1057
+[6300],14,PRO-HLP,"Protection - Housing, Land and Property",aor,2021,1057
+[6300],15,PRO-MIN,Protection - Mine Action,aor,2021,1057
+[6302],26480,CSS,Coordination and support services,custom,2021,1057
+[6303],26481,OTH,Other,custom,2021,1057
+[6051],2,ERY,Early Recovery,global,2021,1020
+[6169],3,EDU,Education,global,2021,1020
+[6170],4,SHL,Emergency Shelter and NFI,global,2021,1020
+"[6171, 6172]",6,FSC,Food Security,global,2021,1020
+[6173],7,HEA,Health,global,2021,1020
+[6174],10,PRO,Protection,global,2021,1020
+[6175],11,WSH,Water Sanitation Hygiene,global,2021,1020
+[6174],12,PRO-CPN,Protection - Child Protection,aor,2021,1020
+[6174],13,PRO-GBV,Protection - Gender-Based Violence,aor,2021,1020
+[6176],26479,MS,Multi-sector,custom,2021,1020
+"[6177, 6178]",26481,OTH,Other,custom,2021,1020
+[5980],3,EDU,Education,global,2021,1029
+[5984],4,SHL,Emergency Shelter and NFI,global,2021,1029
+[5982],6,FSC,Food Security,global,2021,1029
+[5979],7,HEA,Health,global,2021,1029
+[5981],9,NUT,Nutrition,global,2021,1029
+[5949],10,PRO,Protection,global,2021,1029
+[5983],11,WSH,Water Sanitation Hygiene,global,2021,1029
+[5949],12,PRO-CPN,Protection - Child Protection,aor,2021,1029
+[5949],13,PRO-GBV,Protection - Gender-Based Violence,aor,2021,1029
+[5985],26480,CSS,Coordination and support services,custom,2021,1029
+[6050],26479,MS,Multi-sector,custom,2021,1038
+[6219],2,ERY,Early Recovery,global,2021,1017
+[6216],3,EDU,Education,global,2021,1017
+[6222],4,SHL,Emergency Shelter and NFI,global,2021,1017
+[6218],6,FSC,Food Security,global,2021,1017
+[6217],7,HEA,Health,global,2021,1017
+[6052],10,PRO,Protection,global,2021,1017
+[6221],11,WSH,Water Sanitation Hygiene,global,2021,1017
+[6220],26481,OTH,Other,custom,2021,1017
+[6065],3,EDU,Education,global,2021,1043
+[6064],4,SHL,Emergency Shelter and NFI,global,2021,1043
+[6070],6,FSC,Food Security,global,2021,1043
+[6069],7,HEA,Health,global,2021,1043
+[6066],8,LOG,Logistics,global,2021,1043
+[6067],9,NUT,Nutrition,global,2021,1043
+[6068],10,PRO,Protection,global,2021,1043
+[6072],11,WSH,Water Sanitation Hygiene,global,2021,1043
+[6068],12,PRO-CPN,Protection - Child Protection,aor,2021,1043
+[6068],13,PRO-GBV,Protection - Gender-Based Violence,aor,2021,1043
+[6071],26480,CSS,Coordination and support services,custom,2021,1043
+[6244],2,ERY,Early Recovery,global,2021,1052
+[6243],3,EDU,Education,global,2021,1052
+[6238],6,FSC,Food Security,global,2021,1052
+[6241],7,HEA,Health,global,2021,1052
+[6242],9,NUT,Nutrition,global,2021,1052
+[6239],10,PRO,Protection,global,2021,1052
+[6240],11,WSH,Water Sanitation Hygiene,global,2021,1052
+[6239],12,PRO-CPN,Protection - Child Protection,aor,2021,1052
+[6239],13,PRO-GBV,Protection - Gender-Based Violence,aor,2021,1052
+[6276],26480,CSS,Coordination and support services,custom,2021,1052
+[6250],1,CCM,Camp Coordination / Management,global,2021,1053
+[6254],2,ERY,Early Recovery,global,2021,1053
+[6251],3,EDU,Education,global,2021,1053
+[6252],4,SHL,Emergency Shelter and NFI,global,2021,1053
+[6245],6,FSC,Food Security,global,2021,1053
+[6248],7,HEA,Health,global,2021,1053
+[6245],9,NUT,Nutrition,global,2021,1053
+[6246],10,PRO,Protection,global,2021,1053
+[6247],11,WSH,Water Sanitation Hygiene,global,2021,1053
+[6246],12,PRO-CPN,Protection - Child Protection,aor,2021,1053
+[6246],13,PRO-GBV,Protection - Gender-Based Violence,aor,2021,1053
+[6255],26480,CSS,Coordination and support services,custom,2021,1053
+[6248],26481,OTH,Other,custom,2021,1053
+[6261],1,CCM,Camp Coordination / Management,global,2021,1054
+[6256],2,ERY,Early Recovery,global,2021,1054
+[6262],3,EDU,Education,global,2021,1054
+[6263],5,TEL,Emergency Telecommunications,global,2021,1054
+[6253],6,FSC,Food Security,global,2021,1054
+[6259],7,HEA,Health,global,2021,1054
+[6260],9,NUT,Nutrition,global,2021,1054
+[6257],10,PRO,Protection,global,2021,1054
+[6258],11,WSH,Water Sanitation Hygiene,global,2021,1054
+[6257],12,PRO-CPN,Protection - Child Protection,aor,2021,1054
+[6257],13,PRO-GBV,Protection - Gender-Based Violence,aor,2021,1054
+[6275],26480,CSS,Coordination and support services,custom,2021,1054
+[6084],1,CCM,Camp Coordination / Management,global,2021,1044
+[6085],2,ERY,Early Recovery,global,2021,1044
+[6086],3,EDU,Education,global,2021,1044
+[6090],4,SHL,Emergency Shelter and NFI,global,2021,1044
+[6093],5,TEL,Emergency Telecommunications,global,2021,1044
+[6087],6,FSC,Food Security,global,2021,1044
+[6088],7,HEA,Health,global,2021,1044
+[6092],8,LOG,Logistics,global,2021,1044
+[6089],9,NUT,Nutrition,global,2021,1044
+[6083],10,PRO,Protection,global,2021,1044
+[6091],11,WSH,Water Sanitation Hygiene,global,2021,1044
+[6083],12,PRO-CPN,Protection - Child Protection,aor,2021,1044
+[6083],13,PRO-GBV,Protection - Gender-Based Violence,aor,2021,1044
+[6083],15,PRO-MIN,Protection - Mine Action,aor,2021,1044
+[6094],26480,CSS,Coordination and support services,custom,2021,1044
