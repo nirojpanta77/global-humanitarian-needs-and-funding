@@ -19,6 +19,15 @@ def unique_value(rows, field):
     v=num(rows[0][field])
     return None if pd.isna(v) else v
 
+def covid_plan(p):
+    return bool(re.search(r'\bcovid(?:[- ]?19)?\b|\bcoronavirus\b|\bghrp\b', ' '.join(str(p.get(k,'')) for k in ('name','shortName','subtitle')),re.I))
+
+def covid_caseload(r):
+    ref=(key(r.get('caseloadCustomRef')) or '').upper().split('/')[0]
+    desc=(key(r.get('caseloadDescription')) or '').lower()
+    if re.search(r'\b(?:non[- ]?covid|regular hrp|non[- ]?coronavirus)\b',desc): return False
+    return bool(ref.endswith('C19') or re.search(r'\bcovid(?:[- ]?19)?\b|\bcoronavirus\b',desc))
+
 def resolve_caseloads(cas, globals_):
     """Return source rows with explicit or narrowly supported sector mappings."""
     by_entity={}
@@ -64,7 +73,15 @@ def build(root,year):
     for p in plans.to_dict('records'):
         pid=key(p.get('plan_id'))
         base={'year':year,'plan_id':pid,'iso3':p.get('iso3'),'country_count':p.get('country_count'),'plan_name':p.get('name'),'plan_type':p.get('planType'),'included_gho':p.get('includedGHO'),'last_published_date':p.get('lastPublishedDate')}
-        cas=cg.get(pid,[]); finances=fg.get(pid,[]); total=tg.get(pid,[])
+        if covid_plan(p):
+            qa.append({**base,'issue':'excluded_covid_plan','count':1})
+            continue
+        source_cas=cg.get(pid,[])
+        excluded=[r for r in source_cas if covid_caseload(r)]
+        cas=[r for r in source_cas if not covid_caseload(r)]
+        for r in excluded: qa.append({**base,'issue':'excluded_covid_caseload','caseload_id':r.get('caseloadId'),'count':1})
+        base['financial_scope']='reported_plan_may_include_covid' if excluded else 'reported_plan'
+        finances=fg.get(pid,[]); total=tg.get(pid,[])
         def financial(rows,kind,field): return unique_value([r for r in rows if key(r.get('kind'))==kind],field)
         def metrics(row,candidates):
             row['caseload_count']=len(candidates)
