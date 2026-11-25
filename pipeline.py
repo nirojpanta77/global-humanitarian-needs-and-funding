@@ -100,12 +100,6 @@ def main():
         if args.deep:
             for p in tables['plans']:
                 pid=p['plan_id']; get(f'/v2/public/plan/{pid}',{'content':'entities','disaggregation':'true'},f'plan_{year}_{pid}')
-            for c in tables['countries']:
-                iso=c.get('iso3')
-                if not iso: continue
-                name=f'fts_{year}_{iso}'
-                report=get('/v1/public/fts/flow',{'countryISO3':iso,'year':year,'groupBy':'globalCluster','report':3,'format':'json','limit':1000},name)
-                tables['fts_country_reports'].append({'year':year,'iso3':iso,'raw_file':name+'.json.gz','report_json':json.dumps(report),'qa':'raw; pagination not certified'})
         for name in TABLES:
             print(f'Exporting {year}/{name}: {len(tables.get(name,[]))} rows',flush=True)
             frame=export_frame(tables.get(name,[]),name,year); folder=root/'tables'/name; folder.mkdir(parents=True,exist_ok=True)
