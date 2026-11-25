@@ -45,3 +45,22 @@ class AnalyticsTest(unittest.TestCase):
            {'caseloadType':'cluster','entityId':4,'caseloadCustomRef':'CLNUT/BF1'}]
         result=resolve_caseloads(r,g)
         self.assertEqual([x[1] for x in result],['PRO-CPN','PRO-OVE','PRO-CPN',None,None,'NUT'])
+
+    def test_exclusive_financial_fallback(self):
+        with tempfile.TemporaryDirectory() as d:
+            root=Path(d)
+            sources={'plans':[{'plan_id':1}],
+                'caseloads':[{'plan_id':1,'caseloadType':'cluster','entityId':7,'inNeed':100}],
+                'global_clusters':[{'plan_id':1,'globalClusterId':9,'globalClusterCode':'NUT','planClusters':'[7]'},{'plan_id':1,'globalClusterId':10,'globalClusterCode':'PRO','planClusters':'[8]'},{'plan_id':1,'globalClusterId':12,'globalClusterCode':'PRO-CPN','planClusters':'[8]'}],
+                'financial_breakdowns':[{'plan_id':1,'dimension':'byCluster','clusterId':7,'kind':'requirements','requirements':500},{'plan_id':1,'dimension':'byCluster','clusterId':8,'kind':'requirements','requirements':900}],
+                'financial_totals':[{'plan_id':1,'kind':'requirements','totalRequirements':1400}]}
+            for name,rows in sources.items():
+                folder=root/'tables'/name
+                folder.mkdir(parents=True)
+                pd.DataFrame(rows).to_csv(folder/'2026.csv',index=False)
+            _,sectors,_=build(root,2026)
+            lookup={r['global_cluster_code']:r for r in sectors}
+            self.assertEqual(lookup['NUT']['requirements_usd'],500)
+            self.assertEqual(lookup['NUT']['requirements_usd_source'],'exclusive_country_cluster')
+            self.assertIsNone(lookup['PRO']['requirements_usd'])
+            self.assertIsNone(lookup['PRO-CPN']['requirements_usd'])
