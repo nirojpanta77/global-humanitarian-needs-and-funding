@@ -2,7 +2,7 @@ name: Refresh humanitarian data
 on:
   push:
     branches: [main]
-    paths: [pipeline.py, requirements.txt, 'tests/**', '.github/workflows/refresh.yml']
+    paths: [pipeline.py, analytics.py, requirements.txt, 'tests/**', '.github/workflows/refresh.yml']
   schedule:
     - cron: '37 4 * * *'
     - cron: '17 2 * * 0'
@@ -34,6 +34,8 @@ jobs:
           DEEP: ${{ inputs.deep || github.event.schedule == '17 2 * * 0' }}
         run: |
           if [ "$DEEP" = true ]; then python pipeline.py --deep; else python pipeline.py; fi
+      - name: Build consolidated analytics
+        run: python analytics.py
       - uses: actions/upload-artifact@v4
         with:
           name: hpc-${{ github.run_id }}
