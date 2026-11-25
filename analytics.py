@@ -29,7 +29,7 @@ def build(root,year):
         pid=key(p.get('plan_id'))
         base={'year':year,'plan_id':pid,'iso3':p.get('iso3'),'country_count':p.get('country_count'),'plan_name':p.get('name'),'plan_type':p.get('planType'),'included_gho':p.get('includedGHO'),'last_published_date':p.get('lastPublishedDate')}
         cas=cg.get(pid,[]); finances=fg.get(pid,[]); total=tg.get(pid,[])
-        def financial(rows,kind,field): return unique_value([r for r in rows if r.get('kind')==kind],field)
+        def financial(rows,kind,field): return unique_value([r for r in rows if key(r.get('kind'))==kind],field)
         def metrics(row,candidates):
             row['caseload_count']=len(candidates)
             row['caseload_id']=candidates[0].get('caseloadId') if len(candidates)==1 else None
@@ -38,20 +38,20 @@ def build(root,year):
             a,b=row.get('requirements_usd'),row.get('funding_usd')
             row['funding_pct']=100*b/a if a is not None and b is not None and a>0 else None
         overall={**base,'requirements_usd':financial(total,'requirements','totalRequirements'),'funding_usd':financial(total,'funding','totalFundingInsidePlan'),'outside_plan_funding_usd':financial(total,'funding','totalFundingOutsidePlan'),'pledges_usd':financial(total,'funding','totalPledges')}
-        metrics(overall,[r for r in cas if r.get('caseloadType')=='plan']); coverage(overall); planout.append(overall)
+        metrics(overall,[r for r in cas if key(r.get('caseloadType'))=='plan']); coverage(overall); planout.append(overall)
         # Only official global codes and direct global financial breakdowns.
         # PRO represents general protection, not the overall Protection envelope.
         sector={}
         for g in gg.get(pid,[]):
             gid=key(g.get('globalClusterId'))
             if gid: sector[gid]=g
-        global_fin=[r for r in finances if r.get('dimension')=='byGlobalCluster']
+        global_fin=[r for r in finances if key(r.get('dimension'))=='byGlobalCluster']
         for f in global_fin:
             gid=key(f.get('globalClusterId'))
             if gid and gid not in sector: sector[gid]={'globalClusterId':gid,'globalClusterName':gid if not gid.isdigit() else None}
         for gid,g in sector.items():
             code=g.get('globalClusterCode')
-            candidates=[r for r in cas if r.get('caseloadType')=='cluster' and pd.notna(code) and r.get('availableGlobalClusterCode')==code]
+            candidates=[r for r in cas if key(r.get('caseloadType'))=='cluster' and pd.notna(code) and key(r.get('availableGlobalClusterCode'))==key(code)]
             financial_rows=[r for r in global_fin if key(r.get('globalClusterId'))==gid]
             row={**base,'global_cluster_id':gid,'global_cluster_code':code,'global_cluster_name':g.get('globalClusterName'),'global_cluster_type':g.get('globalClusterType'),'scope':'general_protection' if pd.notna(code) and code=='PRO' else 'global_sector','requirements_usd':financial(financial_rows,'requirements','requirements'),'funding_usd':financial(financial_rows,'funding','funding')}
             metrics(row,candidates); coverage(row); out.append(row)
