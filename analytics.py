@@ -88,12 +88,29 @@ def build(root,year):
         resolved=resolve_caseloads(cas,gg.get(pid,[]))
         for r,code,method in resolved:
             if code is None: qa.append({**base,'issue':'unmapped_caseload','caseload_id':r.get('caseloadId'),'caseload_ref':r.get('caseloadCustomRef'),'count':1})
+        entity_to_codes={}
+        for g in gg.get(pid,[]):
+            code=key(g.get('globalClusterCode'))
+            for e in json.loads(key(g.get('planClusters')) or '[]'):
+                entity_to_codes.setdefault(key(e),set()).add(code)
         for gid,g in sector.items():
             code=g.get('globalClusterCode')
             matched=[(r,method) for r,mapped,method in resolved if pd.notna(code) and mapped==key(code)]
             candidates=[r for r,method in matched]
             financial_rows=[r for r in global_fin if key(r.get('globalClusterId'))==gid]
             row={**base,'global_cluster_id':gid,'global_cluster_code':code,'global_cluster_name':g.get('globalClusterName'),'global_cluster_type':g.get('globalClusterType'),'scope':'general_protection' if pd.notna(code) and code=='PRO' else 'global_sector','requirements_usd':financial(financial_rows,'requirements','requirements'),'funding_usd':financial(financial_rows,'funding','funding')}
+            # Financial fallback only when one country cluster maps exclusively to this
+            # one global sector, and no direct global financial row exists for the metric.
+            entities=[key(e) for e in json.loads(key(g.get('planClusters')) or '[]')]
+            exclusive=len(entities)==1 and entity_to_codes.get(entities[0])=={key(code)} and key(code) is not None
+            for kind,field in [('requirements','requirements_usd'),('funding','funding_usd')]:
+                direct=[r for r in financial_rows if key(r.get('kind'))==kind]
+                row[field+'_source']='byGlobalCluster' if row[field] is not None else None
+                if not direct and exclusive:
+                    fallback=[r for r in finances if key(r.get('dimension'))=='byCluster' and key(r.get('clusterId'))==entities[0]]
+                    value=financial(fallback,kind,kind)
+                    if value is not None:
+                        row[field]=value; row[field+'_source']='exclusive_country_cluster'
             metrics(row,candidates); row['caseload_mapping_method']=matched[0][1] if len(matched)==1 else None; coverage(row); out.append(row)
             if len(candidates)>1: qa.append({**base,'global_cluster_id':gid,'issue':'ambiguous_caseload','count':len(candidates)})
         # Explicit overall Protection caseloads are retained separately from the
@@ -103,6 +120,8 @@ def build(root,year):
             parent=key(envelopes[0].get('entityId')) if len(envelopes)==1 else None
             linked=[r for r in finances if parent and key(r.get('dimension'))=='byCluster' and key(r.get('clusterId'))==parent]
             row={**base,'global_cluster_id':'PRO-OVE','global_cluster_code':'PRO-OVE','global_cluster_name':'Protection (overall)','global_cluster_type':'aggregate','scope':'protection_envelope','requirements_usd':financial(linked,'requirements','requirements'),'funding_usd':financial(linked,'funding','funding')}
+            row['requirements_usd_source']='byCluster_protection_envelope' if row['requirements_usd'] is not None else None
+            row['funding_usd_source']='byCluster_protection_envelope' if row['funding_usd'] is not None else None
             metrics(row,envelopes); row['caseload_mapping_method']='explicit_protection_envelope' if len(envelopes)==1 else None; coverage(row); out.append(row)
             if len(envelopes)>1: qa.append({**base,'global_cluster_id':'PRO-OVE','issue':'ambiguous_protection_envelope','count':len(envelopes)})
     return planout,out,qa
