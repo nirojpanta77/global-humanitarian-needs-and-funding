@@ -1,0 +1,66 @@
+name: Refresh humanitarian data
+on:
+  push:
+    branches: [main]
+    paths: [pipeline.py, requirements.txt, 'tests/**', '.github/workflows/refresh.yml']
+  schedule:
+    - cron: '37 4 * * *'
+    - cron: '17 2 * * 0'
+  workflow_dispatch:
+    inputs:
+      deep:
+        description: Download detailed plans and country FTS reports
+        type: boolean
+        default: false
+permissions:
+  contents: write
+concurrency:
+  group: hpc-refresh
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: python -m unittest discover -s tests
+      - name: Extract and validate
+        env:
+          DEEP: ${{ inputs.deep || github.event.schedule == '17 2 * * 0' }}
+        run: |
+          if [ "$DEEP" = true ]; then python pipeline.py --deep; else python pipeline.py; fi
+      - uses: actions/upload-artifact@v4
+        with:
+          name: hpc-${{ github.run_id }}
+          path: output/
+          retention-days: 30
+      - name: Publish latest summary CSVs to data branch
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git fetch origin data || true
+          if git show-ref --verify --quiet refs/remotes/origin/data; then
+            git worktree add --detach /tmp/hpc-data origin/data
+          else
+            git worktree add --detach /tmp/hpc-data HEAD
+            git -C /tmp/hpc-data checkout --orphan data
+            git -C /tmp/hpc-data rm -rf .
+          fi
+          mkdir -p /tmp/hpc-data/tables
+          for table in output/tables/*; do
+            name=$(basename "$table")
+            [ "$name" = fts_country_reports ] && continue
+            mkdir -p "/tmp/hpc-data/tables/$name"
+            cp "$table"/*.csv "/tmp/hpc-data/tables/$name/"
+          done
+          cp output/manifest.json /tmp/hpc-data/
+          git -C /tmp/hpc-data add .
+          if ! git -C /tmp/hpc-data diff --cached --quiet; then
+            git -C /tmp/hpc-data commit -m 'Refresh public HPC data'
+          fi
+          git -C /tmp/hpc-data push origin HEAD:data
