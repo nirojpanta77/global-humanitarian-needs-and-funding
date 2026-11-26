@@ -318,7 +318,7 @@ funding,byCluster,7941,,,,2025,1266,,,3372406.0,179707.0
 funding,byCluster,7942,,,,2025,1266,,,893948.0,64374.0
 funding,byCluster,7935,,,,2025,1266,,,1625851.0,36500.0
 funding,byCluster,7938,,,,2025,1266,,,8233280.0,0.0
-funding,byCluster,7937,,,,2025,1266,,,8930568.0,
+funding,byCluster,7937,,,,2025,1266,,,8730468.0,
 funding,byCluster,7943,,,,2025,1266,,,1692395.0,1692395.0
 funding,byCluster,Not specified,,,,2025,1266,,,1939054.0,
 funding,byCluster,Multiple field clusters (shared),,,,2025,1266,,,5786709.0,409173.0
@@ -336,7 +336,7 @@ funding,byGlobalCluster,,,,,2025,1266,9,,8233280.0,0.0
 funding,byGlobalCluster,,,,,2025,1266,14,,181900.0,18250.0
 funding,byGlobalCluster,,,,,2025,1266,16,,1692395.0,1692395.0
 funding,byGlobalCluster,,,,,2025,1266,26481,,427270.0,
-funding,byGlobalCluster,,,,,2025,1266,7,,8930568.0,
+funding,byGlobalCluster,,,,,2025,1266,7,,8730468.0,
 funding,byGlobalCluster,,,,,2025,1266,Not specified,,1511784.0,
 funding,byGlobalCluster,,,,,2025,1266,Multiple global clusters (shared),,5986709.0,409173.0
 funding,byDonor,,,,,2025,1266,,1239,4918.0,
@@ -365,7 +365,7 @@ funding,byDonor,,,,,2025,1266,,4537,4925936.0,
 funding,byDonor,,,,,2025,1266,,4543,107.0,
 funding,byDonor,,,,,2025,1266,,4909,1113369.0,
 funding,byDonor,,,,,2025,1266,,4919,246607.0,
-funding,byDonor,,,,,2025,1266,,8523,23000462.0,3114961.0
+funding,byDonor,,,,,2025,1266,,8523,22800362.0,3114961.0
 funding,byDonor,,,,,2025,1266,,8524,6994999.0,
 funding,byDonor,,,,,2025,1266,,8924,250000.0,250000.0
 funding,byOrganization,,,,,2025,1266,,11756,392792.0,
@@ -385,7 +385,7 @@ funding,byOrganization,,,,,2025,1266,,4396,4688487.0,
 funding,byOrganization,,,,,2025,1266,,4397,14499436.0,
 funding,byOrganization,,,,,2025,1266,,4398,722162.0,
 funding,byOrganization,,,,,2025,1266,,4399,2691324.0,36486.0
-funding,byOrganization,,,,,2025,1266,,4536,4258634.0,
+funding,byOrganization,,,,,2025,1266,,4536,4058534.0,
 funding,byOrganization,,,,,2025,1266,,4543,4918.0,
 funding,byOrganization,,,,,2025,1266,,5298,16122007.0,409173.0
 funding,byOrganization,,,,,2025,1266,,6865,467741.0,
@@ -1243,27 +1243,27 @@ requirements,byGlobalCluster,,200240191.0,,,2025,1261,7,,,
 requirements,byGlobalCluster,,1114773750.0,,,2025,1261,6,,,
 requirements,byGlobalCluster,,37102195.0,,,2025,1261,1,,,
 requirements,byGlobalCluster,,94186878.0,,,2025,1261,16,,,
-funding,byCluster,7991,,,,2025,1261,,,71342882.0,2120634.0
+funding,byCluster,7991,,,,2025,1261,,,71246395.0,2119562.0
 funding,byCluster,7992,,,,2025,1261,,,27697553.0,797602.0
-funding,byCluster,7994,,,,2025,1261,,,35695383.0,0.0
-funding,byCluster,7995,,,,2025,1261,,,16037088.0,183656.0
-funding,byCluster,7998,,,,2025,1261,,,81277192.0,1785603.0
+funding,byCluster,7994,,,,2025,1261,,,35996737.0,0.0
+funding,byCluster,7995,,,,2025,1261,,,16114517.0,183656.0
+funding,byCluster,7998,,,,2025,1261,,,81690426.0,1807953.0
 funding,byCluster,8000,,,,2025,1261,,,106347771.0,11002653.0
 funding,byCluster,7999,,,,2025,1261,,,87087724.0,95923.0
-funding,byCluster,8002,,,,2025,1261,,,53455974.0,55884748.0
+funding,byCluster,8002,,,,2025,1261,,,52760442.0,55189216.0
 funding,byCluster,7993,,,,2025,1261,,,19923764.0,71993.0
 funding,byCluster,7997,,,,2025,1261,,,86671623.0,1143257.0
 funding,byCluster,7996,,,,2025,1261,,,27054852.0,
 funding,byCluster,8001,,,,2025,1261,,,398507.0,
 funding,byCluster,Not specified,,,,2025,1261,,,40289709.0,
 funding,byCluster,Multiple field clusters (shared),,,,2025,1261,,,28962466.0,4956300.0
-funding,byGlobalCluster,,,,,2025,1261,10,,34623652.0,905179.0
-funding,byGlobalCluster,,,,,2025,1261,11,,35695383.0,0.0
+funding,byGlobalCluster,,,,,2025,1261,10,,35036886.0,927529.0
+funding,byGlobalCluster,,,,,2025,1261,11,,35996737.0,0.0
 funding,byGlobalCluster,,,,,2025,1261,13,,21042681.0,880424.0
-funding,byGlobalCluster,,,,,2025,1261,3,,16037088.0,183656.0
+funding,byGlobalCluster,,,,,2025,1261,3,,16114517.0,183656.0
 funding,byGlobalCluster,,,,,2025,1261,4,,27697553.0,797602.0
 funding,byGlobalCluster,,,,,2025,1261,6,,106347771.0,11002653.0
-funding,byGlobalCluster,,,,,2025,1261,16,,53912274.0,56341048.0
+funding,byGlobalCluster,,,,,2025,1261,16,,53216742.0,55645516.0
 funding,byGlobalCluster,,,,,2025,1261,26481,,699894.0,
 funding,byGlobalCluster,,,,,2025,1261,7,,87087724.0,95923.0
 funding,byGlobalCluster,,,,,2025,1261,9,,86671623.0,1143257.0
@@ -1271,7 +1271,7 @@ funding,byGlobalCluster,,,,,2025,1261,12,,23553746.0,
 funding,byGlobalCluster,,,,,2025,1261,14,,512500.0,
 funding,byGlobalCluster,,,,,2025,1261,15,,0.0,
 funding,byGlobalCluster,,,,,2025,1261,1,,398507.0,
-funding,byGlobalCluster,,,,,2025,1261,Multi-sector,,71342882.0,2120634.0
+funding,byGlobalCluster,,,,,2025,1261,Multi-sector,,71246395.0,2119562.0
 funding,byGlobalCluster,,,,,2025,1261,26480,,19923764.0,71993.0
 funding,byGlobalCluster,,,,,2025,1261,8,,27054852.0,
 funding,byGlobalCluster,,,,,2025,1261,Not specified,,39589815.0,
@@ -1334,7 +1334,7 @@ funding,byDonor,,,,,2025,1261,,5295,3280665.0,
 funding,byDonor,,,,,2025,1261,,5301,417244.0,
 funding,byDonor,,,,,2025,1261,,5315,194702.0,
 funding,byDonor,,,,,2025,1261,,5319,1135074.0,
-funding,byDonor,,,,,2025,1261,,8523,113279489.0,27064880.0
+funding,byDonor,,,,,2025,1261,,8523,113279487.0,26390626.0
 funding,byDonor,,,,,2025,1261,,8524,1596084.0,
 funding,byDonor,,,,,2025,1261,,8550,194049.0,
 funding,byDonor,,,,,2025,1261,,8773,5000000.0,
@@ -1349,6 +1349,7 @@ funding,byOrganization,,,,,2025,1261,,141,958594.0,
 funding,byOrganization,,,,,2025,1261,,1504,12874035.0,11689816.0
 funding,byOrganization,,,,,2025,1261,,16103,46000.0,
 funding,byOrganization,,,,,2025,1261,,16201,2329232.0,68070.0
+funding,byOrganization,,,,,2025,1261,,16400,15056122.0,11313832.0
 funding,byOrganization,,,,,2025,1261,,173,5496262.0,
 funding,byOrganization,,,,,2025,1261,,1850,2452165.0,
 funding,byOrganization,,,,,2025,1261,,1892,736402.0,
@@ -1387,7 +1388,7 @@ funding,byOrganization,,,,,2025,1261,,4528,14397376.0,
 funding,byOrganization,,,,,2025,1261,,4536,24926864.0,
 funding,byOrganization,,,,,2025,1261,,4763,9038280.0,
 funding,byOrganization,,,,,2025,1261,,4906,1671512.0,
-funding,byOrganization,,,,,2025,1261,,5298,6667650.0,4523252.0
+funding,byOrganization,,,,,2025,1261,,5298,6667649.0,4544530.0
 funding,byOrganization,,,,,2025,1261,,558,104167.0,
 funding,byOrganization,,,,,2025,1261,,589,3017771.0,
 funding,byOrganization,,,,,2025,1261,,6865,487513.0,
@@ -1404,7 +1405,6 @@ funding,byOrganization,,,,,2025,1261,,8539,1033172.0,
 funding,byOrganization,,,,,2025,1261,,8572,2038268.0,643206.0
 funding,byOrganization,,,,,2025,1261,,8580,1598837.0,
 funding,byOrganization,,,,,2025,1261,,8582,2081042.0,
-funding,byOrganization,,,,,2025,1261,,8613,15056123.0,12009364.0
 funding,byOrganization,,,,,2025,1261,,11198,950000.0,
 funding,byOrganization,,,,,2025,1261,,11203,650000.0,
 funding,byOrganization,,,,,2025,1261,,11204,888507.0,
@@ -3159,7 +3159,7 @@ requirements,byOrganization,8307,132000.0,,,2025,1219,7,15096,,
 requirements,byOrganization,8309,50000.0,,,2025,1219,2,15097,,
 funding,byCluster,7765,,,,2025,1219,,,1185288.0,
 funding,byCluster,8305,,,,2025,1219,,,4043960.0,1357.0
-funding,byCluster,8307,,,,2025,1219,,,5943770.0,1464.0
+funding,byCluster,8307,,,,2025,1219,,,5969762.0,14244.0
 funding,byCluster,8309,,,,2025,1219,,,15295770.0,2406.0
 funding,byCluster,8310,,,,2025,1219,,,5052877.0,4553109.0
 funding,byCluster,8312,,,,2025,1219,,,34247808.0,117379.0
@@ -3178,7 +3178,7 @@ funding,byGlobalCluster,,,,,2025,1219,16,,5052877.0,4553109.0
 funding,byGlobalCluster,,,,,2025,1219,26480,,1185288.0,
 funding,byGlobalCluster,,,,,2025,1219,2,,15295770.0,2406.0
 funding,byGlobalCluster,,,,,2025,1219,4,,3600237.0,
-funding,byGlobalCluster,,,,,2025,1219,7,,5943770.0,1464.0
+funding,byGlobalCluster,,,,,2025,1219,7,,5969762.0,14244.0
 funding,byGlobalCluster,,,,,2025,1219,3,,4043960.0,1357.0
 funding,byGlobalCluster,,,,,2025,1219,Multi-sector,,5366232.0,
 funding,byGlobalCluster,,,,,2025,1219,9,,107691.0,
@@ -3237,7 +3237,7 @@ funding,byDonor,,,,,2025,1219,,5310,320639.0,
 funding,byDonor,,,,,2025,1219,,5319,4352278.0,138161.0
 funding,byDonor,,,,,2025,1219,,68,17881.0,
 funding,byDonor,,,,,2025,1219,,8424,366530.0,
-funding,byDonor,,,,,2025,1219,,8523,26477471.0,803701.0
+funding,byDonor,,,,,2025,1219,,8523,26503463.0,816481.0
 funding,byDonor,,,,,2025,1219,,971,926384.0,
 funding,byOrganization,,,,,2025,1219,,12503,22652.0,
 funding,byOrganization,,,,,2025,1219,,12535,14630.0,
@@ -3260,7 +3260,7 @@ funding,byOrganization,,,,,2025,1219,,4293,2779718.0,
 funding,byOrganization,,,,,2025,1219,,4319,707058.0,
 funding,byOrganization,,,,,2025,1219,,4397,60329822.0,1768241.0
 funding,byOrganization,,,,,2025,1219,,4399,150000.0,
-funding,byOrganization,,,,,2025,1219,,4536,128565.0,
+funding,byOrganization,,,,,2025,1219,,4536,154557.0,12780.0
 funding,byOrganization,,,,,2025,1219,,4543,2225.0,
 funding,byOrganization,,,,,2025,1219,,4695,1530361.0,7858.0
 funding,byOrganization,,,,,2025,1219,,4763,709871.0,
@@ -5614,16 +5614,16 @@ requirements,byGlobalCluster,,0.0,,,2025,1263,16,,,
 funding,byCluster,7883,,,,2025,1263,,,5664532.0,
 funding,byCluster,7884,,,,2025,1263,,,76959497.0,356819.0
 funding,byCluster,7885,,,,2025,1263,,,208144491.0,32726533.0
-funding,byCluster,7910,,,,2025,1263,,,124763547.0,5382815.0
+funding,byCluster,7910,,,,2025,1263,,,124684595.0,5380250.0
 funding,byCluster,7911,,,,2025,1263,,,32104162.0,6532362.0
 funding,byCluster,7912,,,,2025,1263,,,48503465.0,571321.0
-funding,byCluster,7886,,,,2025,1263,,,141179286.0,1281956.0
-funding,byCluster,7909,,,,2025,1263,,,102835879.0,410432.0
+funding,byCluster,7886,,,,2025,1263,,,141060067.0,1281956.0
+funding,byCluster,7909,,,,2025,1263,,,102778207.0,410432.0
 funding,byCluster,7887,,,,2025,1263,,,6986713.0,1066961.0
-funding,byCluster,7913,,,,2025,1263,,,27856236.0,27424351.0
+funding,byCluster,7913,,,,2025,1263,,,27840533.0,27408648.0
 funding,byCluster,Not specified,,,,2025,1263,,,23087141.0,896968.0
 funding,byCluster,Multiple field clusters (shared),,,,2025,1263,,,222323464.0,3500869.0
-funding,byGlobalCluster,,,,,2025,1263,10,,78021763.0,4626273.0
+funding,byGlobalCluster,,,,,2025,1263,10,,77942811.0,4623708.0
 funding,byGlobalCluster,,,,,2025,1263,11,,48503465.0,571321.0
 funding,byGlobalCluster,,,,,2025,1263,12,,5041710.0,128960.0
 funding,byGlobalCluster,,,,,2025,1263,13,,27453827.0,400240.0
@@ -5631,12 +5631,12 @@ funding,byGlobalCluster,,,,,2025,1263,14,,944446.0,166000.0
 funding,byGlobalCluster,,,,,2025,1263,15,,12038384.0,61342.0
 funding,byGlobalCluster,,,,,2025,1263,4,,30904162.0,6532362.0
 funding,byGlobalCluster,,,,,2025,1263,26481,,489694.0,35904.0
-funding,byGlobalCluster,,,,,2025,1263,7,,141179286.0,1281956.0
+funding,byGlobalCluster,,,,,2025,1263,7,,141060067.0,1281956.0
 funding,byGlobalCluster,,,,,2025,1263,8,,6986713.0,1066961.0
 funding,byGlobalCluster,,,,,2025,1263,3,,76959497.0,356819.0
 funding,byGlobalCluster,,,,,2025,1263,6,,208144491.0,32726533.0
-funding,byGlobalCluster,,,,,2025,1263,9,,102835879.0,410432.0
-funding,byGlobalCluster,,,,,2025,1263,16,,27856236.0,27424351.0
+funding,byGlobalCluster,,,,,2025,1263,9,,102778207.0,410432.0
+funding,byGlobalCluster,,,,,2025,1263,16,,27840533.0,27408648.0
 funding,byGlobalCluster,,,,,2025,1263,1,,1200000.0,
 funding,byGlobalCluster,,,,,2025,1263,Multi-sector,,2372641.0,861064.0
 funding,byGlobalCluster,,,,,2025,1263,26480,,6528232.0,
@@ -5723,7 +5723,7 @@ funding,byDonor,,,,,2025,1263,,5319,791139.0,
 funding,byDonor,,,,,2025,1263,,5352,30733.0,
 funding,byDonor,,,,,2025,1263,,5369,4016132.0,
 funding,byDonor,,,,,2025,1263,,850,66263.0,
-funding,byDonor,,,,,2025,1263,,8523,174349771.0,14535028.0
+funding,byDonor,,,,,2025,1263,,8523,174078225.0,14516760.0
 funding,byDonor,,,,,2025,1263,,8524,1946000.0,
 funding,byDonor,,,,,2025,1263,,86,681942.0,
 funding,byDonor,,,,,2025,1263,,8773,5787198.0,
@@ -5764,7 +5764,7 @@ funding,byOrganization,,,,,2025,1263,,3001,2449788.0,4003.0
 funding,byOrganization,,,,,2025,1263,,3049,416109977.0,3961850.0
 funding,byOrganization,,,,,2025,1263,,3094,20809.0,
 funding,byOrganization,,,,,2025,1263,,3230,3407334.0,111780.0
-funding,byOrganization,,,,,2025,1263,,3244,7412544.0,208193.0
+funding,byOrganization,,,,,2025,1263,,3244,7140998.0,189925.0
 funding,byOrganization,,,,,2025,1263,,3569,3519563.0,265000.0
 funding,byOrganization,,,,,2025,1263,,3777,2924935.0,
 funding,byOrganization,,,,,2025,1263,,377,9176967.0,
@@ -6503,8 +6503,8 @@ requirements,byGlobalCluster,,301005070.0,,,2025,1220,11,,,
 requirements,byGlobalCluster,,201807198.0,,,2025,1220,16,,,
 funding,byCluster,7776,,,,2025,1220,,,520000.0,
 funding,byCluster,7782,,,,2025,1220,,,87463198.0,346310.0
-funding,byCluster,7783,,,,2025,1220,,,146696611.0,13490548.0
-funding,byCluster,7785,,,,2025,1220,,,54554730.0,1248750.0
+funding,byCluster,7783,,,,2025,1220,,,146736267.0,13490548.0
+funding,byCluster,7785,,,,2025,1220,,,55411503.0,1248750.0
 funding,byCluster,7784,,,,2025,1220,,,56345472.0,66392.0
 funding,byCluster,7777,,,,2025,1220,,,17374666.0,
 funding,byCluster,7778,,,,2025,1220,,,76417837.0,344920.0
@@ -6512,11 +6512,11 @@ funding,byCluster,7779,,,,2025,1220,,,763609487.0,13137321.0
 funding,byCluster,7787,,,,2025,1220,,,87495457.0,2758514.0
 funding,byCluster,7780,,,,2025,1220,,,152351299.0,516485.0
 funding,byCluster,7781,,,,2025,1220,,,4757798.0,
-funding,byCluster,8027,,,,2025,1220,,,70897495.0,65245855.0
+funding,byCluster,8027,,,,2025,1220,,,70001065.0,64349425.0
 funding,byCluster,Not specified,,,,2025,1220,,,53373859.0,300951.0
 funding,byCluster,7786,,,,2025,1220,,,0.0,
 funding,byCluster,Multiple field clusters (shared),,,,2025,1220,,,94670338.0,0.0
-funding,byGlobalCluster,,,,,2025,1220,10,,68340903.0,8055518.0
+funding,byGlobalCluster,,,,,2025,1220,10,,68380559.0,8055518.0
 funding,byGlobalCluster,,,,,2025,1220,11,,87495457.0,2758514.0
 funding,byGlobalCluster,,,,,2025,1220,12,,31441335.0,4738781.0
 funding,byGlobalCluster,,,,,2025,1220,13,,32041463.0,997200.0
@@ -6524,14 +6524,14 @@ funding,byGlobalCluster,,,,,2025,1220,15,,15173861.0,
 funding,byGlobalCluster,,,,,2025,1220,2,,4453072.0,
 funding,byGlobalCluster,,,,,2025,1220,3,,76417837.0,344920.0
 funding,byGlobalCluster,,,,,2025,1220,6,,763609487.0,13137321.0
-funding,byGlobalCluster,,,,,2025,1220,4,,54554730.0,1248750.0
+funding,byGlobalCluster,,,,,2025,1220,4,,55411503.0,1248750.0
 funding,byGlobalCluster,,,,,2025,1220,9,,87463198.0,346310.0
 funding,byGlobalCluster,,,,,2025,1220,7,,152351299.0,516485.0
 funding,byGlobalCluster,,,,,2025,1220,1,,520000.0,
 funding,byGlobalCluster,,,,,2025,1220,Multi-sector,,56345472.0,66392.0
 funding,byGlobalCluster,,,,,2025,1220,26481,,200000.0,
 funding,byGlobalCluster,,,,,2025,1220,8,,4757798.0,
-funding,byGlobalCluster,,,,,2025,1220,16,,70897495.0,65245855.0
+funding,byGlobalCluster,,,,,2025,1220,16,,70001065.0,64349425.0
 funding,byGlobalCluster,,,,,2025,1220,26480,,17374666.0,
 funding,byGlobalCluster,,,,,2025,1220,Not specified,,48419836.0,
 funding,byGlobalCluster,,,,,2025,1220,5,,0.0,
@@ -6635,7 +6635,7 @@ funding,byDonor,,,,,2025,1220,,5301,301771.0,
 funding,byDonor,,,,,2025,1220,,5315,963806.0,
 funding,byDonor,,,,,2025,1220,,5319,1801471.0,
 funding,byDonor,,,,,2025,1220,,5352,159355.0,
-funding,byDonor,,,,,2025,1220,,8523,197703385.0,31212129.0
+funding,byDonor,,,,,2025,1220,,8523,197703384.0,30315699.0
 funding,byDonor,,,,,2025,1220,,8524,1279757.0,286606.0
 funding,byDonor,,,,,2025,1220,,8550,1081503.0,
 funding,byDonor,,,,,2025,1220,,86,2707337.0,
@@ -6661,7 +6661,7 @@ funding,byOrganization,,,,,2025,1220,,15626,27397.0,
 funding,byOrganization,,,,,2025,1220,,15627,85098.0,
 funding,byOrganization,,,,,2025,1220,,15853,2348430.0,
 funding,byOrganization,,,,,2025,1220,,16302,84447.0,
-funding,byOrganization,,,,,2025,1220,,16400,25113266.0,22100300.0
+funding,byOrganization,,,,,2025,1220,,16400,25113265.0,21203870.0
 funding,byOrganization,,,,,2025,1220,,1850,1456108.0,
 funding,byOrganization,,,,,2025,1220,,1892,2979598.0,
 funding,byOrganization,,,,,2025,1220,,1937,2800183.0,
@@ -6907,7 +6907,7 @@ requirements,byGlobalCluster,,9042527.0,,,2025,1221,15,,,
 requirements,byGlobalCluster,,60649678.0,,,2025,1221,16,,,
 funding,byCluster,7788,,,,2025,1221,,,7048057.0,
 funding,byCluster,7796,,,,2025,1221,,,40870790.0,94044.0
-funding,byCluster,7789,,,,2025,1221,,,6925598.0,786.0
+funding,byCluster,7789,,,,2025,1221,,,6846407.0,786.0
 funding,byCluster,7792,,,,2025,1221,,,46851812.0,
 funding,byCluster,7793,,,,2025,1221,,,4701349.0,
 funding,byCluster,7795,,,,2025,1221,,,8147297.0,433639.0
@@ -6925,7 +6925,7 @@ funding,byGlobalCluster,,,,,2025,1221,13,,11047798.0,190000.0
 funding,byGlobalCluster,,,,,2025,1221,3,,41178375.0,385461.0
 funding,byGlobalCluster,,,,,2025,1221,4,,8147297.0,433639.0
 funding,byGlobalCluster,,,,,2025,1221,6,,86440092.0,12817599.0
-funding,byGlobalCluster,,,,,2025,1221,26480,,6925598.0,786.0
+funding,byGlobalCluster,,,,,2025,1221,26480,,6846407.0,786.0
 funding,byGlobalCluster,,,,,2025,1221,7,,46851812.0,
 funding,byGlobalCluster,,,,,2025,1221,8,,4701349.0,
 funding,byGlobalCluster,,,,,2025,1221,9,,41070432.0,321880.0
@@ -6982,7 +6982,7 @@ funding,byDonor,,,,,2025,1221,,5319,283768.0,
 funding,byDonor,,,,,2025,1221,,5369,674056.0,47184.0
 funding,byDonor,,,,,2025,1221,,6544,2262296.0,
 funding,byDonor,,,,,2025,1221,,850,401080.0,
-funding,byDonor,,,,,2025,1221,,8523,68404510.0,22541203.0
+funding,byDonor,,,,,2025,1221,,8523,68325319.0,22541203.0
 funding,byDonor,,,,,2025,1221,,8773,9000000.0,
 funding,byDonor,,,,,2025,1221,,8804,9318586.0,
 funding,byDonor,,,,,2025,1221,,971,898200.0,
@@ -7009,7 +7009,7 @@ funding,byOrganization,,,,,2025,1221,,2915,25245274.0,
 funding,byOrganization,,,,,2025,1221,,2986,34806329.0,1616235.0
 funding,byOrganization,,,,,2025,1221,,2994,5273638.0,
 funding,byOrganization,,,,,2025,1221,,3001,4674870.0,529419.0
-funding,byOrganization,,,,,2025,1221,,3049,69018039.0,22902362.0
+funding,byOrganization,,,,,2025,1221,,3049,68938848.0,22902362.0
 funding,byOrganization,,,,,2025,1221,,3341,295760.0,
 funding,byOrganization,,,,,2025,1221,,3369,1187248.0,75498.0
 funding,byOrganization,,,,,2025,1221,,4120,459582.0,
@@ -7300,7 +7300,7 @@ requirements,byOrganization,7951,194860.0,,,2025,1267,10,14705,,
 requirements,byOrganization,7951,514.0,,,2025,1267,10,14716,,
 funding,byCluster,7944,,,,2025,1267,,,1519277.0,
 funding,byCluster,7946,,,,2025,1267,,,3482221.0,202563.0
-funding,byCluster,7947,,,,2025,1267,,,35774447.0,622499.0
+funding,byCluster,7947,,,,2025,1267,,,35442163.0,622499.0
 funding,byCluster,7948,,,,2025,1267,,,7890892.0,7200.0
 funding,byCluster,7951,,,,2025,1267,,,14155296.0,236959.0
 funding,byCluster,7952,,,,2025,1267,,,6110168.0,
@@ -7321,7 +7321,7 @@ funding,byGlobalCluster,,,,,2025,1267,16,,2113344.0,2113344.0
 funding,byGlobalCluster,,,,,2025,1267,1,,1734278.0,
 funding,byGlobalCluster,,,,,2025,1267,2,,0.0,
 funding,byGlobalCluster,,,,,2025,1267,4,,6110168.0,
-funding,byGlobalCluster,,,,,2025,1267,6,,37585572.0,622499.0
+funding,byGlobalCluster,,,,,2025,1267,6,,37253288.0,622499.0
 funding,byGlobalCluster,,,,,2025,1267,13,,3614572.0,70000.0
 funding,byGlobalCluster,,,,,2025,1267,Multi-sector,,1709309.0,155173.0
 funding,byGlobalCluster,,,,,2025,1267,26480,,5441685.0,
@@ -7365,7 +7365,7 @@ funding,byDonor,,,,,2025,1267,,4762,14595242.0,581700.0
 funding,byDonor,,,,,2025,1267,,4820,2788982.0,
 funding,byDonor,,,,,2025,1267,,4834,142000.0,
 funding,byDonor,,,,,2025,1267,,5301,344984.0,
-funding,byDonor,,,,,2025,1267,,8523,13777597.0,2742438.0
+funding,byDonor,,,,,2025,1267,,8523,13445313.0,2742438.0
 funding,byDonor,,,,,2025,1267,,8,2294439.0,
 funding,byDonor,,,,,2025,1267,,971,215001.0,
 funding,byOrganization,,,,,2025,1267,,14348,882501.0,
@@ -7374,7 +7374,7 @@ funding,byOrganization,,,,,2025,1267,,2849,4953648.0,331556.0
 funding,byOrganization,,,,,2025,1267,,2915,7889958.0,
 funding,byOrganization,,,,,2025,1267,,2986,19894769.0,
 funding,byOrganization,,,,,2025,1267,,2991,238710.0,
-funding,byOrganization,,,,,2025,1267,,3049,32655457.0,
+funding,byOrganization,,,,,2025,1267,,3049,32323173.0,
 funding,byOrganization,,,,,2025,1267,,3230,2525707.0,1669057.0
 funding,byOrganization,,,,,2025,1267,,3238,3194048.0,74633.0
 funding,byOrganization,,,,,2025,1267,,3369,1479372.0,92326.0
@@ -8289,23 +8289,23 @@ requirements,byGlobalCluster,,145841418.0,,,2025,1276,16,,,
 requirements,byGlobalCluster,,316612069.0,,,2025,1276,4,,,
 requirements,byGlobalCluster,,21536620.0,,,2025,1276,26480,,,
 funding,byCluster,8008,,,,2025,1276,,,39812559.0,5848946.0
-funding,byCluster,8069,,,,2025,1276,,,128479632.0,5451038.0
+funding,byCluster,8069,,,,2025,1276,,,128421485.0,5455628.0
 funding,byCluster,8070,,,,2025,1276,,,155121153.0,2436929.0
 funding,byCluster,8071,,,,2025,1276,,,91975390.0,1644623.0
 funding,byCluster,8072,,,,2025,1276,,,278028300.0,5380930.0
-funding,byCluster,8073,,,,2025,1276,,,175739935.0,87959.0
-funding,byCluster,8077,,,,2025,1276,,,83253070.0,83933.0
-funding,byCluster,8078,,,,2025,1276,,,30668199.0,29977843.0
-funding,byCluster,8079,,,,2025,1276,,,47072611.0,1746721.0
+funding,byCluster,8073,,,,2025,1276,,,176030700.0,87959.0
+funding,byCluster,8077,,,,2025,1276,,,83093531.0,83933.0
+funding,byCluster,8078,,,,2025,1276,,,30631156.0,29940800.0
+funding,byCluster,8079,,,,2025,1276,,,47207718.0,1796041.0
 funding,byCluster,8080,,,,2025,1276,,,121962546.0,1353746.0
 funding,byCluster,8081,,,,2025,1276,,,18068443.0,
 funding,byCluster,8074,,,,2025,1276,,,12966786.0,885650.0
 funding,byCluster,8075,,,,2025,1276,,,82160.0,
 funding,byCluster,8076,,,,2025,1276,,,4126194.0,
-funding,byCluster,Not specified,,,,2025,1276,,,63877171.0,13290508.0
-funding,byCluster,Multiple field clusters (shared),,,,2025,1276,,,120326341.0,11588675.0
-funding,byGlobalCluster,,,,,2025,1276,10,,83069471.0,4866253.0
-funding,byGlobalCluster,,,,,2025,1276,11,,83168017.0,83933.0
+funding,byCluster,Not specified,,,,2025,1276,,,63594753.0,13290508.0
+funding,byCluster,Multiple field clusters (shared),,,,2025,1276,,,120437616.0,11588675.0
+funding,byGlobalCluster,,,,,2025,1276,10,,83011324.0,4870843.0
+funding,byGlobalCluster,,,,,2025,1276,11,,83008478.0,83933.0
 funding,byGlobalCluster,,,,,2025,1276,12,,13421438.0,584785.0
 funding,byGlobalCluster,,,,,2025,1276,13,,13064356.0,
 funding,byGlobalCluster,,,,,2025,1276,1,,39812559.0,5848946.0
@@ -8313,9 +8313,9 @@ funding,byGlobalCluster,,,,,2025,1276,Multi-sector,,10132903.0,184648.0
 funding,byGlobalCluster,,,,,2025,1276,26480,,18050920.0,
 funding,byGlobalCluster,,,,,2025,1276,2,,155121153.0,2436929.0
 funding,byGlobalCluster,,,,,2025,1276,3,,92007940.0,1644623.0
-funding,byGlobalCluster,,,,,2025,1276,4,,187911207.0,4045022.0
-funding,byGlobalCluster,,,,,2025,1276,16,,30668199.0,29977843.0
-funding,byGlobalCluster,,,,,2025,1276,7,,176239935.0,87959.0
+funding,byGlobalCluster,,,,,2025,1276,4,,188046314.0,4094342.0
+funding,byGlobalCluster,,,,,2025,1276,16,,30631156.0,29940800.0
+funding,byGlobalCluster,,,,,2025,1276,7,,176530700.0,87959.0
 funding,byGlobalCluster,,,,,2025,1276,6,,278028300.0,5380930.0
 funding,byGlobalCluster,,,,,2025,1276,9,,12966786.0,885650.0
 funding,byGlobalCluster,,,,,2025,1276,15,,14216835.0,
@@ -8323,8 +8323,8 @@ funding,byGlobalCluster,,,,,2025,1276,26512,,389050.0,0.0
 funding,byGlobalCluster,,,,,2025,1276,14,,2924472.0,
 funding,byGlobalCluster,,,,,2025,1276,5,,82160.0,
 funding,byGlobalCluster,,,,,2025,1276,8,,4126194.0,
-funding,byGlobalCluster,,,,,2025,1276,Not specified,,52840191.0,13105860.0
-funding,byGlobalCluster,,,,,2025,1276,Multiple global clusters (shared),,103318404.0,10644120.0
+funding,byGlobalCluster,,,,,2025,1276,Not specified,,52557773.0,13105860.0
+funding,byGlobalCluster,,,,,2025,1276,Multiple global clusters (shared),,103429679.0,10644120.0
 funding,byDonor,,,,,2025,1276,,10268,35094.0,
 funding,byDonor,,,,,2025,1276,,10405,991000.0,
 funding,byDonor,,,,,2025,1276,,11570,150000.0,
@@ -8419,7 +8419,7 @@ funding,byDonor,,,,,2025,1276,,5369,1500619.0,302297.0
 funding,byDonor,,,,,2025,1276,,7876,8000.0,
 funding,byDonor,,,,,2025,1276,,7967,300000.0,
 funding,byDonor,,,,,2025,1276,,8124,500000.0,97350.0
-funding,byDonor,,,,,2025,1276,,8523,172975281.0,21516406.0
+funding,byDonor,,,,,2025,1276,,8523,172975281.0,21533273.0
 funding,byDonor,,,,,2025,1276,,8550,607533.0,
 funding,byDonor,,,,,2025,1276,,8667,200000.0,200000.0
 funding,byDonor,,,,,2025,1276,,86,3015047.0,
@@ -8434,7 +8434,7 @@ funding,byOrganization,,,,,2025,1276,,10961,18637855.0,
 funding,byOrganization,,,,,2025,1276,,11012,1009493.0,
 funding,byOrganization,,,,,2025,1276,,11153,3983260.0,
 funding,byOrganization,,,,,2025,1276,,12011,2312138.0,
-funding,byOrganization,,,,,2025,1276,,12081,5924688.0,276.0
+funding,byOrganization,,,,,2025,1276,,12081,2267560.0,276.0
 funding,byOrganization,,,,,2025,1276,,12360,6391524.0,
 funding,byOrganization,,,,,2025,1276,,12720,3125000.0,
 funding,byOrganization,,,,,2025,1276,,13209,607533.0,
@@ -8456,7 +8456,7 @@ funding,byOrganization,,,,,2025,1276,,15570,560773.0,
 funding,byOrganization,,,,,2025,1276,,15728,700934.0,
 funding,byOrganization,,,,,2025,1276,,15837,920663.0,
 funding,byOrganization,,,,,2025,1276,,15937,1240876.0,
-funding,byOrganization,,,,,2025,1276,,16202,1799165.0,1540.0
+funding,byOrganization,,,,,2025,1276,,16202,5456293.0,1540.0
 funding,byOrganization,,,,,2025,1276,,16303,5734.0,
 funding,byOrganization,,,,,2025,1276,,1850,1960838.0,
 funding,byOrganization,,,,,2025,1276,,1892,3658672.0,
@@ -8490,7 +8490,7 @@ funding,byOrganization,,,,,2025,1276,,3097,1923922.0,864574.0
 funding,byOrganization,,,,,2025,1276,,3098,86705.0,
 funding,byOrganization,,,,,2025,1276,,3099,668114.0,
 funding,byOrganization,,,,,2025,1276,,3107,2178650.0,
-funding,byOrganization,,,,,2025,1276,,3230,12126472.0,342311.0
+funding,byOrganization,,,,,2025,1276,,3230,12126472.0,359178.0
 funding,byOrganization,,,,,2025,1276,,3238,-534816.0,
 funding,byOrganization,,,,,2025,1276,,3431,12782504.0,989990.0
 funding,byOrganization,,,,,2025,1276,,3442,3594278.0,
@@ -9058,7 +9058,7 @@ funding,byCluster,8015,,,,2025,1277,,,35959639.0,45000.0
 funding,byCluster,8016,,,,2025,1277,,,4652307.0,
 funding,byCluster,8011,,,,2025,1277,,,10481926.0,
 funding,byCluster,8012,,,,2025,1277,,,4060745.0,5390.0
-funding,byCluster,Not specified,,,,2025,1277,,,9211014.0,
+funding,byCluster,Not specified,,,,2025,1277,,,9113686.0,
 funding,byCluster,Multiple field clusters (shared),,,,2025,1277,,,8561494.0,0.0
 funding,byGlobalCluster,,,,,2025,1277,10,,13806666.0,1943.0
 funding,byGlobalCluster,,,,,2025,1277,11,,7474399.0,
@@ -9071,7 +9071,7 @@ funding,byGlobalCluster,,,,,2025,1277,7,,17822884.0,115160.0
 funding,byGlobalCluster,,,,,2025,1277,3,,10481926.0,
 funding,byGlobalCluster,,,,,2025,1277,9,,4060745.0,5390.0
 funding,byGlobalCluster,,,,,2025,1277,Multi-sector,,116801.0,
-funding,byGlobalCluster,,,,,2025,1277,Not specified,,9094213.0,
+funding,byGlobalCluster,,,,,2025,1277,Not specified,,8996885.0,
 funding,byGlobalCluster,,,,,2025,1277,Multiple global clusters (shared),,8561494.0,0.0
 funding,byDonor,,,,,2025,1277,,10243,188134.0,
 funding,byDonor,,,,,2025,1277,,11532,107140.0,
@@ -9095,12 +9095,12 @@ funding,byDonor,,,,,2025,1277,,4834,207000.0,
 funding,byDonor,,,,,2025,1277,,5294,66500.0,
 funding,byDonor,,,,,2025,1277,,5301,158451.0,
 funding,byDonor,,,,,2025,1277,,5319,7731205.0,
-funding,byDonor,,,,,2025,1277,,8523,43913310.0,122493.0
+funding,byDonor,,,,,2025,1277,,8523,43815982.0,122493.0
 funding,byOrganization,,,,,2025,1277,,10184,42311.0,
 funding,byOrganization,,,,,2025,1277,,10246,19918.0,
 funding,byOrganization,,,,,2025,1277,,11166,700169.0,
 funding,byOrganization,,,,,2025,1277,,11532,322476.0,
-funding,byOrganization,,,,,2025,1277,,13555,242785.0,
+funding,byOrganization,,,,,2025,1277,,13555,145457.0,
 funding,byOrganization,,,,,2025,1277,,14694,872936.0,
 funding,byOrganization,,,,,2025,1277,,173,548780.0,
 funding,byOrganization,,,,,2025,1277,,2178,7723927.0,
@@ -10586,7 +10586,7 @@ requirements,byOrganization,8052,164135.0,,,2025,1280,11,4536,,
 requirements,byOrganization,8052,277983.0,,,2025,1280,11,4695,,
 requirements,byOrganization,8052,453293.0,,,2025,1280,11,5373,,
 requirements,byOrganization,8052,174113.0,,,2025,1280,11,9864,,
-funding,byCluster,8036,,,,2025,1280,,,11717124.0,3357395.0
+funding,byCluster,8036,,,,2025,1280,,,11384840.0,3357395.0
 funding,byCluster,8048,,,,2025,1280,,,1370663.0,
 funding,byCluster,8049,,,,2025,1280,,,1224531.0,
 funding,byCluster,8050,,,,2025,1280,,,166667.0,2013.0
@@ -10603,7 +10603,7 @@ funding,byGlobalCluster,,,,,2025,1280,13,,128889.0,2013.0
 funding,byGlobalCluster,,,,,2025,1280,Multi-sector,,2060150.0,1744633.0
 funding,byGlobalCluster,,,,,2025,1280,26480,,275028.0,
 funding,byGlobalCluster,,,,,2025,1280,3,,1527047.0,21081.0
-funding,byGlobalCluster,,,,,2025,1280,6,,13413837.0,3357395.0
+funding,byGlobalCluster,,,,,2025,1280,6,,13081553.0,3357395.0
 funding,byGlobalCluster,,,,,2025,1280,7,,1370663.0,
 funding,byGlobalCluster,,,,,2025,1280,9,,1224531.0,
 funding,byGlobalCluster,,,,,2025,1280,Not specified,,1161946.0,
@@ -10616,13 +10616,13 @@ funding,byDonor,,,,,2025,1280,,3996,2261080.0,
 funding,byDonor,,,,,2025,1280,,4306,1929549.0,
 funding,byDonor,,,,,2025,1280,,4537,4530400.0,
 funding,byDonor,,,,,2025,1280,,5260,325546.0,
-funding,byDonor,,,,,2025,1280,,8523,9655255.0,5125122.0
+funding,byDonor,,,,,2025,1280,,8523,9322971.0,5125122.0
 funding,byOrganization,,,,,2025,1280,,12489,3216577.0,1685862.0
 funding,byOrganization,,,,,2025,1280,,15180,723207.0,
 funding,byOrganization,,,,,2025,1280,,2849,827754.0,21081.0
 funding,byOrganization,,,,,2025,1280,,2915,1664911.0,
 funding,byOrganization,,,,,2025,1280,,2986,275028.0,
-funding,byOrganization,,,,,2025,1280,,3049,6757905.0,
+funding,byOrganization,,,,,2025,1280,,3049,6425621.0,
 funding,byOrganization,,,,,2025,1280,,3431,414351.0,
 funding,byOrganization,,,,,2025,1280,,4319,287425.0,
 funding,byOrganization,,,,,2025,1280,,4397,232836.0,
@@ -11942,7 +11942,7 @@ requirements,byOrganization,8047,1263158.0,,,2025,1281,2,5294,,
 requirements,byOrganization,8040,21053.0,,,2025,1281,12,13068,,
 requirements,byOrganization,8038,4211.0,,,2025,1281,6,14356,,
 funding,byCluster,8037,,,,2025,1281,,,315269.0,110344.0
-funding,byCluster,8038,,,,2025,1281,,,13332789.0,
+funding,byCluster,8038,,,,2025,1281,,,13282947.0,
 funding,byCluster,8039,,,,2025,1281,,,28184.0,
 funding,byCluster,8040,,,,2025,1281,,,14090.0,
 funding,byCluster,8041,,,,2025,1281,,,139875.0,
@@ -11961,7 +11961,7 @@ funding,byGlobalCluster,,,,,2025,1281,Multi-sector,,575157.0,126231.0
 funding,byGlobalCluster,,,,,2025,1281,26512,,315269.0,110344.0
 funding,byGlobalCluster,,,,,2025,1281,2,,328587.0,328587.0
 funding,byGlobalCluster,,,,,2025,1281,3,,139875.0,
-funding,byGlobalCluster,,,,,2025,1281,6,,13332789.0,
+funding,byGlobalCluster,,,,,2025,1281,6,,13282947.0,
 funding,byGlobalCluster,,,,,2025,1281,7,,410772.0,
 funding,byGlobalCluster,,,,,2025,1281,9,,4595487.0,
 funding,byGlobalCluster,,,,,2025,1281,Not specified,,945493.0,
@@ -11981,11 +11981,11 @@ funding,byDonor,,,,,2025,1281,,2966,315269.0,110344.0
 funding,byDonor,,,,,2025,1281,,4306,436329.0,
 funding,byDonor,,,,,2025,1281,,4537,800000.0,
 funding,byDonor,,,,,2025,1281,,4845,500553.0,
-funding,byDonor,,,,,2025,1281,,8523,3630465.0,3046426.0
+funding,byDonor,,,,,2025,1281,,8523,3580623.0,3046426.0
 funding,byOrganization,,,,,2025,1281,,10480,93623.0,
 funding,byOrganization,,,,,2025,1281,,2849,98196.0,
 funding,byOrganization,,,,,2025,1281,,2915,865073.0,
-funding,byOrganization,,,,,2025,1281,,3049,16581455.0,
+funding,byOrganization,,,,,2025,1281,,3049,16531613.0,
 funding,byOrganization,,,,,2025,1281,,4397,385288.0,
 funding,byOrganization,,,,,2025,1281,,4398,230445.0,
 funding,byOrganization,,,,,2025,1281,,4399,815269.0,110344.0
@@ -12255,7 +12255,7 @@ funding,byCluster,8062,,,,2025,1274,,,61935259.0,366913.0
 funding,byCluster,8060,,,,2025,1274,,,77594858.0,2799236.0
 funding,byCluster,8066,,,,2025,1274,,,8391680.0,
 funding,byCluster,8067,,,,2025,1274,,,6020456.0,
-funding,byCluster,8068,,,,2025,1274,,,3421777.0,3421777.0
+funding,byCluster,8068,,,,2025,1274,,,3360773.0,3360773.0
 funding,byCluster,8184,,,,2025,1274,,,3483294.0,115146.0
 funding,byCluster,Not specified,,,,2025,1274,,,9770555.0,
 funding,byCluster,8006,,,,2025,1274,,,360500.0,
@@ -12273,7 +12273,7 @@ funding,byGlobalCluster,,,,,2025,1274,12,,3253751.0,1553048.0
 funding,byGlobalCluster,,,,,2025,1274,14,,100191.0,5733.0
 funding,byGlobalCluster,,,,,2025,1274,15,,922092.0,
 funding,byGlobalCluster,,,,,2025,1274,2,,14183314.0,
-funding,byGlobalCluster,,,,,2025,1274,16,,3421777.0,3421777.0
+funding,byGlobalCluster,,,,,2025,1274,16,,3360773.0,3360773.0
 funding,byGlobalCluster,,,,,2025,1274,Multi-sector,,3483294.0,115146.0
 funding,byGlobalCluster,,,,,2025,1274,26480,,6220285.0,
 funding,byGlobalCluster,,,,,2025,1274,26512,,1764073.0,
@@ -12323,7 +12323,7 @@ funding,byDonor,,,,,2025,1274,,5294,836464.0,
 funding,byDonor,,,,,2025,1274,,5295,1158749.0,
 funding,byDonor,,,,,2025,1274,,5319,350467.0,
 funding,byDonor,,,,,2025,1274,,7173,1365394.0,
-funding,byDonor,,,,,2025,1274,,8523,39454141.0,2496652.0
+funding,byDonor,,,,,2025,1274,,8523,39393137.0,2435648.0
 funding,byDonor,,,,,2025,1274,,8524,11750881.0,
 funding,byDonor,,,,,2025,1274,,971,707108.0,
 funding,byOrganization,,,,,2025,1274,,10111,60000.0,
@@ -12343,7 +12343,7 @@ funding,byOrganization,,,,,2025,1274,,2986,4760766.0,1061275.0
 funding,byOrganization,,,,,2025,1274,,3001,5502760.0,56.0
 funding,byOrganization,,,,,2025,1274,,3049,90563823.0,1750000.0
 funding,byOrganization,,,,,2025,1274,,3162,1651651.0,463634.0
-funding,byOrganization,,,,,2025,1274,,3230,3695719.0,93485.0
+funding,byOrganization,,,,,2025,1274,,3230,3634715.0,32481.0
 funding,byOrganization,,,,,2025,1274,,3238,1415803.0,
 funding,byOrganization,,,,,2025,1274,,3369,464830.0,
 funding,byOrganization,,,,,2025,1274,,3777,3689143.0,
@@ -12537,7 +12537,7 @@ requirements,byGlobalCluster,,1160000.0,,,2025,1325,3,,,
 requirements,byGlobalCluster,,80000.0,,,2025,1325,9,,,
 funding,byCluster,8173,,,,2025,1325,,,545791.0,
 funding,byCluster,8174,,,,2025,1325,,,1500000.0,
-funding,byCluster,8175,,,,2025,1325,,,4088363.0,1459667.0
+funding,byCluster,8175,,,,2025,1325,,,4043433.0,1459667.0
 funding,byCluster,8177,,,,2025,1325,,,3271034.0,989031.0
 funding,byCluster,8178,,,,2025,1325,,,2316191.0,109336.0
 funding,byCluster,8179,,,,2025,1325,,,3032400.0,4962.0
@@ -12556,7 +12556,7 @@ funding,byGlobalCluster,,,,,2025,1325,1,,545791.0,
 funding,byGlobalCluster,,,,,2025,1325,26480,,100000.0,
 funding,byGlobalCluster,,,,,2025,1325,26481,,119006.0,
 funding,byGlobalCluster,,,,,2025,1325,3,,1146174.0,730.0
-funding,byGlobalCluster,,,,,2025,1325,4,,4088363.0,1459667.0
+funding,byGlobalCluster,,,,,2025,1325,4,,4043433.0,1459667.0
 funding,byGlobalCluster,,,,,2025,1325,6,,3271034.0,989031.0
 funding,byGlobalCluster,,,,,2025,1325,7,,2316191.0,109336.0
 funding,byGlobalCluster,,,,,2025,1325,8,,1500000.0,
@@ -12581,7 +12581,7 @@ funding,byDonor,,,,,2025,1325,,4543,407188.0,
 funding,byDonor,,,,,2025,1325,,4762,5948201.0,4015306.0
 funding,byDonor,,,,,2025,1325,,4917,117509.0,
 funding,byDonor,,,,,2025,1325,,6547,300000.0,
-funding,byDonor,,,,,2025,1325,,8523,5585362.0,793944.0
+funding,byDonor,,,,,2025,1325,,8523,5540432.0,793944.0
 funding,byOrganization,,,,,2025,1325,,11987,750902.0,242550.0
 funding,byOrganization,,,,,2025,1325,,15526,318003.0,
 funding,byOrganization,,,,,2025,1325,,15527,138411.0,
@@ -12590,7 +12590,7 @@ funding,byOrganization,,,,,2025,1325,,2304,533468.0,349760.0
 funding,byOrganization,,,,,2025,1325,,2849,757309.0,
 funding,byOrganization,,,,,2025,1325,,2886,417770.0,
 funding,byOrganization,,,,,2025,1325,,2915,608587.0,378706.0
-funding,byOrganization,,,,,2025,1325,,2986,5231442.0,2548457.0
+funding,byOrganization,,,,,2025,1325,,2986,5186512.0,2548457.0
 funding,byOrganization,,,,,2025,1325,,3049,4128201.0,2146013.0
 funding,byOrganization,,,,,2025,1325,,3238,441209.0,
 funding,byOrganization,,,,,2025,1325,,4293,1615566.0,213042.0

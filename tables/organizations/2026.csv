@@ -386,6 +386,7 @@ id,name,abbreviation,url,orgType,orgSubtype,year,plan_id
 5124,Palestine Tomorrow Association,PT,,NGOs,National NGOs/CSOs,2026,1510
 4361,Palestinian Al Nakheel Association for Progress and Development,Al Nakheel,,NGOs,Local NGOs/CSOs,2026,1510
 5117,Palestinian Environmental Friends,PEF,www.pefrafah.org.ps,NGOs,National NGOs/CSOs,2026,1510
+5761,Palestinian Housing Council,PHC,http://www.phc-pal.org/english.php,NGOs,Local NGOs/CSOs,2026,1510
 8036,Palestinian Organization for Development,POD,https://www.facebook.com/pod2000/,NGOs,National NGOs/CSOs,2026,1510
 2573,Peace Winds,PWJ,https://peace-winds.org/en/,NGOs,International NGOs,2026,1510
 4511,People in Peril Association,People in Peril,https://clovekvohrozeni.sk/,NGOs,Internationally Affiliated Organizations,2026,1510
@@ -1236,7 +1237,9 @@ id,name,abbreviation,url,orgType,orgSubtype,year,plan_id
 4398,World Health Organization,WHO,https://www.who.int/,Multilateral Organizations,UN Agencies,2026,1524
 1850,World Vision International,WVI,https://www.wvi.org/,NGOs,International NGOs,2026,1524
 12216,Young Power in Social Action,YPSA,www.ypsa.org,NGOs,National NGOs/CSOs,2026,1524
+5401,ACT Alliance,ACT,http://www.actalliance.org,NGOs,International NGOs,2026,1502
 3892,ACT Alliance / Community World Service Asia,ACT/CWS-A,https://communityworldservice.asia/,NGOs,Internationally Affiliated Organizations,2026,1502
+8477,ACT Alliance / Diakonie Emergency Aid,ACT/Diakonie Emergency Aid,http://www.diakonie-katastrophenhilfe.de/english/1_ENG_HTML.php,NGOs,International NGOs,2026,1502
 8539,ACT Alliance / Norwegian Church Aid,ACT/NCA,http://www.kirkensnodhjelp.no/en/,NGOs,International NGOs,2026,1502
 4536,Action Contre la Faim - Action Against Hunger International,ACF - AAH International,https://www.actioncontrelafaim.org/en/international-network,NGOs,International NGOs,2026,1502
 12661,ActionAid Afghanistan,ActionAid Afghanistan,https://afghanistan.actionaid.org/,NGOs,Internationally Affiliated Organizations,2026,1502
@@ -1273,6 +1276,7 @@ id,name,abbreviation,url,orgType,orgSubtype,year,plan_id
 5298,Danish Refugee Council,DRC,https://drc.ngo/,NGOs,International NGOs,2026,1502
 3776,"Denmark, Government of",Denmark,,Governments,National Governments,2026,1502
 4389,Deutsche Welthungerhilfe e.V. (German Agro Action),DWHH,https://www.welthungerhilfe.org/,NGOs,International NGOs,2026,1502
+2628,Development and Humanitarian Services for Afghanistan,DHSA,,NGOs,National NGOs/CSOs,2026,1502
 2681,Die Uno-Flüchtlingshilfe Stiftung,Die UNO-Flüchtlingshilfe,https://www.uno-fluechtlingshilfe.de/ueber-uns/stiftung,Private Organizations,International Private Organizations,2026,1502
 377,EMERGENCY - Life Support for Civilian War Victims ONG Onlus,Emergency,http://www.emergency.it/index.html,NGOs,International NGOs,2026,1502
 3014,Espana con ACNUR,Espana con ACNUR,https://eacnur.org/es/que-es-acnur/historia-de-acnur,Private Organizations,Local/National Private Organizations,2026,1502
@@ -1292,6 +1296,7 @@ id,name,abbreviation,url,orgType,orgSubtype,year,plan_id
 13769,Health Disability and Development Organization,HDDO,https://www.facebook.com/profile.php?id=100078348795047,NGOs,Local NGOs/CSOs,2026,1502
 5351,HealthNet TPO,HealthNet TPO,http://www.healthnettpo.org/,NGOs,International NGOs,2026,1502
 4534,Help - Hilfe zur Selbsthilfe e.V.,HELP e.V.,http://www.help-ev.de/,NGOs,International NGOs,2026,1502
+3790,HelpAge International,HelpAge International,https://www.helpage.org/,NGOs,International NGOs,2026,1502
 15223,Human Rights Research and Advocacy Consortium,HARRAC,https://www.hrrac.af/en,NGOs,National NGOs/CSOs,2026,1502
 4845,"Iceland, Government of",Iceland,,Governments,National Governments,2026,1502
 2986,International Organization for Migration,IOM,https://www.iom.int/,Multilateral Organizations,UN Agencies,2026,1502
@@ -1328,6 +1333,7 @@ id,name,abbreviation,url,orgType,orgSubtype,year,plan_id
 12659,Organization for Coordination of Humanitarian Relief,OCHR,http://ochr.org.af/,NGOs,National NGOs/CSOs,2026,1502
 4036,Organization for Human Welfare,OHW,http://www.ohw.org.af/,NGOs,National NGOs/CSOs,2026,1502
 14341,Organization for People's Health in Action,OPHA,https://opha.org.af/,NGOs,National NGOs/CSOs,2026,1502
+1041,Organization for Research and Community Development,ORCD,www.orcd.org.af,NGOs,National NGOs/CSOs,2026,1502
 2635,PACTEC International,PACTEC,https://pactec.org/,Private Organizations,International Private Organizations,2026,1502
 141,People in Need,PIN,https://www.clovekvtisni.cz/en,NGOs,International NGOs,2026,1502
 14260,Portugal com ACNUR,Portugal com ACNUR,https://www.unhcr.org/about-unhcr/our-partners/additional-partnerships/national-partners,Private Organizations,Local/National Private Organizations,2026,1502
@@ -2363,6 +2369,7 @@ id,name,abbreviation,url,orgType,orgSubtype,year,plan_id
 8524,European Commission Directorate-General for International Partnerships (formerly EuropeAid DEVCO),DG INTPA,,Multilateral Organizations,Other Multilateral Organizations,2026,1507
 8523,European Commission's Humanitarian Aid and Civil Protection Department,DG ECHO,https://ec.europa.eu/echo/index_en,Multilateral Organizations,Other Multilateral Organizations,2026,1507
 10169,Fondazione “Opera San Francesco Saverio” CUAMM,Opera San Francesco Saverio,https://www.mediciconlafrica.org/blog/chi-siamo/fondazione/,NGOs,International NGOs,2026,1507
+4399,Food and Agriculture Organization of the United Nations,FAO,https://www.fao.org/,Multilateral Organizations,UN Agencies,2026,1507
 13861,Forces des Nations pour des Œuvres Humanitaires et Développement Durable,FNOHD,https://www.facebook.com/fnohd.ong/,NGOs,Local NGOs/CSOs,2026,1507
 4314,"France, Government of",France,,Governments,National Governments,2026,1507
 4306,"Germany, Government of",Germany,,Governments,National Governments,2026,1507
@@ -2640,7 +2647,6 @@ id,name,abbreviation,url,orgType,orgSubtype,year,plan_id
 10951,Humanitarian Relief Society,HRS,https://hrs.org.kw,Private Organizations,International Private Organizations,2026,1518
 8493,Humanity & Inclusion Canada,HI Canada,http://www.handicap-international.ca/,NGOs,International NGOs,2026,1518
 4845,"Iceland, Government of",Iceland,,Governments,National Governments,2026,1518
-12081,iMC Worldwide,iMC Worldwide,https://www.imcworldwide.com/about-us/,NGOs,International NGOs,2026,1518
 9060,Independent Doctors Association,IDA,http://ida-org.com/,NGOs,National NGOs/CSOs,2026,1518
 9203,Insan Charity for Relief and Development,ICO,http://insancharity.org/,NGOs,Local NGOs/CSOs,2026,1518
 13196,International Atomic Energy Agency,IAEA,https://www.iaea.org/about/overview/statute,Multilateral Organizations,UN Agencies,2026,1518

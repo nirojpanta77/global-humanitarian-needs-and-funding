@@ -688,7 +688,6 @@ id,name,abbreviation,url,orgType,orgSubtype,year,plan_id
 2586,Médicos do Mundo,MDM,https://www.medicosdomundo.pt/,NGOs,International NGOs,2025,1261
 4906,Mennonite Central Committee,MCC,https://mcc.org/,NGOs,International NGOs,2025,1261
 4305,Mercy Corps,Mercy Corps,,NGOs,International NGOs,2025,1261
-8613,Mercy Corps Europe,Mercy Corps,https://europe.mercycorps.org/,NGOs,International NGOs,2025,1261
 12621,Minderoo Foundation,MF Australia,https://www.minderoo.org/about/#overview,Private Organizations,International Private Organizations,2025,1261
 14834,"Mouvement International des Droits de l’Enfant, de la Femme, de l’Homme veuf et de leur Promotion Sociale",MIDEFEHOPS ASBL,https://www.midefehops.org/,NGOs,National NGOs/CSOs,2025,1261
 15425,Mutuelle de Santé CANAAN,MUSACA,http://www.mutuellemusaca.com/,NGOs,National NGOs/CSOs,2025,1261
@@ -707,6 +706,7 @@ id,name,abbreviation,url,orgType,orgSubtype,year,plan_id
 8242,Première Urgence Internationale,PUI,https://www.premiere-urgence.org/,NGOs,International NGOs,2025,1261
 4543,Private (individuals & organizations),Private (individuals & organizations),,Private Organizations,International Private Organizations,2025,1261
 2257,Programme de Promotion des Soins de santé primaires,PPSSP,"No website Av. des Eglises, Quartier Malepe Beni, Nord-Kivu; +243 998 298 265",NGOs,National NGOs/CSOs,2025,1261
+16400,Prosper Global,Previously Mercy Corps,https://www.prosperglobal.org/,NGOs,International NGOs,2025,1261
 13052,Qatar Fund for Development,QFFD,https://qatarfund.org.qa/,Governments,National Governments,2025,1261
 8438,Rebuild Hope for Africa,RHA,http://rha-drc.org/,NGOs,National NGOs/CSOs,2025,1261
 11547,Réseau des associations congolaises des jeunes du Nord-Kivu,RACOJ NK,https://www.facebook.com/RacojNordKivu/,Private Organizations,Local/National Private Organizations,2025,1261

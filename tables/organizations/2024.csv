@@ -3619,7 +3619,6 @@ id,name,abbreviation,url,orgType,orgSubtype,year,plan_id
 589,Médecins du Monde Belgium,MdM Belgium,https://medecinsdumonde.be/,NGOs,International NGOs,2024,1187
 2904,Médecins Sans Frontières,MSF,https://www.msf.ch/,NGOs,International NGOs,2024,1187
 4305,Mercy Corps,Mercy Corps,,NGOs,International NGOs,2024,1187
-8613,Mercy Corps Europe,Mercy Corps,https://europe.mercycorps.org/,NGOs,International NGOs,2024,1187
 8896,Mission de l'Organisation des Nations Unies pour la Stabilisation en RD Congo,MONUSCO,https://monusco.unmissions.org/en,Multilateral Organizations,UN Agencies,2024,1187
 14834,"Mouvement International des Droits de l’Enfant, de la Femme, de l’Homme veuf et de leur Promotion Sociale",MIDEFEHOPS ASBL,https://www.midefehops.org/,NGOs,National NGOs/CSOs,2024,1187
 12099,Multi-donor flexible humanitarian contribution (UNICEF Global Humanitarian Thematic),UNICEF Global Humanitarian Thematic,,Pooled Funds,Other Pooled Funds,2024,1187
@@ -3638,6 +3637,7 @@ id,name,abbreviation,url,orgType,orgSubtype,year,plan_id
 4543,Private (individuals & organizations),Private (individuals & organizations),,Private Organizations,International Private Organizations,2024,1187
 2257,Programme de Promotion des Soins de santé primaires,PPSSP,"No website Av. des Eglises, Quartier Malepe Beni, Nord-Kivu; +243 998 298 265",NGOs,National NGOs/CSOs,2024,1187
 14840,Projet de Développement Agricole et d’Élevage à Walu-Ituri,PRODAEWI,,NGOs,National NGOs/CSOs,2024,1187
+16400,Prosper Global,Previously Mercy Corps,https://www.prosperglobal.org/,NGOs,International NGOs,2024,1187
 8438,Rebuild Hope for Africa,RHA,http://rha-drc.org/,NGOs,National NGOs/CSOs,2024,1187
 11547,Réseau des associations congolaises des jeunes du Nord-Kivu,RACOJ NK,https://www.facebook.com/RacojNordKivu/,Private Organizations,Local/National Private Organizations,2024,1187
 53,Samaritan's Purse,Samaritan's Purse,,NGOs,International NGOs,2024,1187
@@ -5405,6 +5405,7 @@ id,name,abbreviation,url,orgType,orgSubtype,year,plan_id
 7231,International Association for Relief and Development - ONSUR,ONSUR,http://www.onsursyria.org/,NGOs,National NGOs/CSOs,2024,1175
 1579,International Humanitarian Relief,IHR,https://ihrelief.org,NGOs,International NGOs,2024,1175
 2994,International Labour Organization,ILO,https://www.ilo.org/,Multilateral Organizations,UN Agencies,2024,1175
+16202,International Medical Corps Croatia,IMC Croatia,https://internationalmedicalcorps.hr/,NGOs,Internationally Affiliated Organizations,2024,1175
 8605,International Medical Corps UK,IMC UK,http://www.imcworldwide.org.uk/,NGOs,Internationally Affiliated Organizations,2024,1175
 6865,International NGO Safety Organisation,INSO,https://www.ngosafety.org/,NGOs,International NGOs,2024,1175
 4319,International NGOs (Confidential),NGOs,,NGOs,International NGOs,2024,1175
