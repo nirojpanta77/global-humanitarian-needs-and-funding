@@ -1,6 +1,6 @@
 kind,totalRequirements,totalCVARequirements,totalNonCVARequirements,year,plan_id,totalFundingInsidePlan,totalFundingOutsidePlan,totalCashTransferFundingInsidePlan,totalCashTransferFundingOutsidePlan,totalCashTransferFunding(internal),totalPledges
 requirements,359298328.0,63708836.85999999,,2025,1266,,,,,,
-funding,,,,2025,1266,93416033.0,27045700.0,4247893.0,119.0,0.0,0.0
+funding,,,,2025,1266,93616133.0,27045700.0,4247893.0,119.0,0.0,0.0
 requirements,35036655.0,,,2025,1465,,,,,,
 funding,,,,2025,1465,9717475.0,5620644.0,2164809.0,1825358.0,0.0,0.0
 requirements,12373568.0,,,2025,1602,,,,,,
@@ -42,7 +42,7 @@ funding,,,,2025,1268,19112018.0,2515689.0,59512.0,215219.0,0.0,0.0
 requirements,781325185.0,,,2025,1213,,,,,,
 funding,,,,2025,1213,228128397.0,,1624202.0,,0.0,0.0
 requirements,2416811546.0,690189194.0,,2025,1263,,,,,,
-funding,,,,2025,1263,1020136867.0,137407272.0,65108789.0,9236450.0,0.0,0.0
+funding,,,,2025,1263,1002461524.0,137407272.0,64559774.0,9236450.0,0.0,0.0
 requirements,2478772922.0,382397225.26,,2025,1262,,,,,,
 funding,,,,2025,1262,703060825.0,920878600.0,37748535.0,1973628.0,0.0,639902.0
 requirements,2633534010.0,1002342587.0,,2025,1271,,,,,,
